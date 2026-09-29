@@ -1,0 +1,1244 @@
+{
+  "video": 3,
+  "course": "Sigma Web Development",
+  "source_file": "3_Basic Structure of an HTML Website _ Sigma Web Development Course - Tutorial #3 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " What happened? You guys are back in Sigma Web Development course. I am really happy that you guys have given so much love to this course. You guys like this high energy. Because for Sigma Free course, this is the likes of Sigma Chats. In today's video, I will explain to you guys basic structure. I will explain to you guys in a website. In that website, you guys will learn a mobile trick. You will learn that you can preview your phone from this website. You guys can request me in the comments section. You guys can tell me whether you know HTML or not. That will help me structure this course better. In this video, I will explain to you guys 4GBT's impact. Because 4GBT's impact is very fast. In the coming videos, I will also give you guys quizzes. So learn this video carefully and understand all the concepts. Let's go to the computer screen. Let's roll the internet. So guys, I am in the computer screen. Now we will talk about how to use the object text, the object text, structure, etc. So here, I will make a new folder in my folder. I will open the video and click on the top right of the video. And you guys can see that my theme is blue color. And many people said that blue is not good. Look, the theme is their choice. If you want to change the color theme, then you can change the color theme. I will use the dark color of the grid up. And I will use dark color. For a new file, I will add index.html. We already talked about this. If I write the title of the page here, I will write content here and then I will use the link tag. I can write the style.css here. That's why I am already talking about this in the previous video. And if I write the script.js here, and then I will write the alert from the alert. So I will not tell you the exact same thing. If I put a script tag here and then I will just press the button. Then I will put the script in the description. And then click here and then open with browser. This will come and if I write the background red, I will not tell you all this. Because I have already told you all. I will tell you now that what is the structure of this structure? Why did you write so much? This is a doubt. We can write the title and the content directly. If you need to write so many things, I will tell you how many things you need to write. I will reload it. See, the content here is here and it is red. You will see that you need to reload the page. If you have questions about why you need to reload, when you already reload the page. See, I changed the CSS file. When I change CSS file, I need to reload at the time. If you are using HTML file, you are changing it. You will not need to reload the HTML file changes. Now I will come back and I will explain. This is a basic structure, which is an HTML website. First, we write the doc type HTML. Then write HTML tag. See, this HTML tag is opening tag or closing tag. This is the opening tag or closing tag. This is the opening tag or closing tag. This is the content of the content of the HTML. What is the content of the HTML? The content of the title is the content of the title. What is the content of the meta? The meta is a self closing tag. There are two types of tags in HTML. One is self closing tag. And the other is the pair tag. What is the pair tag? The opening tag is the closing tag. This is the basic structure HTML website. Now you will see that background red is red. Who is telling you that background red is red? This is the reason for the CSS file. If I remove the CSS file from here and say it quickly, I will say it quickly. What will I say? Remove it quickly. And as I will say it quickly, I will have to remove it from here. I will reload the page. You can see here that it is removed. In this way, I can also say JavaScript. Remove it quickly. You can see that I have also become an alert. Okay. So, if you see, I will also reload it. So, this HTML content in the CSS file, I had added JavaScript. This is additionally CSS and JavaScript functionalities. We used this HTML file to link it with HTML. Now, I already told you about the title tag. This is used to set the page title. Now, it is not necessary to give you the title here. The search engines that you use, they use it as well. The search engines are Google. If you will write here, Code with Harry HTML. Code with Harry HTML introduction, HTML working, all the titles I have added in the page. You can see here, HTML introduction is the title of the page. So, these titles are used in the search engines. And parsed. Now, I will change the page. So, HTML working is the title here. Now, I will change the page. You can see, HTML installation is the title. So, titles that are changed, they will change like that. This will change. You can see it. Okay. So, HTML pages' title means it is not only used here, it is also used in the SEO. And, let's tell you what is the content in the page. These people describe the page content. So, I am knowing what is the HTML execution. What is the HTML execution? What is the HTML execution? I am going to tell you about the page. So, the title of the page is very good. It is a good SEO practice. So, we will make a website from any framework. We will change the title of the page. Now, here, the head section, the title of the page's metadata is in the head section. It is a title. And, you want to google the conscripts. It is done. Along with that, we will talk about the meta tags. The meta tags are basically, HTML document is how it is. It is explained about it. Keywords are added in the description. The meta description is a very important keyword for SEO. You can write this page about it. If you go to my website, you will get a view of the page source. It is called the meta description tag. It is a compressed HTML. You can say it in a confusing way. But, you can see here that the meta description tag is used. Which describes the page. If we talk about Google, the meta description is shown here. I want to show you the docs. The meta tags, the title, the script, the link tags. You can also put the link tags in the body. What differences do you have? I will talk about the codes. But, you can see here that I used the link and added it again. Then, the body is the main content of the website. You can see the page on this page. The one you can see on this page is the body. You can also see the page. You can also put the script in the way. You can also add the script in the head and the script. What will happen if I will talk about the codes. For example, this is a basic structure on the HTML website. The link is equal to an end-expective attribute. The link is equal to an end-expective attribute. The key value pairs used by this tag is used by the meta tag. The name-expective description is used. It is used as a name-expective attribute. I provided you with a link to my tab and start making your form and modify it. So, it is very important to copy paste. As a senior developer, you should know where to copy paste and when to copy and not to sing. It is not called as sarcastic. This thing is always the same. You can type it or copy paste. Obviously, you will prefer copy paste. Because this is going to change. The form will be formed. And if you copy paste, your time will be saved. Then innovation, you have to take your brain where you can't copy paste. So, you should know as a sigma rule that you will copy paste. That thing that you have to copy paste. And where you have to apply copy paste, you can save time there. The most important part of being a senior software developer is to where to copy paste from. Which stack of a question to copy paste from. And how to paste it from where copyright code is added. You can copy paste from where copyright code is added. But, I have told you that the statement is very important. Now, I will tell you about a technique that you will develop from this website. You will see in this mobile. Now, you have to listen carefully to the steps. You have to write, open terminal and open IP config. If you open the command prompt or power shell in the old version. You will enter like the IP config. You will see IPv4 address. You will get 19216.819. Now, I will copy the IP address here. So, I will copy IPv4 addresses. And I will write in my settings, live preview. The local IP host address to host your files on this. I will write this on its place. And after doing this, I will restart my VS code. You will have to ensure that you go to your Wi-Fi settings. You can network your network. You can network your network with your Wi-Fi connected. You can network your network with your Wi-Fi connected. Now, you will see that you will get your IP address. I can use this IP address here. So, I have added 19216.819. You can get a total of 3000. You can also put your port here. And you can see that the website has been previewed. This trick is very useful when we want to preview our mobile. Because today, we will see more websites in the phone. So, we will try to use our phone as a good user. And we will be able to get the website. And we will be able to do the development in the computer. So, that testing will be done. Now, if you have not put the review in the first video, I will request you to review your course in the first video. I have told you in the last video that you should review it. You should review it. You should have put the initial review. You should have written the initial review. People will know what is the initial review of this course. You should give 5 to start with. You should access the playlist description. You should click here and bookmark it. You will get a bookmark. And you will get a show in the bookmark. I have booked the sigma web development course. Click here and you should also save it. I want to save all the players. So, please like and subscribe to the playlist. Also, please like and subscribe to the channel. I will see you in the next video. Thank you so much for watching this video. And I will see you next time. Bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.72,
+      "text": "What happened? You guys are back in Sigma Web Development course."
+    },
+    {
+      "start": 3.72,
+      "end": 7.28,
+      "text": "I am really happy that you guys have given so much love to this course."
+    },
+    {
+      "start": 7.28,
+      "end": 9.36,
+      "text": "You guys like this high energy."
+    },
+    {
+      "start": 9.36,
+      "end": 13.12,
+      "text": "Because for Sigma Free course, this is the likes of Sigma Chats."
+    },
+    {
+      "start": 13.12,
+      "end": 15.6,
+      "text": "In today's video, I will explain to you guys basic structure."
+    },
+    {
+      "start": 15.6,
+      "end": 17.6,
+      "text": "I will explain to you guys in a website."
+    },
+    {
+      "start": 17.6,
+      "end": 20.88,
+      "text": "In that website, you guys will learn a mobile trick."
+    },
+    {
+      "start": 20.88,
+      "end": 25.76,
+      "text": "You will learn that you can preview your phone from this website."
+    },
+    {
+      "start": 25.76,
+      "end": 28.64,
+      "text": "You guys can request me in the comments section."
+    },
+    {
+      "start": 28.64,
+      "end": 30.56,
+      "text": "You guys can tell me whether you know HTML or not."
+    },
+    {
+      "start": 30.56,
+      "end": 32.64,
+      "text": "That will help me structure this course better."
+    },
+    {
+      "start": 32.64,
+      "end": 35.48,
+      "text": "In this video, I will explain to you guys 4GBT's impact."
+    },
+    {
+      "start": 35.48,
+      "end": 38.44,
+      "text": "Because 4GBT's impact is very fast."
+    },
+    {
+      "start": 38.44,
+      "end": 41.08,
+      "text": "In the coming videos, I will also give you guys quizzes."
+    },
+    {
+      "start": 41.08,
+      "end": 44.32,
+      "text": "So learn this video carefully and understand all the concepts."
+    },
+    {
+      "start": 44.32,
+      "end": 45.84,
+      "text": "Let's go to the computer screen."
+    },
+    {
+      "start": 45.84,
+      "end": 47.36,
+      "text": "Let's roll the internet."
+    },
+    {
+      "start": 55.84,
+      "end": 57.84,
+      "text": "So guys, I am in the computer screen."
+    },
+    {
+      "start": 57.84,
+      "end": 61.44,
+      "text": "Now we will talk about how to use the object text,"
+    },
+    {
+      "start": 61.44,
+      "end": 64.64,
+      "text": "the object text, structure, etc."
+    },
+    {
+      "start": 64.64,
+      "end": 69.12,
+      "text": "So here, I will make a new folder in my folder."
+    },
+    {
+      "start": 69.12,
+      "end": 73.76,
+      "text": "I will open the video and click on the top right of the video."
+    },
+    {
+      "start": 73.76,
+      "end": 77.6,
+      "text": "And you guys can see that my theme is blue color."
+    },
+    {
+      "start": 77.6,
+      "end": 79.76,
+      "text": "And many people said that blue is not good."
+    },
+    {
+      "start": 79.76,
+      "end": 82.16,
+      "text": "Look, the theme is their choice."
+    },
+    {
+      "start": 82.16,
+      "end": 84.16,
+      "text": "If you want to change the color theme,"
+    },
+    {
+      "start": 84.16,
+      "end": 86.56,
+      "text": "then you can change the color theme."
+    },
+    {
+      "start": 86.56,
+      "end": 88.56,
+      "text": "I will use the dark color of the grid up."
+    },
+    {
+      "start": 88.56,
+      "end": 90.56,
+      "text": "And I will use dark color."
+    },
+    {
+      "start": 90.56,
+      "end": 93.92,
+      "text": "For a new file, I will add index.html."
+    },
+    {
+      "start": 93.92,
+      "end": 95.6,
+      "text": "We already talked about this."
+    },
+    {
+      "start": 95.6,
+      "end": 98.16,
+      "text": "If I write the title of the page here,"
+    },
+    {
+      "start": 98.16,
+      "end": 102.4,
+      "text": "I will write content here and then I will use the link tag."
+    },
+    {
+      "start": 102.4,
+      "end": 106.4,
+      "text": "I can write the style.css here."
+    },
+    {
+      "start": 106.4,
+      "end": 109.6,
+      "text": "That's why I am already talking about this in the previous video."
+    },
+    {
+      "start": 109.6,
+      "end": 112.8,
+      "text": "And if I write the script.js here,"
+    },
+    {
+      "start": 112.88,
+      "end": 115.2,
+      "text": "and then I will write the alert from the alert."
+    },
+    {
+      "start": 115.2,
+      "end": 117.2,
+      "text": "So I will not tell you the exact same thing."
+    },
+    {
+      "start": 117.2,
+      "end": 121.68,
+      "text": "If I put a script tag here and then I will just press the button."
+    },
+    {
+      "start": 121.68,
+      "end": 125.44,
+      "text": "Then I will put the script in the description."
+    },
+    {
+      "start": 125.44,
+      "end": 128.64,
+      "text": "And then click here and then open with browser."
+    },
+    {
+      "start": 128.64,
+      "end": 132.64,
+      "text": "This will come and if I write the background red,"
+    },
+    {
+      "start": 132.64,
+      "end": 134.24,
+      "text": "I will not tell you all this."
+    },
+    {
+      "start": 134.24,
+      "end": 136.64,
+      "text": "Because I have already told you all."
+    },
+    {
+      "start": 136.64,
+      "end": 140.64,
+      "text": "I will tell you now that what is the structure of this structure?"
+    },
+    {
+      "start": 140.64,
+      "end": 141.84,
+      "text": "Why did you write so much?"
+    },
+    {
+      "start": 141.92,
+      "end": 143.44,
+      "text": "This is a doubt."
+    },
+    {
+      "start": 143.44,
+      "end": 146.24,
+      "text": "We can write the title and the content directly."
+    },
+    {
+      "start": 146.24,
+      "end": 148.24,
+      "text": "If you need to write so many things,"
+    },
+    {
+      "start": 148.24,
+      "end": 150.64,
+      "text": "I will tell you how many things you need to write."
+    },
+    {
+      "start": 150.64,
+      "end": 151.68,
+      "text": "I will reload it."
+    },
+    {
+      "start": 151.68,
+      "end": 155.44,
+      "text": "See, the content here is here and it is red."
+    },
+    {
+      "start": 155.44,
+      "end": 158.08,
+      "text": "You will see that you need to reload the page."
+    },
+    {
+      "start": 158.08,
+      "end": 160.88,
+      "text": "If you have questions about why you need to reload,"
+    },
+    {
+      "start": 160.88,
+      "end": 163.12,
+      "text": "when you already reload the page."
+    },
+    {
+      "start": 163.12,
+      "end": 164.72,
+      "text": "See, I changed the CSS file."
+    },
+    {
+      "start": 164.72,
+      "end": 166.4,
+      "text": "When I change CSS file,"
+    },
+    {
+      "start": 166.4,
+      "end": 168.32,
+      "text": "I need to reload at the time."
+    },
+    {
+      "start": 168.32,
+      "end": 170.64,
+      "text": "If you are using HTML file, you are changing it."
+    },
+    {
+      "start": 170.72,
+      "end": 174.4,
+      "text": "You will not need to reload the HTML file changes."
+    },
+    {
+      "start": 174.4,
+      "end": 178.8,
+      "text": "Now I will come back and I will explain."
+    },
+    {
+      "start": 178.8,
+      "end": 181.76,
+      "text": "This is a basic structure, which is an HTML website."
+    },
+    {
+      "start": 181.76,
+      "end": 184.08,
+      "text": "First, we write the doc type HTML."
+    },
+    {
+      "start": 184.08,
+      "end": 185.68,
+      "text": "Then write HTML tag."
+    },
+    {
+      "start": 185.68,
+      "end": 188.48,
+      "text": "See, this HTML tag is opening tag or closing tag."
+    },
+    {
+      "start": 188.48,
+      "end": 190.88,
+      "text": "This is the opening tag or closing tag."
+    },
+    {
+      "start": 190.88,
+      "end": 193.28,
+      "text": "This is the opening tag or closing tag."
+    },
+    {
+      "start": 193.28,
+      "end": 195.92,
+      "text": "This is the content of the content of the HTML."
+    },
+    {
+      "start": 195.92,
+      "end": 199.28,
+      "text": "What is the content of the HTML?"
+    },
+    {
+      "start": 199.28,
+      "end": 202.8,
+      "text": "The content of the title is the content of the title."
+    },
+    {
+      "start": 202.8,
+      "end": 204.8,
+      "text": "What is the content of the meta?"
+    },
+    {
+      "start": 204.8,
+      "end": 207.12,
+      "text": "The meta is a self closing tag."
+    },
+    {
+      "start": 207.12,
+      "end": 208.64,
+      "text": "There are two types of tags in HTML."
+    },
+    {
+      "start": 208.64,
+      "end": 209.68,
+      "text": "One is self closing tag."
+    },
+    {
+      "start": 209.68,
+      "end": 211.04,
+      "text": "And the other is the pair tag."
+    },
+    {
+      "start": 211.04,
+      "end": 212.24,
+      "text": "What is the pair tag?"
+    },
+    {
+      "start": 212.24,
+      "end": 214.8,
+      "text": "The opening tag is the closing tag."
+    },
+    {
+      "start": 214.8,
+      "end": 216.88,
+      "text": "This is the basic structure HTML website."
+    },
+    {
+      "start": 216.88,
+      "end": 219.12,
+      "text": "Now you will see that background red is red."
+    },
+    {
+      "start": 219.12,
+      "end": 220.88,
+      "text": "Who is telling you that background red is red?"
+    },
+    {
+      "start": 220.88,
+      "end": 222.24,
+      "text": "This is the reason for the CSS file."
+    },
+    {
+      "start": 222.24,
+      "end": 225.28,
+      "text": "If I remove the CSS file from here and say it quickly,"
+    },
+    {
+      "start": 225.28,
+      "end": 226.16,
+      "text": "I will say it quickly."
+    },
+    {
+      "start": 226.16,
+      "end": 227.68,
+      "text": "What will I say?"
+    },
+    {
+      "start": 227.84,
+      "end": 229.28,
+      "text": "Remove it quickly."
+    },
+    {
+      "start": 229.28,
+      "end": 232.56,
+      "text": "And as I will say it quickly, I will have to remove it from here."
+    },
+    {
+      "start": 232.56,
+      "end": 233.68,
+      "text": "I will reload the page."
+    },
+    {
+      "start": 233.68,
+      "end": 235.44,
+      "text": "You can see here that it is removed."
+    },
+    {
+      "start": 235.44,
+      "end": 237.76,
+      "text": "In this way, I can also say JavaScript."
+    },
+    {
+      "start": 237.76,
+      "end": 239.28,
+      "text": "Remove it quickly."
+    },
+    {
+      "start": 239.28,
+      "end": 241.28,
+      "text": "You can see that I have also become an alert."
+    },
+    {
+      "start": 241.28,
+      "end": 242.08,
+      "text": "Okay."
+    },
+    {
+      "start": 242.08,
+      "end": 243.76,
+      "text": "So, if you see, I will also reload it."
+    },
+    {
+      "start": 243.76,
+      "end": 247.68,
+      "text": "So, this HTML content in the CSS file,"
+    },
+    {
+      "start": 247.68,
+      "end": 249.2,
+      "text": "I had added JavaScript."
+    },
+    {
+      "start": 249.2,
+      "end": 252.8,
+      "text": "This is additionally CSS and JavaScript functionalities."
+    },
+    {
+      "start": 252.8,
+      "end": 255.52,
+      "text": "We used this HTML file to link it with HTML."
+    },
+    {
+      "start": 255.52,
+      "end": 257.52,
+      "text": "Now, I already told you about the title tag."
+    },
+    {
+      "start": 257.52,
+      "end": 259.92,
+      "text": "This is used to set the page title."
+    },
+    {
+      "start": 259.92,
+      "end": 263.12,
+      "text": "Now, it is not necessary to give you the title here."
+    },
+    {
+      "start": 263.12,
+      "end": 265.12,
+      "text": "The search engines that you use,"
+    },
+    {
+      "start": 265.12,
+      "end": 266.32,
+      "text": "they use it as well."
+    },
+    {
+      "start": 266.32,
+      "end": 268.32,
+      "text": "The search engines are Google."
+    },
+    {
+      "start": 268.32,
+      "end": 269.28,
+      "text": "If you will write here,"
+    },
+    {
+      "start": 269.28,
+      "end": 271.68,
+      "text": "Code with Harry HTML."
+    },
+    {
+      "start": 271.68,
+      "end": 273.92,
+      "text": "Code with Harry HTML introduction,"
+    },
+    {
+      "start": 273.92,
+      "end": 275.12,
+      "text": "HTML working,"
+    },
+    {
+      "start": 275.12,
+      "end": 276.72,
+      "text": "all the titles I have added in the page."
+    },
+    {
+      "start": 276.72,
+      "end": 277.76,
+      "text": "You can see here,"
+    },
+    {
+      "start": 277.76,
+      "end": 279.92,
+      "text": "HTML introduction is the title of the page."
+    },
+    {
+      "start": 279.92,
+      "end": 283.12,
+      "text": "So, these titles are used in the search engines."
+    },
+    {
+      "start": 283.12,
+      "end": 284.72,
+      "text": "And parsed."
+    },
+    {
+      "start": 284.72,
+      "end": 286.72,
+      "text": "Now, I will change the page."
+    },
+    {
+      "start": 286.72,
+      "end": 289.12,
+      "text": "So, HTML working is the title here."
+    },
+    {
+      "start": 289.12,
+      "end": 290.72,
+      "text": "Now, I will change the page."
+    },
+    {
+      "start": 290.72,
+      "end": 292.72,
+      "text": "You can see, HTML installation is the title."
+    },
+    {
+      "start": 292.72,
+      "end": 294.72,
+      "text": "So, titles that are changed,"
+    },
+    {
+      "start": 294.72,
+      "end": 296.72,
+      "text": "they will change like that."
+    },
+    {
+      "start": 296.72,
+      "end": 298.72,
+      "text": "This will change."
+    },
+    {
+      "start": 298.72,
+      "end": 299.92,
+      "text": "You can see it."
+    },
+    {
+      "start": 299.92,
+      "end": 300.72,
+      "text": "Okay."
+    },
+    {
+      "start": 300.72,
+      "end": 303.72,
+      "text": "So, HTML pages' title means"
+    },
+    {
+      "start": 303.72,
+      "end": 305.72,
+      "text": "it is not only used here,"
+    },
+    {
+      "start": 305.72,
+      "end": 307.52,
+      "text": "it is also used in the SEO."
+    },
+    {
+      "start": 307.52,
+      "end": 310.72,
+      "text": "And, let's tell you what is the content in the page."
+    },
+    {
+      "start": 310.72,
+      "end": 312.72,
+      "text": "These people describe the page content."
+    },
+    {
+      "start": 312.72,
+      "end": 315.12,
+      "text": "So, I am knowing what is the HTML execution."
+    },
+    {
+      "start": 315.12,
+      "end": 316.32,
+      "text": "What is the HTML execution?"
+    },
+    {
+      "start": 316.32,
+      "end": 317.52,
+      "text": "What is the HTML execution?"
+    },
+    {
+      "start": 317.52,
+      "end": 319.12,
+      "text": "I am going to tell you about the page."
+    },
+    {
+      "start": 319.12,
+      "end": 320.72,
+      "text": "So, the title of the page is very good."
+    },
+    {
+      "start": 320.72,
+      "end": 321.92,
+      "text": "It is a good SEO practice."
+    },
+    {
+      "start": 321.92,
+      "end": 323.92,
+      "text": "So, we will make a website from any framework."
+    },
+    {
+      "start": 323.92,
+      "end": 325.52,
+      "text": "We will change the title of the page."
+    },
+    {
+      "start": 325.52,
+      "end": 326.72,
+      "text": "Now, here, the head section,"
+    },
+    {
+      "start": 326.72,
+      "end": 329.12,
+      "text": "the title of the page's metadata is in the head section."
+    },
+    {
+      "start": 329.12,
+      "end": 330.32,
+      "text": "It is a title."
+    },
+    {
+      "start": 330.32,
+      "end": 333.52,
+      "text": "And, you want to google the conscripts."
+    },
+    {
+      "start": 333.52,
+      "end": 334.32,
+      "text": "It is done."
+    },
+    {
+      "start": 334.32,
+      "end": 335.12,
+      "text": "Along with that,"
+    },
+    {
+      "start": 335.12,
+      "end": 338.32,
+      "text": "we will talk about the meta tags."
+    },
+    {
+      "start": 338.32,
+      "end": 340.32,
+      "text": "The meta tags are basically,"
+    },
+    {
+      "start": 340.32,
+      "end": 342.32,
+      "text": "HTML document is how it is."
+    },
+    {
+      "start": 342.32,
+      "end": 343.52,
+      "text": "It is explained about it."
+    },
+    {
+      "start": 343.52,
+      "end": 345.52,
+      "text": "Keywords are added in the description."
+    },
+    {
+      "start": 345.52,
+      "end": 349.52,
+      "text": "The meta description is a very important keyword for SEO."
+    },
+    {
+      "start": 349.52,
+      "end": 351.92,
+      "text": "You can write this page about it."
+    },
+    {
+      "start": 351.92,
+      "end": 353.52,
+      "text": "If you go to my website,"
+    },
+    {
+      "start": 353.52,
+      "end": 355.52,
+      "text": "you will get a view of the page source."
+    },
+    {
+      "start": 355.52,
+      "end": 358.32,
+      "text": "It is called the meta description tag."
+    },
+    {
+      "start": 358.32,
+      "end": 359.52,
+      "text": "It is a compressed HTML."
+    },
+    {
+      "start": 359.52,
+      "end": 360.72,
+      "text": "You can say it in a confusing way."
+    },
+    {
+      "start": 360.72,
+      "end": 363.12,
+      "text": "But, you can see here that the meta description tag is used."
+    },
+    {
+      "start": 363.12,
+      "end": 364.32,
+      "text": "Which describes the page."
+    },
+    {
+      "start": 364.32,
+      "end": 365.52,
+      "text": "If we talk about Google,"
+    },
+    {
+      "start": 365.52,
+      "end": 367.52,
+      "text": "the meta description is shown here."
+    },
+    {
+      "start": 367.52,
+      "end": 369.92,
+      "text": "I want to show you the docs."
+    },
+    {
+      "start": 369.92,
+      "end": 377.92,
+      "text": "The meta tags, the title, the script, the link tags."
+    },
+    {
+      "start": 377.92,
+      "end": 381.92,
+      "text": "You can also put the link tags in the body."
+    },
+    {
+      "start": 381.92,
+      "end": 383.92,
+      "text": "What differences do you have?"
+    },
+    {
+      "start": 383.92,
+      "end": 385.92,
+      "text": "I will talk about the codes."
+    },
+    {
+      "start": 385.92,
+      "end": 387.92,
+      "text": "But, you can see here that I used the link and added it again."
+    },
+    {
+      "start": 387.92,
+      "end": 391.92,
+      "text": "Then, the body is the main content of the website."
+    },
+    {
+      "start": 391.92,
+      "end": 393.92,
+      "text": "You can see the page on this page."
+    },
+    {
+      "start": 393.92,
+      "end": 397.92,
+      "text": "The one you can see on this page is the body."
+    },
+    {
+      "start": 397.92,
+      "end": 399.92,
+      "text": "You can also see the page."
+    },
+    {
+      "start": 399.92,
+      "end": 401.92,
+      "text": "You can also put the script in the way."
+    },
+    {
+      "start": 401.92,
+      "end": 405.92,
+      "text": "You can also add the script in the head and the script."
+    },
+    {
+      "start": 405.92,
+      "end": 407.92,
+      "text": "What will happen if I will talk about the codes."
+    },
+    {
+      "start": 407.92,
+      "end": 411.92,
+      "text": "For example, this is a basic structure on the HTML website."
+    },
+    {
+      "start": 411.92,
+      "end": 413.92,
+      "text": "The link is equal to an end-expective attribute."
+    },
+    {
+      "start": 413.92,
+      "end": 417.92,
+      "text": "The link is equal to an end-expective attribute."
+    },
+    {
+      "start": 417.92,
+      "end": 421.92,
+      "text": "The key value pairs used by this tag is used by the meta tag."
+    },
+    {
+      "start": 421.92,
+      "end": 423.92,
+      "text": "The name-expective description is used."
+    },
+    {
+      "start": 423.92,
+      "end": 425.92,
+      "text": "It is used as a name-expective attribute."
+    },
+    {
+      "start": 425.92,
+      "end": 448.68,
+      "text": "I provided you with a link to my"
+    },
+    {
+      "start": 448.68,
+      "end": 450.06,
+      "text": "tab"
+    },
+    {
+      "start": 450.06,
+      "end": 453.06,
+      "text": "and start making your form and modify it."
+    },
+    {
+      "start": 453.06,
+      "end": 456.06,
+      "text": "So, it is very important to copy paste."
+    },
+    {
+      "start": 456.06,
+      "end": 461.06,
+      "text": "As a senior developer, you should know where to copy paste and when to copy and not to sing."
+    },
+    {
+      "start": 461.06,
+      "end": 463.06,
+      "text": "It is not called as sarcastic."
+    },
+    {
+      "start": 463.06,
+      "end": 465.06,
+      "text": "This thing is always the same."
+    },
+    {
+      "start": 465.06,
+      "end": 467.06,
+      "text": "You can type it or copy paste."
+    },
+    {
+      "start": 467.06,
+      "end": 469.06,
+      "text": "Obviously, you will prefer copy paste."
+    },
+    {
+      "start": 469.06,
+      "end": 471.06,
+      "text": "Because this is going to change."
+    },
+    {
+      "start": 471.06,
+      "end": 472.06,
+      "text": "The form will be formed."
+    },
+    {
+      "start": 472.06,
+      "end": 475.06,
+      "text": "And if you copy paste, your time will be saved."
+    },
+    {
+      "start": 475.06,
+      "end": 478.06,
+      "text": "Then innovation, you have to take your brain where you can't copy paste."
+    },
+    {
+      "start": 478.06,
+      "end": 482.06,
+      "text": "So, you should know as a sigma rule that you will copy paste."
+    },
+    {
+      "start": 482.06,
+      "end": 485.06,
+      "text": "That thing that you have to copy paste."
+    },
+    {
+      "start": 485.06,
+      "end": 489.06,
+      "text": "And where you have to apply copy paste, you can save time there."
+    },
+    {
+      "start": 491.06,
+      "end": 496.06,
+      "text": "The most important part of being a senior software developer is to where to copy paste from."
+    },
+    {
+      "start": 496.06,
+      "end": 499.06,
+      "text": "Which stack of a question to copy paste from."
+    },
+    {
+      "start": 499.06,
+      "end": 502.06,
+      "text": "And how to paste it from where copyright code is added."
+    },
+    {
+      "start": 502.06,
+      "end": 505.06,
+      "text": "You can copy paste from where copyright code is added."
+    },
+    {
+      "start": 505.06,
+      "end": 508.06,
+      "text": "But, I have told you that the statement is very important."
+    },
+    {
+      "start": 508.06,
+      "end": 513.06,
+      "text": "Now, I will tell you about a technique that you will develop from this website."
+    },
+    {
+      "start": 513.06,
+      "end": 516.06,
+      "text": "You will see in this mobile."
+    },
+    {
+      "start": 516.06,
+      "end": 518.06,
+      "text": "Now, you have to listen carefully to the steps."
+    },
+    {
+      "start": 518.06,
+      "end": 521.06,
+      "text": "You have to write, open terminal and open IP config."
+    },
+    {
+      "start": 521.06,
+      "end": 524.06,
+      "text": "If you open the command prompt or power shell in the old version."
+    },
+    {
+      "start": 524.06,
+      "end": 526.06,
+      "text": "You will enter like the IP config."
+    },
+    {
+      "start": 526.06,
+      "end": 528.06,
+      "text": "You will see IPv4 address."
+    },
+    {
+      "start": 528.06,
+      "end": 531.06,
+      "text": "You will get 19216.819."
+    },
+    {
+      "start": 532.06,
+      "end": 535.06,
+      "text": "Now, I will copy the IP address here."
+    },
+    {
+      "start": 535.06,
+      "end": 537.06,
+      "text": "So, I will copy IPv4 addresses."
+    },
+    {
+      "start": 537.06,
+      "end": 540.06,
+      "text": "And I will write in my settings, live preview."
+    },
+    {
+      "start": 540.06,
+      "end": 543.06,
+      "text": "The local IP host address to host your files on this."
+    },
+    {
+      "start": 543.06,
+      "end": 546.06,
+      "text": "I will write this on its place."
+    },
+    {
+      "start": 546.06,
+      "end": 550.06,
+      "text": "And after doing this, I will restart my VS code."
+    },
+    {
+      "start": 550.06,
+      "end": 555.06,
+      "text": "You will have to ensure that you go to your Wi-Fi settings."
+    },
+    {
+      "start": 555.06,
+      "end": 557.06,
+      "text": "You can network your network."
+    },
+    {
+      "start": 557.06,
+      "end": 562.06,
+      "text": "You can network your network with your Wi-Fi connected."
+    },
+    {
+      "start": 562.06,
+      "end": 564.06,
+      "text": "You can network your network with your Wi-Fi connected."
+    },
+    {
+      "start": 564.06,
+      "end": 569.06,
+      "text": "Now, you will see that you will get your IP address."
+    },
+    {
+      "start": 569.06,
+      "end": 574.06,
+      "text": "I can use this IP address here."
+    },
+    {
+      "start": 574.06,
+      "end": 578.06,
+      "text": "So, I have added 19216.819."
+    },
+    {
+      "start": 578.06,
+      "end": 580.06,
+      "text": "You can get a total of 3000."
+    },
+    {
+      "start": 580.06,
+      "end": 583.06,
+      "text": "You can also put your port here."
+    },
+    {
+      "start": 583.06,
+      "end": 586.06,
+      "text": "And you can see that the website has been previewed."
+    },
+    {
+      "start": 586.06,
+      "end": 590.06,
+      "text": "This trick is very useful when we want to preview our mobile."
+    },
+    {
+      "start": 590.06,
+      "end": 593.06,
+      "text": "Because today, we will see more websites in the phone."
+    },
+    {
+      "start": 593.06,
+      "end": 596.06,
+      "text": "So, we will try to use our phone as a good user."
+    },
+    {
+      "start": 596.06,
+      "end": 599.06,
+      "text": "And we will be able to get the website."
+    },
+    {
+      "start": 599.06,
+      "end": 601.06,
+      "text": "And we will be able to do the development in the computer."
+    },
+    {
+      "start": 601.06,
+      "end": 602.06,
+      "text": "So, that testing will be done."
+    },
+    {
+      "start": 602.06,
+      "end": 605.06,
+      "text": "Now, if you have not put the review in the first video,"
+    },
+    {
+      "start": 605.06,
+      "end": 609.06,
+      "text": "I will request you to review your course in the first video."
+    },
+    {
+      "start": 609.06,
+      "end": 611.06,
+      "text": "I have told you in the last video that you should review it."
+    },
+    {
+      "start": 611.06,
+      "end": 612.06,
+      "text": "You should review it."
+    },
+    {
+      "start": 612.06,
+      "end": 614.06,
+      "text": "You should have put the initial review."
+    },
+    {
+      "start": 614.06,
+      "end": 617.06,
+      "text": "You should have written the initial review."
+    },
+    {
+      "start": 617.06,
+      "end": 619.06,
+      "text": "People will know what is the initial review of this course."
+    },
+    {
+      "start": 619.06,
+      "end": 621.06,
+      "text": "You should give 5 to start with."
+    },
+    {
+      "start": 621.06,
+      "end": 624.06,
+      "text": "You should access the playlist description."
+    },
+    {
+      "start": 624.06,
+      "end": 626.06,
+      "text": "You should click here and bookmark it."
+    },
+    {
+      "start": 626.06,
+      "end": 628.06,
+      "text": "You will get a bookmark."
+    },
+    {
+      "start": 628.06,
+      "end": 630.06,
+      "text": "And you will get a show in the bookmark."
+    },
+    {
+      "start": 630.06,
+      "end": 633.06,
+      "text": "I have booked the sigma web development course."
+    },
+    {
+      "start": 633.06,
+      "end": 635.06,
+      "text": "Click here and you should also save it."
+    },
+    {
+      "start": 635.06,
+      "end": 638.06,
+      "text": "I want to save all the players."
+    },
+    {
+      "start": 638.06,
+      "end": 641.06,
+      "text": "So, please like and subscribe to the playlist."
+    },
+    {
+      "start": 641.06,
+      "end": 643.06,
+      "text": "Also, please like and subscribe to the channel."
+    },
+    {
+      "start": 643.06,
+      "end": 645.06,
+      "text": "I will see you in the next video."
+    },
+    {
+      "start": 645.06,
+      "end": 647.06,
+      "text": "Thank you so much for watching this video."
+    },
+    {
+      "start": 647.06,
+      "end": 649.06,
+      "text": "And I will see you next time."
+    },
+    {
+      "start": 671.06,
+      "end": 673.06,
+      "text": "Bye."
+    }
+  ]
+}

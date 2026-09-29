@@ -1,0 +1,1274 @@
+{
+  "video": 13,
+  "course": "Sigma Web Development",
+  "source_file": "13_Entities, Code tag and more on HTML _ Sigma Web Development Course - Tutorial #13 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " Guys, we've seen almost everything in the HTML In today's video, we'll conclude the HTML We'll talk about some miscellaneous things Which you'll be able to tell in the web development journey After that, we'll start the CSS video I'm also excited to conclude the HTML You guys like this video and write a signature patch in the comments section Let's go to the computer screen Let's roll the intro As you can see, I've already uploaded a new folder in the video screen And I'll make a new folder of the Bina Time Which is called the video 13 I'll open the video and click on the shift in the video And I'll make a file Index.html Okay? Now I've told you the index.html file Now I want to tell you about the file There are a lot of things in the HTML Which you guys have to explore I'll tell you about the things And I'll conclude the HTML in this video If you want to know in HTML I'll drop the screen on the Word Wrap And then I'll do the screen cast mode If you want to know in HTML This is 3 is greater than 4 If you want to know in HTML I'll show you the preview of the HTML So this is 3 is greater than 4 And I'll write it here Now I'll write it here This is the code for paragraph Okay? And I'll write something like this I've written it here I want this to appear But you can see that it won't appear Why won't it? Because how can I know that I want to write the paragraph Or actually use this as a syntax So this is for the reason of the HTML What do I tell you in the HTML If you write the Ampersent LT-Semicolon Then you can write it as LT-Semicolon If you write the Ampersent LT-Semicolon And replace it with Ampersent LT-Semicolon And replace the greater than simple Ampersent LT-Semicolon I'll show you how to do it If you replace it with Ampersent LT-Semicolon Then what will happen? As I said, this is the way to appear As you can see I'll show you how to zoom So what happens? HTML and LT-S are used To write those things Which are used to collide with HTML's syntax What does it mean? If we write a paragraph of the tag code How will we find out how to write the paragraph of the tag code? Or actually, you want to write this as it is For this, it also has a pre-tack If you put it in a pre-tack And write it here And then P This is a paragraph If you write it like this Then this will come as it is As it is, it will come And along with that If you write the new lines This is after few new lines And some more If you write it like this It will come as it is All the spaces will be intact But it will show the tag For the tags, we will have to use the entities So this is pre-tack HTML So we have seen the entities If you want to put the symbol of copyright You can write Ampersent LT-Semicolon And if you write Ampersent LT-Semicolon Then you will find the symbol of copyright Which you can see So you can do this with HTML and TIDs You can do all these examples Try out non-breaking spaces With that, you can see the special symbols of copyright Ampersent NBSP used for space And it is very important So if I write here Copyright I will write here I want to see a lot of spaces And I will write here Code with Harry So I will write in the Code with Harry And I will write here Because HTML has extra spaces So now you can see the code with the copyright And then the code with Harry But ideally, we will not want this We will want this space Which I have put in So you can put the space in it You can put the MPSP You can put the MPSP You can put the space in it So you have to put the space in your HTML And you can put the MPSP You should go after it But this is not how the space is used And with it In the HTML, it has reserved Like less than, greater than You can do HTML and TIT And what is the quotation tag? You can write it in the Code with the Code I will also tell you the Code with the Code So the Code with the Code And you can write here The Code with the Code with the Code So what happens is You can write in the Code with the Code And you can style it And then you want to cite it You can put the URL in it Similarly, you can use the Q-Tack You can use it You can use the URL in it You can use the Q-Tack You can cite it You can use the Q-Tack You can style it This is our quotation tags And HTML and TIT And some HTML tags have been observed And it has been observed And some people handle the font They don't use the font tag They attribute a lot of attributes Like color, size, etc They use the font tag But it is not recommended Then you can use the font tag Then you can use the center tag And now I will recommend You can use the CSSM center And the Flexbox is great So this is the tags You may know But you should also use it I hope that helps Then code tag For the code tag You can see the website You can see the code tag And if you like I will tell you I am using a library called PrismCSS I am asking many people How to do this? I will tell you PrismJS What happens to it? You can put code in your blog I am using library I am using React So you can read everything But if you want to write code You can use code tag If you write the source code You can see There is a code in the code tag I have put the code tag And you can see If you find code on my site You can use code tag You can copy it And paste it You can also write the code in your blog Why do you want to press the new line So that the new line will be intact I want to write a code And I want to write a Python code I want to write HTML code I will go to control and then I will go to HTML And I will enter the information And paste the copy And I will write in HTML This is HTML boilerplate code So if I preview it Here this is HTML boilerplate could be rendered If I want to write as retis So what I have to do is I will replace this with a lesson I will change the right click And what I will do here Ampercent LT-SAMIC colon And with this I will write it Ampercent Ampercent LT-SAMIC colon Now I will paste this code I cannot do as retis This is also very important Now you can see it is here So here a code is added So if you want to copy it You can also do this as pre-tack If you want to select this Select shift or tap So shift or tap It becomes a pendant So you can do this And then backspace And here you can see the extra space And you can use it as a style And you can use it as a style You can use it as a prism I will tell you how to use it Like Labrities I will show you some tags about HTML And I will tell you about it Now the character sets I will use the characters Then what is canvas Basically the canvas is made using JavaScript But you can understand that it is an element in HTML which makes graphical shapes I hope you all know that HTML is completely loaded and will be able to find out Now we will do CSS HTML is complete I hope you all are enjoying If you are uploading all the source code You can access it If you don't have playlists Click here and then click book Or click save Thank you so much for watching this video And I will see you next time",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "Guys, we've seen almost everything in the HTML"
+    },
+    {
+      "start": 2.76,
+      "end": 5.26,
+      "text": "In today's video, we'll conclude the HTML"
+    },
+    {
+      "start": 5.26,
+      "end": 7.54,
+      "text": "We'll talk about some miscellaneous things"
+    },
+    {
+      "start": 7.54,
+      "end": 10.08,
+      "text": "Which you'll be able to tell in the web development journey"
+    },
+    {
+      "start": 10.08,
+      "end": 12.54,
+      "text": "After that, we'll start the CSS video"
+    },
+    {
+      "start": 12.54,
+      "end": 14.78,
+      "text": "I'm also excited to conclude the HTML"
+    },
+    {
+      "start": 14.78,
+      "end": 18.98,
+      "text": "You guys like this video and write a signature patch in the comments section"
+    },
+    {
+      "start": 18.98,
+      "end": 20.34,
+      "text": "Let's go to the computer screen"
+    },
+    {
+      "start": 20.34,
+      "end": 21.84,
+      "text": "Let's roll the intro"
+    },
+    {
+      "start": 30.72,
+      "end": 33.54,
+      "text": "As you can see, I've already uploaded a new folder in the video screen"
+    },
+    {
+      "start": 33.54,
+      "end": 35.54,
+      "text": "And I'll make a new folder of the Bina Time"
+    },
+    {
+      "start": 35.54,
+      "end": 37.54,
+      "text": "Which is called the video 13"
+    },
+    {
+      "start": 37.54,
+      "end": 40.7,
+      "text": "I'll open the video and click on the shift in the video"
+    },
+    {
+      "start": 40.7,
+      "end": 42.7,
+      "text": "And I'll make a file"
+    },
+    {
+      "start": 42.7,
+      "end": 45.02,
+      "text": "Index.html"
+    },
+    {
+      "start": 45.02,
+      "end": 46.02,
+      "text": "Okay?"
+    },
+    {
+      "start": 46.02,
+      "end": 49.02,
+      "text": "Now I've told you the index.html file"
+    },
+    {
+      "start": 49.02,
+      "end": 51.02,
+      "text": "Now I want to tell you about the file"
+    },
+    {
+      "start": 51.02,
+      "end": 53.26,
+      "text": "There are a lot of things in the HTML"
+    },
+    {
+      "start": 53.26,
+      "end": 55.26,
+      "text": "Which you guys have to explore"
+    },
+    {
+      "start": 55.26,
+      "end": 56.76,
+      "text": "I'll tell you about the things"
+    },
+    {
+      "start": 56.76,
+      "end": 59.26,
+      "text": "And I'll conclude the HTML in this video"
+    },
+    {
+      "start": 59.34,
+      "end": 61.34,
+      "text": "If you want to know in HTML"
+    },
+    {
+      "start": 61.34,
+      "end": 64.34,
+      "text": "I'll drop the screen on the Word Wrap"
+    },
+    {
+      "start": 64.34,
+      "end": 65.34,
+      "text": "And then I'll do the screen cast mode"
+    },
+    {
+      "start": 65.34,
+      "end": 67.34,
+      "text": "If you want to know in HTML"
+    },
+    {
+      "start": 67.34,
+      "end": 69.34,
+      "text": "This is 3 is greater than 4"
+    },
+    {
+      "start": 69.34,
+      "end": 71.34,
+      "text": "If you want to know in HTML"
+    },
+    {
+      "start": 71.34,
+      "end": 73.34,
+      "text": "I'll show you the preview of the HTML"
+    },
+    {
+      "start": 73.34,
+      "end": 75.34,
+      "text": "So this is 3 is greater than 4"
+    },
+    {
+      "start": 75.34,
+      "end": 76.34,
+      "text": "And I'll write it here"
+    },
+    {
+      "start": 76.34,
+      "end": 78.34,
+      "text": "Now I'll write it here"
+    },
+    {
+      "start": 78.34,
+      "end": 81.34,
+      "text": "This is the code for paragraph"
+    },
+    {
+      "start": 81.34,
+      "end": 82.34,
+      "text": "Okay?"
+    },
+    {
+      "start": 82.34,
+      "end": 84.34,
+      "text": "And I'll write something like this"
+    },
+    {
+      "start": 84.34,
+      "end": 85.34,
+      "text": "I've written it here"
+    },
+    {
+      "start": 85.34,
+      "end": 88.34,
+      "text": "I want this to appear"
+    },
+    {
+      "start": 88.34,
+      "end": 90.34,
+      "text": "But you can see that it won't appear"
+    },
+    {
+      "start": 90.34,
+      "end": 92.34,
+      "text": "Why won't it?"
+    },
+    {
+      "start": 92.34,
+      "end": 94.34,
+      "text": "Because how can I know that I want to write the paragraph"
+    },
+    {
+      "start": 94.34,
+      "end": 96.34,
+      "text": "Or actually use this as a syntax"
+    },
+    {
+      "start": 96.34,
+      "end": 100.34,
+      "text": "So this is for the reason of the HTML"
+    },
+    {
+      "start": 100.34,
+      "end": 102.34,
+      "text": "What do I tell you in the HTML"
+    },
+    {
+      "start": 102.34,
+      "end": 106.34,
+      "text": "If you write the Ampersent LT-Semicolon"
+    },
+    {
+      "start": 106.34,
+      "end": 110.34,
+      "text": "Then you can write it as LT-Semicolon"
+    },
+    {
+      "start": 110.34,
+      "end": 113.34,
+      "text": "If you write the Ampersent LT-Semicolon"
+    },
+    {
+      "start": 113.34,
+      "end": 116.34,
+      "text": "And replace it with Ampersent LT-Semicolon"
+    },
+    {
+      "start": 116.34,
+      "end": 118.34,
+      "text": "And replace the greater than simple"
+    },
+    {
+      "start": 118.34,
+      "end": 120.34,
+      "text": "Ampersent LT-Semicolon"
+    },
+    {
+      "start": 120.34,
+      "end": 122.34,
+      "text": "I'll show you how to do it"
+    },
+    {
+      "start": 122.34,
+      "end": 126.34,
+      "text": "If you replace it with Ampersent LT-Semicolon"
+    },
+    {
+      "start": 126.34,
+      "end": 128.34,
+      "text": "Then what will happen?"
+    },
+    {
+      "start": 128.34,
+      "end": 130.34,
+      "text": "As I said, this is the way to appear"
+    },
+    {
+      "start": 130.34,
+      "end": 132.34,
+      "text": "As you can see"
+    },
+    {
+      "start": 132.34,
+      "end": 134.34,
+      "text": "I'll show you how to zoom"
+    },
+    {
+      "start": 134.34,
+      "end": 136.34,
+      "text": "So what happens?"
+    },
+    {
+      "start": 136.34,
+      "end": 138.34,
+      "text": "HTML and LT-S are used"
+    },
+    {
+      "start": 138.34,
+      "end": 140.34,
+      "text": "To write those things"
+    },
+    {
+      "start": 140.34,
+      "end": 142.34,
+      "text": "Which are used to collide with HTML's syntax"
+    },
+    {
+      "start": 142.34,
+      "end": 144.34,
+      "text": "What does it mean?"
+    },
+    {
+      "start": 144.34,
+      "end": 146.34,
+      "text": "If we write a paragraph of the tag code"
+    },
+    {
+      "start": 146.34,
+      "end": 148.34,
+      "text": "How will we find out how to write the paragraph of the tag code?"
+    },
+    {
+      "start": 148.34,
+      "end": 150.34,
+      "text": "Or actually, you want to write this as it is"
+    },
+    {
+      "start": 150.34,
+      "end": 152.34,
+      "text": "For this, it also has a pre-tack"
+    },
+    {
+      "start": 152.34,
+      "end": 154.34,
+      "text": "If you put it in a pre-tack"
+    },
+    {
+      "start": 154.34,
+      "end": 156.34,
+      "text": "And write it here"
+    },
+    {
+      "start": 156.34,
+      "end": 158.34,
+      "text": "And then P"
+    },
+    {
+      "start": 158.34,
+      "end": 160.34,
+      "text": "This is a paragraph"
+    },
+    {
+      "start": 160.34,
+      "end": 162.34,
+      "text": "If you write it like this"
+    },
+    {
+      "start": 162.34,
+      "end": 164.34,
+      "text": "Then this will come as it is"
+    },
+    {
+      "start": 164.34,
+      "end": 166.34,
+      "text": "As it is, it will come"
+    },
+    {
+      "start": 166.34,
+      "end": 168.34,
+      "text": "And along with that"
+    },
+    {
+      "start": 168.34,
+      "end": 170.34,
+      "text": "If you write the new lines"
+    },
+    {
+      "start": 170.34,
+      "end": 172.34,
+      "text": "This is after few new lines"
+    },
+    {
+      "start": 172.34,
+      "end": 174.34,
+      "text": "And some more"
+    },
+    {
+      "start": 174.34,
+      "end": 176.34,
+      "text": "If you write it like this"
+    },
+    {
+      "start": 176.34,
+      "end": 178.34,
+      "text": "It will come as it is"
+    },
+    {
+      "start": 178.34,
+      "end": 180.34,
+      "text": "All the spaces will be intact"
+    },
+    {
+      "start": 180.34,
+      "end": 182.34,
+      "text": "But it will show the tag"
+    },
+    {
+      "start": 182.34,
+      "end": 184.34,
+      "text": "For the tags, we will have to use the entities"
+    },
+    {
+      "start": 184.34,
+      "end": 186.34,
+      "text": "So this is pre-tack HTML"
+    },
+    {
+      "start": 186.34,
+      "end": 188.34,
+      "text": "So we have seen the entities"
+    },
+    {
+      "start": 188.34,
+      "end": 190.34,
+      "text": "If you want to put the symbol of copyright"
+    },
+    {
+      "start": 190.34,
+      "end": 194.34,
+      "text": "You can write Ampersent LT-Semicolon"
+    },
+    {
+      "start": 194.34,
+      "end": 196.34,
+      "text": "And if you write Ampersent LT-Semicolon"
+    },
+    {
+      "start": 196.34,
+      "end": 198.34,
+      "text": "Then you will find the symbol of copyright"
+    },
+    {
+      "start": 198.34,
+      "end": 200.34,
+      "text": "Which you can see"
+    },
+    {
+      "start": 200.34,
+      "end": 202.34,
+      "text": "So you can do this with HTML and TIDs"
+    },
+    {
+      "start": 202.34,
+      "end": 204.34,
+      "text": "You can do all these examples"
+    },
+    {
+      "start": 204.34,
+      "end": 206.34,
+      "text": "Try out non-breaking spaces"
+    },
+    {
+      "start": 206.34,
+      "end": 208.34,
+      "text": "With that, you can see the special symbols of copyright"
+    },
+    {
+      "start": 208.34,
+      "end": 210.34,
+      "text": "Ampersent NBSP"
+    },
+    {
+      "start": 210.34,
+      "end": 212.34,
+      "text": "used for space"
+    },
+    {
+      "start": 212.34,
+      "end": 214.34,
+      "text": "And it is very important"
+    },
+    {
+      "start": 214.34,
+      "end": 216.34,
+      "text": "So if I write here"
+    },
+    {
+      "start": 216.34,
+      "end": 218.34,
+      "text": "Copyright"
+    },
+    {
+      "start": 218.34,
+      "end": 220.34,
+      "text": "I will write here"
+    },
+    {
+      "start": 220.34,
+      "end": 222.34,
+      "text": "I want to see a lot of spaces"
+    },
+    {
+      "start": 222.34,
+      "end": 224.34,
+      "text": "And I will write here"
+    },
+    {
+      "start": 224.34,
+      "end": 226.34,
+      "text": "Code with Harry"
+    },
+    {
+      "start": 226.34,
+      "end": 228.34,
+      "text": "So I will write in the Code with Harry"
+    },
+    {
+      "start": 228.34,
+      "end": 230.34,
+      "text": "And I will write here"
+    },
+    {
+      "start": 230.34,
+      "end": 232.34,
+      "text": "Because HTML has extra spaces"
+    },
+    {
+      "start": 232.34,
+      "end": 234.34,
+      "text": "So now you can see the code with the copyright"
+    },
+    {
+      "start": 234.34,
+      "end": 236.34,
+      "text": "And then the code with Harry"
+    },
+    {
+      "start": 236.34,
+      "end": 238.34,
+      "text": "But ideally, we will not want this"
+    },
+    {
+      "start": 238.34,
+      "end": 240.34,
+      "text": "We will want this space"
+    },
+    {
+      "start": 240.34,
+      "end": 242.34,
+      "text": "Which I have put in"
+    },
+    {
+      "start": 242.34,
+      "end": 244.34,
+      "text": "So you can put the space in it"
+    },
+    {
+      "start": 244.34,
+      "end": 246.34,
+      "text": "You can put the MPSP"
+    },
+    {
+      "start": 246.34,
+      "end": 248.34,
+      "text": "You can put the MPSP"
+    },
+    {
+      "start": 248.34,
+      "end": 250.34,
+      "text": "You can put the space in it"
+    },
+    {
+      "start": 250.34,
+      "end": 252.34,
+      "text": "So you have to put the space in your HTML"
+    },
+    {
+      "start": 252.34,
+      "end": 254.34,
+      "text": "And you can put the MPSP"
+    },
+    {
+      "start": 254.34,
+      "end": 256.34,
+      "text": "You should go after it"
+    },
+    {
+      "start": 256.34,
+      "end": 258.34,
+      "text": "But this is not how the space is used"
+    },
+    {
+      "start": 258.34,
+      "end": 260.34,
+      "text": "And with it"
+    },
+    {
+      "start": 260.34,
+      "end": 262.34,
+      "text": "In the HTML, it has reserved"
+    },
+    {
+      "start": 262.34,
+      "end": 264.34,
+      "text": "Like less than, greater than"
+    },
+    {
+      "start": 264.34,
+      "end": 266.34,
+      "text": "You can do HTML and TIT"
+    },
+    {
+      "start": 266.34,
+      "end": 268.34,
+      "text": "And what is the quotation tag?"
+    },
+    {
+      "start": 268.34,
+      "end": 270.34,
+      "text": "You can write it in the Code with the Code"
+    },
+    {
+      "start": 270.34,
+      "end": 272.34,
+      "text": "I will also tell you the Code with the Code"
+    },
+    {
+      "start": 272.34,
+      "end": 274.34,
+      "text": "So the Code with the Code"
+    },
+    {
+      "start": 274.34,
+      "end": 276.34,
+      "text": "And you can write here"
+    },
+    {
+      "start": 276.34,
+      "end": 278.34,
+      "text": "The Code with the Code with the Code"
+    },
+    {
+      "start": 278.34,
+      "end": 280.34,
+      "text": "So what happens is"
+    },
+    {
+      "start": 280.34,
+      "end": 282.34,
+      "text": "You can write in the Code with the Code"
+    },
+    {
+      "start": 282.34,
+      "end": 284.34,
+      "text": "And you can style it"
+    },
+    {
+      "start": 284.34,
+      "end": 286.34,
+      "text": "And then you want to cite it"
+    },
+    {
+      "start": 286.34,
+      "end": 288.34,
+      "text": "You can put the URL in it"
+    },
+    {
+      "start": 288.34,
+      "end": 290.34,
+      "text": "Similarly, you can use the Q-Tack"
+    },
+    {
+      "start": 290.34,
+      "end": 292.34,
+      "text": "You can use it"
+    },
+    {
+      "start": 292.34,
+      "end": 294.34,
+      "text": "You can use the URL in it"
+    },
+    {
+      "start": 294.34,
+      "end": 296.34,
+      "text": "You can use the Q-Tack"
+    },
+    {
+      "start": 296.34,
+      "end": 298.34,
+      "text": "You can cite it"
+    },
+    {
+      "start": 298.34,
+      "end": 300.34,
+      "text": "You can use the Q-Tack"
+    },
+    {
+      "start": 300.34,
+      "end": 302.34,
+      "text": "You can style it"
+    },
+    {
+      "start": 302.34,
+      "end": 304.34,
+      "text": "This is our quotation tags"
+    },
+    {
+      "start": 304.34,
+      "end": 306.34,
+      "text": "And HTML and TIT"
+    },
+    {
+      "start": 306.34,
+      "end": 308.34,
+      "text": "And some HTML tags"
+    },
+    {
+      "start": 308.34,
+      "end": 310.34,
+      "text": "have been observed"
+    },
+    {
+      "start": 310.34,
+      "end": 312.34,
+      "text": "And it has been observed"
+    },
+    {
+      "start": 312.34,
+      "end": 314.34,
+      "text": "And some people handle the font"
+    },
+    {
+      "start": 314.34,
+      "end": 316.34,
+      "text": "They don't use the font tag"
+    },
+    {
+      "start": 316.34,
+      "end": 318.34,
+      "text": "They attribute a lot of attributes"
+    },
+    {
+      "start": 318.34,
+      "end": 320.34,
+      "text": "Like color, size, etc"
+    },
+    {
+      "start": 320.34,
+      "end": 322.34,
+      "text": "They use the font tag"
+    },
+    {
+      "start": 322.34,
+      "end": 324.34,
+      "text": "But it is not recommended"
+    },
+    {
+      "start": 324.34,
+      "end": 326.34,
+      "text": "Then you can use the font tag"
+    },
+    {
+      "start": 326.34,
+      "end": 328.34,
+      "text": "Then you can use the center tag"
+    },
+    {
+      "start": 328.34,
+      "end": 330.34,
+      "text": "And now I will recommend"
+    },
+    {
+      "start": 330.34,
+      "end": 332.34,
+      "text": "You can use the CSSM center"
+    },
+    {
+      "start": 332.34,
+      "end": 334.34,
+      "text": "And the Flexbox is great"
+    },
+    {
+      "start": 334.34,
+      "end": 336.34,
+      "text": "So this is the tags"
+    },
+    {
+      "start": 336.34,
+      "end": 338.34,
+      "text": "You may know"
+    },
+    {
+      "start": 338.34,
+      "end": 340.34,
+      "text": "But you should also use it"
+    },
+    {
+      "start": 340.34,
+      "end": 342.34,
+      "text": "I hope that helps"
+    },
+    {
+      "start": 342.34,
+      "end": 344.34,
+      "text": "Then code tag"
+    },
+    {
+      "start": 344.34,
+      "end": 346.34,
+      "text": "For the code tag"
+    },
+    {
+      "start": 346.34,
+      "end": 348.34,
+      "text": "You can see the website"
+    },
+    {
+      "start": 348.34,
+      "end": 350.34,
+      "text": "You can see the code tag"
+    },
+    {
+      "start": 350.34,
+      "end": 352.34,
+      "text": "And if you like"
+    },
+    {
+      "start": 352.34,
+      "end": 354.34,
+      "text": "I will tell you"
+    },
+    {
+      "start": 354.34,
+      "end": 356.34,
+      "text": "I am using a library called PrismCSS"
+    },
+    {
+      "start": 356.34,
+      "end": 358.34,
+      "text": "I am asking many people"
+    },
+    {
+      "start": 358.34,
+      "end": 360.34,
+      "text": "How to do this?"
+    },
+    {
+      "start": 360.34,
+      "end": 362.34,
+      "text": "I will tell you"
+    },
+    {
+      "start": 362.34,
+      "end": 364.34,
+      "text": "PrismJS"
+    },
+    {
+      "start": 364.34,
+      "end": 366.34,
+      "text": "What happens to it?"
+    },
+    {
+      "start": 366.34,
+      "end": 368.34,
+      "text": "You can put code in your blog"
+    },
+    {
+      "start": 368.34,
+      "end": 370.34,
+      "text": "I am using library"
+    },
+    {
+      "start": 370.34,
+      "end": 372.34,
+      "text": "I am using React"
+    },
+    {
+      "start": 372.34,
+      "end": 374.34,
+      "text": "So you can read everything"
+    },
+    {
+      "start": 374.34,
+      "end": 376.34,
+      "text": "But if you want to write code"
+    },
+    {
+      "start": 376.34,
+      "end": 378.34,
+      "text": "You can use code tag"
+    },
+    {
+      "start": 378.34,
+      "end": 380.34,
+      "text": "If you write the source code"
+    },
+    {
+      "start": 380.34,
+      "end": 382.34,
+      "text": "You can see"
+    },
+    {
+      "start": 382.34,
+      "end": 384.34,
+      "text": "There is a code in the code tag"
+    },
+    {
+      "start": 384.34,
+      "end": 386.34,
+      "text": "I have put the code tag"
+    },
+    {
+      "start": 386.34,
+      "end": 388.34,
+      "text": "And you can see"
+    },
+    {
+      "start": 388.34,
+      "end": 390.34,
+      "text": "If you find code on my site"
+    },
+    {
+      "start": 390.34,
+      "end": 392.34,
+      "text": "You can use code tag"
+    },
+    {
+      "start": 392.34,
+      "end": 394.34,
+      "text": "You can copy it"
+    },
+    {
+      "start": 394.34,
+      "end": 396.34,
+      "text": "And paste it"
+    },
+    {
+      "start": 396.34,
+      "end": 398.34,
+      "text": "You can also write the code in your blog"
+    },
+    {
+      "start": 398.34,
+      "end": 400.34,
+      "text": "Why do you want to press the new line"
+    },
+    {
+      "start": 400.34,
+      "end": 402.34,
+      "text": "So that the new line will be intact"
+    },
+    {
+      "start": 402.34,
+      "end": 404.34,
+      "text": "I want to write a code"
+    },
+    {
+      "start": 404.34,
+      "end": 406.34,
+      "text": "And I want to write a Python code"
+    },
+    {
+      "start": 406.34,
+      "end": 408.34,
+      "text": "I want to write HTML code"
+    },
+    {
+      "start": 408.34,
+      "end": 410.34,
+      "text": "I will go to control and then"
+    },
+    {
+      "start": 410.34,
+      "end": 412.34,
+      "text": "I will go to HTML"
+    },
+    {
+      "start": 412.34,
+      "end": 414.34,
+      "text": "And I will enter the information"
+    },
+    {
+      "start": 414.34,
+      "end": 416.34,
+      "text": "And paste the copy"
+    },
+    {
+      "start": 416.34,
+      "end": 418.34,
+      "text": "And I will write in HTML"
+    },
+    {
+      "start": 418.34,
+      "end": 424.34,
+      "text": "This is HTML boilerplate code"
+    },
+    {
+      "start": 424.34,
+      "end": 428.34,
+      "text": "So if I preview it"
+    },
+    {
+      "start": 428.34,
+      "end": 432.34,
+      "text": "Here this is HTML boilerplate could be rendered"
+    },
+    {
+      "start": 432.34,
+      "end": 434.34,
+      "text": "If I want to write as retis"
+    },
+    {
+      "start": 434.34,
+      "end": 436.34,
+      "text": "So what I have to do is"
+    },
+    {
+      "start": 436.34,
+      "end": 438.34,
+      "text": "I will replace this with a lesson"
+    },
+    {
+      "start": 438.34,
+      "end": 440.34,
+      "text": "I will change the right click"
+    },
+    {
+      "start": 440.34,
+      "end": 442.34,
+      "text": "And what I will do here"
+    },
+    {
+      "start": 442.34,
+      "end": 444.34,
+      "text": "Ampercent LT-SAMIC colon"
+    },
+    {
+      "start": 444.34,
+      "end": 446.34,
+      "text": "And with this"
+    },
+    {
+      "start": 446.34,
+      "end": 448.34,
+      "text": "I will write it"
+    },
+    {
+      "start": 448.34,
+      "end": 450.34,
+      "text": "Ampercent"
+    },
+    {
+      "start": 450.34,
+      "end": 452.34,
+      "text": "Ampercent LT-SAMIC colon"
+    },
+    {
+      "start": 452.34,
+      "end": 454.34,
+      "text": "Now I will paste this code"
+    },
+    {
+      "start": 454.34,
+      "end": 456.34,
+      "text": "I cannot do as retis"
+    },
+    {
+      "start": 456.34,
+      "end": 458.34,
+      "text": "This is also very important"
+    },
+    {
+      "start": 458.34,
+      "end": 460.34,
+      "text": "Now you can see it is here"
+    },
+    {
+      "start": 460.34,
+      "end": 462.34,
+      "text": "So here a code is added"
+    },
+    {
+      "start": 462.34,
+      "end": 464.34,
+      "text": "So if you want to copy it"
+    },
+    {
+      "start": 464.34,
+      "end": 466.34,
+      "text": "You can also do this as pre-tack"
+    },
+    {
+      "start": 466.34,
+      "end": 468.34,
+      "text": "If you want to select this"
+    },
+    {
+      "start": 468.34,
+      "end": 470.34,
+      "text": "Select shift or tap"
+    },
+    {
+      "start": 470.34,
+      "end": 472.34,
+      "text": "So shift or tap"
+    },
+    {
+      "start": 472.34,
+      "end": 474.34,
+      "text": "It becomes a pendant"
+    },
+    {
+      "start": 474.34,
+      "end": 476.34,
+      "text": "So you can do this"
+    },
+    {
+      "start": 476.34,
+      "end": 478.34,
+      "text": "And then backspace"
+    },
+    {
+      "start": 478.34,
+      "end": 480.34,
+      "text": "And here you can see the extra space"
+    },
+    {
+      "start": 480.34,
+      "end": 482.34,
+      "text": "And you can use it as a style"
+    },
+    {
+      "start": 482.34,
+      "end": 484.34,
+      "text": "And you can use it as a style"
+    },
+    {
+      "start": 484.34,
+      "end": 486.34,
+      "text": "You can use it as a prism"
+    },
+    {
+      "start": 486.34,
+      "end": 488.34,
+      "text": "I will tell you how to use it"
+    },
+    {
+      "start": 488.34,
+      "end": 490.34,
+      "text": "Like Labrities"
+    },
+    {
+      "start": 490.34,
+      "end": 492.34,
+      "text": "I will show you some tags"
+    },
+    {
+      "start": 492.34,
+      "end": 494.34,
+      "text": "about HTML"
+    },
+    {
+      "start": 494.34,
+      "end": 496.34,
+      "text": "And I will tell you about it"
+    },
+    {
+      "start": 496.34,
+      "end": 498.34,
+      "text": "Now the character sets"
+    },
+    {
+      "start": 498.34,
+      "end": 500.34,
+      "text": "I will use the characters"
+    },
+    {
+      "start": 500.34,
+      "end": 502.34,
+      "text": "Then what is canvas"
+    },
+    {
+      "start": 502.34,
+      "end": 504.34,
+      "text": "Basically the canvas"
+    },
+    {
+      "start": 504.34,
+      "end": 506.34,
+      "text": "is made using JavaScript"
+    },
+    {
+      "start": 506.34,
+      "end": 508.34,
+      "text": "But you can understand"
+    },
+    {
+      "start": 508.34,
+      "end": 510.34,
+      "text": "that it is an element in HTML"
+    },
+    {
+      "start": 510.34,
+      "end": 512.34,
+      "text": "which makes graphical shapes"
+    },
+    {
+      "start": 512.34,
+      "end": 514.34,
+      "text": "I hope you all know"
+    },
+    {
+      "start": 514.34,
+      "end": 516.34,
+      "text": "that HTML is completely loaded"
+    },
+    {
+      "start": 516.34,
+      "end": 518.34,
+      "text": "and will be able to find out"
+    },
+    {
+      "start": 518.34,
+      "end": 520.34,
+      "text": "Now we will do CSS"
+    },
+    {
+      "start": 520.34,
+      "end": 522.34,
+      "text": "HTML is complete"
+    },
+    {
+      "start": 522.34,
+      "end": 524.34,
+      "text": "I hope you all are enjoying"
+    },
+    {
+      "start": 524.34,
+      "end": 526.34,
+      "text": "If you are uploading all the source code"
+    },
+    {
+      "start": 526.34,
+      "end": 528.34,
+      "text": "You can access it"
+    },
+    {
+      "start": 528.34,
+      "end": 530.34,
+      "text": "If you don't have playlists"
+    },
+    {
+      "start": 530.34,
+      "end": 532.34,
+      "text": "Click here and then click book"
+    },
+    {
+      "start": 532.34,
+      "end": 534.34,
+      "text": "Or click save"
+    },
+    {
+      "start": 534.34,
+      "end": 536.34,
+      "text": "Thank you so much for watching this video"
+    },
+    {
+      "start": 536.34,
+      "end": 538.34,
+      "text": "And I will see you"
+    },
+    {
+      "start": 538.34,
+      "end": 540.34,
+      "text": "next time"
+    }
+  ]
+}

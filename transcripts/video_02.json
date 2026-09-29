@@ -1,0 +1,3544 @@
+{
+  "video": 2,
+  "course": "Sigma Web Development",
+  "source_file": "2_Your First HTML Website _ Sigma Web Development Course - Tutorial #2 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " Last video, you guys loved it so much It's my pleasure to keep this course free It's a like for this free course When I started web development It was not a comprehensive course Free or paid, it was not a course So I can understand the free course How much money does it take to get free? And trust me, I live up to the expectations With that said, I would like to like this video Because we are going to make this video our first website In this video, I will be going to make an iPhone 15 Pro Max Order And why? How will we see it? We will come to the video For many people, your life's first website So it will be fun You guys are excited to know Write in the comment section, I am excited And in the comment section, I will write in the comment section I will give all the comments to heart In this video, we will learn how to link HTML website to CSS and JavaScript Along with that, I will give you guys notes, cheat sheet and many resources You guys will learn some such textings Because I have learnt in the years And you will learn the web development speed And you will learn the web development speed We will also show you how to make a VSCode How to make a VSCode, which will be a killer In this video, I will also tell you how to earn money from web development So let's start with full energy Let's roll the intro Subscribe to our channel And press the bell icon to get all the notifications And press the bell icon to get all notifications And press the bell icon to get all notifications Alright guys, so we have come to our commuter screen And before we start the video, you guys want to know That we need to access the playlist Secondly, we are very close to 5 billion subscribers And if you haven't subscribed yet, then please do so In today's video, we will tell you how to make a VSCode And how to make a VSCode First thing we will do is We will customize the VSCode So this is the folder in which we started our web development series Now I want to give you guys this web development series source code So I will configure the gate Now you guys have to know the gate But I will fire the gate hub desktop And I will do a new repository I will add a new repository I will add it I will create a new repository I will name it Sigma WebDevCodes And this is the folder I will select in this folder I will initialize this repository with grade And I will write a source code for Sigma WebDevelopment Codes I will create a repository So you will create a repository Which is called Sigma WebDevCodes First of all, I will add the relevant things in the video So these two files were relevant in the first video So I will name it Video1 I will create a new folder in one place And I will move the files in one place I am not pushing all the videos on the gate You can use the sample videos So now I will update the source code And I will keep pushing on the gate How to push on the gate You guys don't need to learn this But this procedure is very simple I want to tell you that the gate is used by web developers They use general coders When they want to collaborate with other people So what will happen is that you will work with many programmers And those programmers will collaborate with your source code And to collaborate like this You will also push some code You will also push some code I am also creating a file I am creating another file Here gate is used And what is the gate of desktop? The gate is used to use it To make it a utility The gate is open source But gate is Microsoft own company Which is used to use gate And help you to host web interface In the future videos I will tell you more about the gate But I am just pushing the repository On the code with the gate of account You will get the link in the description And you will get the repository So as soon as I will give you the links You will get all the code And I will talk about it And I am creating a code To follow the absolute beginners So I will click on the publish repository And the code The folder will be synced All the codes will be uploaded And the sync will be uploaded And the changes will be there And if anyone changes I can pull here Click and then I can pull I will teach you all this You don't need to worry I will give you the code And I will make a video to name the folder And I will go inside this video And click on the shift right And open with vs code Here is open with code You will get the option if you have As I said, I have installed vs code If you have done changes And you have not checked You can solve the problem We will know and dismiss the notification And I will make the file And I will make index And this file will be here And I will tell you all And I know that many people are already already saying that I am making this code And I will follow all the beginners So I will make three files I will make index.html I will make the same file And I will make the same file script.js And I can name these files But I want to name these files Self-explanatory And I will tell you what is doing So this is your satisfaction I change the mod You can correct the keyРЕ we have been asking So let's Checkику Going to typing Add toん We will use this to make a website. Now, in the VSCode extension tab, we will use the extension functionality of VSCode. We will use the extension functionality of VSCode to make it better. We will use the extension of VSCode to make it better. We will use the extension of the console. First, I will add some extensions which will be a very good way to make it better. If you have seen this, you will see this. I will do it quickly. VSCode icons I will do the extension of VSCode icons and I will install them. You will see all the files you have seen. I did not come to the first icon. You will see all the icons. Thanks for installing VSCode icons. I will activate them. You can see that this is our icon. We will make a folder. We will make a folder like this. This icon looks good. We will come to the extension of VSCode and you can use this theme very well. There is a lot of themes in this theme. You can use these themes. But I can only use this theme in time. This is the default VSCode theme. I will change my theme. I will show you the VSCode in different ways. I will show you the concept of VSCode. I will show you the github theme. This is the github theme. This is the github theme. This is the github dark. This is the github light. This is the github dimmed. This is better. This is the github dark. I will show you the colors. The theme is jellyfish. Jellyfish is a good theme for people. If I install this, I will show you the github. Jellyfish is a great theme for people. There is a lot of popular theme in this theme. If I use the theme for material. I will install the theme for materials. If you have installed the items, you can change the items. You can control the concept of the items. We have installed the items. I will tell you the items. I will show you the VSCode material. If you want, you can use the items. I will show you the items. I will simply do this. I will show you the materials. I will use this. I will install the items. I will also install the items. I will need to click on the re-load required items. I will need to do the VSCode. You can use your VSCode. I will choose the VSCode item. If I want to do the VSCode item, I will like it. The theme is jellyfish. I will not install it, but I want to tell you one more extension, ES7 will react, and you will find out, and we will react in this course, for all those asking, sorry for the spoilers, but we will react in this course. So this is ES7 plus React Redux React Native snippets, extension, which you will react in this snippets, we will use it now, and we will react, we will not install it now, but now is the most important thing, extension is its name, Live Preview. This is the extension of Live Preview, we will install it now, because it is very short extension, you will tell as much extension you like, you will help people to change the look and feel of VS code, but I will tell you the extension of Live Preview, this will be used in actual use, the HTML CSS JavaScript file. So this is our HTML CSS and JavaScript files, this is the HTML file, it is a code, which is known as the website, how to see it from the side, so here I am telling you, I should document in title, I will write here, Harry by Key First Website, Harry by Key Course, Key Course Website, Harry by Key First Website will be removed, you will write your name in this, whatever your Key First Website name is, and here in the body, hey this is my first website, and all in the comment below, congratulations, the first website is all, congratulations, congratulations for my first website, and congratulations for my first website, let me make a small comment section, I will also come, I will also come in comment section, and I will give you all, hey this is my first website, now, let's see how to do it, first of all, people say, so let's see, we have installed two things, we have installed extension in Live Preview, sorry, the first live server was running, but Microsoft released the Live Preview, so I will recommend the latest joy extension, this is the same server, but I will not run Live server, I will use the same server, after installing Live Preview, you will see, you will see your website, now, you will see, I want to see this website, because my website will show you, so if you want to see it, click here, open this browser, and I will also listen to it, you can close it, here you can write, I am writing my code, I am writing my code, but yes, I have written it, and you have noticed, I did not reload this website, but after that, I have also updated this content, which I have written in the code, or I will write it here, without reload, it will be updated, it will be not updated, save it, it will be updated, and here, this is my first website, Harrybike code, now I will write it here, it is a Sigma Harry code, Sigma Harrybike code, Sigma Harrybike code, so here, you have seen, how this extension will help, reload it, it will not be able to do it, because it is reloading live, it is the same as my previous, so that you can see the white code, sometimes we want to see the code, because we want to see the same, because we want to see the live preview, so I am writing something, Harrybike code is true, and this is Sigma code, and I will write something more in the description, I can write everything, I will write here, and I can also do it in a small way, so I will update the live here, if you have seen my previous videos, I will show you the extension of this live server, this extension was not my experience, I did not know, it is a head, now something new comes, but this is something that you should use, because I use AC in my daily life, I am doing web development, so I will ask people, you also do web development, I will make websites, I will not make videos, I will also make websites, and I will also make websites, and you will get all this, you will get all this, in the description of the video, in any video, you will get the corresponding video, you will get the code, I will make it, because my previous video is here, and I have talked about some HTML CSS, which I have talked about, I will tell you how to link these 3, you can make a good index and HTML, you can see the title here, here you can see the first website, I will make a website called Sigma web development, so this will be changed, Sigma, Sigma web development, of course, you can see the code here, that this is update, it will be update, now I want my background to be red, so I can write the body, and background color red, so this will be the syntax of CSS, I will read CSS, and I will read it, so I will read it, so I will read it, and you can see, that the color of the body will not be red, comment section, I will tell you the reason, why not, because the color will not be red, this is not the right time, this is not the right time, I am going to read it, I have made a Dal, and I will expect it, I have made a Chowl, and I will expect it, I am not eating it, I can eat it, but I am going to make a link, you will have to go and read it, I will make a Dal, you will have to write a Handshake, how will it be? HTML, you will tell the CSS file, you will have to use it, I will write a link, I will select the link, I will select the link, I have made a half-carned, I will write this style, I have to type in the Manoli, I have to write it, but automatically, now the style.css is my destiny, it is called style.css file, and here too, if it is called Harry.css, and guess what? I have made a background, now I want to write a white text, I can write a color text, I can write a color white, I will not write anything here, I have written a color white, I will write a white text, and I will talk about it later in this course, so this is our run, CSS, how will it work? I will write a alert, and I will write a welcome to sigma, web development course, I will write a welcome to sigma, web development course, so what will be the alert? I will tell you, this is syntax, there is no problem in the correct test syntax, and I will write a lot of JavaScript, so this is the code of JavaScript, which is called the screen, and I will flash the code, why not? I have lost my computer, no, my computer is correct, I want to tell you that I will have to include the script, and let's include the script in the body, just before the body, I will include the script in the SRC, I will write a script.js, I have not written it, I have written it first, what I have written first? Script, what is the M8 abbreviation? M8 is a plugin, which is built in VS code, you will select it, and I will write a script here, and I will select a colon SRC, you can also type it manually, but you can write the suggestions, or you can make the characters and tastes, you make the Adboot developer, and you can make the characters, which you cannot find in the Sunkat, and you can make the character of your azr developer as a result, SRC is equal to script.js, you can see here, I will include it now, I will come here, and I will write a script in the SK, write it, because I know that your azr developer has gone to the SK, and you will be able to reload it, and you will be able to reload it, I will visit this website, and I will see an alert here, which is called alert, I will tell you what is the word, you have not told me the alert, I will start the video, and then I will finish the video, so don't worry, I will tell you the best practices, and I will tell you, because whatever I am telling you, is coming from my experience, is coming from a long time experience, and definitely help you, as I said, you can use it now, and I will write it now, in the comments, all the people are enjoying the course, so put the SIGMA BATCH OP in the comments, and see, what is the batch, and I will write the SIGMA BATCH OP in the comments, and I will show you, how to make this mouse wheel, so you have to go to the settings, write a mouse wheel, and check the editor mouse wheel, and then you press Ctrl, and press Ctrl, then you press Ctrl, and I will zoom in, and if I delete the command, then I can toggle screen cast mode, and whatever I will write, I will not toggle screen cast mode, because I already know what I am typing, so I can toggle screen cast mode, so I can turn on screen cast mode, so I can turn on screen cast mode, and I will show you all the things, in the last video, we talked about websites, and we talked about all these things, you all understood a lot, I will take an example of iPhone 15 Pro Max, and I will show you, how to make a client server interaction, whenever a user, is ordering an iPhone, so you will find interesting, I will show you, so how to make a website, I have already explained Apple.com, now the Apple.com is the same website, because the data has come from the server, and the HTML file, I will click on pre-order, and then I will simply, when I record, this is not the case, because this is the case, I will select 15 Pro Max, and I will take some black and orange, and say, I choose 16 Pro Myche, 24 Pro mac 24 Pro Bass AGB vendo, 24 Pro bass 4 Pro WC, I'm today with Apple servers My main question is how am i to actions like this Because Jawa Script is coming to calls This server took the appropriate actions And my data is on good. I like to deliver So can I deliver the software again? Athe AI winners and games are finished Alright now we're up I�or schwierigelf I am in thisᵅᵘᵉᵄᵉᵂ 라고 I will also order iPhones to go to the government. I will confirm this with OTP and my purchase. I have requested some Apple.com servers from the server. I have given an iPhone 15 Pro Max to Apple.com. The communication between the server and client is through JavaScript. I have also selected the iPhone and clicked on the other one. The whole thing is like JavaScript. The styling is like CSS. And the HTML is written. I hope you will remember this example. I will definitely show you. I will show you a lot of people. I will show you this phone. This is how your websites work. I have come to know this example. I want to give a comment section. What is the best thing? I have also done a general giveaway. I will tell you about this. I want to tell you about the knowledge. I want to tell you about the notes and cheats. If you go to CodeVedary.com slash notes, you will get notes and you can download notes here. You will get cheats. For example, I want to access HTML cheats. I can access cheats. I have all the elements. I will tell you about all the elements. I want to download the notes and cheats. You can download PDF notes. I have written the handwritten. I will tell you everything in this course. I will tell you everything. You will get more notes. I will show you a learning experience. You will get a lot of fun. I want you to add an initial review of this course. I want you to go to this video and post it in the comments section. I want you to write a comment section in the comments section. I will give 5 to start. I will tell you the initial review. I know that the course is very hard. But what quality and all these things. You are commenting below. If you do this, I will feel better. Go to the first video and rate the course. Now we will talk about how you can earn money after doing this course. The first way is to earn money from web development. You can free-lance from web development. You can make all the websites. You can get a lot of money after making them. A lot of people integrate API. And they integrate API. They earn a lot of money. They say that you have 4GBD. You have 4GBD. You can't do anything. But this is not true. You can make a website for 4GBD. You can make it even more easily. When you use 4GBD, you become a Geega chat developer. You can save your time. If I tell you the truth, I will get more free-lancing clients. I don't do that. I do that. I do that. I do that. I don't have to answer any questions. I have used 4GBD. I have done everything. I have done everything. I have done everything. I have done everything. You can easily deliver 4GBD. You can't do everything. You can use 4GBD. And then you can deliver free-lancing lines. Where do you get free-lancing lines? You can go to a 5-word website. Yes, I know that it is difficult to get work on 5-word. But you can go to buyer request. You can go to buyer request. Now you can match the buyer here. If I show you images, then you can go to buyer request. I have done this. I will start working on this. You will get a review of this. You will earn more money. The owner of your Fiverr is a gig. He has never ordered it. You will never get easily work. But if you have ordered 5 people on a gig. Then you get free-lancing lines. The buyers want to work on their credibility. They also want to earn money. They want to make money based on their money. You can try on 5-word. But before trying, you should make good websites. And today's response is to use cutting-edge technologies. You want to integrate the charge GBA. You will get work like this. You will not be able to design it. You will be able to make simple new apps. You can make complex websites. You can earn good money. Then you will get a job as a web developer. If you get a job, You will get a job. This job is less. Senior developers' demand is increasing. And their package is increasing. People are earning money. If you are a basic developer, You will get a job. You can sell your services. You can make Instagram account. You can upload images. You can upload some videos. You can upload your clients. I am not an app. I am saying that you should follow many followers. You can start following them. You can give 1-1 help. You can find your real-time job. If you want to learn something, I will tell you in DM. You can get a client. Trust me if you have a job. You can sell your course. I have uploaded this course in free. But you will get paid. When you get a course, You will get money for this course. They are making all the content in tember. They should use 4 GBP infrastructure to make a courses. If social media walkover If you want to do a website Sell courses easily from them. By now how much salary do you consider? I had not decided to finish the courses. I reached full rewards while posting on the platform. I left my course. But I have put it in the comments. So, I will have to write a signature on the comment section. And I will have to agree. Now, I have to upload a lot of course on this course. Because when I got the iPhone 15, 16, 19 Pro Max in the screen, Then who will ask Blackberry? That too, it will be paid Blackberry. And I am going to say that I have put so much effort in this. And I have put my experience in this. I know that in the upcoming videos, you will also know. That is why, you will get a lot of things in this course. I am aware that we are taking a slow start. But remember, we will raise the bar. So, please access the playlist. Like the video and give me your thumbs up. Thank you so much guys for watching this video. And I will see you next time. Bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "Last video, you guys loved it so much"
+    },
+    {
+      "start": 2.64,
+      "end": 5.04,
+      "text": "It's my pleasure to keep this course free"
+    },
+    {
+      "start": 5.04,
+      "end": 6.64,
+      "text": "It's a like for this free course"
+    },
+    {
+      "start": 6.64,
+      "end": 8.48,
+      "text": "When I started web development"
+    },
+    {
+      "start": 8.48,
+      "end": 10.8,
+      "text": "It was not a comprehensive course"
+    },
+    {
+      "start": 10.8,
+      "end": 13.56,
+      "text": "Free or paid, it was not a course"
+    },
+    {
+      "start": 13.56,
+      "end": 15.56,
+      "text": "So I can understand the free course"
+    },
+    {
+      "start": 15.56,
+      "end": 17.68,
+      "text": "How much money does it take to get free?"
+    },
+    {
+      "start": 17.68,
+      "end": 20.04,
+      "text": "And trust me, I live up to the expectations"
+    },
+    {
+      "start": 20.04,
+      "end": 21.76,
+      "text": "With that said, I would like to like this video"
+    },
+    {
+      "start": 21.76,
+      "end": 24.48,
+      "text": "Because we are going to make this video our first website"
+    },
+    {
+      "start": 24.48,
+      "end": 28.92,
+      "text": "In this video, I will be going to make an iPhone 15 Pro Max Order"
+    },
+    {
+      "start": 28.92,
+      "end": 30.92,
+      "text": "And why? How will we see it?"
+    },
+    {
+      "start": 30.92,
+      "end": 31.92,
+      "text": "We will come to the video"
+    },
+    {
+      "start": 31.92,
+      "end": 35.32,
+      "text": "For many people, your life's first website"
+    },
+    {
+      "start": 35.32,
+      "end": 36.52,
+      "text": "So it will be fun"
+    },
+    {
+      "start": 36.52,
+      "end": 38.0,
+      "text": "You guys are excited to know"
+    },
+    {
+      "start": 38.0,
+      "end": 39.52,
+      "text": "Write in the comment section, I am excited"
+    },
+    {
+      "start": 39.52,
+      "end": 41.16,
+      "text": "And in the comment section, I will write in the comment section"
+    },
+    {
+      "start": 41.16,
+      "end": 43.52,
+      "text": "I will give all the comments to heart"
+    },
+    {
+      "start": 43.52,
+      "end": 47.92,
+      "text": "In this video, we will learn how to link HTML website to CSS and JavaScript"
+    },
+    {
+      "start": 47.92,
+      "end": 53.28,
+      "text": "Along with that, I will give you guys notes, cheat sheet and many resources"
+    },
+    {
+      "start": 53.28,
+      "end": 55.28,
+      "text": "You guys will learn some such textings"
+    },
+    {
+      "start": 55.28,
+      "end": 57.28,
+      "text": "Because I have learnt in the years"
+    },
+    {
+      "start": 57.28,
+      "end": 59.28,
+      "text": "And you will learn the web development speed"
+    },
+    {
+      "start": 59.28,
+      "end": 61.28,
+      "text": "And you will learn the web development speed"
+    },
+    {
+      "start": 61.28,
+      "end": 64.28,
+      "text": "We will also show you how to make a VSCode"
+    },
+    {
+      "start": 64.28,
+      "end": 67.28,
+      "text": "How to make a VSCode, which will be a killer"
+    },
+    {
+      "start": 67.28,
+      "end": 72.28,
+      "text": "In this video, I will also tell you how to earn money from web development"
+    },
+    {
+      "start": 72.28,
+      "end": 74.28,
+      "text": "So let's start with full energy"
+    },
+    {
+      "start": 74.28,
+      "end": 75.28,
+      "text": "Let's roll the intro"
+    },
+    {
+      "start": 76.28,
+      "end": 78.28,
+      "text": "Subscribe to our channel"
+    },
+    {
+      "start": 78.28,
+      "end": 80.28,
+      "text": "And press the bell icon to get all the notifications"
+    },
+    {
+      "start": 80.28,
+      "end": 82.28,
+      "text": "And press the bell icon to get all notifications"
+    },
+    {
+      "start": 82.28,
+      "end": 84.28,
+      "text": "And press the bell icon to get all notifications"
+    },
+    {
+      "start": 84.28,
+      "end": 87.28,
+      "text": "Alright guys, so we have come to our commuter screen"
+    },
+    {
+      "start": 87.28,
+      "end": 89.28,
+      "text": "And before we start the video, you guys want to know"
+    },
+    {
+      "start": 89.28,
+      "end": 91.28,
+      "text": "That we need to access the playlist"
+    },
+    {
+      "start": 91.28,
+      "end": 93.28,
+      "text": "Secondly, we are very close to 5 billion subscribers"
+    },
+    {
+      "start": 93.28,
+      "end": 96.28,
+      "text": "And if you haven't subscribed yet, then please do so"
+    },
+    {
+      "start": 96.28,
+      "end": 100.28,
+      "text": "In today's video, we will tell you how to make a VSCode"
+    },
+    {
+      "start": 100.28,
+      "end": 101.28,
+      "text": "And how to make a VSCode"
+    },
+    {
+      "start": 101.28,
+      "end": 103.28,
+      "text": "First thing we will do is"
+    },
+    {
+      "start": 103.28,
+      "end": 105.28,
+      "text": "We will customize the VSCode"
+    },
+    {
+      "start": 105.28,
+      "end": 110.28,
+      "text": "So this is the folder in which we started our web development series"
+    },
+    {
+      "start": 110.28,
+      "end": 113.28,
+      "text": "Now I want to give you guys this web development series source code"
+    },
+    {
+      "start": 113.28,
+      "end": 115.28,
+      "text": "So I will configure the gate"
+    },
+    {
+      "start": 115.28,
+      "end": 118.28,
+      "text": "Now you guys have to know the gate"
+    },
+    {
+      "start": 118.28,
+      "end": 122.28,
+      "text": "But I will fire the gate hub desktop"
+    },
+    {
+      "start": 122.28,
+      "end": 125.28,
+      "text": "And I will do a new repository"
+    },
+    {
+      "start": 125.28,
+      "end": 127.28,
+      "text": "I will add a new repository"
+    },
+    {
+      "start": 127.28,
+      "end": 128.28,
+      "text": "I will add it"
+    },
+    {
+      "start": 128.28,
+      "end": 130.28,
+      "text": "I will create a new repository"
+    },
+    {
+      "start": 130.28,
+      "end": 132.28,
+      "text": "I will name it"
+    },
+    {
+      "start": 132.28,
+      "end": 134.28,
+      "text": "Sigma WebDevCodes"
+    },
+    {
+      "start": 134.28,
+      "end": 138.28,
+      "text": "And this is the folder I will select in this folder"
+    },
+    {
+      "start": 138.28,
+      "end": 140.28,
+      "text": "I will initialize this repository with grade"
+    },
+    {
+      "start": 140.28,
+      "end": 143.28,
+      "text": "And I will write a source code for Sigma WebDevelopment Codes"
+    },
+    {
+      "start": 143.28,
+      "end": 144.28,
+      "text": "I will create a repository"
+    },
+    {
+      "start": 144.28,
+      "end": 146.28,
+      "text": "So you will create a repository"
+    },
+    {
+      "start": 146.28,
+      "end": 148.28,
+      "text": "Which is called Sigma WebDevCodes"
+    },
+    {
+      "start": 148.28,
+      "end": 152.28,
+      "text": "First of all, I will add the relevant things in the video"
+    },
+    {
+      "start": 152.28,
+      "end": 155.28,
+      "text": "So these two files were relevant in the first video"
+    },
+    {
+      "start": 155.28,
+      "end": 157.28,
+      "text": "So I will name it Video1"
+    },
+    {
+      "start": 157.28,
+      "end": 159.28,
+      "text": "I will create a new folder in one place"
+    },
+    {
+      "start": 159.28,
+      "end": 163.28,
+      "text": "And I will move the files in one place"
+    },
+    {
+      "start": 163.28,
+      "end": 165.28,
+      "text": "I am not pushing all the videos on the gate"
+    },
+    {
+      "start": 165.28,
+      "end": 167.28,
+      "text": "You can use the sample videos"
+    },
+    {
+      "start": 167.28,
+      "end": 171.28,
+      "text": "So now I will update the source code"
+    },
+    {
+      "start": 171.28,
+      "end": 173.28,
+      "text": "And I will keep pushing on the gate"
+    },
+    {
+      "start": 173.28,
+      "end": 175.28,
+      "text": "How to push on the gate"
+    },
+    {
+      "start": 175.28,
+      "end": 177.28,
+      "text": "You guys don't need to learn this"
+    },
+    {
+      "start": 177.28,
+      "end": 179.28,
+      "text": "But this procedure is very simple"
+    },
+    {
+      "start": 179.28,
+      "end": 183.28,
+      "text": "I want to tell you that the gate is used by web developers"
+    },
+    {
+      "start": 183.28,
+      "end": 185.28,
+      "text": "They use general coders"
+    },
+    {
+      "start": 185.28,
+      "end": 189.28,
+      "text": "When they want to collaborate with other people"
+    },
+    {
+      "start": 189.28,
+      "end": 191.28,
+      "text": "So what will happen is that you will work with many programmers"
+    },
+    {
+      "start": 191.28,
+      "end": 195.28,
+      "text": "And those programmers will collaborate with your source code"
+    },
+    {
+      "start": 195.28,
+      "end": 197.28,
+      "text": "And to collaborate like this"
+    },
+    {
+      "start": 197.28,
+      "end": 199.28,
+      "text": "You will also push some code"
+    },
+    {
+      "start": 199.28,
+      "end": 201.28,
+      "text": "You will also push some code"
+    },
+    {
+      "start": 201.28,
+      "end": 203.28,
+      "text": "I am also creating a file"
+    },
+    {
+      "start": 203.28,
+      "end": 205.28,
+      "text": "I am creating another file"
+    },
+    {
+      "start": 205.28,
+      "end": 207.28,
+      "text": "Here gate is used"
+    },
+    {
+      "start": 207.28,
+      "end": 209.28,
+      "text": "And what is the gate of desktop?"
+    },
+    {
+      "start": 209.28,
+      "end": 211.28,
+      "text": "The gate is used to use it"
+    },
+    {
+      "start": 211.28,
+      "end": 213.28,
+      "text": "To make it a utility"
+    },
+    {
+      "start": 213.28,
+      "end": 215.28,
+      "text": "The gate is open source"
+    },
+    {
+      "start": 215.28,
+      "end": 217.28,
+      "text": "But gate is Microsoft own company"
+    },
+    {
+      "start": 217.28,
+      "end": 219.28,
+      "text": "Which is used to use gate"
+    },
+    {
+      "start": 219.28,
+      "end": 221.28,
+      "text": "And help you to host web interface"
+    },
+    {
+      "start": 221.28,
+      "end": 223.28,
+      "text": "In the future videos"
+    },
+    {
+      "start": 223.28,
+      "end": 225.28,
+      "text": "I will tell you more about the gate"
+    },
+    {
+      "start": 225.28,
+      "end": 227.28,
+      "text": "But I am just pushing the repository"
+    },
+    {
+      "start": 227.28,
+      "end": 229.28,
+      "text": "On the code with the gate of account"
+    },
+    {
+      "start": 229.28,
+      "end": 231.28,
+      "text": "You will get the link in the description"
+    },
+    {
+      "start": 231.28,
+      "end": 233.28,
+      "text": "And you will get the repository"
+    },
+    {
+      "start": 233.28,
+      "end": 235.28,
+      "text": "So as soon as I will give you the links"
+    },
+    {
+      "start": 235.28,
+      "end": 237.28,
+      "text": "You will get all the code"
+    },
+    {
+      "start": 237.28,
+      "end": 239.28,
+      "text": "And I will talk about it"
+    },
+    {
+      "start": 239.28,
+      "end": 241.28,
+      "text": "And I am creating a code"
+    },
+    {
+      "start": 241.28,
+      "end": 243.28,
+      "text": "To follow the absolute beginners"
+    },
+    {
+      "start": 243.28,
+      "end": 245.28,
+      "text": "So I will click on the publish repository"
+    },
+    {
+      "start": 245.28,
+      "end": 247.28,
+      "text": "And the code"
+    },
+    {
+      "start": 247.28,
+      "end": 249.28,
+      "text": "The folder will be synced"
+    },
+    {
+      "start": 249.28,
+      "end": 251.28,
+      "text": "All the codes will be uploaded"
+    },
+    {
+      "start": 251.28,
+      "end": 253.28,
+      "text": "And the sync will be uploaded"
+    },
+    {
+      "start": 253.28,
+      "end": 255.28,
+      "text": "And the changes will be there"
+    },
+    {
+      "start": 255.28,
+      "end": 257.28,
+      "text": "And if anyone changes"
+    },
+    {
+      "start": 257.28,
+      "end": 259.28,
+      "text": "I can pull here"
+    },
+    {
+      "start": 259.28,
+      "end": 261.28,
+      "text": "Click and then I can pull"
+    },
+    {
+      "start": 261.28,
+      "end": 263.28,
+      "text": "I will teach you all this"
+    },
+    {
+      "start": 263.28,
+      "end": 265.28,
+      "text": "You don't need to worry"
+    },
+    {
+      "start": 265.28,
+      "end": 267.28,
+      "text": "I will give you the code"
+    },
+    {
+      "start": 267.28,
+      "end": 269.28,
+      "text": "And I will make a video to name the folder"
+    },
+    {
+      "start": 269.28,
+      "end": 271.28,
+      "text": "And I will go inside this video"
+    },
+    {
+      "start": 271.28,
+      "end": 273.28,
+      "text": "And click on the shift right"
+    },
+    {
+      "start": 273.28,
+      "end": 275.28,
+      "text": "And open with vs code"
+    },
+    {
+      "start": 275.28,
+      "end": 277.28,
+      "text": "Here is open with code"
+    },
+    {
+      "start": 277.28,
+      "end": 279.28,
+      "text": "You will get the option if you have"
+    },
+    {
+      "start": 279.28,
+      "end": 281.28,
+      "text": "As I said, I have installed vs code"
+    },
+    {
+      "start": 281.28,
+      "end": 283.28,
+      "text": "If you have done changes"
+    },
+    {
+      "start": 283.28,
+      "end": 285.28,
+      "text": "And you have not checked"
+    },
+    {
+      "start": 285.28,
+      "end": 287.28,
+      "text": "You can solve the problem"
+    },
+    {
+      "start": 287.28,
+      "end": 289.28,
+      "text": "We will know and dismiss the notification"
+    },
+    {
+      "start": 289.28,
+      "end": 291.28,
+      "text": "And I will make the file"
+    },
+    {
+      "start": 291.28,
+      "end": 293.28,
+      "text": "And I will make index"
+    },
+    {
+      "start": 293.28,
+      "end": 295.28,
+      "text": "And this file will be here"
+    },
+    {
+      "start": 295.28,
+      "end": 297.28,
+      "text": "And I will tell you all"
+    },
+    {
+      "start": 297.28,
+      "end": 299.28,
+      "text": "And I know that many people are already"
+    },
+    {
+      "start": 299.28,
+      "end": 301.28,
+      "text": "already saying that"
+    },
+    {
+      "start": 301.28,
+      "end": 303.28,
+      "text": "I am making this code"
+    },
+    {
+      "start": 303.28,
+      "end": 305.28,
+      "text": "And I will follow all the beginners"
+    },
+    {
+      "start": 305.28,
+      "end": 307.28,
+      "text": "So I will make three files"
+    },
+    {
+      "start": 307.28,
+      "end": 309.28,
+      "text": "I will make index.html"
+    },
+    {
+      "start": 309.28,
+      "end": 311.28,
+      "text": "I will make the same file"
+    },
+    {
+      "start": 311.28,
+      "end": 313.28,
+      "text": "And I will make the same file"
+    },
+    {
+      "start": 313.28,
+      "end": 315.28,
+      "text": "script.js"
+    },
+    {
+      "start": 315.28,
+      "end": 317.28,
+      "text": "And I can name these files"
+    },
+    {
+      "start": 317.28,
+      "end": 319.28,
+      "text": "But I want to name these files"
+    },
+    {
+      "start": 319.28,
+      "end": 321.28,
+      "text": "Self-explanatory"
+    },
+    {
+      "start": 321.28,
+      "end": 323.28,
+      "text": "And I will tell you what is doing"
+    },
+    {
+      "start": 323.28,
+      "end": 325.28,
+      "text": "So this is your satisfaction"
+    },
+    {
+      "start": 325.28,
+      "end": 327.28,
+      "text": "I change the mod"
+    },
+    {
+      "start": 327.28,
+      "end": 329.28,
+      "text": "You can correct the key"
+    },
+    {
+      "start": 331.28,
+      "end": 333.28,
+      "text": "РЕ we have been asking"
+    },
+    {
+      "start": 333.28,
+      "end": 339.86,
+      "text": "So let's"
+    },
+    {
+      "start": 345.28,
+      "end": 347.28,
+      "text": "Checkику"
+    },
+    {
+      "start": 347.28,
+      "end": 349.28,
+      "text": "Going to typing"
+    },
+    {
+      "start": 349.28,
+      "end": 351.28,
+      "text": "Add toん"
+    },
+    {
+      "start": 351.28,
+      "end": 355.28,
+      "text": "We will use this to make a website."
+    },
+    {
+      "start": 355.28,
+      "end": 358.28,
+      "text": "Now, in the VSCode extension tab,"
+    },
+    {
+      "start": 358.28,
+      "end": 362.28,
+      "text": "we will use the extension functionality of VSCode."
+    },
+    {
+      "start": 362.28,
+      "end": 367.28,
+      "text": "We will use the extension functionality of VSCode to make it better."
+    },
+    {
+      "start": 367.28,
+      "end": 372.28,
+      "text": "We will use the extension of VSCode to make it better."
+    },
+    {
+      "start": 372.28,
+      "end": 375.28,
+      "text": "We will use the extension of the console."
+    },
+    {
+      "start": 375.28,
+      "end": 377.28,
+      "text": "First, I will add some extensions"
+    },
+    {
+      "start": 377.28,
+      "end": 380.28,
+      "text": "which will be a very good way to make it better."
+    },
+    {
+      "start": 380.28,
+      "end": 383.28,
+      "text": "If you have seen this, you will see this."
+    },
+    {
+      "start": 383.28,
+      "end": 386.28,
+      "text": "I will do it quickly."
+    },
+    {
+      "start": 386.28,
+      "end": 388.28,
+      "text": "VSCode icons"
+    },
+    {
+      "start": 388.28,
+      "end": 391.28,
+      "text": "I will do the extension of VSCode icons"
+    },
+    {
+      "start": 391.28,
+      "end": 394.28,
+      "text": "and I will install them."
+    },
+    {
+      "start": 394.28,
+      "end": 397.28,
+      "text": "You will see all the files you have seen."
+    },
+    {
+      "start": 397.28,
+      "end": 399.28,
+      "text": "I did not come to the first icon."
+    },
+    {
+      "start": 399.28,
+      "end": 402.28,
+      "text": "You will see all the icons."
+    },
+    {
+      "start": 402.28,
+      "end": 404.28,
+      "text": "Thanks for installing VSCode icons."
+    },
+    {
+      "start": 404.28,
+      "end": 406.28,
+      "text": "I will activate them."
+    },
+    {
+      "start": 406.28,
+      "end": 409.28,
+      "text": "You can see that this is our icon."
+    },
+    {
+      "start": 409.28,
+      "end": 412.28,
+      "text": "We will make a folder."
+    },
+    {
+      "start": 412.28,
+      "end": 414.28,
+      "text": "We will make a folder like this."
+    },
+    {
+      "start": 414.28,
+      "end": 416.28,
+      "text": "This icon looks good."
+    },
+    {
+      "start": 416.28,
+      "end": 418.28,
+      "text": "We will come to the extension of VSCode and"
+    },
+    {
+      "start": 418.28,
+      "end": 420.28,
+      "text": "you can use this theme very well."
+    },
+    {
+      "start": 420.28,
+      "end": 424.28,
+      "text": "There is a lot of themes in this theme."
+    },
+    {
+      "start": 424.28,
+      "end": 427.28,
+      "text": "You can use these themes."
+    },
+    {
+      "start": 427.28,
+      "end": 430.28,
+      "text": "But I can only use this theme in time."
+    },
+    {
+      "start": 430.28,
+      "end": 433.28,
+      "text": "This is the default VSCode theme."
+    },
+    {
+      "start": 433.28,
+      "end": 436.28,
+      "text": "I will change my theme."
+    },
+    {
+      "start": 436.28,
+      "end": 439.28,
+      "text": "I will show you the VSCode in different ways."
+    },
+    {
+      "start": 439.28,
+      "end": 442.28,
+      "text": "I will show you the concept of VSCode."
+    },
+    {
+      "start": 442.28,
+      "end": 445.28,
+      "text": "I will show you the github theme."
+    },
+    {
+      "start": 445.28,
+      "end": 448.28,
+      "text": "This is the github theme."
+    },
+    {
+      "start": 448.28,
+      "end": 451.28,
+      "text": "This is the github theme."
+    },
+    {
+      "start": 451.28,
+      "end": 453.28,
+      "text": "This is the github dark."
+    },
+    {
+      "start": 453.28,
+      "end": 455.28,
+      "text": "This is the github light."
+    },
+    {
+      "start": 455.28,
+      "end": 457.28,
+      "text": "This is the github dimmed."
+    },
+    {
+      "start": 457.28,
+      "end": 459.28,
+      "text": "This is better."
+    },
+    {
+      "start": 460.28,
+      "end": 463.28,
+      "text": "This is the github dark."
+    },
+    {
+      "start": 463.28,
+      "end": 466.28,
+      "text": "I will show you the colors."
+    },
+    {
+      "start": 466.28,
+      "end": 470.28,
+      "text": "The theme is jellyfish."
+    },
+    {
+      "start": 470.28,
+      "end": 473.28,
+      "text": "Jellyfish is a good theme for people."
+    },
+    {
+      "start": 473.28,
+      "end": 476.28,
+      "text": "If I install this, I will show you the github."
+    },
+    {
+      "start": 476.28,
+      "end": 478.28,
+      "text": "Jellyfish is a great theme for people."
+    },
+    {
+      "start": 478.28,
+      "end": 481.28,
+      "text": "There is a lot of popular theme in this theme."
+    },
+    {
+      "start": 481.28,
+      "end": 484.28,
+      "text": "If I use the theme for material."
+    },
+    {
+      "start": 484.28,
+      "end": 488.28,
+      "text": "I will install the theme for materials."
+    },
+    {
+      "start": 488.28,
+      "end": 492.28,
+      "text": "If you have installed the items, you can change the items."
+    },
+    {
+      "start": 492.28,
+      "end": 494.28,
+      "text": "You can control the concept of the items."
+    },
+    {
+      "start": 494.28,
+      "end": 497.28,
+      "text": "We have installed the items."
+    },
+    {
+      "start": 497.28,
+      "end": 499.28,
+      "text": "I will tell you the items."
+    },
+    {
+      "start": 499.28,
+      "end": 502.28,
+      "text": "I will show you the VSCode material."
+    },
+    {
+      "start": 502.28,
+      "end": 505.28,
+      "text": "If you want, you can use the items."
+    },
+    {
+      "start": 505.28,
+      "end": 508.28,
+      "text": "I will show you the items."
+    },
+    {
+      "start": 508.28,
+      "end": 511.28,
+      "text": "I will simply do this."
+    },
+    {
+      "start": 511.28,
+      "end": 515.28,
+      "text": "I will show you the materials."
+    },
+    {
+      "start": 516.28,
+      "end": 520.28,
+      "text": "I will use this."
+    },
+    {
+      "start": 520.28,
+      "end": 522.28,
+      "text": "I will install the items."
+    },
+    {
+      "start": 522.28,
+      "end": 524.28,
+      "text": "I will also install the items."
+    },
+    {
+      "start": 524.28,
+      "end": 528.28,
+      "text": "I will need to click on the re-load required items."
+    },
+    {
+      "start": 528.28,
+      "end": 530.28,
+      "text": "I will need to do the VSCode."
+    },
+    {
+      "start": 530.28,
+      "end": 533.28,
+      "text": "You can use your VSCode."
+    },
+    {
+      "start": 533.28,
+      "end": 537.28,
+      "text": "I will choose the VSCode item."
+    },
+    {
+      "start": 537.28,
+      "end": 540.28,
+      "text": "If I want to do the VSCode item, I will like it."
+    },
+    {
+      "start": 540.28,
+      "end": 543.28,
+      "text": "The theme is jellyfish."
+    },
+    {
+      "start": 543.28,
+      "end": 547.28,
+      "text": "I will not install it, but I want to tell you one more extension,"
+    },
+    {
+      "start": 547.28,
+      "end": 552.28,
+      "text": "ES7 will react, and you will find out, and we will react in this course,"
+    },
+    {
+      "start": 552.28,
+      "end": 556.28,
+      "text": "for all those asking, sorry for the spoilers, but we will react in this course."
+    },
+    {
+      "start": 556.28,
+      "end": 560.28,
+      "text": "So this is ES7 plus React Redux React Native snippets,"
+    },
+    {
+      "start": 560.28,
+      "end": 562.28,
+      "text": "extension, which you will react in this snippets,"
+    },
+    {
+      "start": 562.28,
+      "end": 564.28,
+      "text": "we will use it now, and we will react,"
+    },
+    {
+      "start": 564.28,
+      "end": 566.28,
+      "text": "we will not install it now,"
+    },
+    {
+      "start": 566.28,
+      "end": 569.28,
+      "text": "but now is the most important thing,"
+    },
+    {
+      "start": 569.28,
+      "end": 571.28,
+      "text": "extension is its name, Live Preview."
+    },
+    {
+      "start": 571.28,
+      "end": 573.28,
+      "text": "This is the extension of Live Preview,"
+    },
+    {
+      "start": 573.28,
+      "end": 575.28,
+      "text": "we will install it now, because it is very short extension,"
+    },
+    {
+      "start": 575.28,
+      "end": 577.28,
+      "text": "you will tell as much extension you like,"
+    },
+    {
+      "start": 577.28,
+      "end": 581.28,
+      "text": "you will help people to change the look and feel of VS code,"
+    },
+    {
+      "start": 581.28,
+      "end": 584.28,
+      "text": "but I will tell you the extension of Live Preview,"
+    },
+    {
+      "start": 584.28,
+      "end": 586.28,
+      "text": "this will be used in actual use,"
+    },
+    {
+      "start": 586.28,
+      "end": 588.28,
+      "text": "the HTML CSS JavaScript file."
+    },
+    {
+      "start": 588.28,
+      "end": 591.28,
+      "text": "So this is our HTML CSS and JavaScript files,"
+    },
+    {
+      "start": 591.28,
+      "end": 593.28,
+      "text": "this is the HTML file,"
+    },
+    {
+      "start": 593.28,
+      "end": 596.28,
+      "text": "it is a code, which is known as the website,"
+    },
+    {
+      "start": 596.28,
+      "end": 598.28,
+      "text": "how to see it from the side,"
+    },
+    {
+      "start": 598.28,
+      "end": 601.28,
+      "text": "so here I am telling you, I should document in title,"
+    },
+    {
+      "start": 601.28,
+      "end": 602.28,
+      "text": "I will write here,"
+    },
+    {
+      "start": 602.28,
+      "end": 604.28,
+      "text": "Harry by Key First Website,"
+    },
+    {
+      "start": 604.28,
+      "end": 607.28,
+      "text": "Harry by Key Course,"
+    },
+    {
+      "start": 607.28,
+      "end": 609.28,
+      "text": "Key Course Website,"
+    },
+    {
+      "start": 609.28,
+      "end": 611.28,
+      "text": "Harry by Key First Website will be removed,"
+    },
+    {
+      "start": 611.28,
+      "end": 613.28,
+      "text": "you will write your name in this,"
+    },
+    {
+      "start": 613.28,
+      "end": 615.28,
+      "text": "whatever your Key First Website name is,"
+    },
+    {
+      "start": 615.28,
+      "end": 617.28,
+      "text": "and here in the body,"
+    },
+    {
+      "start": 617.28,
+      "end": 619.28,
+      "text": "hey this is my first website,"
+    },
+    {
+      "start": 619.28,
+      "end": 621.28,
+      "text": "and all in the comment below,"
+    },
+    {
+      "start": 621.28,
+      "end": 622.28,
+      "text": "congratulations,"
+    },
+    {
+      "start": 622.28,
+      "end": 623.28,
+      "text": "the first website is all,"
+    },
+    {
+      "start": 623.28,
+      "end": 626.28,
+      "text": "congratulations, congratulations for my first website,"
+    },
+    {
+      "start": 626.28,
+      "end": 628.28,
+      "text": "and congratulations for my first website,"
+    },
+    {
+      "start": 628.28,
+      "end": 630.28,
+      "text": "let me make a small comment section,"
+    },
+    {
+      "start": 630.28,
+      "end": 632.28,
+      "text": "I will also come, I will also come in comment section,"
+    },
+    {
+      "start": 632.28,
+      "end": 634.28,
+      "text": "and I will give you all,"
+    },
+    {
+      "start": 634.28,
+      "end": 635.28,
+      "text": "hey this is my first website,"
+    },
+    {
+      "start": 635.28,
+      "end": 636.28,
+      "text": "now,"
+    },
+    {
+      "start": 636.28,
+      "end": 638.28,
+      "text": "let's see how to do it,"
+    },
+    {
+      "start": 638.28,
+      "end": 639.28,
+      "text": "first of all, people say,"
+    },
+    {
+      "start": 639.28,
+      "end": 640.28,
+      "text": "so let's see,"
+    },
+    {
+      "start": 640.28,
+      "end": 641.28,
+      "text": "we have installed two things,"
+    },
+    {
+      "start": 641.28,
+      "end": 644.28,
+      "text": "we have installed extension in Live Preview,"
+    },
+    {
+      "start": 644.28,
+      "end": 645.28,
+      "text": "sorry,"
+    },
+    {
+      "start": 645.28,
+      "end": 646.28,
+      "text": "the first live server was running,"
+    },
+    {
+      "start": 646.28,
+      "end": 648.28,
+      "text": "but Microsoft released the Live Preview,"
+    },
+    {
+      "start": 648.28,
+      "end": 650.28,
+      "text": "so I will recommend the latest joy extension,"
+    },
+    {
+      "start": 650.28,
+      "end": 652.28,
+      "text": "this is the same server,"
+    },
+    {
+      "start": 652.28,
+      "end": 654.28,
+      "text": "but I will not run Live server,"
+    },
+    {
+      "start": 654.28,
+      "end": 656.28,
+      "text": "I will use the same server,"
+    },
+    {
+      "start": 656.28,
+      "end": 658.28,
+      "text": "after installing Live Preview,"
+    },
+    {
+      "start": 658.28,
+      "end": 660.28,
+      "text": "you will see,"
+    },
+    {
+      "start": 660.28,
+      "end": 662.28,
+      "text": "you will see your website,"
+    },
+    {
+      "start": 662.28,
+      "end": 664.28,
+      "text": "now, you will see,"
+    },
+    {
+      "start": 664.28,
+      "end": 666.28,
+      "text": "I want to see this website,"
+    },
+    {
+      "start": 666.28,
+      "end": 668.28,
+      "text": "because my website will show you,"
+    },
+    {
+      "start": 668.28,
+      "end": 670.28,
+      "text": "so if you want to see it,"
+    },
+    {
+      "start": 670.28,
+      "end": 672.28,
+      "text": "click here,"
+    },
+    {
+      "start": 672.28,
+      "end": 674.28,
+      "text": "open this browser,"
+    },
+    {
+      "start": 674.28,
+      "end": 676.28,
+      "text": "and I will also listen to it,"
+    },
+    {
+      "start": 676.28,
+      "end": 678.28,
+      "text": "you can close it,"
+    },
+    {
+      "start": 678.28,
+      "end": 680.28,
+      "text": "here you can write,"
+    },
+    {
+      "start": 680.28,
+      "end": 682.28,
+      "text": "I am writing my code,"
+    },
+    {
+      "start": 682.28,
+      "end": 684.28,
+      "text": "I am writing my code,"
+    },
+    {
+      "start": 684.28,
+      "end": 686.28,
+      "text": "but yes,"
+    },
+    {
+      "start": 686.28,
+      "end": 688.28,
+      "text": "I have written it,"
+    },
+    {
+      "start": 688.28,
+      "end": 690.28,
+      "text": "and you have noticed,"
+    },
+    {
+      "start": 690.28,
+      "end": 692.28,
+      "text": "I did not reload this website,"
+    },
+    {
+      "start": 692.28,
+      "end": 694.28,
+      "text": "but after that,"
+    },
+    {
+      "start": 694.28,
+      "end": 696.28,
+      "text": "I have also updated this content,"
+    },
+    {
+      "start": 696.28,
+      "end": 698.28,
+      "text": "which I have written in the code,"
+    },
+    {
+      "start": 698.28,
+      "end": 700.28,
+      "text": "or I will write it here,"
+    },
+    {
+      "start": 700.28,
+      "end": 702.28,
+      "text": "without reload,"
+    },
+    {
+      "start": 702.28,
+      "end": 704.28,
+      "text": "it will be updated,"
+    },
+    {
+      "start": 704.28,
+      "end": 706.28,
+      "text": "it will be not updated,"
+    },
+    {
+      "start": 706.28,
+      "end": 708.28,
+      "text": "save it,"
+    },
+    {
+      "start": 708.28,
+      "end": 710.28,
+      "text": "it will be updated,"
+    },
+    {
+      "start": 710.28,
+      "end": 712.28,
+      "text": "and here,"
+    },
+    {
+      "start": 712.28,
+      "end": 714.28,
+      "text": "this is my first website,"
+    },
+    {
+      "start": 714.28,
+      "end": 716.28,
+      "text": "Harrybike code,"
+    },
+    {
+      "start": 716.28,
+      "end": 718.28,
+      "text": "now I will write it here,"
+    },
+    {
+      "start": 718.28,
+      "end": 720.28,
+      "text": "it is a Sigma Harry code,"
+    },
+    {
+      "start": 720.28,
+      "end": 722.28,
+      "text": "Sigma Harrybike code,"
+    },
+    {
+      "start": 722.28,
+      "end": 724.28,
+      "text": "Sigma Harrybike code,"
+    },
+    {
+      "start": 724.28,
+      "end": 726.28,
+      "text": "so here,"
+    },
+    {
+      "start": 726.28,
+      "end": 728.28,
+      "text": "you have seen,"
+    },
+    {
+      "start": 728.28,
+      "end": 730.28,
+      "text": "how this extension will help,"
+    },
+    {
+      "start": 730.28,
+      "end": 732.28,
+      "text": "reload it,"
+    },
+    {
+      "start": 732.28,
+      "end": 734.28,
+      "text": "it will not be able to do it,"
+    },
+    {
+      "start": 734.28,
+      "end": 736.28,
+      "text": "because it is reloading live,"
+    },
+    {
+      "start": 736.28,
+      "end": 738.28,
+      "text": "it is the same as my previous,"
+    },
+    {
+      "start": 738.28,
+      "end": 740.28,
+      "text": "so that you can see the white code,"
+    },
+    {
+      "start": 740.28,
+      "end": 742.28,
+      "text": "sometimes we want to see the code,"
+    },
+    {
+      "start": 742.28,
+      "end": 744.28,
+      "text": "because we want to see the same,"
+    },
+    {
+      "start": 744.28,
+      "end": 746.28,
+      "text": "because we want to see the live preview,"
+    },
+    {
+      "start": 746.28,
+      "end": 748.28,
+      "text": "so I am writing something,"
+    },
+    {
+      "start": 748.28,
+      "end": 750.28,
+      "text": "Harrybike code is true,"
+    },
+    {
+      "start": 750.28,
+      "end": 752.28,
+      "text": "and this is Sigma code,"
+    },
+    {
+      "start": 752.28,
+      "end": 754.28,
+      "text": "and I will write something more in the description,"
+    },
+    {
+      "start": 754.28,
+      "end": 756.28,
+      "text": "I can write everything,"
+    },
+    {
+      "start": 756.28,
+      "end": 758.28,
+      "text": "I will write here,"
+    },
+    {
+      "start": 758.28,
+      "end": 760.28,
+      "text": "and I can also do it in a small way,"
+    },
+    {
+      "start": 760.28,
+      "end": 762.28,
+      "text": "so I will update the live here,"
+    },
+    {
+      "start": 762.28,
+      "end": 764.28,
+      "text": "if you have seen my previous videos,"
+    },
+    {
+      "start": 764.28,
+      "end": 766.28,
+      "text": "I will show you the extension of this live server,"
+    },
+    {
+      "start": 766.28,
+      "end": 768.28,
+      "text": "this extension was not my experience,"
+    },
+    {
+      "start": 768.28,
+      "end": 770.28,
+      "text": "I did not know,"
+    },
+    {
+      "start": 770.28,
+      "end": 772.28,
+      "text": "it is a head,"
+    },
+    {
+      "start": 772.28,
+      "end": 774.28,
+      "text": "now something new comes,"
+    },
+    {
+      "start": 774.28,
+      "end": 776.28,
+      "text": "but this is something that you should use,"
+    },
+    {
+      "start": 776.28,
+      "end": 778.28,
+      "text": "because I use AC in my daily life,"
+    },
+    {
+      "start": 778.28,
+      "end": 780.28,
+      "text": "I am doing web development,"
+    },
+    {
+      "start": 780.28,
+      "end": 782.28,
+      "text": "so I will ask people,"
+    },
+    {
+      "start": 782.28,
+      "end": 784.28,
+      "text": "you also do web development,"
+    },
+    {
+      "start": 784.28,
+      "end": 786.28,
+      "text": "I will make websites,"
+    },
+    {
+      "start": 786.28,
+      "end": 788.28,
+      "text": "I will not make videos,"
+    },
+    {
+      "start": 788.28,
+      "end": 790.28,
+      "text": "I will also make websites,"
+    },
+    {
+      "start": 790.28,
+      "end": 792.28,
+      "text": "and I will also make websites,"
+    },
+    {
+      "start": 792.28,
+      "end": 794.28,
+      "text": "and you will get all this,"
+    },
+    {
+      "start": 794.28,
+      "end": 796.28,
+      "text": "you will get all this,"
+    },
+    {
+      "start": 796.28,
+      "end": 798.28,
+      "text": "in the description of the video,"
+    },
+    {
+      "start": 798.28,
+      "end": 800.28,
+      "text": "in any video,"
+    },
+    {
+      "start": 800.28,
+      "end": 802.28,
+      "text": "you will get the corresponding video,"
+    },
+    {
+      "start": 802.28,
+      "end": 804.28,
+      "text": "you will get the code,"
+    },
+    {
+      "start": 804.28,
+      "end": 806.28,
+      "text": "I will make it,"
+    },
+    {
+      "start": 806.28,
+      "end": 808.28,
+      "text": "because my previous video is here,"
+    },
+    {
+      "start": 808.28,
+      "end": 810.28,
+      "text": "and I have talked about some HTML CSS,"
+    },
+    {
+      "start": 810.28,
+      "end": 812.28,
+      "text": "which I have talked about,"
+    },
+    {
+      "start": 812.28,
+      "end": 814.28,
+      "text": "I will tell you how to link these 3,"
+    },
+    {
+      "start": 814.28,
+      "end": 816.28,
+      "text": "you can make a good index and HTML,"
+    },
+    {
+      "start": 816.28,
+      "end": 818.28,
+      "text": "you can see the title here,"
+    },
+    {
+      "start": 818.28,
+      "end": 820.28,
+      "text": "here you can see the first website,"
+    },
+    {
+      "start": 820.28,
+      "end": 822.28,
+      "text": "I will make a website called"
+    },
+    {
+      "start": 822.28,
+      "end": 824.28,
+      "text": "Sigma web development,"
+    },
+    {
+      "start": 824.28,
+      "end": 826.28,
+      "text": "so this will be changed,"
+    },
+    {
+      "start": 826.28,
+      "end": 828.28,
+      "text": "Sigma,"
+    },
+    {
+      "start": 828.28,
+      "end": 830.28,
+      "text": "Sigma web development,"
+    },
+    {
+      "start": 830.28,
+      "end": 832.28,
+      "text": "of course,"
+    },
+    {
+      "start": 832.28,
+      "end": 834.28,
+      "text": "you can see the code here,"
+    },
+    {
+      "start": 834.28,
+      "end": 836.28,
+      "text": "that this is update,"
+    },
+    {
+      "start": 836.28,
+      "end": 838.28,
+      "text": "it will be update,"
+    },
+    {
+      "start": 838.28,
+      "end": 840.28,
+      "text": "now I want my background to be red,"
+    },
+    {
+      "start": 840.28,
+      "end": 844.28,
+      "text": "so I can write the body,"
+    },
+    {
+      "start": 844.28,
+      "end": 846.28,
+      "text": "and background color red,"
+    },
+    {
+      "start": 846.28,
+      "end": 850.28,
+      "text": "so this will be the syntax of CSS,"
+    },
+    {
+      "start": 850.28,
+      "end": 852.28,
+      "text": "I will read CSS,"
+    },
+    {
+      "start": 852.28,
+      "end": 854.28,
+      "text": "and I will read it,"
+    },
+    {
+      "start": 854.28,
+      "end": 856.28,
+      "text": "so I will read it,"
+    },
+    {
+      "start": 856.28,
+      "end": 858.28,
+      "text": "so I will read it,"
+    },
+    {
+      "start": 858.28,
+      "end": 860.28,
+      "text": "and you can see,"
+    },
+    {
+      "start": 860.28,
+      "end": 862.28,
+      "text": "that the color of the body will not be red,"
+    },
+    {
+      "start": 862.28,
+      "end": 864.28,
+      "text": "comment section,"
+    },
+    {
+      "start": 864.28,
+      "end": 866.28,
+      "text": "I will tell you the reason,"
+    },
+    {
+      "start": 866.28,
+      "end": 868.28,
+      "text": "why not,"
+    },
+    {
+      "start": 868.28,
+      "end": 870.28,
+      "text": "because the color will not be red,"
+    },
+    {
+      "start": 870.28,
+      "end": 872.28,
+      "text": "this is not the right time,"
+    },
+    {
+      "start": 872.28,
+      "end": 874.28,
+      "text": "this is not the right time,"
+    },
+    {
+      "start": 874.28,
+      "end": 876.28,
+      "text": "I am going to read it,"
+    },
+    {
+      "start": 876.28,
+      "end": 878.28,
+      "text": "I have made a Dal,"
+    },
+    {
+      "start": 878.28,
+      "end": 880.28,
+      "text": "and I will expect it,"
+    },
+    {
+      "start": 880.28,
+      "end": 882.28,
+      "text": "I have made a Chowl,"
+    },
+    {
+      "start": 882.28,
+      "end": 884.28,
+      "text": "and I will expect it,"
+    },
+    {
+      "start": 884.28,
+      "end": 886.28,
+      "text": "I am not eating it,"
+    },
+    {
+      "start": 886.28,
+      "end": 888.28,
+      "text": "I can eat it,"
+    },
+    {
+      "start": 888.28,
+      "end": 890.28,
+      "text": "but I am going to make a link,"
+    },
+    {
+      "start": 890.28,
+      "end": 892.28,
+      "text": "you will have to go and read it,"
+    },
+    {
+      "start": 892.28,
+      "end": 894.28,
+      "text": "I will make a Dal,"
+    },
+    {
+      "start": 894.28,
+      "end": 896.28,
+      "text": "you will have to write a Handshake,"
+    },
+    {
+      "start": 896.28,
+      "end": 898.28,
+      "text": "how will it be?"
+    },
+    {
+      "start": 898.28,
+      "end": 900.28,
+      "text": "HTML,"
+    },
+    {
+      "start": 900.28,
+      "end": 902.28,
+      "text": "you will tell the CSS file,"
+    },
+    {
+      "start": 902.28,
+      "end": 904.28,
+      "text": "you will have to use it,"
+    },
+    {
+      "start": 904.28,
+      "end": 906.28,
+      "text": "I will write a link,"
+    },
+    {
+      "start": 906.28,
+      "end": 908.28,
+      "text": "I will select the link,"
+    },
+    {
+      "start": 908.28,
+      "end": 910.28,
+      "text": "I will select the link,"
+    },
+    {
+      "start": 910.28,
+      "end": 912.28,
+      "text": "I have made a half-carned,"
+    },
+    {
+      "start": 912.28,
+      "end": 914.28,
+      "text": "I will write this style,"
+    },
+    {
+      "start": 914.28,
+      "end": 916.28,
+      "text": "I have to type in the Manoli,"
+    },
+    {
+      "start": 916.28,
+      "end": 918.28,
+      "text": "I have to write it,"
+    },
+    {
+      "start": 918.28,
+      "end": 920.28,
+      "text": "but automatically,"
+    },
+    {
+      "start": 920.28,
+      "end": 922.28,
+      "text": "now the style.css is my destiny,"
+    },
+    {
+      "start": 922.28,
+      "end": 924.28,
+      "text": "it is called style.css file,"
+    },
+    {
+      "start": 924.28,
+      "end": 926.28,
+      "text": "and here too,"
+    },
+    {
+      "start": 926.28,
+      "end": 928.28,
+      "text": "if it is called Harry.css,"
+    },
+    {
+      "start": 928.28,
+      "end": 930.28,
+      "text": "and guess what?"
+    },
+    {
+      "start": 930.28,
+      "end": 932.28,
+      "text": "I have made a background,"
+    },
+    {
+      "start": 932.28,
+      "end": 934.28,
+      "text": "now I want to write a white text,"
+    },
+    {
+      "start": 934.28,
+      "end": 936.28,
+      "text": "I can write a color text,"
+    },
+    {
+      "start": 936.28,
+      "end": 938.28,
+      "text": "I can write a color white,"
+    },
+    {
+      "start": 938.28,
+      "end": 940.28,
+      "text": "I will not write anything here,"
+    },
+    {
+      "start": 940.28,
+      "end": 942.28,
+      "text": "I have written a color white,"
+    },
+    {
+      "start": 942.28,
+      "end": 944.28,
+      "text": "I will write a white text,"
+    },
+    {
+      "start": 944.28,
+      "end": 946.28,
+      "text": "and I will talk about it later in this course,"
+    },
+    {
+      "start": 946.28,
+      "end": 948.28,
+      "text": "so this is our run,"
+    },
+    {
+      "start": 948.28,
+      "end": 950.28,
+      "text": "CSS,"
+    },
+    {
+      "start": 950.28,
+      "end": 952.28,
+      "text": "how will it work?"
+    },
+    {
+      "start": 952.28,
+      "end": 954.28,
+      "text": "I will write a alert,"
+    },
+    {
+      "start": 954.28,
+      "end": 956.28,
+      "text": "and I will write a welcome to sigma,"
+    },
+    {
+      "start": 956.28,
+      "end": 958.28,
+      "text": "web development course,"
+    },
+    {
+      "start": 958.28,
+      "end": 960.28,
+      "text": "I will write a welcome to sigma,"
+    },
+    {
+      "start": 960.28,
+      "end": 962.28,
+      "text": "web development course,"
+    },
+    {
+      "start": 962.28,
+      "end": 964.28,
+      "text": "so what will be the alert?"
+    },
+    {
+      "start": 964.28,
+      "end": 966.28,
+      "text": "I will tell you,"
+    },
+    {
+      "start": 966.28,
+      "end": 968.28,
+      "text": "this is syntax,"
+    },
+    {
+      "start": 968.28,
+      "end": 970.28,
+      "text": "there is no problem in the correct test syntax,"
+    },
+    {
+      "start": 970.28,
+      "end": 972.28,
+      "text": "and I will write a lot of JavaScript,"
+    },
+    {
+      "start": 972.28,
+      "end": 974.28,
+      "text": "so this is the code of JavaScript,"
+    },
+    {
+      "start": 974.28,
+      "end": 976.28,
+      "text": "which is called the screen,"
+    },
+    {
+      "start": 976.28,
+      "end": 978.28,
+      "text": "and I will flash the code,"
+    },
+    {
+      "start": 978.28,
+      "end": 980.28,
+      "text": "why not?"
+    },
+    {
+      "start": 980.28,
+      "end": 982.28,
+      "text": "I have lost my computer,"
+    },
+    {
+      "start": 982.28,
+      "end": 984.28,
+      "text": "no, my computer is correct,"
+    },
+    {
+      "start": 984.28,
+      "end": 986.28,
+      "text": "I want to tell you that I will have to include the script,"
+    },
+    {
+      "start": 986.28,
+      "end": 988.28,
+      "text": "and let's include the script in the body,"
+    },
+    {
+      "start": 988.28,
+      "end": 990.28,
+      "text": "just before the body,"
+    },
+    {
+      "start": 990.28,
+      "end": 992.28,
+      "text": "I will include the script in the SRC,"
+    },
+    {
+      "start": 992.28,
+      "end": 994.28,
+      "text": "I will write a script.js,"
+    },
+    {
+      "start": 994.28,
+      "end": 996.28,
+      "text": "I have not written it,"
+    },
+    {
+      "start": 996.28,
+      "end": 998.28,
+      "text": "I have written it first,"
+    },
+    {
+      "start": 998.28,
+      "end": 1000.28,
+      "text": "what I have written first?"
+    },
+    {
+      "start": 1000.28,
+      "end": 1002.28,
+      "text": "Script,"
+    },
+    {
+      "start": 1002.28,
+      "end": 1004.28,
+      "text": "what is the M8 abbreviation?"
+    },
+    {
+      "start": 1004.28,
+      "end": 1006.28,
+      "text": "M8 is a plugin,"
+    },
+    {
+      "start": 1006.28,
+      "end": 1008.28,
+      "text": "which is built in VS code,"
+    },
+    {
+      "start": 1008.28,
+      "end": 1010.28,
+      "text": "you will select it,"
+    },
+    {
+      "start": 1010.28,
+      "end": 1012.28,
+      "text": "and I will write a script here,"
+    },
+    {
+      "start": 1012.28,
+      "end": 1014.28,
+      "text": "and I will select a colon SRC,"
+    },
+    {
+      "start": 1014.28,
+      "end": 1016.28,
+      "text": "you can also type it manually,"
+    },
+    {
+      "start": 1016.28,
+      "end": 1018.28,
+      "text": "but you can write the suggestions,"
+    },
+    {
+      "start": 1018.28,
+      "end": 1022.28,
+      "text": "or you can make the characters and tastes,"
+    },
+    {
+      "start": 1022.28,
+      "end": 1024.28,
+      "text": "you make the Adboot developer,"
+    },
+    {
+      "start": 1024.28,
+      "end": 1026.28,
+      "text": "and you can make the characters,"
+    },
+    {
+      "start": 1026.28,
+      "end": 1028.28,
+      "text": "which you cannot find in the Sunkat,"
+    },
+    {
+      "start": 1028.28,
+      "end": 1030.28,
+      "text": "and you can make the character of your azr developer"
+    },
+    {
+      "start": 1030.28,
+      "end": 1032.28,
+      "text": "as a result,"
+    },
+    {
+      "start": 1032.28,
+      "end": 1034.28,
+      "text": "SRC is equal to"
+    },
+    {
+      "start": 1034.28,
+      "end": 1036.28,
+      "text": "script.js,"
+    },
+    {
+      "start": 1036.28,
+      "end": 1038.28,
+      "text": "you can see here,"
+    },
+    {
+      "start": 1038.28,
+      "end": 1040.28,
+      "text": "I will include it now,"
+    },
+    {
+      "start": 1040.28,
+      "end": 1042.28,
+      "text": "I will come here,"
+    },
+    {
+      "start": 1042.28,
+      "end": 1044.28,
+      "text": "and I will write a script in the SK,"
+    },
+    {
+      "start": 1044.28,
+      "end": 1046.28,
+      "text": "write it,"
+    },
+    {
+      "start": 1046.28,
+      "end": 1048.28,
+      "text": "because I know that your azr developer"
+    },
+    {
+      "start": 1048.28,
+      "end": 1050.28,
+      "text": "has gone to the SK,"
+    },
+    {
+      "start": 1050.28,
+      "end": 1052.28,
+      "text": "and you will be able to reload it,"
+    },
+    {
+      "start": 1052.28,
+      "end": 1054.28,
+      "text": "and you will be able to reload it,"
+    },
+    {
+      "start": 1054.28,
+      "end": 1056.28,
+      "text": "I will visit this website,"
+    },
+    {
+      "start": 1056.28,
+      "end": 1058.28,
+      "text": "and I will see an alert here,"
+    },
+    {
+      "start": 1058.28,
+      "end": 1060.28,
+      "text": "which is called alert,"
+    },
+    {
+      "start": 1060.28,
+      "end": 1062.28,
+      "text": "I will tell you what is the word,"
+    },
+    {
+      "start": 1062.28,
+      "end": 1064.28,
+      "text": "you have not told me the alert,"
+    },
+    {
+      "start": 1064.28,
+      "end": 1066.28,
+      "text": "I will start the video,"
+    },
+    {
+      "start": 1066.28,
+      "end": 1068.28,
+      "text": "and then I will finish the video,"
+    },
+    {
+      "start": 1068.28,
+      "end": 1070.28,
+      "text": "so don't worry,"
+    },
+    {
+      "start": 1070.28,
+      "end": 1072.28,
+      "text": "I will tell you the best practices,"
+    },
+    {
+      "start": 1072.28,
+      "end": 1074.28,
+      "text": "and I will tell you,"
+    },
+    {
+      "start": 1074.28,
+      "end": 1076.28,
+      "text": "because whatever I am telling you,"
+    },
+    {
+      "start": 1076.28,
+      "end": 1078.28,
+      "text": "is coming from my experience,"
+    },
+    {
+      "start": 1078.28,
+      "end": 1080.28,
+      "text": "is coming from a long time experience,"
+    },
+    {
+      "start": 1080.28,
+      "end": 1082.28,
+      "text": "and definitely help you,"
+    },
+    {
+      "start": 1082.28,
+      "end": 1084.28,
+      "text": "as I said,"
+    },
+    {
+      "start": 1084.28,
+      "end": 1086.28,
+      "text": "you can use it now,"
+    },
+    {
+      "start": 1086.28,
+      "end": 1088.28,
+      "text": "and I will write it now,"
+    },
+    {
+      "start": 1088.28,
+      "end": 1090.28,
+      "text": "in the comments,"
+    },
+    {
+      "start": 1090.28,
+      "end": 1092.28,
+      "text": "all the people are enjoying the course,"
+    },
+    {
+      "start": 1092.28,
+      "end": 1094.28,
+      "text": "so put the SIGMA BATCH OP in the comments,"
+    },
+    {
+      "start": 1094.28,
+      "end": 1096.28,
+      "text": "and see,"
+    },
+    {
+      "start": 1096.28,
+      "end": 1098.28,
+      "text": "what is the batch,"
+    },
+    {
+      "start": 1098.28,
+      "end": 1100.28,
+      "text": "and I will write the SIGMA BATCH OP in the comments,"
+    },
+    {
+      "start": 1100.28,
+      "end": 1102.28,
+      "text": "and I will show you,"
+    },
+    {
+      "start": 1102.28,
+      "end": 1104.28,
+      "text": "how to make this mouse wheel,"
+    },
+    {
+      "start": 1104.28,
+      "end": 1106.28,
+      "text": "so you have to go to the settings,"
+    },
+    {
+      "start": 1106.28,
+      "end": 1108.28,
+      "text": "write a mouse wheel,"
+    },
+    {
+      "start": 1108.28,
+      "end": 1110.28,
+      "text": "and check the editor mouse wheel,"
+    },
+    {
+      "start": 1110.28,
+      "end": 1112.28,
+      "text": "and then you press Ctrl,"
+    },
+    {
+      "start": 1112.28,
+      "end": 1114.28,
+      "text": "and press Ctrl,"
+    },
+    {
+      "start": 1114.28,
+      "end": 1116.28,
+      "text": "then you press Ctrl,"
+    },
+    {
+      "start": 1116.28,
+      "end": 1118.28,
+      "text": "and I will zoom in,"
+    },
+    {
+      "start": 1118.28,
+      "end": 1120.28,
+      "text": "and if I delete the command,"
+    },
+    {
+      "start": 1120.28,
+      "end": 1122.28,
+      "text": "then I can toggle screen cast mode,"
+    },
+    {
+      "start": 1122.28,
+      "end": 1124.28,
+      "text": "and whatever I will write,"
+    },
+    {
+      "start": 1124.28,
+      "end": 1126.28,
+      "text": "I will not toggle screen cast mode,"
+    },
+    {
+      "start": 1126.28,
+      "end": 1128.28,
+      "text": "because I already know what I am typing,"
+    },
+    {
+      "start": 1128.28,
+      "end": 1130.28,
+      "text": "so I can toggle screen cast mode,"
+    },
+    {
+      "start": 1130.28,
+      "end": 1132.28,
+      "text": "so I can turn on screen cast mode,"
+    },
+    {
+      "start": 1132.28,
+      "end": 1134.28,
+      "text": "so I can turn on screen cast mode,"
+    },
+    {
+      "start": 1134.28,
+      "end": 1136.28,
+      "text": "and I will show you all the things,"
+    },
+    {
+      "start": 1136.28,
+      "end": 1138.28,
+      "text": "in the last video,"
+    },
+    {
+      "start": 1138.28,
+      "end": 1140.28,
+      "text": "we talked about websites,"
+    },
+    {
+      "start": 1140.28,
+      "end": 1142.28,
+      "text": "and we talked about all these things,"
+    },
+    {
+      "start": 1142.28,
+      "end": 1144.28,
+      "text": "you all understood a lot,"
+    },
+    {
+      "start": 1144.28,
+      "end": 1146.28,
+      "text": "I will take an example of iPhone 15 Pro Max,"
+    },
+    {
+      "start": 1146.28,
+      "end": 1148.28,
+      "text": "and I will show you,"
+    },
+    {
+      "start": 1148.28,
+      "end": 1150.28,
+      "text": "how to make a client server interaction,"
+    },
+    {
+      "start": 1150.28,
+      "end": 1152.28,
+      "text": "whenever a user,"
+    },
+    {
+      "start": 1152.28,
+      "end": 1154.28,
+      "text": "is ordering an iPhone,"
+    },
+    {
+      "start": 1154.28,
+      "end": 1156.28,
+      "text": "so you will find interesting,"
+    },
+    {
+      "start": 1156.28,
+      "end": 1158.28,
+      "text": "I will show you,"
+    },
+    {
+      "start": 1158.28,
+      "end": 1160.28,
+      "text": "so how to make a website,"
+    },
+    {
+      "start": 1160.28,
+      "end": 1162.28,
+      "text": "I have already explained Apple.com,"
+    },
+    {
+      "start": 1162.28,
+      "end": 1164.28,
+      "text": "now the Apple.com is the same website,"
+    },
+    {
+      "start": 1164.28,
+      "end": 1166.28,
+      "text": "because the data has come from the server,"
+    },
+    {
+      "start": 1166.28,
+      "end": 1168.28,
+      "text": "and the HTML file,"
+    },
+    {
+      "start": 1168.28,
+      "end": 1170.28,
+      "text": "I will click on pre-order,"
+    },
+    {
+      "start": 1170.28,
+      "end": 1172.28,
+      "text": "and then I will simply,"
+    },
+    {
+      "start": 1172.28,
+      "end": 1174.28,
+      "text": "when I record,"
+    },
+    {
+      "start": 1174.28,
+      "end": 1176.28,
+      "text": "this is not the case,"
+    },
+    {
+      "start": 1176.28,
+      "end": 1178.28,
+      "text": "because this is the case,"
+    },
+    {
+      "start": 1178.28,
+      "end": 1180.28,
+      "text": "I will select 15 Pro Max,"
+    },
+    {
+      "start": 1180.28,
+      "end": 1182.28,
+      "text": "and I will take some black and"
+    },
+    {
+      "start": 1182.28,
+      "end": 1188.28,
+      "text": "orange,"
+    },
+    {
+      "start": 1188.28,
+      "end": 1190.28,
+      "text": "and say,"
+    },
+    {
+      "start": 1190.28,
+      "end": 1192.28,
+      "text": "I choose 16 Pro Myche,"
+    },
+    {
+      "start": 1192.28,
+      "end": 1205.54,
+      "text": "24 Pro mac"
+    },
+    {
+      "start": 1206.56,
+      "end": 1209.56,
+      "text": "24 Pro Bass AGB vendo,"
+    },
+    {
+      "start": 1209.56,
+      "end": 1211.96,
+      "text": "24 Pro bass 4 Pro WC,"
+    },
+    {
+      "start": 1211.96,
+      "end": 1214.98,
+      "text": "I'm today with Apple servers"
+    },
+    {
+      "start": 1214.98,
+      "end": 1218.1,
+      "text": "My main question is how am i to actions like this"
+    },
+    {
+      "start": 1218.1,
+      "end": 1220.44,
+      "text": "Because Jawa Script is coming to calls"
+    },
+    {
+      "start": 1220.44,
+      "end": 1223.88,
+      "text": "This server took the appropriate actions"
+    },
+    {
+      "start": 1223.88,
+      "end": 1226.2,
+      "text": "And my data is on good."
+    },
+    {
+      "start": 1226.2,
+      "end": 1229.5,
+      "text": "I like to deliver"
+    },
+    {
+      "start": 1229.98,
+      "end": 1232.18,
+      "text": "So can I deliver the software again?"
+    },
+    {
+      "start": 1232.18,
+      "end": 1234.42,
+      "text": "Athe AI winners and games are finished"
+    },
+    {
+      "start": 1234.42,
+      "end": 1237.08,
+      "text": "Alright now we're up"
+    },
+    {
+      "start": 1237.08,
+      "end": 1238.58,
+      "text": "I�or schwierigelf"
+    },
+    {
+      "start": 1238.58,
+      "end": 1241.46,
+      "text": "I am in thisᵅᵘᵉᵄᵉᵂ 라고"
+    },
+    {
+      "start": 1241.46,
+      "end": 1245.46,
+      "text": "I will also order iPhones to go to the government."
+    },
+    {
+      "start": 1245.46,
+      "end": 1251.96,
+      "text": "I will confirm this with OTP and my purchase."
+    },
+    {
+      "start": 1251.96,
+      "end": 1257.46,
+      "text": "I have requested some Apple.com servers from the server."
+    },
+    {
+      "start": 1257.46,
+      "end": 1262.46,
+      "text": "I have given an iPhone 15 Pro Max to Apple.com."
+    },
+    {
+      "start": 1262.46,
+      "end": 1267.46,
+      "text": "The communication between the server and client is through JavaScript."
+    },
+    {
+      "start": 1267.46,
+      "end": 1273.46,
+      "text": "I have also selected the iPhone and clicked on the other one."
+    },
+    {
+      "start": 1273.46,
+      "end": 1277.46,
+      "text": "The whole thing is like JavaScript."
+    },
+    {
+      "start": 1277.46,
+      "end": 1280.46,
+      "text": "The styling is like CSS."
+    },
+    {
+      "start": 1280.46,
+      "end": 1282.46,
+      "text": "And the HTML is written."
+    },
+    {
+      "start": 1282.46,
+      "end": 1285.46,
+      "text": "I hope you will remember this example."
+    },
+    {
+      "start": 1285.46,
+      "end": 1286.46,
+      "text": "I will definitely show you."
+    },
+    {
+      "start": 1286.46,
+      "end": 1290.46,
+      "text": "I will show you a lot of people."
+    },
+    {
+      "start": 1290.46,
+      "end": 1292.46,
+      "text": "I will show you this phone."
+    },
+    {
+      "start": 1292.46,
+      "end": 1296.46,
+      "text": "This is how your websites work."
+    },
+    {
+      "start": 1296.46,
+      "end": 1298.46,
+      "text": "I have come to know this example."
+    },
+    {
+      "start": 1298.46,
+      "end": 1301.46,
+      "text": "I want to give a comment section."
+    },
+    {
+      "start": 1301.46,
+      "end": 1303.46,
+      "text": "What is the best thing?"
+    },
+    {
+      "start": 1303.46,
+      "end": 1307.46,
+      "text": "I have also done a general giveaway."
+    },
+    {
+      "start": 1307.46,
+      "end": 1310.46,
+      "text": "I will tell you about this."
+    },
+    {
+      "start": 1310.46,
+      "end": 1312.46,
+      "text": "I want to tell you about the knowledge."
+    },
+    {
+      "start": 1312.46,
+      "end": 1315.46,
+      "text": "I want to tell you about the notes and cheats."
+    },
+    {
+      "start": 1315.46,
+      "end": 1318.46,
+      "text": "If you go to CodeVedary.com slash notes,"
+    },
+    {
+      "start": 1318.46,
+      "end": 1323.46,
+      "text": "you will get notes and you can download notes here."
+    },
+    {
+      "start": 1323.46,
+      "end": 1325.46,
+      "text": "You will get cheats."
+    },
+    {
+      "start": 1325.46,
+      "end": 1329.46,
+      "text": "For example, I want to access HTML cheats."
+    },
+    {
+      "start": 1329.46,
+      "end": 1331.46,
+      "text": "I can access cheats."
+    },
+    {
+      "start": 1331.46,
+      "end": 1333.46,
+      "text": "I have all the elements."
+    },
+    {
+      "start": 1333.46,
+      "end": 1336.46,
+      "text": "I will tell you about all the elements."
+    },
+    {
+      "start": 1336.46,
+      "end": 1340.46,
+      "text": "I want to download the notes and cheats."
+    },
+    {
+      "start": 1340.46,
+      "end": 1343.46,
+      "text": "You can download PDF notes."
+    },
+    {
+      "start": 1343.46,
+      "end": 1345.46,
+      "text": "I have written the handwritten."
+    },
+    {
+      "start": 1345.46,
+      "end": 1347.46,
+      "text": "I will tell you everything in this course."
+    },
+    {
+      "start": 1347.46,
+      "end": 1348.46,
+      "text": "I will tell you everything."
+    },
+    {
+      "start": 1348.46,
+      "end": 1350.46,
+      "text": "You will get more notes."
+    },
+    {
+      "start": 1350.46,
+      "end": 1353.46,
+      "text": "I will show you a learning experience."
+    },
+    {
+      "start": 1353.46,
+      "end": 1355.46,
+      "text": "You will get a lot of fun."
+    },
+    {
+      "start": 1355.46,
+      "end": 1360.46,
+      "text": "I want you to add an initial review of this course."
+    },
+    {
+      "start": 1360.46,
+      "end": 1366.46,
+      "text": "I want you to go to this video and post it in the comments section."
+    },
+    {
+      "start": 1366.46,
+      "end": 1371.46,
+      "text": "I want you to write a comment section in the comments section."
+    },
+    {
+      "start": 1371.46,
+      "end": 1374.46,
+      "text": "I will give 5 to start."
+    },
+    {
+      "start": 1374.46,
+      "end": 1377.46,
+      "text": "I will tell you the initial review."
+    },
+    {
+      "start": 1377.46,
+      "end": 1379.46,
+      "text": "I know that the course is very hard."
+    },
+    {
+      "start": 1379.46,
+      "end": 1382.46,
+      "text": "But what quality and all these things."
+    },
+    {
+      "start": 1382.46,
+      "end": 1384.46,
+      "text": "You are commenting below."
+    },
+    {
+      "start": 1384.46,
+      "end": 1386.46,
+      "text": "If you do this, I will feel better."
+    },
+    {
+      "start": 1386.46,
+      "end": 1388.46,
+      "text": "Go to the first video and rate the course."
+    },
+    {
+      "start": 1388.46,
+      "end": 1393.46,
+      "text": "Now we will talk about how you can earn money after doing this course."
+    },
+    {
+      "start": 1393.46,
+      "end": 1396.46,
+      "text": "The first way is to earn money from web development."
+    },
+    {
+      "start": 1396.46,
+      "end": 1399.46,
+      "text": "You can free-lance from web development."
+    },
+    {
+      "start": 1399.46,
+      "end": 1402.46,
+      "text": "You can make all the websites."
+    },
+    {
+      "start": 1402.46,
+      "end": 1405.46,
+      "text": "You can get a lot of money after making them."
+    },
+    {
+      "start": 1405.46,
+      "end": 1407.46,
+      "text": "A lot of people integrate API."
+    },
+    {
+      "start": 1407.46,
+      "end": 1409.46,
+      "text": "And they integrate API."
+    },
+    {
+      "start": 1409.46,
+      "end": 1411.46,
+      "text": "They earn a lot of money."
+    },
+    {
+      "start": 1411.46,
+      "end": 1413.46,
+      "text": "They say that you have 4GBD."
+    },
+    {
+      "start": 1413.46,
+      "end": 1414.46,
+      "text": "You have 4GBD."
+    },
+    {
+      "start": 1414.46,
+      "end": 1416.46,
+      "text": "You can't do anything."
+    },
+    {
+      "start": 1416.46,
+      "end": 1417.46,
+      "text": "But this is not true."
+    },
+    {
+      "start": 1417.46,
+      "end": 1419.46,
+      "text": "You can make a website for 4GBD."
+    },
+    {
+      "start": 1419.46,
+      "end": 1421.46,
+      "text": "You can make it even more easily."
+    },
+    {
+      "start": 1421.46,
+      "end": 1423.46,
+      "text": "When you use 4GBD,"
+    },
+    {
+      "start": 1423.46,
+      "end": 1425.46,
+      "text": "you become a Geega chat developer."
+    },
+    {
+      "start": 1425.46,
+      "end": 1427.46,
+      "text": "You can save your time."
+    },
+    {
+      "start": 1427.46,
+      "end": 1429.46,
+      "text": "If I tell you the truth,"
+    },
+    {
+      "start": 1429.46,
+      "end": 1431.46,
+      "text": "I will get more free-lancing clients."
+    },
+    {
+      "start": 1431.46,
+      "end": 1434.46,
+      "text": "I don't do that."
+    },
+    {
+      "start": 1434.46,
+      "end": 1436.46,
+      "text": "I do that."
+    },
+    {
+      "start": 1436.46,
+      "end": 1438.46,
+      "text": "I do that."
+    },
+    {
+      "start": 1438.46,
+      "end": 1440.46,
+      "text": "I do that."
+    },
+    {
+      "start": 1440.46,
+      "end": 1443.46,
+      "text": "I don't have to answer any questions."
+    },
+    {
+      "start": 1443.46,
+      "end": 1445.46,
+      "text": "I have used 4GBD."
+    },
+    {
+      "start": 1445.46,
+      "end": 1447.46,
+      "text": "I have done everything."
+    },
+    {
+      "start": 1447.46,
+      "end": 1449.46,
+      "text": "I have done everything."
+    },
+    {
+      "start": 1449.46,
+      "end": 1451.46,
+      "text": "I have done everything."
+    },
+    {
+      "start": 1451.46,
+      "end": 1453.46,
+      "text": "I have done everything."
+    },
+    {
+      "start": 1453.46,
+      "end": 1456.46,
+      "text": "You can easily deliver 4GBD."
+    },
+    {
+      "start": 1456.46,
+      "end": 1458.46,
+      "text": "You can't do everything."
+    },
+    {
+      "start": 1458.46,
+      "end": 1460.46,
+      "text": "You can use 4GBD."
+    },
+    {
+      "start": 1460.46,
+      "end": 1463.46,
+      "text": "And then you can deliver free-lancing lines."
+    },
+    {
+      "start": 1463.46,
+      "end": 1465.46,
+      "text": "Where do you get free-lancing lines?"
+    },
+    {
+      "start": 1465.46,
+      "end": 1467.46,
+      "text": "You can go to a 5-word website."
+    },
+    {
+      "start": 1467.46,
+      "end": 1470.46,
+      "text": "Yes, I know that it is difficult to get work on 5-word."
+    },
+    {
+      "start": 1470.46,
+      "end": 1472.46,
+      "text": "But you can go to buyer request."
+    },
+    {
+      "start": 1472.46,
+      "end": 1474.46,
+      "text": "You can go to buyer request."
+    },
+    {
+      "start": 1474.46,
+      "end": 1477.46,
+      "text": "Now you can match the buyer here."
+    },
+    {
+      "start": 1477.46,
+      "end": 1479.46,
+      "text": "If I show you images,"
+    },
+    {
+      "start": 1479.46,
+      "end": 1481.46,
+      "text": "then you can go to buyer request."
+    },
+    {
+      "start": 1481.46,
+      "end": 1484.46,
+      "text": "I have done this."
+    },
+    {
+      "start": 1484.46,
+      "end": 1487.46,
+      "text": "I will start working on this."
+    },
+    {
+      "start": 1487.46,
+      "end": 1490.46,
+      "text": "You will get a review of this."
+    },
+    {
+      "start": 1490.46,
+      "end": 1492.46,
+      "text": "You will earn more money."
+    },
+    {
+      "start": 1492.46,
+      "end": 1494.46,
+      "text": "The owner of your Fiverr is a gig."
+    },
+    {
+      "start": 1494.46,
+      "end": 1496.46,
+      "text": "He has never ordered it."
+    },
+    {
+      "start": 1496.46,
+      "end": 1498.46,
+      "text": "You will never get easily work."
+    },
+    {
+      "start": 1498.46,
+      "end": 1502.46,
+      "text": "But if you have ordered 5 people on a gig."
+    },
+    {
+      "start": 1502.46,
+      "end": 1505.46,
+      "text": "Then you get free-lancing lines."
+    },
+    {
+      "start": 1505.46,
+      "end": 1510.46,
+      "text": "The buyers want to work on their credibility."
+    },
+    {
+      "start": 1510.46,
+      "end": 1513.46,
+      "text": "They also want to earn money."
+    },
+    {
+      "start": 1513.46,
+      "end": 1516.46,
+      "text": "They want to make money based on their money."
+    },
+    {
+      "start": 1516.46,
+      "end": 1519.46,
+      "text": "You can try on 5-word."
+    },
+    {
+      "start": 1519.46,
+      "end": 1523.46,
+      "text": "But before trying, you should make good websites."
+    },
+    {
+      "start": 1523.46,
+      "end": 1527.46,
+      "text": "And today's response is to use cutting-edge technologies."
+    },
+    {
+      "start": 1527.46,
+      "end": 1530.46,
+      "text": "You want to integrate the charge GBA."
+    },
+    {
+      "start": 1530.46,
+      "end": 1532.46,
+      "text": "You will get work like this."
+    },
+    {
+      "start": 1532.46,
+      "end": 1534.46,
+      "text": "You will not be able to design it."
+    },
+    {
+      "start": 1534.46,
+      "end": 1537.46,
+      "text": "You will be able to make simple new apps."
+    },
+    {
+      "start": 1537.46,
+      "end": 1540.46,
+      "text": "You can make complex websites."
+    },
+    {
+      "start": 1540.46,
+      "end": 1543.46,
+      "text": "You can earn good money."
+    },
+    {
+      "start": 1543.46,
+      "end": 1546.46,
+      "text": "Then you will get a job as a web developer."
+    },
+    {
+      "start": 1546.46,
+      "end": 1548.46,
+      "text": "If you get a job,"
+    },
+    {
+      "start": 1548.46,
+      "end": 1551.46,
+      "text": "You will get a job."
+    },
+    {
+      "start": 1551.46,
+      "end": 1553.46,
+      "text": "This job is less."
+    },
+    {
+      "start": 1553.46,
+      "end": 1556.46,
+      "text": "Senior developers' demand is increasing."
+    },
+    {
+      "start": 1556.46,
+      "end": 1558.46,
+      "text": "And their package is increasing."
+    },
+    {
+      "start": 1558.46,
+      "end": 1560.46,
+      "text": "People are earning money."
+    },
+    {
+      "start": 1560.46,
+      "end": 1562.46,
+      "text": "If you are a basic developer,"
+    },
+    {
+      "start": 1562.46,
+      "end": 1564.46,
+      "text": "You will get a job."
+    },
+    {
+      "start": 1564.46,
+      "end": 1567.46,
+      "text": "You can sell your services."
+    },
+    {
+      "start": 1567.46,
+      "end": 1570.46,
+      "text": "You can make Instagram account."
+    },
+    {
+      "start": 1570.46,
+      "end": 1573.46,
+      "text": "You can upload images."
+    },
+    {
+      "start": 1573.46,
+      "end": 1576.46,
+      "text": "You can upload some videos."
+    },
+    {
+      "start": 1576.46,
+      "end": 1579.46,
+      "text": "You can upload your clients."
+    },
+    {
+      "start": 1579.46,
+      "end": 1582.46,
+      "text": "I am not an app."
+    },
+    {
+      "start": 1582.46,
+      "end": 1585.46,
+      "text": "I am saying that you should follow many followers."
+    },
+    {
+      "start": 1585.46,
+      "end": 1588.46,
+      "text": "You can start following them."
+    },
+    {
+      "start": 1588.46,
+      "end": 1591.46,
+      "text": "You can give 1-1 help."
+    },
+    {
+      "start": 1591.46,
+      "end": 1594.46,
+      "text": "You can find your real-time job."
+    },
+    {
+      "start": 1594.46,
+      "end": 1596.46,
+      "text": "If you want to learn something,"
+    },
+    {
+      "start": 1596.46,
+      "end": 1598.46,
+      "text": "I will tell you in DM."
+    },
+    {
+      "start": 1598.46,
+      "end": 1600.46,
+      "text": "You can get a client."
+    },
+    {
+      "start": 1600.46,
+      "end": 1602.46,
+      "text": "Trust me if you have a job."
+    },
+    {
+      "start": 1602.46,
+      "end": 1605.46,
+      "text": "You can sell your course."
+    },
+    {
+      "start": 1605.46,
+      "end": 1609.46,
+      "text": "I have uploaded this course in free."
+    },
+    {
+      "start": 1609.46,
+      "end": 1612.46,
+      "text": "But you will get paid."
+    },
+    {
+      "start": 1612.46,
+      "end": 1615.46,
+      "text": "When you get a course,"
+    },
+    {
+      "start": 1615.46,
+      "end": 1618.46,
+      "text": "You will get money for this course."
+    },
+    {
+      "start": 1618.46,
+      "end": 1621.46,
+      "text": "They are making all the content in tember."
+    },
+    {
+      "start": 1621.46,
+      "end": 1624.46,
+      "text": "They should use 4 GBP infrastructure to make a courses."
+    },
+    {
+      "start": 1624.46,
+      "end": 1625.46,
+      "text": "If social media walkover"
+    },
+    {
+      "start": 1625.46,
+      "end": 1628.28,
+      "text": "If you want to do a website"
+    },
+    {
+      "start": 1628.28,
+      "end": 1630.28,
+      "text": "Sell courses easily from them."
+    },
+    {
+      "start": 1630.28,
+      "end": 1632.54,
+      "text": "By now how much salary do you consider?"
+    },
+    {
+      "start": 1632.54,
+      "end": 1634.46,
+      "text": "I had not decided to finish the courses."
+    },
+    {
+      "start": 1634.46,
+      "end": 1644.64,
+      "text": "I reached full rewards while posting on the platform."
+    },
+    {
+      "start": 1644.64,
+      "end": 1646.66,
+      "text": "I left my course."
+    },
+    {
+      "start": 1646.66,
+      "end": 1647.66,
+      "text": "But I have put it in the comments."
+    },
+    {
+      "start": 1647.66,
+      "end": 1649.66,
+      "text": "So, I will have to write a signature on the comment section."
+    },
+    {
+      "start": 1649.66,
+      "end": 1651.66,
+      "text": "And I will have to agree."
+    },
+    {
+      "start": 1651.66,
+      "end": 1654.66,
+      "text": "Now, I have to upload a lot of course on this course."
+    },
+    {
+      "start": 1654.66,
+      "end": 1658.66,
+      "text": "Because when I got the iPhone 15, 16, 19 Pro Max in the screen,"
+    },
+    {
+      "start": 1658.66,
+      "end": 1660.66,
+      "text": "Then who will ask Blackberry?"
+    },
+    {
+      "start": 1660.66,
+      "end": 1661.66,
+      "text": "That too, it will be paid Blackberry."
+    },
+    {
+      "start": 1661.66,
+      "end": 1664.66,
+      "text": "And I am going to say that I have put so much effort in this."
+    },
+    {
+      "start": 1664.66,
+      "end": 1666.66,
+      "text": "And I have put my experience in this."
+    },
+    {
+      "start": 1666.66,
+      "end": 1669.66,
+      "text": "I know that in the upcoming videos, you will also know."
+    },
+    {
+      "start": 1669.66,
+      "end": 1673.66,
+      "text": "That is why, you will get a lot of things in this course."
+    },
+    {
+      "start": 1673.66,
+      "end": 1676.66,
+      "text": "I am aware that we are taking a slow start."
+    },
+    {
+      "start": 1676.66,
+      "end": 1679.66,
+      "text": "But remember, we will raise the bar."
+    },
+    {
+      "start": 1679.66,
+      "end": 1681.66,
+      "text": "So, please access the playlist."
+    },
+    {
+      "start": 1681.66,
+      "end": 1683.66,
+      "text": "Like the video and give me your thumbs up."
+    },
+    {
+      "start": 1683.66,
+      "end": 1685.66,
+      "text": "Thank you so much guys for watching this video."
+    },
+    {
+      "start": 1685.66,
+      "end": 1687.66,
+      "text": "And I will see you next time."
+    },
+    {
+      "start": 1703.66,
+      "end": 1709.66,
+      "text": "Bye."
+    }
+  ]
+}

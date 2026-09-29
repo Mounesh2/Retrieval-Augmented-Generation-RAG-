@@ -1,0 +1,1189 @@
+{
+  "video": 14,
+  "course": "Sigma Web Development",
+  "source_file": "14_Introduction to CSS _ Sigma Web Development Course - Tutorial #14 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " Guys, from today's video, we are going to start CSS We have increased a lot in this course We finished the HTML and many more interesting people have shown their enthusiasm Don't decline your interest in this video Like this video and write a comment in the comments section with high energy If you are maintaining high energy throughout the course CSS stands for Cascading Style Sheets And with the help of Cascading Style Sheets, we implement HTML The HTML was never intended to create styled pages The work of HTML was started by creating a basic structure of the website And then the CSS is taking responsibility to style the page The selectors in the CSS are the ones who help select some element I will tell you what is the selector in this video From what it is written in CSS And in the coming videos, we are going to raise the bar like anything We will make real world websites And such websites like Amazon, Blip card, Netflix, YouTube To make all these websites capable So I am very excited Let's go to the computer screen Let's go to the intro So I am going to make a folder here And I will make a video of 14 It is very fun in this course Because I have never made a course of the main level of the industry Now I will tell you about the CSS Why you will use CSS? HTML was never intended to style the pages It was always intended to create a skeleton There were many tags in HTML Which were deprecated, like font tag Because HTML was responsible for creating a skeleton website That's about it The work of the work of the thing is to take all the CSS Now in this video, we will make real world websites And if you have not done the playlist access yet Do so, all the source codes are coming here Code with Harry.com slash notes If you go to them So you will download HTML's notes You will get additional things to see So now you will click on PDF notes You will get HTML's PDF notes In my handwriting, I have written it twice It is 100 notes It is very expensive So download everyone will do it And I will put the link in the description I have told you about the HTML If it is a car body The car is made of wood So CSS is made of paint, decoration, designs, seeds, interior And what is JavaScript? Engine and internal logic We will talk about it later We have done HTML now We are talking about CSS Now I will tell you more examples Like how human body is in the skeleton You have done HTML, skin, hair, hair You have done CSS And our brain is our nerves Our neurons All of them are our JavaScript So I hope that everything is clear You are all ready So in the end, HTML was never intended to style websites This is the method of CSS CSS has done HTML a lot I am here And I will help in styling So CSS has done the CSS method To style pages So HTML is to download the notes Car, spoiler, alert, notes, CSS is also a part of it But listen to me first Download it I have given the spoiler But don't download it I have put a lot of time and took it from me So see, there are a lot of things to get And I have never made this level course I am ready to do it So if I try to do it with a shift and click on Open with Code Here, the video 14th folder is open in my VS Code Now I am going to make a file in index.html And mark the exclamation mark Or like the boilerplate code We used to do HTML course By the way, if we do videos like HTML And write CSS in my title And I am going to write a div in my body Hey, I am Harry And today I am in CSS mood Okay, I am going to write here and preview So here, I will click on the preview You can see here I am Harry and today I am in CSS mood So what is CSS? You can add CSS basically Use style tech What are the two ways? Because I will tell you in the videos I will tell you a lot of things Now let me tell you Look, the div The div Color it red I will say it in my mind I said The div is color red So this is the div inside The div is the selector And this is our declaration So selector and declaration The div is the selector So the div is the color of the div Which is our What is our value? This is the value of the property So this is our declaration And this is our selector I hope you understood Now I will show you the page So let's see the color of the div Because I said that the div is the color of the div So if I will make another div here And write it in the name of the div I am good So I am good color And if I add another declaration And write the background yellow Here the background yellow Here the background yellow Here the background yellow The selector will match The background yellow So you can see I said div And this was div If I make a span And write the name of the div So what will happen? Is this red? No, it will not be red Because this selector And these declarations Are not applicable on these elements Okay, no element is not div So if I add a paragraph And I will add a lawm 435 I think 435 is too much 43 is enough So I have added a lot of lawm Because our page will make a lot of changes And this is not applied Not applied in this I just said div So all the conditions Are applied Now if I apply a comma And select the multiple elements And I will do a diverse span So the diverse span will be red And here the background yellow What is the diverse span? My selector I have applied this declaration This is property The color is the property Which is the value red Okay, so now you can see Where there will be div Where there will be span And that is pretty much how CSS works That's all we have What will we learn in the coming videos Is this property And this selector I will tell you about different selector Just remember that about it It's as simple as that And we use Amazon We use Flipkart We use Facebook And then we can make all of these And we can make all of these And tomorrow we will do the same Technology And we can make mobile apps We will explore all these things And we will explore all these things And we will have a great time And you guys will enjoy this We will touch all these things I have given you an exercise So if you guys did not post your answers You will have to post your answers Because I will give you a shoutout Which will post your answers in the comment section Make sure you go to the video And solve the pure HTML player And solve the exercise Because you will have two interactions And you will have to talk to both of them And I will give you a shoutout And you will have to do your solution So please do it I want to tell you about the replicate Many people say that we have a phone But there are many problems So you can try to try the replicate And you have to sign up And you will be able to write HTML, CSS and JavaScript And it is very important I have used it For my production and great projects And in this channel I have shown you a lot of videos And we have done a complete replicate In fact, we have done a 100 days of code So you can use it If you are not on the laptop or on the phone So I will write in the comment section And I will show you how to do it Because I want to know how to do it And how to do it This playlist is going to be accessed And I will give the source code And I will give the source code And I will give the village and the world And you will have to name it Thank you so much for watching this video And I will see you next time Thanks for watching",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": "Guys, from today's video, we are going to start CSS"
+    },
+    {
+      "start": 3.36,
+      "end": 5.58,
+      "text": "We have increased a lot in this course"
+    },
+    {
+      "start": 5.58,
+      "end": 10.64,
+      "text": "We finished the HTML and many more interesting people have shown their enthusiasm"
+    },
+    {
+      "start": 10.64,
+      "end": 13.32,
+      "text": "Don't decline your interest in this video"
+    },
+    {
+      "start": 13.32,
+      "end": 18.88,
+      "text": "Like this video and write a comment in the comments section with high energy"
+    },
+    {
+      "start": 18.88,
+      "end": 21.84,
+      "text": "If you are maintaining high energy throughout the course"
+    },
+    {
+      "start": 21.84,
+      "end": 24.36,
+      "text": "CSS stands for Cascading Style Sheets"
+    },
+    {
+      "start": 24.36,
+      "end": 29.46,
+      "text": "And with the help of Cascading Style Sheets, we implement HTML"
+    },
+    {
+      "start": 29.46,
+      "end": 33.46,
+      "text": "The HTML was never intended to create styled pages"
+    },
+    {
+      "start": 33.46,
+      "end": 38.5,
+      "text": "The work of HTML was started by creating a basic structure of the website"
+    },
+    {
+      "start": 38.5,
+      "end": 41.7,
+      "text": "And then the CSS is taking responsibility to style the page"
+    },
+    {
+      "start": 41.7,
+      "end": 45.8,
+      "text": "The selectors in the CSS are the ones who help select some element"
+    },
+    {
+      "start": 45.8,
+      "end": 48.34,
+      "text": "I will tell you what is the selector in this video"
+    },
+    {
+      "start": 48.34,
+      "end": 50.18,
+      "text": "From what it is written in CSS"
+    },
+    {
+      "start": 50.18,
+      "end": 53.38,
+      "text": "And in the coming videos, we are going to raise the bar like anything"
+    },
+    {
+      "start": 53.38,
+      "end": 55.54,
+      "text": "We will make real world websites"
+    },
+    {
+      "start": 55.54,
+      "end": 59.94,
+      "text": "And such websites like Amazon, Blip card, Netflix, YouTube"
+    },
+    {
+      "start": 59.94,
+      "end": 62.9,
+      "text": "To make all these websites capable"
+    },
+    {
+      "start": 62.9,
+      "end": 64.9,
+      "text": "So I am very excited"
+    },
+    {
+      "start": 64.9,
+      "end": 66.5,
+      "text": "Let's go to the computer screen"
+    },
+    {
+      "start": 66.5,
+      "end": 68.5,
+      "text": "Let's go to the intro"
+    },
+    {
+      "start": 75.7,
+      "end": 79.78,
+      "text": "So I am going to make a folder here"
+    },
+    {
+      "start": 79.78,
+      "end": 82.78,
+      "text": "And I will make a video of 14"
+    },
+    {
+      "start": 82.78,
+      "end": 84.98,
+      "text": "It is very fun in this course"
+    },
+    {
+      "start": 84.98,
+      "end": 88.26,
+      "text": "Because I have never made a course of the main level of the industry"
+    },
+    {
+      "start": 88.26,
+      "end": 91.58,
+      "text": "Now I will tell you about the CSS"
+    },
+    {
+      "start": 91.58,
+      "end": 94.14,
+      "text": "Why you will use CSS?"
+    },
+    {
+      "start": 94.14,
+      "end": 97.62,
+      "text": "HTML was never intended to style the pages"
+    },
+    {
+      "start": 97.62,
+      "end": 100.74,
+      "text": "It was always intended to create a skeleton"
+    },
+    {
+      "start": 100.74,
+      "end": 103.14,
+      "text": "There were many tags in HTML"
+    },
+    {
+      "start": 103.14,
+      "end": 105.22,
+      "text": "Which were deprecated, like font tag"
+    },
+    {
+      "start": 105.22,
+      "end": 109.22,
+      "text": "Because HTML was responsible for creating a skeleton website"
+    },
+    {
+      "start": 109.22,
+      "end": 110.42,
+      "text": "That's about it"
+    },
+    {
+      "start": 110.42,
+      "end": 113.3,
+      "text": "The work of the work of the thing is to take all the CSS"
+    },
+    {
+      "start": 113.3,
+      "end": 116.34,
+      "text": "Now in this video, we will make real world websites"
+    },
+    {
+      "start": 116.34,
+      "end": 118.1,
+      "text": "And if you have not done the playlist access yet"
+    },
+    {
+      "start": 118.1,
+      "end": 120.66,
+      "text": "Do so, all the source codes are coming here"
+    },
+    {
+      "start": 120.66,
+      "end": 122.66,
+      "text": "Code with Harry.com slash notes"
+    },
+    {
+      "start": 122.66,
+      "end": 123.66,
+      "text": "If you go to them"
+    },
+    {
+      "start": 123.66,
+      "end": 126.26,
+      "text": "So you will download HTML's notes"
+    },
+    {
+      "start": 126.26,
+      "end": 128.34,
+      "text": "You will get additional things to see"
+    },
+    {
+      "start": 128.34,
+      "end": 130.5,
+      "text": "So now you will click on PDF notes"
+    },
+    {
+      "start": 130.5,
+      "end": 132.82,
+      "text": "You will get HTML's PDF notes"
+    },
+    {
+      "start": 132.82,
+      "end": 135.54,
+      "text": "In my handwriting, I have written it twice"
+    },
+    {
+      "start": 135.54,
+      "end": 136.74,
+      "text": "It is 100 notes"
+    },
+    {
+      "start": 136.74,
+      "end": 138.1,
+      "text": "It is very expensive"
+    },
+    {
+      "start": 138.1,
+      "end": 139.94,
+      "text": "So download everyone will do it"
+    },
+    {
+      "start": 139.94,
+      "end": 142.18,
+      "text": "And I will put the link in the description"
+    },
+    {
+      "start": 142.18,
+      "end": 145.54,
+      "text": "I have told you about the HTML"
+    },
+    {
+      "start": 145.54,
+      "end": 146.74,
+      "text": "If it is a car body"
+    },
+    {
+      "start": 146.74,
+      "end": 148.34,
+      "text": "The car is made of wood"
+    },
+    {
+      "start": 148.34,
+      "end": 154.18,
+      "text": "So CSS is made of paint, decoration, designs, seeds, interior"
+    },
+    {
+      "start": 154.18,
+      "end": 155.54,
+      "text": "And what is JavaScript?"
+    },
+    {
+      "start": 155.54,
+      "end": 157.22,
+      "text": "Engine and internal logic"
+    },
+    {
+      "start": 157.22,
+      "end": 160.34,
+      "text": "We will talk about it later"
+    },
+    {
+      "start": 160.34,
+      "end": 162.34,
+      "text": "We have done HTML now"
+    },
+    {
+      "start": 162.34,
+      "end": 164.66,
+      "text": "We are talking about CSS"
+    },
+    {
+      "start": 164.66,
+      "end": 167.06,
+      "text": "Now I will tell you more examples"
+    },
+    {
+      "start": 167.06,
+      "end": 170.02,
+      "text": "Like how human body is in the skeleton"
+    },
+    {
+      "start": 170.02,
+      "end": 173.86,
+      "text": "You have done HTML, skin, hair, hair"
+    },
+    {
+      "start": 173.86,
+      "end": 175.86,
+      "text": "You have done CSS"
+    },
+    {
+      "start": 175.86,
+      "end": 178.26,
+      "text": "And our brain is our nerves"
+    },
+    {
+      "start": 178.26,
+      "end": 179.46,
+      "text": "Our neurons"
+    },
+    {
+      "start": 179.46,
+      "end": 182.02,
+      "text": "All of them are our JavaScript"
+    },
+    {
+      "start": 182.02,
+      "end": 184.02,
+      "text": "So I hope that everything is clear"
+    },
+    {
+      "start": 184.02,
+      "end": 185.22,
+      "text": "You are all ready"
+    },
+    {
+      "start": 185.22,
+      "end": 188.26,
+      "text": "So in the end, HTML was never intended to style websites"
+    },
+    {
+      "start": 188.26,
+      "end": 189.62,
+      "text": "This is the method of CSS"
+    },
+    {
+      "start": 189.62,
+      "end": 192.02,
+      "text": "CSS has done HTML a lot"
+    },
+    {
+      "start": 192.02,
+      "end": 193.06,
+      "text": "I am here"
+    },
+    {
+      "start": 193.06,
+      "end": 196.02,
+      "text": "And I will help in styling"
+    },
+    {
+      "start": 196.02,
+      "end": 198.02,
+      "text": "So CSS has done the CSS method"
+    },
+    {
+      "start": 198.02,
+      "end": 199.54,
+      "text": "To style pages"
+    },
+    {
+      "start": 199.54,
+      "end": 201.78,
+      "text": "So HTML is to download the notes"
+    },
+    {
+      "start": 201.78,
+      "end": 205.3,
+      "text": "Car, spoiler, alert, notes, CSS is also a part of it"
+    },
+    {
+      "start": 205.3,
+      "end": 206.74,
+      "text": "But listen to me first"
+    },
+    {
+      "start": 206.74,
+      "end": 208.02,
+      "text": "Download it"
+    },
+    {
+      "start": 208.02,
+      "end": 209.3,
+      "text": "I have given the spoiler"
+    },
+    {
+      "start": 209.3,
+      "end": 210.66,
+      "text": "But don't download it"
+    },
+    {
+      "start": 210.66,
+      "end": 213.78,
+      "text": "I have put a lot of time and took it from me"
+    },
+    {
+      "start": 213.78,
+      "end": 216.18,
+      "text": "So see, there are a lot of things to get"
+    },
+    {
+      "start": 216.18,
+      "end": 219.14,
+      "text": "And I have never made this level course"
+    },
+    {
+      "start": 219.14,
+      "end": 220.42,
+      "text": "I am ready to do it"
+    },
+    {
+      "start": 220.42,
+      "end": 223.7,
+      "text": "So if I try to do it with a shift and click on Open with Code"
+    },
+    {
+      "start": 223.7,
+      "end": 227.54,
+      "text": "Here, the video 14th folder is open in my VS Code"
+    },
+    {
+      "start": 227.54,
+      "end": 230.66,
+      "text": "Now I am going to make a file in index.html"
+    },
+    {
+      "start": 230.66,
+      "end": 232.58,
+      "text": "And mark the exclamation mark"
+    },
+    {
+      "start": 232.58,
+      "end": 234.98,
+      "text": "Or like the boilerplate code"
+    },
+    {
+      "start": 234.98,
+      "end": 237.14,
+      "text": "We used to do HTML course"
+    },
+    {
+      "start": 237.14,
+      "end": 240.5,
+      "text": "By the way, if we do videos like HTML"
+    },
+    {
+      "start": 240.5,
+      "end": 242.34,
+      "text": "And write CSS in my title"
+    },
+    {
+      "start": 242.34,
+      "end": 245.38,
+      "text": "And I am going to write a div in my body"
+    },
+    {
+      "start": 245.38,
+      "end": 247.54,
+      "text": "Hey, I am Harry"
+    },
+    {
+      "start": 247.54,
+      "end": 251.14,
+      "text": "And today I am in CSS mood"
+    },
+    {
+      "start": 251.14,
+      "end": 253.14,
+      "text": "Okay, I am going to write here and preview"
+    },
+    {
+      "start": 253.14,
+      "end": 254.74,
+      "text": "So here, I will click on the preview"
+    },
+    {
+      "start": 254.74,
+      "end": 255.94,
+      "text": "You can see here"
+    },
+    {
+      "start": 255.94,
+      "end": 257.86,
+      "text": "I am Harry and today I am in CSS mood"
+    },
+    {
+      "start": 257.86,
+      "end": 259.38,
+      "text": "So what is CSS?"
+    },
+    {
+      "start": 259.38,
+      "end": 261.7,
+      "text": "You can add CSS basically"
+    },
+    {
+      "start": 261.7,
+      "end": 263.38,
+      "text": "Use style tech"
+    },
+    {
+      "start": 263.38,
+      "end": 264.74,
+      "text": "What are the two ways?"
+    },
+    {
+      "start": 264.74,
+      "end": 266.82,
+      "text": "Because I will tell you in the videos"
+    },
+    {
+      "start": 266.82,
+      "end": 268.58,
+      "text": "I will tell you a lot of things"
+    },
+    {
+      "start": 268.58,
+      "end": 270.26,
+      "text": "Now let me tell you"
+    },
+    {
+      "start": 270.26,
+      "end": 272.58,
+      "text": "Look, the div"
+    },
+    {
+      "start": 272.58,
+      "end": 273.78,
+      "text": "The div"
+    },
+    {
+      "start": 273.78,
+      "end": 276.1,
+      "text": "Color it red"
+    },
+    {
+      "start": 276.1,
+      "end": 276.98,
+      "text": "I will say it in my mind"
+    },
+    {
+      "start": 276.98,
+      "end": 277.78,
+      "text": "I said"
+    },
+    {
+      "start": 277.78,
+      "end": 279.94,
+      "text": "The div is color red"
+    },
+    {
+      "start": 279.94,
+      "end": 281.54,
+      "text": "So this is the div inside"
+    },
+    {
+      "start": 281.54,
+      "end": 283.62,
+      "text": "The div is the selector"
+    },
+    {
+      "start": 283.62,
+      "end": 285.3,
+      "text": "And this is our declaration"
+    },
+    {
+      "start": 285.3,
+      "end": 287.3,
+      "text": "So selector and declaration"
+    },
+    {
+      "start": 287.3,
+      "end": 289.3,
+      "text": "The div is the selector"
+    },
+    {
+      "start": 289.3,
+      "end": 291.3,
+      "text": "So the div is the color of the div"
+    },
+    {
+      "start": 291.3,
+      "end": 293.3,
+      "text": "Which is our"
+    },
+    {
+      "start": 293.3,
+      "end": 295.3,
+      "text": "What is our value?"
+    },
+    {
+      "start": 295.3,
+      "end": 297.3,
+      "text": "This is the value of the property"
+    },
+    {
+      "start": 297.3,
+      "end": 299.3,
+      "text": "So this is our declaration"
+    },
+    {
+      "start": 299.3,
+      "end": 301.3,
+      "text": "And this is our selector"
+    },
+    {
+      "start": 301.3,
+      "end": 303.3,
+      "text": "I hope you understood"
+    },
+    {
+      "start": 303.3,
+      "end": 305.3,
+      "text": "Now I will show you the page"
+    },
+    {
+      "start": 305.3,
+      "end": 307.3,
+      "text": "So let's see the color of the div"
+    },
+    {
+      "start": 307.3,
+      "end": 309.3,
+      "text": "Because I said that the div is the color of the div"
+    },
+    {
+      "start": 309.3,
+      "end": 311.3,
+      "text": "So if I will make another div here"
+    },
+    {
+      "start": 311.3,
+      "end": 313.3,
+      "text": "And write it in the name of the div"
+    },
+    {
+      "start": 313.3,
+      "end": 315.3,
+      "text": "I am good"
+    },
+    {
+      "start": 315.3,
+      "end": 317.3,
+      "text": "So I am good color"
+    },
+    {
+      "start": 317.3,
+      "end": 319.3,
+      "text": "And if I add another declaration"
+    },
+    {
+      "start": 319.3,
+      "end": 321.3,
+      "text": "And write the background yellow"
+    },
+    {
+      "start": 321.3,
+      "end": 323.3,
+      "text": "Here the background yellow"
+    },
+    {
+      "start": 323.3,
+      "end": 325.3,
+      "text": "Here the background yellow"
+    },
+    {
+      "start": 325.3,
+      "end": 327.3,
+      "text": "Here the background yellow"
+    },
+    {
+      "start": 327.3,
+      "end": 329.3,
+      "text": "The selector will match"
+    },
+    {
+      "start": 329.3,
+      "end": 331.3,
+      "text": "The background yellow"
+    },
+    {
+      "start": 331.3,
+      "end": 333.3,
+      "text": "So you can see"
+    },
+    {
+      "start": 333.3,
+      "end": 335.3,
+      "text": "I said div"
+    },
+    {
+      "start": 335.3,
+      "end": 337.3,
+      "text": "And this was div"
+    },
+    {
+      "start": 337.3,
+      "end": 339.3,
+      "text": "If I make a span"
+    },
+    {
+      "start": 339.3,
+      "end": 341.3,
+      "text": "And write the name of the div"
+    },
+    {
+      "start": 341.3,
+      "end": 343.3,
+      "text": "So what will happen?"
+    },
+    {
+      "start": 343.3,
+      "end": 345.3,
+      "text": "Is this red?"
+    },
+    {
+      "start": 345.3,
+      "end": 347.3,
+      "text": "No, it will not be red"
+    },
+    {
+      "start": 347.3,
+      "end": 349.3,
+      "text": "Because this selector"
+    },
+    {
+      "start": 349.3,
+      "end": 351.3,
+      "text": "And these declarations"
+    },
+    {
+      "start": 351.3,
+      "end": 353.3,
+      "text": "Are not applicable on these elements"
+    },
+    {
+      "start": 353.3,
+      "end": 355.3,
+      "text": "Okay, no element is not div"
+    },
+    {
+      "start": 355.3,
+      "end": 357.3,
+      "text": "So if I add a paragraph"
+    },
+    {
+      "start": 357.3,
+      "end": 359.3,
+      "text": "And I will add a lawm"
+    },
+    {
+      "start": 359.3,
+      "end": 361.3,
+      "text": "435"
+    },
+    {
+      "start": 361.3,
+      "end": 363.3,
+      "text": "I think 435 is too much"
+    },
+    {
+      "start": 363.3,
+      "end": 365.3,
+      "text": "43 is enough"
+    },
+    {
+      "start": 365.3,
+      "end": 367.3,
+      "text": "So I have added a lot of lawm"
+    },
+    {
+      "start": 367.3,
+      "end": 369.3,
+      "text": "Because our page will make a lot of changes"
+    },
+    {
+      "start": 369.3,
+      "end": 371.3,
+      "text": "And this is not applied"
+    },
+    {
+      "start": 371.3,
+      "end": 373.3,
+      "text": "Not applied in this"
+    },
+    {
+      "start": 373.3,
+      "end": 375.3,
+      "text": "I just said div"
+    },
+    {
+      "start": 375.3,
+      "end": 377.3,
+      "text": "So all the conditions"
+    },
+    {
+      "start": 377.3,
+      "end": 379.3,
+      "text": "Are applied"
+    },
+    {
+      "start": 379.3,
+      "end": 381.3,
+      "text": "Now if I apply a comma"
+    },
+    {
+      "start": 381.3,
+      "end": 383.3,
+      "text": "And select the multiple elements"
+    },
+    {
+      "start": 383.3,
+      "end": 385.3,
+      "text": "And I will do a diverse span"
+    },
+    {
+      "start": 385.3,
+      "end": 387.3,
+      "text": "So the diverse span will be red"
+    },
+    {
+      "start": 387.3,
+      "end": 389.3,
+      "text": "And here the background yellow"
+    },
+    {
+      "start": 389.3,
+      "end": 391.3,
+      "text": "What is the diverse span?"
+    },
+    {
+      "start": 391.3,
+      "end": 393.3,
+      "text": "My selector"
+    },
+    {
+      "start": 393.3,
+      "end": 395.3,
+      "text": "I have applied this declaration"
+    },
+    {
+      "start": 395.3,
+      "end": 397.3,
+      "text": "This is property"
+    },
+    {
+      "start": 397.3,
+      "end": 399.3,
+      "text": "The color is the property"
+    },
+    {
+      "start": 399.3,
+      "end": 401.3,
+      "text": "Which is the value red"
+    },
+    {
+      "start": 401.3,
+      "end": 403.3,
+      "text": "Okay, so now you can see"
+    },
+    {
+      "start": 403.3,
+      "end": 405.3,
+      "text": "Where there will be div"
+    },
+    {
+      "start": 405.3,
+      "end": 407.3,
+      "text": "Where there will be span"
+    },
+    {
+      "start": 407.3,
+      "end": 411.3,
+      "text": "And that is pretty much how CSS works"
+    },
+    {
+      "start": 411.3,
+      "end": 413.3,
+      "text": "That's all we have"
+    },
+    {
+      "start": 413.3,
+      "end": 415.3,
+      "text": "What will we learn in the coming videos"
+    },
+    {
+      "start": 415.3,
+      "end": 417.3,
+      "text": "Is this property"
+    },
+    {
+      "start": 417.3,
+      "end": 419.3,
+      "text": "And this selector"
+    },
+    {
+      "start": 419.3,
+      "end": 421.3,
+      "text": "I will tell you about different selector"
+    },
+    {
+      "start": 421.3,
+      "end": 423.3,
+      "text": "Just remember that about it"
+    },
+    {
+      "start": 423.3,
+      "end": 425.3,
+      "text": "It's as simple as that"
+    },
+    {
+      "start": 425.3,
+      "end": 427.3,
+      "text": "And we use Amazon"
+    },
+    {
+      "start": 427.3,
+      "end": 429.3,
+      "text": "We use Flipkart"
+    },
+    {
+      "start": 429.3,
+      "end": 431.3,
+      "text": "We use Facebook"
+    },
+    {
+      "start": 431.3,
+      "end": 433.3,
+      "text": "And then we can make all of these"
+    },
+    {
+      "start": 433.3,
+      "end": 435.3,
+      "text": "And we can make all of these"
+    },
+    {
+      "start": 435.3,
+      "end": 437.3,
+      "text": "And tomorrow we will do the same"
+    },
+    {
+      "start": 437.3,
+      "end": 439.3,
+      "text": "Technology"
+    },
+    {
+      "start": 439.3,
+      "end": 441.3,
+      "text": "And we can make mobile apps"
+    },
+    {
+      "start": 441.3,
+      "end": 443.3,
+      "text": "We will explore all these things"
+    },
+    {
+      "start": 443.3,
+      "end": 445.3,
+      "text": "And we will explore all these things"
+    },
+    {
+      "start": 445.3,
+      "end": 447.3,
+      "text": "And we will have a great time"
+    },
+    {
+      "start": 447.3,
+      "end": 449.3,
+      "text": "And you guys will enjoy this"
+    },
+    {
+      "start": 449.3,
+      "end": 451.3,
+      "text": "We will touch all these things"
+    },
+    {
+      "start": 451.3,
+      "end": 453.3,
+      "text": "I have given you an exercise"
+    },
+    {
+      "start": 453.3,
+      "end": 455.3,
+      "text": "So if you guys did not post your answers"
+    },
+    {
+      "start": 455.3,
+      "end": 457.3,
+      "text": "You will have to post your answers"
+    },
+    {
+      "start": 457.3,
+      "end": 459.3,
+      "text": "Because I will give you a shoutout"
+    },
+    {
+      "start": 459.3,
+      "end": 461.3,
+      "text": "Which will post your answers in the comment section"
+    },
+    {
+      "start": 461.3,
+      "end": 463.3,
+      "text": "Make sure you go to the video"
+    },
+    {
+      "start": 463.3,
+      "end": 465.3,
+      "text": "And solve the pure HTML player"
+    },
+    {
+      "start": 465.3,
+      "end": 467.3,
+      "text": "And solve the exercise"
+    },
+    {
+      "start": 467.3,
+      "end": 469.3,
+      "text": "Because you will have two interactions"
+    },
+    {
+      "start": 469.3,
+      "end": 471.3,
+      "text": "And you will have to talk to both of them"
+    },
+    {
+      "start": 471.3,
+      "end": 473.3,
+      "text": "And I will give you a shoutout"
+    },
+    {
+      "start": 473.3,
+      "end": 475.3,
+      "text": "And you will have to do your solution"
+    },
+    {
+      "start": 475.3,
+      "end": 477.3,
+      "text": "So please do it"
+    },
+    {
+      "start": 477.3,
+      "end": 479.3,
+      "text": "I want to tell you about the replicate"
+    },
+    {
+      "start": 479.3,
+      "end": 481.3,
+      "text": "Many people say that we have a phone"
+    },
+    {
+      "start": 481.3,
+      "end": 483.3,
+      "text": "But there are many problems"
+    },
+    {
+      "start": 483.3,
+      "end": 485.3,
+      "text": "So you can try to try the replicate"
+    },
+    {
+      "start": 485.3,
+      "end": 487.3,
+      "text": "And you have to sign up"
+    },
+    {
+      "start": 487.3,
+      "end": 491.3,
+      "text": "And you will be able to write HTML, CSS and JavaScript"
+    },
+    {
+      "start": 491.3,
+      "end": 493.3,
+      "text": "And it is very important"
+    },
+    {
+      "start": 493.3,
+      "end": 495.3,
+      "text": "I have used it"
+    },
+    {
+      "start": 495.3,
+      "end": 497.3,
+      "text": "For my production and great projects"
+    },
+    {
+      "start": 497.3,
+      "end": 499.3,
+      "text": "And in this channel"
+    },
+    {
+      "start": 499.3,
+      "end": 501.3,
+      "text": "I have shown you a lot of videos"
+    },
+    {
+      "start": 501.3,
+      "end": 503.3,
+      "text": "And we have done a complete replicate"
+    },
+    {
+      "start": 503.3,
+      "end": 505.3,
+      "text": "In fact, we have done a 100 days of code"
+    },
+    {
+      "start": 505.3,
+      "end": 507.3,
+      "text": "So you can use it"
+    },
+    {
+      "start": 507.3,
+      "end": 509.3,
+      "text": "If you are not on the laptop or on the phone"
+    },
+    {
+      "start": 509.3,
+      "end": 511.3,
+      "text": "So I will write in the comment section"
+    },
+    {
+      "start": 511.3,
+      "end": 513.3,
+      "text": "And I will show you how to do it"
+    },
+    {
+      "start": 513.3,
+      "end": 515.3,
+      "text": "Because I want to know how to do it"
+    },
+    {
+      "start": 515.3,
+      "end": 517.3,
+      "text": "And how to do it"
+    },
+    {
+      "start": 517.3,
+      "end": 519.3,
+      "text": "This playlist is going to be accessed"
+    },
+    {
+      "start": 519.3,
+      "end": 521.3,
+      "text": "And I will give the source code"
+    },
+    {
+      "start": 521.3,
+      "end": 523.3,
+      "text": "And I will give the source code"
+    },
+    {
+      "start": 523.3,
+      "end": 525.3,
+      "text": "And I will give the village and the world"
+    },
+    {
+      "start": 525.3,
+      "end": 527.3,
+      "text": "And you will have to name it"
+    },
+    {
+      "start": 527.3,
+      "end": 529.3,
+      "text": "Thank you so much for watching this video"
+    },
+    {
+      "start": 529.3,
+      "end": 531.3,
+      "text": "And I will see you next time"
+    },
+    {
+      "start": 539.3,
+      "end": 541.3,
+      "text": "Thanks for watching"
+    }
+  ]
+}

@@ -1,0 +1,2044 @@
+{
+  "video": 10,
+  "course": "Sigma Web Development",
+  "source_file": "10_Video, Audio & Media in HTML _ Sigma Web Development Course - Tutorial #10 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " Today's video we will go to audio, video and media elements such as KSTML We saw in our very first video that we can embed videos inside the HTML Today I will tell you how to auto play KSTML How to use mutated video and how to enable and disable the control of the video Along with that, we will also see about the audio, how to show the media in the video Like this video and subscribe to our channel because I have used examples for video tags Let's go to video screen and let's roll the intro Friends, I have made a video called Folder I will not waste time with the open with code of shift right click I will make an impact index on the video Today's video is video How to play video How to put video in a HTML file How to put audio in a video How to put media in it So, to add video, I will copy it Because it is our video tag, it has a KSRC attribute And it has some other attributes like I will show you the flow statistics first You will see the video is like this So, if you have video mp4, you will play with it I have video mp4 Let's see, I have put control here And I will preview it You can see that this video is here It is a very big video So, what can I do? I can give it a bit So, I can say here, it is equal to 555 pixels And I will do 555 pixels In fact, I need to click PX I will do 555 In image, I don't need to click PX Here, I don't need to click PX So, as I do 555 with width I will do 555 in impact So that it can be smaller In fact, I will do 255 And you can see that I have come here I will play like this Because I can play like this Look, I have a good robot in America What is my name? What is your name? Where did you go in US? I went to US, I went to US I will play like this So, what is this? You can play video like this Now, here, some attributes We have to use a video deck You should have a video The video that you have given You will have control So, you will have control You can download it You can screen it You can mute it You can picture it This is automatically presented to you But I will tell you about some attributes First, attribute is SRC So, you must know that Put the video here The name of the video is SRC You can also come from external URL You know, if I have downloaded some other videos I can also add a URL here It is not necessary, you can also come from computer You can also come from your server Now, what is the control? It is the ads video controls like play, pause and volume Because we have seen here In the video that you will see You are getting control Now, what is this? It is automatically seen What will be controlled? What will be in your video? Then, what will be auto play? It will play automatically Like, pitch load So, if I put it here I will put it here Auto play What is the problem of the market road? What is happening? It is good So, you can see that there is auto play here So, I will cut the auto play here And the next attribute is loop That is, once we have played the video It will be loop Which I will show you What is the problem of the market road? It will be open Where did you see the market road? So, this is the start Once I have finished this This is the start of the start of the start So, this loop is done in some way The next attribute is mutate Mutate is mutated If I put mutate here Sometimes, we want video mutate In fact, when I add videos here I add them in code with rate.com And I demonstrate something I am downloading some VSCode So, I am using mutate attribute Because I don't want When I recorded a video If there is a background noise Then, you can listen to it For example, I want to show you I will make a video of this I will highlight it like this So, I don't want audio So, I will mutate it So, you can use mutate attributes in your websites Then, poster It is very important So, if I have a image Download.jpg If I write here Postar is equal to And I write down Download.jpg So, you will see something It will be seen This way I will play the poster Then the video will be played So, this is like thumbnail So, you can see the thumbnail of the YouTube video This is like poster attribute So, all these attributes You can use it You know the video dimension of the video I have seen both the white and white So, I hope I have come to understand Now, I want to tell you The audio of this video This is for all the attributes of all the videos I want to make a website for the straight forward Because I will give you any quiz in the end of this video So, I will add some quiz I will add some quiz in the end of this video So that I forget I will give you And this is very important to all the questions Please do not forget to Write in the first Audio is like you write here And I will put the SRC in SRC I will put the SRC in SRC I will put the SRC in SRC I will reload it And here the audio is not I will see the strange I will put SRC in SRC I will not write it I will not write it in the control I will see the audio I can set the volume I will play the audio What is the SRC in SRC This audio is like you can mute it I can do it I will not do it Now, I will show you the SRC Now, what we will do We will see the attributes of this audio You know the source video file I will play the controls I will play the pause volume I will play the autoplay I will play the autoplay What is the SRC in SRC I will play the autoplay So, I will play the autoplay And then the next attribute is What will the loop I will repeat it I will loop it What is the SRC in SRC I will repeat it What is the SRC in SRC I will repeat it Once it is saved I will loop it You have seen the things I have looped the SRC in Mp3 Once it is saved What is the SRC in SRC I will repeat it The MP3 is playing it again and again So, it is a little bit different When you want to do the Mp3 If you want to do the Mp3 You can use it After that What will the mutate will be Audio You definitely don't want to do the body fold But, we will try The audio is muted And we can use it The user who listens to it What is the SRC in SRC We will do multiple audio You can mute the audio The user who plays You can mute it You can use it You can use it You can use it You have come to the Aihob You have enjoyed it The most comfortable I have explained the code with the D-Fall The preload attribute This is the value The first value is the NUN This is the default value It indicates that the browser should not preload the audio at all If you want to fetch the browser data Then you will use the preload attribute Or you will not use the preload attribute The preload is equal to NUN default value The preload is equal to the meta data The browser is not only the meta data The audio file is also the information about it It will be reloaded The first will be reloaded And what will be done by auto The entire audio will be reloaded The preload is equal to auto It will be downloaded So that when you play the user The audio will be saved The preload attribute is equal to the audio And it is very difficult to use the preload attribute So you should know What is the preload attribute? Before we start, I want to share this playlist With my friends I am seeing that the video is getting very different We are going to start the video I hope you liked this video And with that Like this, you can just repost the video You can also start the video Your star will help you with the likes of the video I will also get the free courses So this was about audio and video tags I told you all the attributes And you guys definitely Use all the measures I will give you to try to do this And you guys will try to do this People were asking Can we use the rep or I have not used the rep but If you want to use the rep.com You can use it If you want to use the rep or You can also use the rep for iOS And Android You can try it People were asking how to do this But I am also trying to use the VSCode Because most of the people who want to use it They prefer it I have made videos in VSCode But personally, I use the rep.com And also the videos Next topic is Svg is related What is Svg? It is a format You can use it It is a very high graphics You can make it in a circle So Svg is used Like this Like this I am using it If I add Svg here Then Svg will be here Video, audio And this is the online elements So we are looking at the online elements And people have seen What is here? You can save the file from the other side You can save the Svg file So I will write here That I am using it And save the content of Svg So if I write it And I will write this I am using it So you can see I have not seen it If I write here And I am using it You can see That I have not seen it Because Svg is I write in the file in the browser And Svg file You can see You can see in the browser You can see in the declaration So I have written here And I am showing the file And here the stack and the answer You have to write here I will show you You have to add some things Name, space, declaration So you have to add some things And you can see Here you can see This is very important And many people will make websites I will show you So I am showing you The problem you faced I have not faced you I have not faced you And the solution is The next topic is iPhones It is very simple You can embed an other website If I want to embed this website I can use it I will use it I will copy this And paste it And you can see The website is embedded You will definitely want to embed it If you want to embed it You can embed it I will add some height So it is written I will write it I will add 192 I will add height I will make it I can use it You can embed it You can embed a website You can embed it You can use it You can embed it You can embed it You can use it I will share a video You can embed it I will add it in the iphone I will drop the word so that you can see the code Now what I will do is After paste it I will show you the document This video is embedded here I hope you will understand And The media is only available in HTML For example, I will see a lot of things But that's all about media This is what you will use 95% of the time Now I will give you a quick quiz And your quick quiz is Create a website Which shows videos of different categories And audio of different categories You can use YouTube videos in an iphone Using YouTube's emitting feature You have to make a website Which will make you content Which will make you content Which will make you content You will use video audio And use this feature And use this feature I have made a video of this You can also Make a website You can see You can give me a comment You can explain the code But you need to try this And write a signature badge Write it in the comment section Like the video Write a signature badge Thank you so much for watching this video And I will see you Next time",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.64,
+      "text": "Today's video we will go to audio, video and media elements such as KSTML"
+    },
+    {
+      "start": 5.64,
+      "end": 10.58,
+      "text": "We saw in our very first video that we can embed videos inside the HTML"
+    },
+    {
+      "start": 10.58,
+      "end": 13.38,
+      "text": "Today I will tell you how to auto play KSTML"
+    },
+    {
+      "start": 13.38,
+      "end": 19.88,
+      "text": "How to use mutated video and how to enable and disable the control of the video"
+    },
+    {
+      "start": 19.88,
+      "end": 25.54,
+      "text": "Along with that, we will also see about the audio, how to show the media in the video"
+    },
+    {
+      "start": 25.54,
+      "end": 32.68,
+      "text": "Like this video and subscribe to our channel because I have used examples for video tags"
+    },
+    {
+      "start": 32.68,
+      "end": 35.28,
+      "text": "Let's go to video screen and let's roll the intro"
+    },
+    {
+      "start": 44.28,
+      "end": 47.28,
+      "text": "Friends, I have made a video called Folder"
+    },
+    {
+      "start": 47.28,
+      "end": 51.6,
+      "text": "I will not waste time with the open with code of shift right click"
+    },
+    {
+      "start": 51.84,
+      "end": 53.84,
+      "text": "I will make an impact index on the video"
+    },
+    {
+      "start": 53.84,
+      "end": 56.7,
+      "text": "Today's video is video"
+    },
+    {
+      "start": 56.7,
+      "end": 58.9,
+      "text": "How to play video"
+    },
+    {
+      "start": 58.9,
+      "end": 62.5,
+      "text": "How to put video in a HTML file"
+    },
+    {
+      "start": 62.5,
+      "end": 64.0,
+      "text": "How to put audio in a video"
+    },
+    {
+      "start": 64.0,
+      "end": 66.0,
+      "text": "How to put media in it"
+    },
+    {
+      "start": 66.0,
+      "end": 70.24,
+      "text": "So, to add video, I will copy it"
+    },
+    {
+      "start": 70.24,
+      "end": 73.68,
+      "text": "Because it is our video tag, it has a KSRC attribute"
+    },
+    {
+      "start": 73.68,
+      "end": 75.98,
+      "text": "And it has some other attributes like"
+    },
+    {
+      "start": 75.98,
+      "end": 79.12,
+      "text": "I will show you the flow statistics first"
+    },
+    {
+      "start": 79.12,
+      "end": 81.84,
+      "text": "You will see the video is like this"
+    },
+    {
+      "start": 81.84,
+      "end": 84.68,
+      "text": "So, if you have video mp4, you will play with it"
+    },
+    {
+      "start": 84.68,
+      "end": 85.88,
+      "text": "I have video mp4"
+    },
+    {
+      "start": 85.88,
+      "end": 88.64,
+      "text": "Let's see, I have put control here"
+    },
+    {
+      "start": 88.64,
+      "end": 90.8,
+      "text": "And I will preview it"
+    },
+    {
+      "start": 90.8,
+      "end": 93.48,
+      "text": "You can see that this video is here"
+    },
+    {
+      "start": 93.48,
+      "end": 95.8,
+      "text": "It is a very big video"
+    },
+    {
+      "start": 95.8,
+      "end": 98.16,
+      "text": "So, what can I do? I can give it a bit"
+    },
+    {
+      "start": 98.16,
+      "end": 101.8,
+      "text": "So, I can say here, it is equal to 555 pixels"
+    },
+    {
+      "start": 101.8,
+      "end": 104.32,
+      "text": "And I will do 555 pixels"
+    },
+    {
+      "start": 104.32,
+      "end": 105.92,
+      "text": "In fact, I need to click PX"
+    },
+    {
+      "start": 105.92,
+      "end": 106.96,
+      "text": "I will do 555"
+    },
+    {
+      "start": 106.96,
+      "end": 109.24,
+      "text": "In image, I don't need to click PX"
+    },
+    {
+      "start": 109.24,
+      "end": 111.56,
+      "text": "Here, I don't need to click PX"
+    },
+    {
+      "start": 111.56,
+      "end": 115.56,
+      "text": "So, as I do 555 with width"
+    },
+    {
+      "start": 115.56,
+      "end": 117.56,
+      "text": "I will do 555 in impact"
+    },
+    {
+      "start": 117.56,
+      "end": 118.76,
+      "text": "So that it can be smaller"
+    },
+    {
+      "start": 118.76,
+      "end": 121.56,
+      "text": "In fact, I will do 255"
+    },
+    {
+      "start": 121.56,
+      "end": 123.36,
+      "text": "And you can see that I have come here"
+    },
+    {
+      "start": 123.36,
+      "end": 124.36,
+      "text": "I will play like this"
+    },
+    {
+      "start": 124.36,
+      "end": 126.16,
+      "text": "Because I can play like this"
+    },
+    {
+      "start": 126.16,
+      "end": 128.16,
+      "text": "Look, I have a good robot in America"
+    },
+    {
+      "start": 128.16,
+      "end": 129.56,
+      "text": "What is my name?"
+    },
+    {
+      "start": 129.56,
+      "end": 130.56,
+      "text": "What is your name?"
+    },
+    {
+      "start": 130.56,
+      "end": 131.56,
+      "text": "Where did you go in US?"
+    },
+    {
+      "start": 131.56,
+      "end": 132.96,
+      "text": "I went to US, I went to US"
+    },
+    {
+      "start": 132.96,
+      "end": 133.96,
+      "text": "I will play like this"
+    },
+    {
+      "start": 134.96,
+      "end": 136.96,
+      "text": "So, what is this?"
+    },
+    {
+      "start": 136.96,
+      "end": 137.96,
+      "text": "You can play video like this"
+    },
+    {
+      "start": 137.96,
+      "end": 139.96,
+      "text": "Now, here, some attributes"
+    },
+    {
+      "start": 139.96,
+      "end": 141.96,
+      "text": "We have to use a video deck"
+    },
+    {
+      "start": 141.96,
+      "end": 142.96,
+      "text": "You should have a video"
+    },
+    {
+      "start": 142.96,
+      "end": 144.96,
+      "text": "The video that you have given"
+    },
+    {
+      "start": 144.96,
+      "end": 145.96,
+      "text": "You will have control"
+    },
+    {
+      "start": 145.96,
+      "end": 146.96,
+      "text": "So, you will have control"
+    },
+    {
+      "start": 146.96,
+      "end": 147.96,
+      "text": "You can download it"
+    },
+    {
+      "start": 147.96,
+      "end": 148.96,
+      "text": "You can screen it"
+    },
+    {
+      "start": 148.96,
+      "end": 150.96,
+      "text": "You can mute it"
+    },
+    {
+      "start": 150.96,
+      "end": 151.96,
+      "text": "You can picture it"
+    },
+    {
+      "start": 151.96,
+      "end": 153.96,
+      "text": "This is automatically presented to you"
+    },
+    {
+      "start": 153.96,
+      "end": 155.96,
+      "text": "But I will tell you about some attributes"
+    },
+    {
+      "start": 155.96,
+      "end": 157.96,
+      "text": "First, attribute is SRC"
+    },
+    {
+      "start": 157.96,
+      "end": 158.96,
+      "text": "So, you must know that"
+    },
+    {
+      "start": 158.96,
+      "end": 159.96,
+      "text": "Put the video here"
+    },
+    {
+      "start": 159.96,
+      "end": 161.96,
+      "text": "The name of the video is SRC"
+    },
+    {
+      "start": 161.96,
+      "end": 164.96,
+      "text": "You can also come from external URL"
+    },
+    {
+      "start": 164.96,
+      "end": 168.96,
+      "text": "You know, if I have downloaded some other videos"
+    },
+    {
+      "start": 168.96,
+      "end": 170.96,
+      "text": "I can also add a URL here"
+    },
+    {
+      "start": 170.96,
+      "end": 172.96,
+      "text": "It is not necessary, you can also come from computer"
+    },
+    {
+      "start": 172.96,
+      "end": 174.96,
+      "text": "You can also come from your server"
+    },
+    {
+      "start": 174.96,
+      "end": 176.96,
+      "text": "Now, what is the control?"
+    },
+    {
+      "start": 176.96,
+      "end": 179.96,
+      "text": "It is the ads video controls like play, pause and volume"
+    },
+    {
+      "start": 179.96,
+      "end": 180.96,
+      "text": "Because we have seen here"
+    },
+    {
+      "start": 180.96,
+      "end": 182.96,
+      "text": "In the video that you will see"
+    },
+    {
+      "start": 182.96,
+      "end": 184.96,
+      "text": "You are getting control"
+    },
+    {
+      "start": 184.96,
+      "end": 186.96,
+      "text": "Now, what is this?"
+    },
+    {
+      "start": 186.96,
+      "end": 188.96,
+      "text": "It is automatically seen"
+    },
+    {
+      "start": 188.96,
+      "end": 189.96,
+      "text": "What will be controlled?"
+    },
+    {
+      "start": 189.96,
+      "end": 190.96,
+      "text": "What will be in your video?"
+    },
+    {
+      "start": 190.96,
+      "end": 192.96,
+      "text": "Then, what will be auto play?"
+    },
+    {
+      "start": 192.96,
+      "end": 193.96,
+      "text": "It will play automatically"
+    },
+    {
+      "start": 193.96,
+      "end": 194.96,
+      "text": "Like, pitch load"
+    },
+    {
+      "start": 194.96,
+      "end": 196.96,
+      "text": "So, if I put it here"
+    },
+    {
+      "start": 196.96,
+      "end": 197.96,
+      "text": "I will put it here"
+    },
+    {
+      "start": 197.96,
+      "end": 198.96,
+      "text": "Auto play"
+    },
+    {
+      "start": 198.96,
+      "end": 200.96,
+      "text": "What is the problem of the market road?"
+    },
+    {
+      "start": 200.96,
+      "end": 201.96,
+      "text": "What is happening?"
+    },
+    {
+      "start": 201.96,
+      "end": 202.96,
+      "text": "It is good"
+    },
+    {
+      "start": 202.96,
+      "end": 204.96,
+      "text": "So, you can see that there is auto play here"
+    },
+    {
+      "start": 204.96,
+      "end": 206.96,
+      "text": "So, I will cut the auto play here"
+    },
+    {
+      "start": 206.96,
+      "end": 209.96,
+      "text": "And the next attribute is loop"
+    },
+    {
+      "start": 209.96,
+      "end": 211.96,
+      "text": "That is, once we have played the video"
+    },
+    {
+      "start": 211.96,
+      "end": 214.96,
+      "text": "It will be loop"
+    },
+    {
+      "start": 214.96,
+      "end": 216.96,
+      "text": "Which I will show you"
+    },
+    {
+      "start": 216.96,
+      "end": 217.96,
+      "text": "What is the problem of the market road?"
+    },
+    {
+      "start": 217.96,
+      "end": 218.96,
+      "text": "It will be open"
+    },
+    {
+      "start": 218.96,
+      "end": 219.96,
+      "text": "Where did you see the market road?"
+    },
+    {
+      "start": 219.96,
+      "end": 220.96,
+      "text": "So, this is the start"
+    },
+    {
+      "start": 220.96,
+      "end": 222.96,
+      "text": "Once I have finished this"
+    },
+    {
+      "start": 222.96,
+      "end": 224.96,
+      "text": "This is the start of the start of the start"
+    },
+    {
+      "start": 224.96,
+      "end": 226.96,
+      "text": "So, this loop is done in some way"
+    },
+    {
+      "start": 226.96,
+      "end": 228.96,
+      "text": "The next attribute is mutate"
+    },
+    {
+      "start": 228.96,
+      "end": 230.96,
+      "text": "Mutate is mutated"
+    },
+    {
+      "start": 230.96,
+      "end": 231.96,
+      "text": "If I put mutate here"
+    },
+    {
+      "start": 231.96,
+      "end": 233.96,
+      "text": "Sometimes, we want video mutate"
+    },
+    {
+      "start": 233.96,
+      "end": 235.96,
+      "text": "In fact, when I add videos here"
+    },
+    {
+      "start": 235.96,
+      "end": 236.96,
+      "text": "I add them in code with rate.com"
+    },
+    {
+      "start": 236.96,
+      "end": 237.96,
+      "text": "And I demonstrate something"
+    },
+    {
+      "start": 237.96,
+      "end": 239.96,
+      "text": "I am downloading some VSCode"
+    },
+    {
+      "start": 239.96,
+      "end": 241.96,
+      "text": "So, I am using mutate attribute"
+    },
+    {
+      "start": 241.96,
+      "end": 242.96,
+      "text": "Because I don't want"
+    },
+    {
+      "start": 242.96,
+      "end": 243.96,
+      "text": "When I recorded a video"
+    },
+    {
+      "start": 243.96,
+      "end": 244.96,
+      "text": "If there is a background noise"
+    },
+    {
+      "start": 244.96,
+      "end": 245.96,
+      "text": "Then, you can listen to it"
+    },
+    {
+      "start": 245.96,
+      "end": 247.96,
+      "text": "For example, I want to show you"
+    },
+    {
+      "start": 247.96,
+      "end": 249.96,
+      "text": "I will make a video of this"
+    },
+    {
+      "start": 249.96,
+      "end": 250.96,
+      "text": "I will highlight it like this"
+    },
+    {
+      "start": 250.96,
+      "end": 251.96,
+      "text": "So, I don't want audio"
+    },
+    {
+      "start": 251.96,
+      "end": 252.96,
+      "text": "So, I will mutate it"
+    },
+    {
+      "start": 252.96,
+      "end": 255.96,
+      "text": "So, you can use mutate attributes in your websites"
+    },
+    {
+      "start": 255.96,
+      "end": 257.96,
+      "text": "Then, poster"
+    },
+    {
+      "start": 257.96,
+      "end": 258.96,
+      "text": "It is very important"
+    },
+    {
+      "start": 258.96,
+      "end": 260.96,
+      "text": "So, if I have a image"
+    },
+    {
+      "start": 260.96,
+      "end": 262.96,
+      "text": "Download.jpg"
+    },
+    {
+      "start": 262.96,
+      "end": 263.96,
+      "text": "If I write here"
+    },
+    {
+      "start": 263.96,
+      "end": 264.96,
+      "text": "Postar is equal to"
+    },
+    {
+      "start": 264.96,
+      "end": 266.96,
+      "text": "And I write down"
+    },
+    {
+      "start": 266.96,
+      "end": 267.96,
+      "text": "Download.jpg"
+    },
+    {
+      "start": 267.96,
+      "end": 268.96,
+      "text": "So, you will see something"
+    },
+    {
+      "start": 268.96,
+      "end": 269.96,
+      "text": "It will be seen"
+    },
+    {
+      "start": 269.96,
+      "end": 270.96,
+      "text": "This way"
+    },
+    {
+      "start": 270.96,
+      "end": 271.96,
+      "text": "I will play the poster"
+    },
+    {
+      "start": 271.96,
+      "end": 272.96,
+      "text": "Then the video will be played"
+    },
+    {
+      "start": 272.96,
+      "end": 273.96,
+      "text": "So, this is like thumbnail"
+    },
+    {
+      "start": 273.96,
+      "end": 275.96,
+      "text": "So, you can see the thumbnail of the YouTube video"
+    },
+    {
+      "start": 275.96,
+      "end": 277.96,
+      "text": "This is like poster attribute"
+    },
+    {
+      "start": 277.96,
+      "end": 279.96,
+      "text": "So, all these attributes"
+    },
+    {
+      "start": 279.96,
+      "end": 280.96,
+      "text": "You can use it"
+    },
+    {
+      "start": 280.96,
+      "end": 283.96,
+      "text": "You know the video dimension of the video"
+    },
+    {
+      "start": 283.96,
+      "end": 285.96,
+      "text": "I have seen both the white and white"
+    },
+    {
+      "start": 285.96,
+      "end": 287.96,
+      "text": "So, I hope"
+    },
+    {
+      "start": 287.96,
+      "end": 289.96,
+      "text": "I have come to understand"
+    },
+    {
+      "start": 289.96,
+      "end": 291.96,
+      "text": "Now, I want to tell you"
+    },
+    {
+      "start": 291.96,
+      "end": 293.96,
+      "text": "The audio of this video"
+    },
+    {
+      "start": 293.96,
+      "end": 295.96,
+      "text": "This is for all the attributes of all the videos"
+    },
+    {
+      "start": 295.96,
+      "end": 297.96,
+      "text": "I want to make a website for the straight forward"
+    },
+    {
+      "start": 297.96,
+      "end": 299.96,
+      "text": "Because I will give you"
+    },
+    {
+      "start": 299.96,
+      "end": 301.96,
+      "text": "any quiz in the end of this video"
+    },
+    {
+      "start": 301.96,
+      "end": 303.96,
+      "text": "So, I will add some quiz"
+    },
+    {
+      "start": 303.96,
+      "end": 305.96,
+      "text": "I will add some quiz in the end of this video"
+    },
+    {
+      "start": 305.96,
+      "end": 307.96,
+      "text": "So that I forget"
+    },
+    {
+      "start": 307.96,
+      "end": 309.96,
+      "text": "I will give you"
+    },
+    {
+      "start": 309.96,
+      "end": 311.96,
+      "text": "And this is very important to all the questions"
+    },
+    {
+      "start": 311.96,
+      "end": 313.96,
+      "text": "Please do not forget to"
+    },
+    {
+      "start": 313.96,
+      "end": 315.96,
+      "text": "Write in the first"
+    },
+    {
+      "start": 315.96,
+      "end": 317.96,
+      "text": "Audio is like you write here"
+    },
+    {
+      "start": 317.96,
+      "end": 319.96,
+      "text": "And I will put the SRC in SRC"
+    },
+    {
+      "start": 319.96,
+      "end": 321.96,
+      "text": "I will put the SRC in SRC"
+    },
+    {
+      "start": 321.96,
+      "end": 323.96,
+      "text": "I will put the SRC in SRC"
+    },
+    {
+      "start": 323.96,
+      "end": 325.96,
+      "text": "I will reload it"
+    },
+    {
+      "start": 325.96,
+      "end": 327.96,
+      "text": "And here the audio is not"
+    },
+    {
+      "start": 327.96,
+      "end": 329.96,
+      "text": "I will see the strange"
+    },
+    {
+      "start": 329.96,
+      "end": 331.96,
+      "text": "I will put SRC in SRC"
+    },
+    {
+      "start": 331.96,
+      "end": 333.96,
+      "text": "I will not write it"
+    },
+    {
+      "start": 333.96,
+      "end": 335.96,
+      "text": "I will not write it in the control"
+    },
+    {
+      "start": 335.96,
+      "end": 337.96,
+      "text": "I will see the audio"
+    },
+    {
+      "start": 337.96,
+      "end": 339.96,
+      "text": "I can set the volume"
+    },
+    {
+      "start": 339.96,
+      "end": 341.96,
+      "text": "I will play the audio"
+    },
+    {
+      "start": 341.96,
+      "end": 343.96,
+      "text": "What is the SRC in SRC"
+    },
+    {
+      "start": 343.96,
+      "end": 345.96,
+      "text": "This audio is like you can mute it"
+    },
+    {
+      "start": 345.96,
+      "end": 347.96,
+      "text": "I can do it"
+    },
+    {
+      "start": 347.96,
+      "end": 349.96,
+      "text": "I will not do it"
+    },
+    {
+      "start": 349.96,
+      "end": 351.96,
+      "text": "Now, I will show you the SRC"
+    },
+    {
+      "start": 351.96,
+      "end": 353.96,
+      "text": "Now, what we will do"
+    },
+    {
+      "start": 353.96,
+      "end": 355.96,
+      "text": "We will see the attributes of this audio"
+    },
+    {
+      "start": 355.96,
+      "end": 359.96,
+      "text": "You know the source video file"
+    },
+    {
+      "start": 359.96,
+      "end": 361.96,
+      "text": "I will play the controls"
+    },
+    {
+      "start": 361.96,
+      "end": 363.96,
+      "text": "I will play the pause volume"
+    },
+    {
+      "start": 363.96,
+      "end": 365.96,
+      "text": "I will play the autoplay"
+    },
+    {
+      "start": 365.96,
+      "end": 367.96,
+      "text": "I will play the autoplay"
+    },
+    {
+      "start": 367.96,
+      "end": 369.96,
+      "text": "What is the SRC in SRC"
+    },
+    {
+      "start": 369.96,
+      "end": 371.96,
+      "text": "I will play the autoplay"
+    },
+    {
+      "start": 371.96,
+      "end": 373.96,
+      "text": "So, I will play the autoplay"
+    },
+    {
+      "start": 373.96,
+      "end": 377.96,
+      "text": "And then the next attribute is"
+    },
+    {
+      "start": 377.96,
+      "end": 379.96,
+      "text": "What will the loop"
+    },
+    {
+      "start": 379.96,
+      "end": 381.96,
+      "text": "I will repeat it"
+    },
+    {
+      "start": 381.96,
+      "end": 383.96,
+      "text": "I will loop it"
+    },
+    {
+      "start": 383.96,
+      "end": 385.96,
+      "text": "What is the SRC in SRC"
+    },
+    {
+      "start": 385.96,
+      "end": 387.96,
+      "text": "I will repeat it"
+    },
+    {
+      "start": 387.96,
+      "end": 389.96,
+      "text": "What is the SRC in SRC"
+    },
+    {
+      "start": 389.96,
+      "end": 391.96,
+      "text": "I will repeat it"
+    },
+    {
+      "start": 391.96,
+      "end": 393.96,
+      "text": "Once it is saved"
+    },
+    {
+      "start": 393.96,
+      "end": 395.96,
+      "text": "I will loop it"
+    },
+    {
+      "start": 395.96,
+      "end": 397.96,
+      "text": "You have seen the things"
+    },
+    {
+      "start": 397.96,
+      "end": 399.96,
+      "text": "I have looped the SRC in Mp3"
+    },
+    {
+      "start": 399.96,
+      "end": 401.96,
+      "text": "Once it is saved"
+    },
+    {
+      "start": 401.96,
+      "end": 403.96,
+      "text": "What is the SRC in SRC"
+    },
+    {
+      "start": 403.96,
+      "end": 405.96,
+      "text": "I will repeat it"
+    },
+    {
+      "start": 405.96,
+      "end": 407.96,
+      "text": "The MP3 is playing it again and again"
+    },
+    {
+      "start": 407.96,
+      "end": 409.96,
+      "text": "So, it is a little bit different"
+    },
+    {
+      "start": 409.96,
+      "end": 413.96,
+      "text": "When you want to do the Mp3"
+    },
+    {
+      "start": 413.96,
+      "end": 415.96,
+      "text": "If you want to do the Mp3"
+    },
+    {
+      "start": 415.96,
+      "end": 417.96,
+      "text": "You can use it"
+    },
+    {
+      "start": 417.96,
+      "end": 419.96,
+      "text": "After that"
+    },
+    {
+      "start": 419.96,
+      "end": 421.96,
+      "text": "What will the mutate will be"
+    },
+    {
+      "start": 421.96,
+      "end": 423.96,
+      "text": "Audio"
+    },
+    {
+      "start": 423.96,
+      "end": 425.96,
+      "text": "You definitely don't want to do the body fold"
+    },
+    {
+      "start": 425.96,
+      "end": 427.96,
+      "text": "But, we will try"
+    },
+    {
+      "start": 427.96,
+      "end": 429.96,
+      "text": "The audio is muted"
+    },
+    {
+      "start": 429.96,
+      "end": 431.96,
+      "text": "And we can use it"
+    },
+    {
+      "start": 431.96,
+      "end": 433.96,
+      "text": "The user who listens to it"
+    },
+    {
+      "start": 433.96,
+      "end": 435.96,
+      "text": "What is the SRC in SRC"
+    },
+    {
+      "start": 435.96,
+      "end": 437.96,
+      "text": "We will do multiple audio"
+    },
+    {
+      "start": 437.96,
+      "end": 439.96,
+      "text": "You can mute the audio"
+    },
+    {
+      "start": 439.96,
+      "end": 441.96,
+      "text": "The user who plays"
+    },
+    {
+      "start": 441.96,
+      "end": 443.96,
+      "text": "You can mute it"
+    },
+    {
+      "start": 443.96,
+      "end": 445.96,
+      "text": "You can use it"
+    },
+    {
+      "start": 445.96,
+      "end": 447.96,
+      "text": "You can use it"
+    },
+    {
+      "start": 447.96,
+      "end": 449.96,
+      "text": "You can use it"
+    },
+    {
+      "start": 449.96,
+      "end": 451.96,
+      "text": "You have come to the Aihob"
+    },
+    {
+      "start": 451.96,
+      "end": 453.96,
+      "text": "You have enjoyed it"
+    },
+    {
+      "start": 453.96,
+      "end": 455.96,
+      "text": "The most comfortable"
+    },
+    {
+      "start": 455.96,
+      "end": 457.96,
+      "text": "I have explained the code with the D-Fall"
+    },
+    {
+      "start": 457.96,
+      "end": 459.96,
+      "text": "The preload attribute"
+    },
+    {
+      "start": 459.96,
+      "end": 461.96,
+      "text": "This is the value"
+    },
+    {
+      "start": 461.96,
+      "end": 463.96,
+      "text": "The first value is the NUN"
+    },
+    {
+      "start": 463.96,
+      "end": 465.96,
+      "text": "This is the default value"
+    },
+    {
+      "start": 465.96,
+      "end": 467.96,
+      "text": "It indicates that the browser should not preload the audio at all"
+    },
+    {
+      "start": 467.96,
+      "end": 471.96,
+      "text": "If you want to fetch the browser data"
+    },
+    {
+      "start": 471.96,
+      "end": 473.96,
+      "text": "Then you will use the preload attribute"
+    },
+    {
+      "start": 473.96,
+      "end": 475.96,
+      "text": "Or you will not use the preload attribute"
+    },
+    {
+      "start": 475.96,
+      "end": 477.96,
+      "text": "The preload is equal to NUN default value"
+    },
+    {
+      "start": 477.96,
+      "end": 479.96,
+      "text": "The preload is equal to the meta data"
+    },
+    {
+      "start": 479.96,
+      "end": 481.96,
+      "text": "The browser is not only the meta data"
+    },
+    {
+      "start": 481.96,
+      "end": 483.96,
+      "text": "The audio file is also the information about it"
+    },
+    {
+      "start": 483.96,
+      "end": 485.96,
+      "text": "It will be reloaded"
+    },
+    {
+      "start": 485.96,
+      "end": 487.96,
+      "text": "The first will be reloaded"
+    },
+    {
+      "start": 487.96,
+      "end": 489.96,
+      "text": "And what will be done by auto"
+    },
+    {
+      "start": 489.96,
+      "end": 491.96,
+      "text": "The entire audio will be reloaded"
+    },
+    {
+      "start": 491.96,
+      "end": 493.96,
+      "text": "The preload is equal to auto"
+    },
+    {
+      "start": 493.96,
+      "end": 495.96,
+      "text": "It will be downloaded"
+    },
+    {
+      "start": 495.96,
+      "end": 497.96,
+      "text": "So that when you play the user"
+    },
+    {
+      "start": 497.96,
+      "end": 499.96,
+      "text": "The audio will be saved"
+    },
+    {
+      "start": 499.96,
+      "end": 501.96,
+      "text": "The preload attribute is equal to the audio"
+    },
+    {
+      "start": 501.96,
+      "end": 503.96,
+      "text": "And it is very difficult to use the preload attribute"
+    },
+    {
+      "start": 503.96,
+      "end": 505.96,
+      "text": "So you should know"
+    },
+    {
+      "start": 505.96,
+      "end": 507.96,
+      "text": "What is the preload attribute?"
+    },
+    {
+      "start": 507.96,
+      "end": 509.96,
+      "text": "Before we start, I want to share this playlist"
+    },
+    {
+      "start": 509.96,
+      "end": 511.96,
+      "text": "With my friends"
+    },
+    {
+      "start": 511.96,
+      "end": 513.96,
+      "text": "I am seeing that the video is getting very different"
+    },
+    {
+      "start": 513.96,
+      "end": 515.96,
+      "text": "We are going to start the video"
+    },
+    {
+      "start": 515.96,
+      "end": 517.96,
+      "text": "I hope you liked this video"
+    },
+    {
+      "start": 517.96,
+      "end": 519.96,
+      "text": "And with that"
+    },
+    {
+      "start": 519.96,
+      "end": 521.96,
+      "text": "Like this, you can just repost the video"
+    },
+    {
+      "start": 521.96,
+      "end": 523.96,
+      "text": "You can also start the video"
+    },
+    {
+      "start": 523.96,
+      "end": 525.96,
+      "text": "Your star will help you with the likes of the video"
+    },
+    {
+      "start": 525.96,
+      "end": 527.96,
+      "text": "I will also get the free courses"
+    },
+    {
+      "start": 527.96,
+      "end": 529.96,
+      "text": "So this was about audio and video tags"
+    },
+    {
+      "start": 529.96,
+      "end": 531.96,
+      "text": "I told you all the attributes"
+    },
+    {
+      "start": 531.96,
+      "end": 533.96,
+      "text": "And you guys definitely"
+    },
+    {
+      "start": 533.96,
+      "end": 535.96,
+      "text": "Use all the measures"
+    },
+    {
+      "start": 535.96,
+      "end": 537.96,
+      "text": "I will give you to try to do this"
+    },
+    {
+      "start": 537.96,
+      "end": 539.96,
+      "text": "And you guys will try to do this"
+    },
+    {
+      "start": 539.96,
+      "end": 541.96,
+      "text": "People were asking"
+    },
+    {
+      "start": 541.96,
+      "end": 543.96,
+      "text": "Can we use the rep or"
+    },
+    {
+      "start": 543.96,
+      "end": 545.96,
+      "text": "I have not used the rep but"
+    },
+    {
+      "start": 545.96,
+      "end": 547.96,
+      "text": "If you want to use the rep.com"
+    },
+    {
+      "start": 547.96,
+      "end": 549.96,
+      "text": "You can use it"
+    },
+    {
+      "start": 549.96,
+      "end": 551.96,
+      "text": "If you want to use the rep or"
+    },
+    {
+      "start": 551.96,
+      "end": 553.96,
+      "text": "You can also use the rep for iOS"
+    },
+    {
+      "start": 553.96,
+      "end": 555.96,
+      "text": "And Android"
+    },
+    {
+      "start": 555.96,
+      "end": 557.96,
+      "text": "You can try it"
+    },
+    {
+      "start": 557.96,
+      "end": 559.96,
+      "text": "People were asking how to do this"
+    },
+    {
+      "start": 559.96,
+      "end": 561.96,
+      "text": "But I am also trying to use the VSCode"
+    },
+    {
+      "start": 561.96,
+      "end": 563.96,
+      "text": "Because most of the people who want to use it"
+    },
+    {
+      "start": 563.96,
+      "end": 565.96,
+      "text": "They prefer it"
+    },
+    {
+      "start": 565.96,
+      "end": 567.96,
+      "text": "I have made videos in VSCode"
+    },
+    {
+      "start": 567.96,
+      "end": 569.96,
+      "text": "But personally, I use the rep.com"
+    },
+    {
+      "start": 569.96,
+      "end": 571.96,
+      "text": "And also the videos"
+    },
+    {
+      "start": 571.96,
+      "end": 573.96,
+      "text": "Next topic is"
+    },
+    {
+      "start": 573.96,
+      "end": 575.96,
+      "text": "Svg is related"
+    },
+    {
+      "start": 575.96,
+      "end": 577.96,
+      "text": "What is Svg?"
+    },
+    {
+      "start": 577.96,
+      "end": 579.96,
+      "text": "It is a format"
+    },
+    {
+      "start": 579.96,
+      "end": 581.96,
+      "text": "You can use it"
+    },
+    {
+      "start": 581.96,
+      "end": 583.96,
+      "text": "It is a very high graphics"
+    },
+    {
+      "start": 583.96,
+      "end": 585.96,
+      "text": "You can make it in a circle"
+    },
+    {
+      "start": 585.96,
+      "end": 587.96,
+      "text": "So Svg is used"
+    },
+    {
+      "start": 587.96,
+      "end": 589.96,
+      "text": "Like this"
+    },
+    {
+      "start": 589.96,
+      "end": 591.96,
+      "text": "Like this"
+    },
+    {
+      "start": 591.96,
+      "end": 593.96,
+      "text": "I am using it"
+    },
+    {
+      "start": 593.96,
+      "end": 595.96,
+      "text": "If I add Svg here"
+    },
+    {
+      "start": 595.96,
+      "end": 597.96,
+      "text": "Then Svg will be here"
+    },
+    {
+      "start": 597.96,
+      "end": 599.96,
+      "text": "Video, audio"
+    },
+    {
+      "start": 599.96,
+      "end": 601.96,
+      "text": "And this is the online elements"
+    },
+    {
+      "start": 601.96,
+      "end": 603.96,
+      "text": "So we are looking at the online elements"
+    },
+    {
+      "start": 603.96,
+      "end": 605.96,
+      "text": "And people have seen"
+    },
+    {
+      "start": 605.96,
+      "end": 607.96,
+      "text": "What is here?"
+    },
+    {
+      "start": 607.96,
+      "end": 609.96,
+      "text": "You can save the file from the other side"
+    },
+    {
+      "start": 609.96,
+      "end": 611.96,
+      "text": "You can save the Svg file"
+    },
+    {
+      "start": 611.96,
+      "end": 613.96,
+      "text": "So I will write here"
+    },
+    {
+      "start": 613.96,
+      "end": 615.96,
+      "text": "That I am using it"
+    },
+    {
+      "start": 615.96,
+      "end": 617.96,
+      "text": "And save the content of Svg"
+    },
+    {
+      "start": 617.96,
+      "end": 619.96,
+      "text": "So if I write it"
+    },
+    {
+      "start": 619.96,
+      "end": 621.96,
+      "text": "And I will write this"
+    },
+    {
+      "start": 621.96,
+      "end": 623.96,
+      "text": "I am using it"
+    },
+    {
+      "start": 623.96,
+      "end": 625.96,
+      "text": "So you can see"
+    },
+    {
+      "start": 625.96,
+      "end": 627.96,
+      "text": "I have not seen it"
+    },
+    {
+      "start": 627.96,
+      "end": 629.96,
+      "text": "If I write here"
+    },
+    {
+      "start": 629.96,
+      "end": 631.96,
+      "text": "And I am using it"
+    },
+    {
+      "start": 631.96,
+      "end": 633.96,
+      "text": "You can see"
+    },
+    {
+      "start": 633.96,
+      "end": 635.96,
+      "text": "That I have not seen it"
+    },
+    {
+      "start": 635.96,
+      "end": 637.96,
+      "text": "Because Svg is"
+    },
+    {
+      "start": 637.96,
+      "end": 641.96,
+      "text": "I write in the file in the browser"
+    },
+    {
+      "start": 641.96,
+      "end": 643.96,
+      "text": "And Svg file"
+    },
+    {
+      "start": 643.96,
+      "end": 645.96,
+      "text": "You can see"
+    },
+    {
+      "start": 645.96,
+      "end": 647.96,
+      "text": "You can see in the browser"
+    },
+    {
+      "start": 647.96,
+      "end": 649.96,
+      "text": "You can see in the declaration"
+    },
+    {
+      "start": 649.96,
+      "end": 651.96,
+      "text": "So I have written here"
+    },
+    {
+      "start": 651.96,
+      "end": 653.96,
+      "text": "And I am showing the file"
+    },
+    {
+      "start": 653.96,
+      "end": 655.96,
+      "text": "And here the stack and the answer"
+    },
+    {
+      "start": 655.96,
+      "end": 657.96,
+      "text": "You have to write here"
+    },
+    {
+      "start": 657.96,
+      "end": 659.96,
+      "text": "I will show you"
+    },
+    {
+      "start": 659.96,
+      "end": 661.96,
+      "text": "You have to add some things"
+    },
+    {
+      "start": 661.96,
+      "end": 663.96,
+      "text": "Name, space, declaration"
+    },
+    {
+      "start": 663.96,
+      "end": 665.96,
+      "text": "So you have to add some things"
+    },
+    {
+      "start": 665.96,
+      "end": 667.96,
+      "text": "And you can see"
+    },
+    {
+      "start": 667.96,
+      "end": 669.96,
+      "text": "Here you can see"
+    },
+    {
+      "start": 669.96,
+      "end": 671.96,
+      "text": "This is very important"
+    },
+    {
+      "start": 671.96,
+      "end": 673.96,
+      "text": "And many people will make websites"
+    },
+    {
+      "start": 673.96,
+      "end": 675.96,
+      "text": "I will show you"
+    },
+    {
+      "start": 675.96,
+      "end": 677.96,
+      "text": "So I am showing you"
+    },
+    {
+      "start": 677.96,
+      "end": 679.96,
+      "text": "The problem you faced"
+    },
+    {
+      "start": 679.96,
+      "end": 681.96,
+      "text": "I have not faced you"
+    },
+    {
+      "start": 681.96,
+      "end": 683.96,
+      "text": "I have not faced you"
+    },
+    {
+      "start": 683.96,
+      "end": 685.96,
+      "text": "And the solution is"
+    },
+    {
+      "start": 685.96,
+      "end": 687.96,
+      "text": "The next topic is iPhones"
+    },
+    {
+      "start": 687.96,
+      "end": 689.96,
+      "text": "It is very simple"
+    },
+    {
+      "start": 689.96,
+      "end": 691.96,
+      "text": "You can embed an other website"
+    },
+    {
+      "start": 691.96,
+      "end": 693.96,
+      "text": "If I want to embed this website"
+    },
+    {
+      "start": 693.96,
+      "end": 695.96,
+      "text": "I can use it"
+    },
+    {
+      "start": 695.96,
+      "end": 697.96,
+      "text": "I will use it"
+    },
+    {
+      "start": 697.96,
+      "end": 699.96,
+      "text": "I will copy this"
+    },
+    {
+      "start": 699.96,
+      "end": 701.96,
+      "text": "And paste it"
+    },
+    {
+      "start": 701.96,
+      "end": 703.96,
+      "text": "And you can see"
+    },
+    {
+      "start": 703.96,
+      "end": 707.96,
+      "text": "The website is embedded"
+    },
+    {
+      "start": 707.96,
+      "end": 709.96,
+      "text": "You will definitely want to embed it"
+    },
+    {
+      "start": 709.96,
+      "end": 711.96,
+      "text": "If you want to embed it"
+    },
+    {
+      "start": 711.96,
+      "end": 713.96,
+      "text": "You can embed it"
+    },
+    {
+      "start": 713.96,
+      "end": 715.96,
+      "text": "I will add some height"
+    },
+    {
+      "start": 715.96,
+      "end": 717.96,
+      "text": "So it is written"
+    },
+    {
+      "start": 717.96,
+      "end": 719.96,
+      "text": "I will write it"
+    },
+    {
+      "start": 719.96,
+      "end": 721.96,
+      "text": "I will add 192"
+    },
+    {
+      "start": 721.96,
+      "end": 723.96,
+      "text": "I will add height"
+    },
+    {
+      "start": 725.96,
+      "end": 727.96,
+      "text": "I will make it"
+    },
+    {
+      "start": 727.96,
+      "end": 729.96,
+      "text": "I can use it"
+    },
+    {
+      "start": 729.96,
+      "end": 731.96,
+      "text": "You can embed it"
+    },
+    {
+      "start": 731.96,
+      "end": 733.96,
+      "text": "You can embed a website"
+    },
+    {
+      "start": 733.96,
+      "end": 735.96,
+      "text": "You can embed it"
+    },
+    {
+      "start": 735.96,
+      "end": 737.96,
+      "text": "You can use it"
+    },
+    {
+      "start": 737.96,
+      "end": 739.96,
+      "text": "You can embed it"
+    },
+    {
+      "start": 739.96,
+      "end": 741.96,
+      "text": "You can embed it"
+    },
+    {
+      "start": 741.96,
+      "end": 743.96,
+      "text": "You can use it"
+    },
+    {
+      "start": 743.96,
+      "end": 745.96,
+      "text": "I will share a video"
+    },
+    {
+      "start": 745.96,
+      "end": 747.96,
+      "text": "You can embed it"
+    },
+    {
+      "start": 777.96,
+      "end": 779.96,
+      "text": "I will add it in the iphone"
+    },
+    {
+      "start": 779.96,
+      "end": 781.96,
+      "text": "I will drop the word"
+    },
+    {
+      "start": 781.96,
+      "end": 783.96,
+      "text": "so that you can see the code"
+    },
+    {
+      "start": 783.96,
+      "end": 785.96,
+      "text": "Now what I will do is"
+    },
+    {
+      "start": 785.96,
+      "end": 787.96,
+      "text": "After paste it"
+    },
+    {
+      "start": 787.96,
+      "end": 789.96,
+      "text": "I will show you the document"
+    },
+    {
+      "start": 789.96,
+      "end": 791.96,
+      "text": "This video is embedded here"
+    },
+    {
+      "start": 791.96,
+      "end": 793.96,
+      "text": "I hope you will understand"
+    },
+    {
+      "start": 793.96,
+      "end": 795.96,
+      "text": "And"
+    },
+    {
+      "start": 795.96,
+      "end": 797.96,
+      "text": "The media is only available in HTML"
+    },
+    {
+      "start": 797.96,
+      "end": 799.96,
+      "text": "For example,"
+    },
+    {
+      "start": 799.96,
+      "end": 801.96,
+      "text": "I will see a lot of things"
+    },
+    {
+      "start": 801.96,
+      "end": 803.96,
+      "text": "But that's all about media"
+    },
+    {
+      "start": 803.96,
+      "end": 805.96,
+      "text": "This is what you will use"
+    },
+    {
+      "start": 805.96,
+      "end": 807.96,
+      "text": "95% of the time"
+    },
+    {
+      "start": 807.96,
+      "end": 809.96,
+      "text": "Now I will give you a quick quiz"
+    },
+    {
+      "start": 809.96,
+      "end": 811.96,
+      "text": "And your quick quiz is"
+    },
+    {
+      "start": 811.96,
+      "end": 813.96,
+      "text": "Create a website"
+    },
+    {
+      "start": 813.96,
+      "end": 815.96,
+      "text": "Which shows videos of different categories"
+    },
+    {
+      "start": 815.96,
+      "end": 817.96,
+      "text": "And audio of different categories"
+    },
+    {
+      "start": 817.96,
+      "end": 819.96,
+      "text": "You can use"
+    },
+    {
+      "start": 819.96,
+      "end": 821.96,
+      "text": "YouTube videos in an iphone"
+    },
+    {
+      "start": 821.96,
+      "end": 823.96,
+      "text": "Using YouTube's emitting feature"
+    },
+    {
+      "start": 823.96,
+      "end": 825.96,
+      "text": "You have to make a website"
+    },
+    {
+      "start": 825.96,
+      "end": 827.96,
+      "text": "Which will make you content"
+    },
+    {
+      "start": 827.96,
+      "end": 829.96,
+      "text": "Which will make you content"
+    },
+    {
+      "start": 829.96,
+      "end": 831.96,
+      "text": "Which will make you content"
+    },
+    {
+      "start": 831.96,
+      "end": 833.96,
+      "text": "You will use video audio"
+    },
+    {
+      "start": 833.96,
+      "end": 835.96,
+      "text": "And use this feature"
+    },
+    {
+      "start": 835.96,
+      "end": 837.96,
+      "text": "And use this feature"
+    },
+    {
+      "start": 837.96,
+      "end": 839.96,
+      "text": "I have made a video of this"
+    },
+    {
+      "start": 839.96,
+      "end": 841.96,
+      "text": "You can also"
+    },
+    {
+      "start": 841.96,
+      "end": 843.96,
+      "text": "Make a website"
+    },
+    {
+      "start": 843.96,
+      "end": 845.96,
+      "text": "You can see"
+    },
+    {
+      "start": 845.96,
+      "end": 847.96,
+      "text": "You can give me a comment"
+    },
+    {
+      "start": 847.96,
+      "end": 849.96,
+      "text": "You can explain the code"
+    },
+    {
+      "start": 849.96,
+      "end": 851.96,
+      "text": "But you need to try this"
+    },
+    {
+      "start": 851.96,
+      "end": 853.96,
+      "text": "And write a signature badge"
+    },
+    {
+      "start": 853.96,
+      "end": 855.96,
+      "text": "Write it in the comment section"
+    },
+    {
+      "start": 855.96,
+      "end": 857.96,
+      "text": "Like the video"
+    },
+    {
+      "start": 857.96,
+      "end": 859.96,
+      "text": "Write a signature badge"
+    },
+    {
+      "start": 859.96,
+      "end": 861.96,
+      "text": "Thank you so much for watching this video"
+    },
+    {
+      "start": 861.96,
+      "end": 863.96,
+      "text": "And I will see you"
+    },
+    {
+      "start": 863.96,
+      "end": 865.96,
+      "text": "Next time"
+    }
+  ]
+}

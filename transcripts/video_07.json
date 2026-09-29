@@ -1,0 +1,1629 @@
+{
+  "video": 7,
+  "course": "Sigma Web Development",
+  "source_file": "7_Forms and input tags in HTML _ Sigma Web Development Course - Tutorial #7 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " What are the forms of this video and what is the input tag form? It is very important to use the form in the form because you submit data through the form You can see the form on Google and Qwari forms You can see the data and the form on the flight ticket You can submit it through HTML and the form Last video I liked it a lot I will request you to like this video with high energy So that you can maintain the high energy throughout the course So let's go to the computer screen and see the forms of this video and see the best practices of this video Let's roll the intro So guys, I have already uploaded my computer screen Now I will make a folder that I will use in my video I will use the video to write down the name of the folder I will show you all the forms You can also make the index.html and in the end, I will use the word I will do the view, wrap, screen, and then I will take the forms Let's learn it So I have set the forms of this video and the title of this video is The title of this video is actually on my page I want to show you a very important setting You have already made a comment about this You have to click it twice and you can do it Yes, you can do it on the gear and set it on the settings And after setting it, you simply do it Here you can write live preview, live preview And we can set it actually When we click it, we will open the external browser Now I will close everything I will click here and open the external browser And I will come to the browser and the playlists of the sigma web development I will click on the access to the app and on the bookmark But now I will tell you how we will click here You can see it is open If you want to do this, then do it like this But sometimes you want to do side by side view And when you want to use it in the external, external, external, external, external, then do it in design So whenever you are working in design, you will definitely want to see live preview And here is the live server that is why this extension was made And this is why this live server was made different And you can see the preview on the side Now what we will do here is to go to the forms What is the form? You don't know the name of the form It means it is a real form And it becomes a reservation We call it as IDJ It becomes a form of need It becomes an exam form So that our data can reach Until we want it So this form is a stable form tag Like form will be written Enter This way you will ask the first question What is the form of the form? Get request I will tell you a very quick difference I will show you the next thing When we will read the backend Get request is very simple And we will send post requests In most of the cases When we don't have much data As soon as our form is posted So we will use post requests in most of the cases And what is the get request? It is very simple request So we have to tell the server And that's it So we have to hit the server with the request But if you don't understand the situation That should be fine It is not a problem We will also be doing it in detail So the form is also written in the post Now I can show you some input tags What do you guys tell the input tags? What are your forms? What are your elements? Like you can add a date You can add form You can say your name You can say your number You can say your age It is only a number You can add form You want to add form So I want to tell you That the input tags are inside the form And a label tag Which is used to label the input So I will show you The simplest input tag It is called Type is equal to text So I will add type is equal to text And if you guys zoom out So this is called Type is equal to text and name is equal to user name And there is a placeholder enter you And this will be written in the actual name So you can say enter your user name And the user will enter you name And the user will enter you name I will write a text And I will write you Malo form to apply For TAA For Sigma Web Dev TAA Sigma Web Development Codes TAA Maloom we are teaching assistants For Sigma Web Development Codes So we can write something like this By the way I have put subtitles If you don't have playlists, then you must have access And with that I will show you So these subtitles are very funny I will show you And when you write a single match And when you have the village land Maloom is a young girl And if you see her And if you see her in Hindi And if you see her in Hindi And if you see her in Hindi And if you see her in Hindi And if you see her in Hindi And if you see her in Hindi And if you see her in Hindi And if you see her in Hindi And if you see her in Hindi And if you see her in Hindi And if you see her in Hindi And if you see her in Hindi And if you see her in Hindi And if she says And if you see her in Hindi And if you see her in Hindi And if she says And if you see her in Hindi I have found it and I can't find any other one. I will tell you in detail. I have written a label for a user name. You can see here that the label will be here. I am looking at the label. I have not put anything in it. I will enter your user name. You can see here. I have added this. You can enter your user name. You can enter your expertise. I have asked you what is your gender. I can add something here. You can see here. You can see here. You can see here. What happens here? Let's unwrap it. What happens? It is our block element. What happens to the block elements? I have not told you about this. I will tell you in the coming videos. I will put it in the new space. I will put it in the new space. The BR tag is also there. The BR tag is also there. The line breaks. I will not prefer BR tag. You will get to know why we should never block our HTML. You will know in the coming videos. You can see here. The user name, the name, the email, the female. You can see here. I am taking the female. I am taking the male. Why is it so? The label is there. You are looking at other stairnd you saw I have introduced the name. name is equal to gender. I have also put root name in it. Name is equal to gender. This is also input radio tag. annotate. and write this rank a further name. You can select the name just at a time. If i select and fill the Fei only will do these. And fill others only. I will show you something. If the idea is done in the form. I don't want to get it in the first one. I will get it in the second one. When I click on the female, I don't select. I am not selecting. I am selecting the male. I have to click here. You see, I want to do it. I always want to do it. The input tag is in the ID. You can see here, I have added the label for the female. We have a input tag. The type is equal to checkbox. If I add a type to checkbox, I will add the input tag. I will add it in the div. I will do it in the format document. This document will be very good. I will say that it is in the format. Now, you can see here, I will check the news letter. I can check the checkbox. You can check the checkbox. If you want to check the male or female. You can select it from the option. You can also select the text. You can select the text. You will see the text. This text can be listed or added in the place. Here it is written as the text as you can see. Here it is written as the text. here it is written as the text. merge into the text. You may pick your text. merge into the text.mer into the text. skillfully. This type inside is connected between traditional forms. It does not have any middle lines at this time. All the details are given in either one or second, Let me know in the comments below. What will happen if I write the comments? I will write the comments below. You will not get the style of this video. We will do CSS after that. I will write just BRTAC. I will tell you about BRTAC. I do not write BRTAC. It is a BRTAC. You should know that BRTAC is a line break tag. I will tell you about BRTAC. I will tell you about BRTAC. It is a BRTAC. I do not recommend it. It is easy to use. Add new spaces. I will copy it. I will show you the select tag. You will see that you will add the select tag. You will see that you will get options. Select the option that you want to create. You can use any option in Cherry. Now you can use any option in Cherry. I have added value to Apple. I have added name to fruit. Then option value is equal to Apple. Option value is equal to Apple. When I will parse this form data, I will tell you about JavaScript. GetRequest is very simple, PostRequest is used when it is a big data, because it is a limit of GetRequest. We will not send passwords in GetRequest, we will send it with PostRequest. Now I have told you the method, what is in the name? Name is equal to user name, we mark it with name. If we mark it with name, we will know the server, which key corresponding value is it. The key value will be named, it will be named and valid. We will see what is the placeholder in the server side processing. Here you can see the user name is placeholder. I will click enter user, but enter user is not written. I will also write something, but enter user is telling me to enter user name. Now I will use auto focus, then I will show you the focus. If you have written the name, then enter user name. I will reload it, now I will type it, then focus on it automatically. So the autofocus will be like, you will type it here, but I hope you understand. Now I will give you the validation attribute, you can give the pattern in which you can give the regular expression pattern. And you can give them confused, do you not understand. What are these things? There is no expression in the regular expression, so I will learn everything here. Now you will understand how much we will accept a particular pattern, if we put this pattern in this pattern, You can't put the information on the information. So, you should know this thing here. I hope you are enjoying this video. And with this, I would like to give a comment section of the video. And before the video, please review this course. Because many people ask me, I should not do this course. People don't value it. It is free. We will watch this course. And I would like to give a note to those people who have told me what we have done for the paid course. What should we do? We should join the SIGMA Batch. And you should join the SIGMA Batch. Cut your losses and join the SIGMA Batch. Because, look, what quality of this course is it? I don't think you need to tell me. So, you all should come and do this. You all should come and meet here. I am telling you. This is the only course I would sell to you in Rs.10,000. This is the start of the amount we fixed. I would sell to you in Rs.10,000. And I think there is nothing wrong in selling any course. If there is nothing wrong in selling any course. But the thing is, if you have some other course and you feel that SIGMA Batch is a big course. So, you should join the SIGMA Batch. Cut your losses and join the SIGMA Batch. Because, if you make your career, you will have no other things. If you are coming back in time, you will see that you will also say, yes, we have taken a paid course. Then, we have taken a pre course, which we understood. And if you have become a career, you will have no matter what. So, do what is right for you. And you should understand your own way. And you should do what you understood. So, please like the video and access the playlist. Subscribe to the channel and write in the comment section, SIGMA Batch OP. I will call both of you. Thank you so much for watching this video. And I will see you next time. Bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.88,
+      "text": "What are the forms of this video and what is the input tag form?"
+    },
+    {
+      "start": 4.88,
+      "end": 11.28,
+      "text": "It is very important to use the form in the form because you submit data through the form"
+    },
+    {
+      "start": 11.28,
+      "end": 16.2,
+      "text": "You can see the form on Google and Qwari forms"
+    },
+    {
+      "start": 16.2,
+      "end": 20.6,
+      "text": "You can see the data and the form on the flight ticket"
+    },
+    {
+      "start": 20.6,
+      "end": 22.96,
+      "text": "You can submit it through HTML and the form"
+    },
+    {
+      "start": 22.96,
+      "end": 24.76,
+      "text": "Last video I liked it a lot"
+    },
+    {
+      "start": 24.76,
+      "end": 28.12,
+      "text": "I will request you to like this video with high energy"
+    },
+    {
+      "start": 28.12,
+      "end": 30.88,
+      "text": "So that you can maintain the high energy throughout the course"
+    },
+    {
+      "start": 30.88,
+      "end": 33.92,
+      "text": "So let's go to the computer screen and see the forms of this video"
+    },
+    {
+      "start": 33.92,
+      "end": 36.92,
+      "text": "and see the best practices of this video"
+    },
+    {
+      "start": 36.92,
+      "end": 37.92,
+      "text": "Let's roll the intro"
+    },
+    {
+      "start": 46.92,
+      "end": 48.92,
+      "text": "So guys, I have already uploaded my computer screen"
+    },
+    {
+      "start": 48.92,
+      "end": 53.12,
+      "text": "Now I will make a folder that I will use in my video"
+    },
+    {
+      "start": 53.12,
+      "end": 56.12,
+      "text": "I will use the video to write down the name of the folder"
+    },
+    {
+      "start": 57.12,
+      "end": 58.72,
+      "text": "I will show you all the forms"
+    },
+    {
+      "start": 58.72,
+      "end": 64.12,
+      "text": "You can also make the index.html and in the end, I will use the word"
+    },
+    {
+      "start": 64.12,
+      "end": 70.12,
+      "text": "I will do the view, wrap, screen, and then I will take the forms"
+    },
+    {
+      "start": 70.12,
+      "end": 72.12,
+      "text": "Let's learn it"
+    },
+    {
+      "start": 72.12,
+      "end": 77.12,
+      "text": "So I have set the forms of this video and the title of this video is"
+    },
+    {
+      "start": 77.12,
+      "end": 80.12,
+      "text": "The title of this video is actually on my page"
+    },
+    {
+      "start": 80.12,
+      "end": 83.12,
+      "text": "I want to show you a very important setting"
+    },
+    {
+      "start": 84.12,
+      "end": 86.12,
+      "text": "You have already made a comment about this"
+    },
+    {
+      "start": 86.12,
+      "end": 89.12,
+      "text": "You have to click it twice and you can do it"
+    },
+    {
+      "start": 89.12,
+      "end": 92.12,
+      "text": "Yes, you can do it on the gear and set it on the settings"
+    },
+    {
+      "start": 92.12,
+      "end": 96.12,
+      "text": "And after setting it, you simply do it"
+    },
+    {
+      "start": 96.12,
+      "end": 99.12,
+      "text": "Here you can write live preview, live preview"
+    },
+    {
+      "start": 99.12,
+      "end": 101.12,
+      "text": "And we can set it actually"
+    },
+    {
+      "start": 101.12,
+      "end": 106.12,
+      "text": "When we click it, we will open the external browser"
+    },
+    {
+      "start": 106.12,
+      "end": 108.12,
+      "text": "Now I will close everything"
+    },
+    {
+      "start": 108.12,
+      "end": 110.12,
+      "text": "I will click here and open the external browser"
+    },
+    {
+      "start": 110.12,
+      "end": 114.12,
+      "text": "And I will come to the browser and the playlists of the sigma web development"
+    },
+    {
+      "start": 114.12,
+      "end": 118.12,
+      "text": "I will click on the access to the app and on the bookmark"
+    },
+    {
+      "start": 118.12,
+      "end": 121.12,
+      "text": "But now I will tell you how we will click here"
+    },
+    {
+      "start": 121.12,
+      "end": 123.12,
+      "text": "You can see it is open"
+    },
+    {
+      "start": 123.12,
+      "end": 125.12,
+      "text": "If you want to do this, then do it like this"
+    },
+    {
+      "start": 125.12,
+      "end": 128.12,
+      "text": "But sometimes you want to do side by side view"
+    },
+    {
+      "start": 128.12,
+      "end": 132.12,
+      "text": "And when you want to use it in the external, external, external, external, external, then do it in design"
+    },
+    {
+      "start": 132.12,
+      "end": 137.12,
+      "text": "So whenever you are working in design, you will definitely want to see live preview"
+    },
+    {
+      "start": 137.12,
+      "end": 140.12,
+      "text": "And here is the live server that is why this extension was made"
+    },
+    {
+      "start": 140.12,
+      "end": 143.12,
+      "text": "And this is why this live server was made different"
+    },
+    {
+      "start": 143.12,
+      "end": 145.12,
+      "text": "And you can see the preview on the side"
+    },
+    {
+      "start": 145.12,
+      "end": 147.12,
+      "text": "Now what we will do here is to go to the forms"
+    },
+    {
+      "start": 147.12,
+      "end": 148.12,
+      "text": "What is the form?"
+    },
+    {
+      "start": 148.12,
+      "end": 150.12,
+      "text": "You don't know the name of the form"
+    },
+    {
+      "start": 150.12,
+      "end": 152.12,
+      "text": "It means it is a real form"
+    },
+    {
+      "start": 152.12,
+      "end": 154.12,
+      "text": "And it becomes a reservation"
+    },
+    {
+      "start": 154.12,
+      "end": 155.12,
+      "text": "We call it as IDJ"
+    },
+    {
+      "start": 155.12,
+      "end": 156.12,
+      "text": "It becomes a form of need"
+    },
+    {
+      "start": 156.12,
+      "end": 158.12,
+      "text": "It becomes an exam form"
+    },
+    {
+      "start": 158.12,
+      "end": 160.12,
+      "text": "So that our data can reach"
+    },
+    {
+      "start": 160.12,
+      "end": 161.12,
+      "text": "Until we want it"
+    },
+    {
+      "start": 161.12,
+      "end": 164.12,
+      "text": "So this form is a stable form tag"
+    },
+    {
+      "start": 164.12,
+      "end": 166.12,
+      "text": "Like form will be written"
+    },
+    {
+      "start": 166.12,
+      "end": 167.12,
+      "text": "Enter"
+    },
+    {
+      "start": 167.12,
+      "end": 169.12,
+      "text": "This way you will ask the first question"
+    },
+    {
+      "start": 169.12,
+      "end": 170.12,
+      "text": "What is the form of the form?"
+    },
+    {
+      "start": 170.12,
+      "end": 172.12,
+      "text": "Get request"
+    },
+    {
+      "start": 172.12,
+      "end": 174.12,
+      "text": "I will tell you a very quick difference"
+    },
+    {
+      "start": 174.12,
+      "end": 176.12,
+      "text": "I will show you the next thing"
+    },
+    {
+      "start": 176.12,
+      "end": 177.12,
+      "text": "When we will read the backend"
+    },
+    {
+      "start": 177.12,
+      "end": 179.12,
+      "text": "Get request is very simple"
+    },
+    {
+      "start": 179.12,
+      "end": 181.12,
+      "text": "And we will send post requests"
+    },
+    {
+      "start": 181.12,
+      "end": 182.12,
+      "text": "In most of the cases"
+    },
+    {
+      "start": 182.12,
+      "end": 184.12,
+      "text": "When we don't have much data"
+    },
+    {
+      "start": 184.12,
+      "end": 186.12,
+      "text": "As soon as our form is posted"
+    },
+    {
+      "start": 186.12,
+      "end": 189.12,
+      "text": "So we will use post requests in most of the cases"
+    },
+    {
+      "start": 189.12,
+      "end": 190.12,
+      "text": "And what is the get request?"
+    },
+    {
+      "start": 190.12,
+      "end": 192.12,
+      "text": "It is very simple request"
+    },
+    {
+      "start": 192.12,
+      "end": 194.12,
+      "text": "So we have to tell the server"
+    },
+    {
+      "start": 194.12,
+      "end": 195.12,
+      "text": "And that's it"
+    },
+    {
+      "start": 195.12,
+      "end": 197.12,
+      "text": "So we have to hit the server with the request"
+    },
+    {
+      "start": 197.12,
+      "end": 199.12,
+      "text": "But if you don't understand the situation"
+    },
+    {
+      "start": 199.12,
+      "end": 201.12,
+      "text": "That should be fine"
+    },
+    {
+      "start": 201.12,
+      "end": 202.12,
+      "text": "It is not a problem"
+    },
+    {
+      "start": 202.12,
+      "end": 204.12,
+      "text": "We will also be doing it in detail"
+    },
+    {
+      "start": 204.12,
+      "end": 206.12,
+      "text": "So the form is also written in the post"
+    },
+    {
+      "start": 206.12,
+      "end": 209.12,
+      "text": "Now I can show you some input tags"
+    },
+    {
+      "start": 209.12,
+      "end": 211.12,
+      "text": "What do you guys tell the input tags?"
+    },
+    {
+      "start": 211.12,
+      "end": 214.12,
+      "text": "What are your forms?"
+    },
+    {
+      "start": 214.12,
+      "end": 215.12,
+      "text": "What are your elements?"
+    },
+    {
+      "start": 215.12,
+      "end": 217.12,
+      "text": "Like you can add a date"
+    },
+    {
+      "start": 217.12,
+      "end": 218.12,
+      "text": "You can add form"
+    },
+    {
+      "start": 218.12,
+      "end": 220.12,
+      "text": "You can say your name"
+    },
+    {
+      "start": 220.12,
+      "end": 221.12,
+      "text": "You can say your number"
+    },
+    {
+      "start": 221.12,
+      "end": 223.12,
+      "text": "You can say your age"
+    },
+    {
+      "start": 223.12,
+      "end": 224.12,
+      "text": "It is only a number"
+    },
+    {
+      "start": 224.12,
+      "end": 226.12,
+      "text": "You can add form"
+    },
+    {
+      "start": 226.12,
+      "end": 227.12,
+      "text": "You want to add form"
+    },
+    {
+      "start": 227.12,
+      "end": 228.12,
+      "text": "So I want to tell you"
+    },
+    {
+      "start": 228.12,
+      "end": 231.12,
+      "text": "That the input tags are inside the form"
+    },
+    {
+      "start": 231.12,
+      "end": 233.12,
+      "text": "And a label tag"
+    },
+    {
+      "start": 233.12,
+      "end": 235.12,
+      "text": "Which is used to label the input"
+    },
+    {
+      "start": 235.12,
+      "end": 236.12,
+      "text": "So I will show you"
+    },
+    {
+      "start": 236.12,
+      "end": 238.12,
+      "text": "The simplest input tag"
+    },
+    {
+      "start": 238.12,
+      "end": 240.12,
+      "text": "It is called Type is equal to text"
+    },
+    {
+      "start": 240.12,
+      "end": 242.12,
+      "text": "So I will add type is equal to text"
+    },
+    {
+      "start": 242.12,
+      "end": 244.12,
+      "text": "And if you guys zoom out"
+    },
+    {
+      "start": 244.12,
+      "end": 246.12,
+      "text": "So this is called"
+    },
+    {
+      "start": 246.12,
+      "end": 248.12,
+      "text": "Type is equal to text and name is equal to user name"
+    },
+    {
+      "start": 248.12,
+      "end": 249.12,
+      "text": "And there is a placeholder enter you"
+    },
+    {
+      "start": 249.12,
+      "end": 251.12,
+      "text": "And this will be written in the actual name"
+    },
+    {
+      "start": 251.12,
+      "end": 253.12,
+      "text": "So you can say enter your user name"
+    },
+    {
+      "start": 253.12,
+      "end": 255.12,
+      "text": "And the user will enter you name"
+    },
+    {
+      "start": 255.12,
+      "end": 257.12,
+      "text": "And the user will enter you name"
+    },
+    {
+      "start": 257.12,
+      "end": 259.12,
+      "text": "I will write a text"
+    },
+    {
+      "start": 259.12,
+      "end": 261.12,
+      "text": "And I will write you"
+    },
+    {
+      "start": 261.12,
+      "end": 263.12,
+      "text": "Malo form to apply"
+    },
+    {
+      "start": 263.12,
+      "end": 265.12,
+      "text": "For TAA"
+    },
+    {
+      "start": 265.12,
+      "end": 267.12,
+      "text": "For Sigma Web Dev TAA"
+    },
+    {
+      "start": 267.12,
+      "end": 271.12,
+      "text": "Sigma Web Development Codes"
+    },
+    {
+      "start": 271.12,
+      "end": 273.12,
+      "text": "TAA"
+    },
+    {
+      "start": 273.12,
+      "end": 275.12,
+      "text": "Maloom we are teaching assistants"
+    },
+    {
+      "start": 275.12,
+      "end": 277.12,
+      "text": "For Sigma Web Development Codes"
+    },
+    {
+      "start": 277.12,
+      "end": 279.12,
+      "text": "So we can write something like this"
+    },
+    {
+      "start": 279.12,
+      "end": 281.12,
+      "text": "By the way I have put subtitles"
+    },
+    {
+      "start": 281.12,
+      "end": 283.12,
+      "text": "If you don't have playlists, then you must have access"
+    },
+    {
+      "start": 283.12,
+      "end": 285.12,
+      "text": "And with that I will show you"
+    },
+    {
+      "start": 285.12,
+      "end": 287.12,
+      "text": "So these subtitles are very funny"
+    },
+    {
+      "start": 287.12,
+      "end": 288.12,
+      "text": "I will show you"
+    },
+    {
+      "start": 288.12,
+      "end": 289.12,
+      "text": "And when you write a single match"
+    },
+    {
+      "start": 289.12,
+      "end": 291.12,
+      "text": "And when you have the village land"
+    },
+    {
+      "start": 291.12,
+      "end": 293.12,
+      "text": "Maloom is a young girl"
+    },
+    {
+      "start": 293.12,
+      "end": 295.12,
+      "text": "And if you see her"
+    },
+    {
+      "start": 295.12,
+      "end": 297.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 297.12,
+      "end": 299.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 299.12,
+      "end": 301.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 301.12,
+      "end": 303.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 303.12,
+      "end": 305.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 305.12,
+      "end": 307.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 307.12,
+      "end": 309.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 309.12,
+      "end": 311.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 311.12,
+      "end": 313.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 313.12,
+      "end": 315.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 315.12,
+      "end": 317.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 317.12,
+      "end": 319.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 319.12,
+      "end": 321.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 321.12,
+      "end": 323.12,
+      "text": "And if she says"
+    },
+    {
+      "start": 323.12,
+      "end": 325.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 325.12,
+      "end": 327.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 327.12,
+      "end": 329.12,
+      "text": "And if she says"
+    },
+    {
+      "start": 329.12,
+      "end": 331.12,
+      "text": "And if you see her in Hindi"
+    },
+    {
+      "start": 331.12,
+      "end": 334.12,
+      "text": "I have found it and I can't find any other one."
+    },
+    {
+      "start": 334.12,
+      "end": 336.12,
+      "text": "I will tell you in detail."
+    },
+    {
+      "start": 336.12,
+      "end": 338.12,
+      "text": "I have written a label for a user name."
+    },
+    {
+      "start": 338.12,
+      "end": 343.12,
+      "text": "You can see here that the label will be here."
+    },
+    {
+      "start": 343.12,
+      "end": 345.12,
+      "text": "I am looking at the label."
+    },
+    {
+      "start": 345.12,
+      "end": 346.12,
+      "text": "I have not put anything in it."
+    },
+    {
+      "start": 346.12,
+      "end": 349.12,
+      "text": "I will enter your user name."
+    },
+    {
+      "start": 349.12,
+      "end": 351.12,
+      "text": "You can see here."
+    },
+    {
+      "start": 351.12,
+      "end": 353.12,
+      "text": "I have added this."
+    },
+    {
+      "start": 353.12,
+      "end": 355.12,
+      "text": "You can enter your user name."
+    },
+    {
+      "start": 355.12,
+      "end": 358.12,
+      "text": "You can enter your expertise."
+    },
+    {
+      "start": 358.12,
+      "end": 360.12,
+      "text": "I have asked you what is your gender."
+    },
+    {
+      "start": 360.12,
+      "end": 362.12,
+      "text": "I can add something here."
+    },
+    {
+      "start": 362.12,
+      "end": 364.12,
+      "text": "You can see here."
+    },
+    {
+      "start": 364.12,
+      "end": 366.12,
+      "text": "You can see here."
+    },
+    {
+      "start": 366.12,
+      "end": 368.12,
+      "text": "You can see here."
+    },
+    {
+      "start": 368.12,
+      "end": 370.12,
+      "text": "What happens here?"
+    },
+    {
+      "start": 370.12,
+      "end": 372.12,
+      "text": "Let's unwrap it."
+    },
+    {
+      "start": 372.12,
+      "end": 374.12,
+      "text": "What happens?"
+    },
+    {
+      "start": 374.12,
+      "end": 376.12,
+      "text": "It is our block element."
+    },
+    {
+      "start": 376.12,
+      "end": 378.12,
+      "text": "What happens to the block elements?"
+    },
+    {
+      "start": 378.12,
+      "end": 380.12,
+      "text": "I have not told you about this."
+    },
+    {
+      "start": 380.12,
+      "end": 382.12,
+      "text": "I will tell you in the coming videos."
+    },
+    {
+      "start": 382.12,
+      "end": 384.12,
+      "text": "I will put it in the new space."
+    },
+    {
+      "start": 384.12,
+      "end": 386.12,
+      "text": "I will put it in the new space."
+    },
+    {
+      "start": 386.12,
+      "end": 388.12,
+      "text": "The BR tag is also there."
+    },
+    {
+      "start": 388.12,
+      "end": 390.12,
+      "text": "The BR tag is also there."
+    },
+    {
+      "start": 390.12,
+      "end": 392.12,
+      "text": "The line breaks."
+    },
+    {
+      "start": 392.12,
+      "end": 394.12,
+      "text": "I will not prefer BR tag."
+    },
+    {
+      "start": 394.12,
+      "end": 398.12,
+      "text": "You will get to know why we should never block our HTML."
+    },
+    {
+      "start": 398.12,
+      "end": 400.12,
+      "text": "You will know in the coming videos."
+    },
+    {
+      "start": 400.12,
+      "end": 402.12,
+      "text": "You can see here."
+    },
+    {
+      "start": 402.12,
+      "end": 404.12,
+      "text": "The user name, the name, the email, the female."
+    },
+    {
+      "start": 404.12,
+      "end": 406.12,
+      "text": "You can see here."
+    },
+    {
+      "start": 406.12,
+      "end": 408.12,
+      "text": "I am taking the female."
+    },
+    {
+      "start": 408.12,
+      "end": 410.12,
+      "text": "I am taking the male."
+    },
+    {
+      "start": 410.12,
+      "end": 412.12,
+      "text": "Why is it so?"
+    },
+    {
+      "start": 412.12,
+      "end": 414.12,
+      "text": "The label is there."
+    },
+    {
+      "start": 414.12,
+      "end": 417.12,
+      "text": "You are looking at other stairnd you saw"
+    },
+    {
+      "start": 417.12,
+      "end": 418.12,
+      "text": "I have introduced the name."
+    },
+    {
+      "start": 418.12,
+      "end": 420.12,
+      "text": "name is equal to gender."
+    },
+    {
+      "start": 420.12,
+      "end": 422.12,
+      "text": "I have also put root name in it."
+    },
+    {
+      "start": 422.12,
+      "end": 424.12,
+      "text": "Name is equal to gender."
+    },
+    {
+      "start": 424.12,
+      "end": 426.12,
+      "text": "This is also input radio tag."
+    },
+    {
+      "start": 426.12,
+      "end": 428.12,
+      "text": "annotate."
+    },
+    {
+      "start": 428.12,
+      "end": 430.12,
+      "text": "and write this rank a further name."
+    },
+    {
+      "start": 430.12,
+      "end": 432.12,
+      "text": "You can select the name just at a time."
+    },
+    {
+      "start": 432.12,
+      "end": 435.12,
+      "text": "If i select and fill the Fei only will do these."
+    },
+    {
+      "start": 435.12,
+      "end": 437.12,
+      "text": "And fill others only."
+    },
+    {
+      "start": 437.12,
+      "end": 439.12,
+      "text": "I will show you something."
+    },
+    {
+      "start": 439.12,
+      "end": 441.12,
+      "text": "If the idea is done in the form."
+    },
+    {
+      "start": 441.12,
+      "end": 443.12,
+      "text": "I don't want to get it in the first one."
+    },
+    {
+      "start": 443.12,
+      "end": 445.12,
+      "text": "I will get it in the second one."
+    },
+    {
+      "start": 445.12,
+      "end": 447.12,
+      "text": "When I click on the female, I don't select."
+    },
+    {
+      "start": 447.12,
+      "end": 449.12,
+      "text": "I am not selecting."
+    },
+    {
+      "start": 449.12,
+      "end": 451.12,
+      "text": "I am selecting the male."
+    },
+    {
+      "start": 451.12,
+      "end": 453.12,
+      "text": "I have to click here."
+    },
+    {
+      "start": 453.12,
+      "end": 455.12,
+      "text": "You see, I want to do it."
+    },
+    {
+      "start": 455.12,
+      "end": 457.12,
+      "text": "I always want to do it."
+    },
+    {
+      "start": 457.12,
+      "end": 459.12,
+      "text": "The input tag is in the ID."
+    },
+    {
+      "start": 459.12,
+      "end": 463.12,
+      "text": "You can see here, I have added the label for the female."
+    },
+    {
+      "start": 463.12,
+      "end": 465.12,
+      "text": "We have a input tag."
+    },
+    {
+      "start": 465.12,
+      "end": 467.12,
+      "text": "The type is equal to checkbox."
+    },
+    {
+      "start": 467.12,
+      "end": 469.12,
+      "text": "If I add a type to checkbox,"
+    },
+    {
+      "start": 469.12,
+      "end": 471.12,
+      "text": "I will add the input tag."
+    },
+    {
+      "start": 471.12,
+      "end": 473.12,
+      "text": "I will add it in the div."
+    },
+    {
+      "start": 473.12,
+      "end": 475.12,
+      "text": "I will do it in the format document."
+    },
+    {
+      "start": 475.12,
+      "end": 477.12,
+      "text": "This document will be very good."
+    },
+    {
+      "start": 477.12,
+      "end": 479.12,
+      "text": "I will say that it is in the format."
+    },
+    {
+      "start": 479.12,
+      "end": 481.12,
+      "text": "Now, you can see here,"
+    },
+    {
+      "start": 481.12,
+      "end": 483.12,
+      "text": "I will check the news letter."
+    },
+    {
+      "start": 483.12,
+      "end": 485.12,
+      "text": "I can check the checkbox."
+    },
+    {
+      "start": 485.12,
+      "end": 487.12,
+      "text": "You can check the checkbox."
+    },
+    {
+      "start": 487.12,
+      "end": 489.12,
+      "text": "If you want to check the male or female."
+    },
+    {
+      "start": 489.12,
+      "end": 493.12,
+      "text": "You can select it from the option."
+    },
+    {
+      "start": 493.12,
+      "end": 495.12,
+      "text": "You can also select the text."
+    },
+    {
+      "start": 495.12,
+      "end": 497.12,
+      "text": "You can select the text."
+    },
+    {
+      "start": 497.12,
+      "end": 499.12,
+      "text": "You will see the text."
+    },
+    {
+      "start": 499.12,
+      "end": 501.12,
+      "text": "This text can be listed or added in the place."
+    },
+    {
+      "start": 501.12,
+      "end": 503.12,
+      "text": "Here it is written as the text as you can see."
+    },
+    {
+      "start": 503.12,
+      "end": 505.12,
+      "text": "Here it is written as the text."
+    },
+    {
+      "start": 505.12,
+      "end": 507.12,
+      "text": "here it is written as the text."
+    },
+    {
+      "start": 507.12,
+      "end": 509.12,
+      "text": "merge into the text."
+    },
+    {
+      "start": 509.12,
+      "end": 511.12,
+      "text": "You may pick your text."
+    },
+    {
+      "start": 511.12,
+      "end": 513.12,
+      "text": "merge into the text."
+    },
+    {
+      "start": 513.12,
+      "end": 515.12,
+      "text": "mer into the text."
+    },
+    {
+      "start": 515.12,
+      "end": 517.12,
+      "text": "skillfully."
+    },
+    {
+      "start": 517.12,
+      "end": 519.12,
+      "text": "This type inside is connected between traditional forms."
+    },
+    {
+      "start": 519.12,
+      "end": 523.12,
+      "text": "It does not have any middle lines at this time."
+    },
+    {
+      "start": 523.12,
+      "end": 525.12,
+      "text": "All the details are given in either one or second,"
+    },
+    {
+      "start": 555.12,
+      "end": 558.12,
+      "text": "Let me know in the comments below."
+    },
+    {
+      "start": 558.12,
+      "end": 561.12,
+      "text": "What will happen if I write the comments?"
+    },
+    {
+      "start": 561.12,
+      "end": 563.12,
+      "text": "I will write the comments below."
+    },
+    {
+      "start": 563.12,
+      "end": 566.12,
+      "text": "You will not get the style of this video."
+    },
+    {
+      "start": 566.12,
+      "end": 569.12,
+      "text": "We will do CSS after that."
+    },
+    {
+      "start": 569.12,
+      "end": 572.12,
+      "text": "I will write just BRTAC."
+    },
+    {
+      "start": 572.12,
+      "end": 574.12,
+      "text": "I will tell you about BRTAC."
+    },
+    {
+      "start": 574.12,
+      "end": 576.12,
+      "text": "I do not write BRTAC."
+    },
+    {
+      "start": 576.12,
+      "end": 578.12,
+      "text": "It is a BRTAC."
+    },
+    {
+      "start": 578.12,
+      "end": 581.12,
+      "text": "You should know that BRTAC is a line break tag."
+    },
+    {
+      "start": 581.12,
+      "end": 584.12,
+      "text": "I will tell you about BRTAC."
+    },
+    {
+      "start": 584.12,
+      "end": 587.12,
+      "text": "I will tell you about BRTAC."
+    },
+    {
+      "start": 587.12,
+      "end": 590.12,
+      "text": "It is a BRTAC."
+    },
+    {
+      "start": 590.12,
+      "end": 592.12,
+      "text": "I do not recommend it."
+    },
+    {
+      "start": 592.12,
+      "end": 595.12,
+      "text": "It is easy to use."
+    },
+    {
+      "start": 595.12,
+      "end": 598.12,
+      "text": "Add new spaces."
+    },
+    {
+      "start": 598.12,
+      "end": 600.12,
+      "text": "I will copy it."
+    },
+    {
+      "start": 600.12,
+      "end": 602.12,
+      "text": "I will show you the select tag."
+    },
+    {
+      "start": 602.12,
+      "end": 607.12,
+      "text": "You will see that you will add the select tag."
+    },
+    {
+      "start": 607.12,
+      "end": 609.12,
+      "text": "You will see that you will get options."
+    },
+    {
+      "start": 609.12,
+      "end": 612.12,
+      "text": "Select the option that you want to create."
+    },
+    {
+      "start": 612.12,
+      "end": 615.12,
+      "text": "You can use any option in Cherry."
+    },
+    {
+      "start": 615.12,
+      "end": 618.12,
+      "text": "Now you can use any option in Cherry."
+    },
+    {
+      "start": 618.12,
+      "end": 621.12,
+      "text": "I have added value to Apple."
+    },
+    {
+      "start": 621.12,
+      "end": 623.12,
+      "text": "I have added name to fruit."
+    },
+    {
+      "start": 623.12,
+      "end": 625.12,
+      "text": "Then option value is equal to Apple."
+    },
+    {
+      "start": 625.12,
+      "end": 627.12,
+      "text": "Option value is equal to Apple."
+    },
+    {
+      "start": 627.12,
+      "end": 631.12,
+      "text": "When I will parse this form data,"
+    },
+    {
+      "start": 631.12,
+      "end": 634.12,
+      "text": "I will tell you about JavaScript."
+    },
+    {
+      "start": 664.12,
+      "end": 673.12,
+      "text": "GetRequest is very simple, PostRequest is used when it is a big data, because it is a limit of GetRequest."
+    },
+    {
+      "start": 673.12,
+      "end": 678.12,
+      "text": "We will not send passwords in GetRequest, we will send it with PostRequest."
+    },
+    {
+      "start": 678.12,
+      "end": 682.12,
+      "text": "Now I have told you the method, what is in the name?"
+    },
+    {
+      "start": 682.12,
+      "end": 685.12,
+      "text": "Name is equal to user name, we mark it with name."
+    },
+    {
+      "start": 685.12,
+      "end": 689.12,
+      "text": "If we mark it with name, we will know the server, which key corresponding value is it."
+    },
+    {
+      "start": 689.12,
+      "end": 693.12,
+      "text": "The key value will be named, it will be named and valid."
+    },
+    {
+      "start": 693.12,
+      "end": 698.12,
+      "text": "We will see what is the placeholder in the server side processing."
+    },
+    {
+      "start": 698.12,
+      "end": 701.12,
+      "text": "Here you can see the user name is placeholder."
+    },
+    {
+      "start": 701.12,
+      "end": 705.12,
+      "text": "I will click enter user, but enter user is not written."
+    },
+    {
+      "start": 705.12,
+      "end": 711.12,
+      "text": "I will also write something, but enter user is telling me to enter user name."
+    },
+    {
+      "start": 711.12,
+      "end": 721.12,
+      "text": "Now I will use auto focus, then I will show you the focus."
+    },
+    {
+      "start": 721.12,
+      "end": 731.12,
+      "text": "If you have written the name, then enter user name."
+    },
+    {
+      "start": 731.12,
+      "end": 738.12,
+      "text": "I will reload it, now I will type it, then focus on it automatically."
+    },
+    {
+      "start": 738.12,
+      "end": 745.12,
+      "text": "So the autofocus will be like, you will type it here, but I hope you understand."
+    },
+    {
+      "start": 745.12,
+      "end": 752.12,
+      "text": "Now I will give you the validation attribute, you can give the pattern in which you can give the regular expression pattern."
+    },
+    {
+      "start": 752.12,
+      "end": 755.12,
+      "text": "And you can give them confused, do you not understand."
+    },
+    {
+      "start": 755.12,
+      "end": 756.12,
+      "text": "What are these things?"
+    },
+    {
+      "start": 756.12,
+      "end": 759.12,
+      "text": "There is no expression in the regular expression, so I will learn everything here."
+    },
+    {
+      "start": 759.12,
+      "end": 765.12,
+      "text": "Now you will understand how much we will accept a particular pattern, if we put this pattern in this pattern,"
+    },
+    {
+      "start": 765.12,
+      "end": 767.12,
+      "text": "You can't put the information on the information."
+    },
+    {
+      "start": 767.12,
+      "end": 771.12,
+      "text": "So, you should know this thing here."
+    },
+    {
+      "start": 771.12,
+      "end": 774.12,
+      "text": "I hope you are enjoying this video."
+    },
+    {
+      "start": 774.12,
+      "end": 777.12,
+      "text": "And with this, I would like to give a comment section of the video."
+    },
+    {
+      "start": 777.12,
+      "end": 780.12,
+      "text": "And before the video, please review this course."
+    },
+    {
+      "start": 780.12,
+      "end": 782.12,
+      "text": "Because many people ask me,"
+    },
+    {
+      "start": 782.12,
+      "end": 784.12,
+      "text": "I should not do this course."
+    },
+    {
+      "start": 784.12,
+      "end": 786.12,
+      "text": "People don't value it."
+    },
+    {
+      "start": 786.12,
+      "end": 787.12,
+      "text": "It is free."
+    },
+    {
+      "start": 787.12,
+      "end": 789.12,
+      "text": "We will watch this course."
+    },
+    {
+      "start": 789.12,
+      "end": 793.12,
+      "text": "And I would like to give a note to those people who have told me"
+    },
+    {
+      "start": 793.12,
+      "end": 795.12,
+      "text": "what we have done for the paid course."
+    },
+    {
+      "start": 795.12,
+      "end": 797.12,
+      "text": "What should we do?"
+    },
+    {
+      "start": 797.12,
+      "end": 799.12,
+      "text": "We should join the SIGMA Batch."
+    },
+    {
+      "start": 799.12,
+      "end": 801.12,
+      "text": "And you should join the SIGMA Batch."
+    },
+    {
+      "start": 801.12,
+      "end": 803.12,
+      "text": "Cut your losses and join the SIGMA Batch."
+    },
+    {
+      "start": 803.12,
+      "end": 805.12,
+      "text": "Because, look, what quality of this course is it?"
+    },
+    {
+      "start": 805.12,
+      "end": 807.12,
+      "text": "I don't think you need to tell me."
+    },
+    {
+      "start": 807.12,
+      "end": 810.12,
+      "text": "So, you all should come and do this."
+    },
+    {
+      "start": 810.12,
+      "end": 812.12,
+      "text": "You all should come and meet here."
+    },
+    {
+      "start": 812.12,
+      "end": 814.12,
+      "text": "I am telling you."
+    },
+    {
+      "start": 814.12,
+      "end": 816.12,
+      "text": "This is the only course I would sell to you in Rs.10,000."
+    },
+    {
+      "start": 816.12,
+      "end": 818.12,
+      "text": "This is the start of the amount we fixed."
+    },
+    {
+      "start": 818.12,
+      "end": 820.12,
+      "text": "I would sell to you in Rs.10,000."
+    },
+    {
+      "start": 820.12,
+      "end": 822.12,
+      "text": "And I think there is nothing wrong in selling any course."
+    },
+    {
+      "start": 822.12,
+      "end": 825.12,
+      "text": "If there is nothing wrong in selling any course."
+    },
+    {
+      "start": 825.12,
+      "end": 828.12,
+      "text": "But the thing is, if you have some other course and you feel that"
+    },
+    {
+      "start": 828.12,
+      "end": 831.12,
+      "text": "SIGMA Batch is a big course."
+    },
+    {
+      "start": 831.12,
+      "end": 833.12,
+      "text": "So, you should join the SIGMA Batch."
+    },
+    {
+      "start": 833.12,
+      "end": 835.12,
+      "text": "Cut your losses and join the SIGMA Batch."
+    },
+    {
+      "start": 835.12,
+      "end": 838.12,
+      "text": "Because, if you make your career, you will have no other things."
+    },
+    {
+      "start": 838.12,
+      "end": 841.12,
+      "text": "If you are coming back in time, you will see that you will also say,"
+    },
+    {
+      "start": 841.12,
+      "end": 843.12,
+      "text": "yes, we have taken a paid course."
+    },
+    {
+      "start": 843.12,
+      "end": 845.12,
+      "text": "Then, we have taken a pre course, which we understood."
+    },
+    {
+      "start": 845.12,
+      "end": 849.12,
+      "text": "And if you have become a career, you will have no matter what."
+    },
+    {
+      "start": 849.12,
+      "end": 851.12,
+      "text": "So, do what is right for you."
+    },
+    {
+      "start": 851.12,
+      "end": 853.12,
+      "text": "And you should understand your own way."
+    },
+    {
+      "start": 853.12,
+      "end": 855.12,
+      "text": "And you should do what you understood."
+    },
+    {
+      "start": 855.12,
+      "end": 858.12,
+      "text": "So, please like the video and access the playlist."
+    },
+    {
+      "start": 858.12,
+      "end": 861.12,
+      "text": "Subscribe to the channel and write in the comment section,"
+    },
+    {
+      "start": 861.12,
+      "end": 863.12,
+      "text": "SIGMA Batch OP."
+    },
+    {
+      "start": 863.12,
+      "end": 865.12,
+      "text": "I will call both of you."
+    },
+    {
+      "start": 865.12,
+      "end": 868.12,
+      "text": "Thank you so much for watching this video."
+    },
+    {
+      "start": 868.12,
+      "end": 871.12,
+      "text": "And I will see you next time."
+    },
+    {
+      "start": 879.12,
+      "end": 880.12,
+      "text": "Bye."
+    }
+  ]
+}

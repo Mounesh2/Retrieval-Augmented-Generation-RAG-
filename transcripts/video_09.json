@@ -1,0 +1,1044 @@
+{
+  "video": 9,
+  "course": "Sigma Web Development",
+  "source_file": "9_Id & Classes in HTML _ Sigma Web Development Course - Tutorial #9 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " I will tell you about the idea and classes. The concept of the idea and classes is very confusing. In fact, when I was learning HTML, I was very confused in my early days in the idea and classes. The idea means unique identifier. If you give an idea to an element, you will not give the idea to the other element. But the class means that if you want to give multiple elements, you will give it multiple classes. For example, you can give a div to a red name class, and a form. You can give an article tag from the same page, and a header tag from the same page. You can give this video a like. Because we will go to the computer screen and we will see very closely these things. Let's roll the intro. Guys, I am back. If you have not access the development course and click on the playlist, you can click on the bookmark and save it. And the source code is also on the top floor. Now, I will make a folder in the folder and the video number 9 is also on the top floor. I will make a folder in the folder of the video. I will make a folder in the video 9. I will make a folder in the video 9. After making a folder, I will try to make a partnership. I will open the open with code. You can see that this is opened in the BS code. I will write the index.html, I will enter the exclamation mark. And with that, I will tell you the ID and classes. You will only have a half-card. If not, you will only have an ID. Now, do not write in the comment section. Whenever you go to any place, you have to show your ID. In some cases, you have to prove your identity. I am here. Now, if you want to understand the ID and classes about the restaurant, then the ID is your identity. Okay? So, listen to the story here. This is John. And this is Harry. These two are very good friends. They are very good friends. They do not share their lunch. And they are very good friends. Okay? They do not have food. And this is the other friends. Now, you can see that this is John. Harry is his ID. So, this is my ID. And John's ID is something. This is John's ID. Okay? John's ID is number. And this is my ID. We both cannot be the same. Or, if you believe that our friend is my friend. Tanya and John's friend are the same. Okay? So, their ID is also different. Okay? And this is the ID of the ID of John. This is the ID of the ID of John. Now, this ID of every person is different. So, John and Harry are friends. John's ID is the ID of the ID of John's friend. This is the ID of the ID of John's friend. There are no same numbers in these four. If I tell you the ID of John's ID, I will say, I have said, John's ID is the ID of John's 5th. And if I say, John's ID is the ID of John's 6th. And if I say, John's ID is the ID of John's 6th. So, you will say, I identify the ID of John's ID. Tanya understand the number. Tanya understand the number. Harry and John. What is that? Jane's ID is the number from these two. This is the ID, So both classes are in the 9th class and in the 9th class too. So the 9th class is in the 9th class, but in the 9th class there is no need to be in the 9th class. So the class means that in a class there is a Harry and John class. So a class can be multiple. A class can be multiple. So the class has a Harry class 10. And this is a tuition, where there is a class in the 10th and A class. So the class can be more than 1. So the class is 10. And the class is 10. And along with that, the class has a red color t-shirt. So the class is red too. So the class means that the class is not studying. So the class has a class in this class. Now let's leave this here. Let's delete it. Let's delete it. Now let's go to index. I know I made a div. And I gave this class a red. And I made a span. And I gave this class a red. I can give the same class as I am giving. But if I want to add ID in some element, I can add ID in this first step. So I don't want to add any other element in ID. Because this is the card, this is the element. If it is the other div, then I can't add it. Then I have to add ID. Okay, I will write the second one here. So this ID and the class concept, I personally understood it very late. I didn't tell anyone that the ID identifies uniquely. And the class can also be applied in multiple classes. And you can also apply multiple classes in multiple elements. As soon as I gave it red, I can also apply it in BGL. Okay, BGL. I can give it a class. And if we give an element multiple, then we will apply it in space. As if I want to add multiple classes in this element. So I will apply red, then I will apply it in space. So I can give multiple classes in this way. Can I give the same element multiple ID? Can you hear any 2000 cards? I don't know if anyone is familiar with this. But there are no other ID. The number of the card is one and the number of the card is one. It can't be the same as the other. Okay? It can't be multiple as one person. It can't be the same as the other person. But the class, if I say that you are wearing T-shirt, or you can wear red, T-shirt, five people. There is no problem. You will get it. You will go to the market. And you will like to be able to like the other person. Or you will like to like the other person. Or you will like to like the other person. So they will be able to make the same class. Or they are in the grapes class. Okay? So we can apply it in one class. And we can give the same class to the other elements. So I hope you understand this. Now I will apply some CSS. And don't say that CSS is not a big deal. Now I am applying CSS. You guys, I am applying some alien language. Okay? In the style.css. But I am trying to make a point. I will click here. And now the preview of this is looking at something like this. I will show you one thing. I am applying a class to the CSS. And I am applying a dot. And I am applying a dot rate. And I am applying a dot rate. And I am applying a dot rate. And I am applying a dot rate. And I am applying a dot rate. And the first tip is to add the background color to the red. Okay? So the first tip is to add this background color to the red. Okay? It's a selector in CSS. And now I want to take it seriously. And I can comment it like this in CSS. Okay? But we will do all this. Now I will apply a dot rate. And I am applying a dot in BG-LLO. What I am applying is dot BG-LLO. I need a dot rate. I mean, a class BG-LLO. I will read background color and then add background color. You can use this to see the ID and classes in CSS. The important thing here is that the ID and classes are from the attribute. The ID and class attribute are from the attribute. If you are using VickyPedia then you can use VickyPedia. You can use this particular link. I will show the ID and class attribute. I will enter the ID and then add the ID and class attribute. I will show the ID and class attribute. I will show the ID and class attribute. I will show the ID and class attribute. I will show the ID and class attribute. I will show the ID and class attribute. I will show the ID and class attribute. I have read captions and I have read the ID and class attribute. I have read the name and village land. I hope you liked this video. I will see you next time.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "I will tell you about the idea and classes."
+    },
+    {
+      "start": 3.1,
+      "end": 7.08,
+      "text": "The concept of the idea and classes is very confusing."
+    },
+    {
+      "start": 7.08,
+      "end": 9.58,
+      "text": "In fact, when I was learning HTML,"
+    },
+    {
+      "start": 9.58,
+      "end": 12.34,
+      "text": "I was very confused in my early days in the idea and classes."
+    },
+    {
+      "start": 12.34,
+      "end": 14.18,
+      "text": "The idea means unique identifier."
+    },
+    {
+      "start": 14.18,
+      "end": 16.26,
+      "text": "If you give an idea to an element,"
+    },
+    {
+      "start": 16.26,
+      "end": 18.9,
+      "text": "you will not give the idea to the other element."
+    },
+    {
+      "start": 18.9,
+      "end": 24.04,
+      "text": "But the class means that if you want to give multiple elements,"
+    },
+    {
+      "start": 24.04,
+      "end": 25.66,
+      "text": "you will give it multiple classes."
+    },
+    {
+      "start": 25.66,
+      "end": 28.58,
+      "text": "For example, you can give a div to a red name class,"
+    },
+    {
+      "start": 28.58,
+      "end": 29.86,
+      "text": "and a form."
+    },
+    {
+      "start": 29.86,
+      "end": 31.62,
+      "text": "You can give an article tag from the same page,"
+    },
+    {
+      "start": 31.62,
+      "end": 33.86,
+      "text": "and a header tag from the same page."
+    },
+    {
+      "start": 33.86,
+      "end": 35.86,
+      "text": "You can give this video a like."
+    },
+    {
+      "start": 35.86,
+      "end": 38.86,
+      "text": "Because we will go to the computer screen"
+    },
+    {
+      "start": 38.86,
+      "end": 41.86,
+      "text": "and we will see very closely these things."
+    },
+    {
+      "start": 41.86,
+      "end": 43.86,
+      "text": "Let's roll the intro."
+    },
+    {
+      "start": 52.86,
+      "end": 54.86,
+      "text": "Guys, I am back."
+    },
+    {
+      "start": 54.86,
+      "end": 57.86,
+      "text": "If you have not access the development course"
+    },
+    {
+      "start": 57.86,
+      "end": 59.86,
+      "text": "and click on the playlist,"
+    },
+    {
+      "start": 59.86,
+      "end": 61.86,
+      "text": "you can click on the bookmark and save it."
+    },
+    {
+      "start": 61.86,
+      "end": 63.86,
+      "text": "And the source code is also on the top floor."
+    },
+    {
+      "start": 63.86,
+      "end": 65.86,
+      "text": "Now, I will make a folder in the folder"
+    },
+    {
+      "start": 65.86,
+      "end": 67.86,
+      "text": "and the video number 9 is also on the top floor."
+    },
+    {
+      "start": 67.86,
+      "end": 69.86,
+      "text": "I will make a folder in the folder of the video."
+    },
+    {
+      "start": 69.86,
+      "end": 71.86,
+      "text": "I will make a folder in the video 9."
+    },
+    {
+      "start": 71.86,
+      "end": 73.86,
+      "text": "I will make a folder in the video 9."
+    },
+    {
+      "start": 73.86,
+      "end": 75.86,
+      "text": "After making a folder, I will try to make a partnership."
+    },
+    {
+      "start": 75.86,
+      "end": 77.86,
+      "text": "I will open the open with code."
+    },
+    {
+      "start": 77.86,
+      "end": 79.86,
+      "text": "You can see that this is opened in the BS code."
+    },
+    {
+      "start": 79.86,
+      "end": 81.86,
+      "text": "I will write the index.html,"
+    },
+    {
+      "start": 81.86,
+      "end": 83.86,
+      "text": "I will enter the exclamation mark."
+    },
+    {
+      "start": 83.86,
+      "end": 85.86,
+      "text": "And with that,"
+    },
+    {
+      "start": 85.86,
+      "end": 87.86,
+      "text": "I will tell you the ID and classes."
+    },
+    {
+      "start": 87.86,
+      "end": 89.86,
+      "text": "You will only have a half-card."
+    },
+    {
+      "start": 89.86,
+      "end": 91.86,
+      "text": "If not, you will only have an ID."
+    },
+    {
+      "start": 91.86,
+      "end": 93.86,
+      "text": "Now, do not write in the comment section."
+    },
+    {
+      "start": 93.86,
+      "end": 95.86,
+      "text": "Whenever you go to any place,"
+    },
+    {
+      "start": 95.86,
+      "end": 97.86,
+      "text": "you have to show your ID."
+    },
+    {
+      "start": 97.86,
+      "end": 99.86,
+      "text": "In some cases, you have to prove your identity."
+    },
+    {
+      "start": 99.86,
+      "end": 101.86,
+      "text": "I am here."
+    },
+    {
+      "start": 101.86,
+      "end": 103.86,
+      "text": "Now, if you want to understand the ID and classes"
+    },
+    {
+      "start": 103.86,
+      "end": 105.86,
+      "text": "about the restaurant,"
+    },
+    {
+      "start": 105.86,
+      "end": 107.86,
+      "text": "then the ID is your identity."
+    },
+    {
+      "start": 107.86,
+      "end": 109.86,
+      "text": "Okay?"
+    },
+    {
+      "start": 109.86,
+      "end": 111.86,
+      "text": "So, listen to the story here."
+    },
+    {
+      "start": 111.86,
+      "end": 113.86,
+      "text": "This is John."
+    },
+    {
+      "start": 113.86,
+      "end": 115.86,
+      "text": "And this is Harry."
+    },
+    {
+      "start": 115.86,
+      "end": 117.86,
+      "text": "These two are very good friends."
+    },
+    {
+      "start": 117.86,
+      "end": 119.86,
+      "text": "They are very good friends."
+    },
+    {
+      "start": 119.86,
+      "end": 121.86,
+      "text": "They do not share their lunch."
+    },
+    {
+      "start": 121.86,
+      "end": 123.86,
+      "text": "And they are very good friends."
+    },
+    {
+      "start": 123.86,
+      "end": 125.86,
+      "text": "Okay?"
+    },
+    {
+      "start": 125.86,
+      "end": 127.86,
+      "text": "They do not have food."
+    },
+    {
+      "start": 127.86,
+      "end": 129.86,
+      "text": "And this is the other friends."
+    },
+    {
+      "start": 129.86,
+      "end": 131.86,
+      "text": "Now, you can see that this is John."
+    },
+    {
+      "start": 131.86,
+      "end": 133.86,
+      "text": "Harry is his ID."
+    },
+    {
+      "start": 133.86,
+      "end": 135.86,
+      "text": "So, this is my ID."
+    },
+    {
+      "start": 135.86,
+      "end": 137.86,
+      "text": "And John's ID is something."
+    },
+    {
+      "start": 137.86,
+      "end": 139.86,
+      "text": "This is John's ID."
+    },
+    {
+      "start": 139.86,
+      "end": 141.86,
+      "text": "Okay?"
+    },
+    {
+      "start": 141.86,
+      "end": 143.86,
+      "text": "John's ID is number."
+    },
+    {
+      "start": 143.86,
+      "end": 145.86,
+      "text": "And this is my ID."
+    },
+    {
+      "start": 145.86,
+      "end": 147.86,
+      "text": "We both cannot be the same."
+    },
+    {
+      "start": 147.86,
+      "end": 149.86,
+      "text": "Or, if you believe that"
+    },
+    {
+      "start": 149.86,
+      "end": 151.86,
+      "text": "our friend is my friend."
+    },
+    {
+      "start": 151.86,
+      "end": 153.86,
+      "text": "Tanya and John's friend are the same."
+    },
+    {
+      "start": 153.86,
+      "end": 155.86,
+      "text": "Okay?"
+    },
+    {
+      "start": 155.86,
+      "end": 157.86,
+      "text": "So, their ID is also different."
+    },
+    {
+      "start": 157.86,
+      "end": 159.86,
+      "text": "Okay?"
+    },
+    {
+      "start": 159.86,
+      "end": 161.86,
+      "text": "And this is the ID of the ID of John."
+    },
+    {
+      "start": 161.86,
+      "end": 163.86,
+      "text": "This is the ID of the ID of John."
+    },
+    {
+      "start": 163.86,
+      "end": 165.86,
+      "text": "Now, this ID of every person is different."
+    },
+    {
+      "start": 165.86,
+      "end": 167.86,
+      "text": "So, John and Harry are friends."
+    },
+    {
+      "start": 167.86,
+      "end": 169.86,
+      "text": "John's ID is the ID of the ID of John's friend."
+    },
+    {
+      "start": 169.86,
+      "end": 171.86,
+      "text": "This is the ID of the ID of John's friend."
+    },
+    {
+      "start": 171.86,
+      "end": 173.86,
+      "text": "There are no same numbers in these four."
+    },
+    {
+      "start": 173.86,
+      "end": 175.86,
+      "text": "If I tell you the ID of John's ID,"
+    },
+    {
+      "start": 175.86,
+      "end": 177.86,
+      "text": "I will say,"
+    },
+    {
+      "start": 177.86,
+      "end": 179.86,
+      "text": "I have said,"
+    },
+    {
+      "start": 179.86,
+      "end": 181.86,
+      "text": "John's ID is the ID of John's 5th."
+    },
+    {
+      "start": 181.86,
+      "end": 183.86,
+      "text": "And if I say,"
+    },
+    {
+      "start": 183.86,
+      "end": 185.86,
+      "text": "John's ID is the ID of John's 6th."
+    },
+    {
+      "start": 185.86,
+      "end": 187.86,
+      "text": "And if I say,"
+    },
+    {
+      "start": 187.86,
+      "end": 191.86,
+      "text": "John's ID is the ID of John's 6th."
+    },
+    {
+      "start": 191.86,
+      "end": 193.86,
+      "text": "So, you will say,"
+    },
+    {
+      "start": 193.86,
+      "end": 195.86,
+      "text": "I identify the ID of John's ID."
+    },
+    {
+      "start": 195.86,
+      "end": 197.86,
+      "text": "Tanya understand the number."
+    },
+    {
+      "start": 197.86,
+      "end": 199.86,
+      "text": "Tanya understand the number."
+    },
+    {
+      "start": 199.86,
+      "end": 201.86,
+      "text": "Harry and John."
+    },
+    {
+      "start": 201.86,
+      "end": 203.86,
+      "text": "What is that?"
+    },
+    {
+      "start": 203.86,
+      "end": 205.86,
+      "text": "Jane's ID is the number from these two."
+    },
+    {
+      "start": 205.86,
+      "end": 223.86,
+      "text": "This is the ID,"
+    },
+    {
+      "start": 223.86,
+      "end": 233.86,
+      "text": "So both classes are in the 9th class and in the 9th class too."
+    },
+    {
+      "start": 233.86,
+      "end": 241.86,
+      "text": "So the 9th class is in the 9th class, but in the 9th class there is no need to be in the 9th class."
+    },
+    {
+      "start": 241.86,
+      "end": 246.86,
+      "text": "So the class means that in a class there is a Harry and John class."
+    },
+    {
+      "start": 246.86,
+      "end": 248.86,
+      "text": "So a class can be multiple."
+    },
+    {
+      "start": 248.86,
+      "end": 251.86,
+      "text": "A class can be multiple."
+    },
+    {
+      "start": 251.86,
+      "end": 253.86,
+      "text": "So the class has a Harry class 10."
+    },
+    {
+      "start": 253.86,
+      "end": 258.86,
+      "text": "And this is a tuition, where there is a class in the 10th and A class."
+    },
+    {
+      "start": 258.86,
+      "end": 260.86,
+      "text": "So the class can be more than 1."
+    },
+    {
+      "start": 260.86,
+      "end": 261.86,
+      "text": "So the class is 10."
+    },
+    {
+      "start": 261.86,
+      "end": 263.86,
+      "text": "And the class is 10."
+    },
+    {
+      "start": 263.86,
+      "end": 266.86,
+      "text": "And along with that, the class has a red color t-shirt."
+    },
+    {
+      "start": 266.86,
+      "end": 268.86,
+      "text": "So the class is red too."
+    },
+    {
+      "start": 268.86,
+      "end": 271.86,
+      "text": "So the class means that the class is not studying."
+    },
+    {
+      "start": 271.86,
+      "end": 273.86,
+      "text": "So the class has a class in this class."
+    },
+    {
+      "start": 273.86,
+      "end": 277.86,
+      "text": "Now let's leave this here."
+    },
+    {
+      "start": 277.86,
+      "end": 279.86,
+      "text": "Let's delete it."
+    },
+    {
+      "start": 279.86,
+      "end": 281.86,
+      "text": "Let's delete it."
+    },
+    {
+      "start": 281.86,
+      "end": 283.86,
+      "text": "Now let's go to index."
+    },
+    {
+      "start": 283.86,
+      "end": 286.86,
+      "text": "I know I made a div."
+    },
+    {
+      "start": 286.86,
+      "end": 289.86,
+      "text": "And I gave this class a red."
+    },
+    {
+      "start": 289.86,
+      "end": 291.86,
+      "text": "And I made a span."
+    },
+    {
+      "start": 291.86,
+      "end": 293.86,
+      "text": "And I gave this class a red."
+    },
+    {
+      "start": 293.86,
+      "end": 296.86,
+      "text": "I can give the same class as I am giving."
+    },
+    {
+      "start": 296.86,
+      "end": 299.86,
+      "text": "But if I want to add ID in some element,"
+    },
+    {
+      "start": 299.86,
+      "end": 302.86,
+      "text": "I can add ID in this first step."
+    },
+    {
+      "start": 302.86,
+      "end": 305.86,
+      "text": "So I don't want to add any other element in ID."
+    },
+    {
+      "start": 305.86,
+      "end": 307.86,
+      "text": "Because this is the card, this is the element."
+    },
+    {
+      "start": 307.86,
+      "end": 310.86,
+      "text": "If it is the other div, then I can't add it."
+    },
+    {
+      "start": 310.86,
+      "end": 312.86,
+      "text": "Then I have to add ID."
+    },
+    {
+      "start": 312.86,
+      "end": 317.86,
+      "text": "Okay, I will write the second one here."
+    },
+    {
+      "start": 317.86,
+      "end": 320.86,
+      "text": "So this ID and the class concept,"
+    },
+    {
+      "start": 320.86,
+      "end": 323.86,
+      "text": "I personally understood it very late."
+    },
+    {
+      "start": 323.86,
+      "end": 328.86,
+      "text": "I didn't tell anyone that the ID identifies uniquely."
+    },
+    {
+      "start": 328.86,
+      "end": 333.86,
+      "text": "And the class can also be applied in multiple classes."
+    },
+    {
+      "start": 333.86,
+      "end": 336.86,
+      "text": "And you can also apply multiple classes in multiple elements."
+    },
+    {
+      "start": 336.86,
+      "end": 341.86,
+      "text": "As soon as I gave it red, I can also apply it in BGL."
+    },
+    {
+      "start": 341.86,
+      "end": 343.86,
+      "text": "Okay, BGL."
+    },
+    {
+      "start": 343.86,
+      "end": 344.86,
+      "text": "I can give it a class."
+    },
+    {
+      "start": 344.86,
+      "end": 347.86,
+      "text": "And if we give an element multiple, then we will apply it in space."
+    },
+    {
+      "start": 347.86,
+      "end": 351.86,
+      "text": "As if I want to add multiple classes in this element."
+    },
+    {
+      "start": 351.86,
+      "end": 356.86,
+      "text": "So I will apply red, then I will apply it in space."
+    },
+    {
+      "start": 356.86,
+      "end": 359.86,
+      "text": "So I can give multiple classes in this way."
+    },
+    {
+      "start": 359.86,
+      "end": 362.86,
+      "text": "Can I give the same element multiple ID?"
+    },
+    {
+      "start": 362.86,
+      "end": 364.86,
+      "text": "Can you hear any 2000 cards?"
+    },
+    {
+      "start": 364.86,
+      "end": 366.86,
+      "text": "I don't know if anyone is familiar with this."
+    },
+    {
+      "start": 366.86,
+      "end": 368.86,
+      "text": "But there are no other ID."
+    },
+    {
+      "start": 368.86,
+      "end": 372.86,
+      "text": "The number of the card is one and the number of the card is one."
+    },
+    {
+      "start": 372.86,
+      "end": 375.86,
+      "text": "It can't be the same as the other."
+    },
+    {
+      "start": 375.86,
+      "end": 376.86,
+      "text": "Okay?"
+    },
+    {
+      "start": 376.86,
+      "end": 378.86,
+      "text": "It can't be multiple as one person."
+    },
+    {
+      "start": 378.86,
+      "end": 380.86,
+      "text": "It can't be the same as the other person."
+    },
+    {
+      "start": 380.86,
+      "end": 383.86,
+      "text": "But the class, if I say that you are wearing T-shirt,"
+    },
+    {
+      "start": 383.86,
+      "end": 385.86,
+      "text": "or you can wear red, T-shirt, five people."
+    },
+    {
+      "start": 385.86,
+      "end": 386.86,
+      "text": "There is no problem."
+    },
+    {
+      "start": 386.86,
+      "end": 387.86,
+      "text": "You will get it."
+    },
+    {
+      "start": 387.86,
+      "end": 388.86,
+      "text": "You will go to the market."
+    },
+    {
+      "start": 388.86,
+      "end": 391.86,
+      "text": "And you will like to be able to like the other person."
+    },
+    {
+      "start": 391.86,
+      "end": 393.86,
+      "text": "Or you will like to like the other person."
+    },
+    {
+      "start": 393.86,
+      "end": 395.86,
+      "text": "Or you will like to like the other person."
+    },
+    {
+      "start": 395.86,
+      "end": 397.86,
+      "text": "So they will be able to make the same class."
+    },
+    {
+      "start": 397.86,
+      "end": 399.86,
+      "text": "Or they are in the grapes class."
+    },
+    {
+      "start": 399.86,
+      "end": 400.86,
+      "text": "Okay?"
+    },
+    {
+      "start": 400.86,
+      "end": 402.86,
+      "text": "So we can apply it in one class."
+    },
+    {
+      "start": 402.86,
+      "end": 404.86,
+      "text": "And we can give the same class to the other elements."
+    },
+    {
+      "start": 404.86,
+      "end": 406.86,
+      "text": "So I hope you understand this."
+    },
+    {
+      "start": 406.86,
+      "end": 407.86,
+      "text": "Now I will apply some CSS."
+    },
+    {
+      "start": 407.86,
+      "end": 409.86,
+      "text": "And don't say that CSS is not a big deal."
+    },
+    {
+      "start": 409.86,
+      "end": 411.86,
+      "text": "Now I am applying CSS."
+    },
+    {
+      "start": 411.86,
+      "end": 414.86,
+      "text": "You guys, I am applying some alien language."
+    },
+    {
+      "start": 414.86,
+      "end": 415.86,
+      "text": "Okay?"
+    },
+    {
+      "start": 415.86,
+      "end": 417.86,
+      "text": "In the style.css."
+    },
+    {
+      "start": 417.86,
+      "end": 419.86,
+      "text": "But I am trying to make a point."
+    },
+    {
+      "start": 419.86,
+      "end": 420.86,
+      "text": "I will click here."
+    },
+    {
+      "start": 420.86,
+      "end": 423.86,
+      "text": "And now the preview of this is looking at something like this."
+    },
+    {
+      "start": 423.86,
+      "end": 425.86,
+      "text": "I will show you one thing."
+    },
+    {
+      "start": 425.86,
+      "end": 428.86,
+      "text": "I am applying a class to the CSS."
+    },
+    {
+      "start": 428.86,
+      "end": 430.86,
+      "text": "And I am applying a dot."
+    },
+    {
+      "start": 430.86,
+      "end": 431.86,
+      "text": "And I am applying a dot rate."
+    },
+    {
+      "start": 431.86,
+      "end": 433.86,
+      "text": "And I am applying a dot rate."
+    },
+    {
+      "start": 433.86,
+      "end": 435.86,
+      "text": "And I am applying a dot rate."
+    },
+    {
+      "start": 435.86,
+      "end": 436.86,
+      "text": "And I am applying a dot rate."
+    },
+    {
+      "start": 436.86,
+      "end": 438.86,
+      "text": "And I am applying a dot rate."
+    },
+    {
+      "start": 438.86,
+      "end": 441.86,
+      "text": "And the first tip is to add the background color to the red."
+    },
+    {
+      "start": 441.86,
+      "end": 442.86,
+      "text": "Okay?"
+    },
+    {
+      "start": 442.86,
+      "end": 444.86,
+      "text": "So the first tip is to add this background color to the red."
+    },
+    {
+      "start": 444.86,
+      "end": 445.86,
+      "text": "Okay?"
+    },
+    {
+      "start": 445.86,
+      "end": 447.86,
+      "text": "It's a selector in CSS."
+    },
+    {
+      "start": 447.86,
+      "end": 449.86,
+      "text": "And now I want to take it seriously."
+    },
+    {
+      "start": 449.86,
+      "end": 451.86,
+      "text": "And I can comment it like this in CSS."
+    },
+    {
+      "start": 451.86,
+      "end": 452.86,
+      "text": "Okay?"
+    },
+    {
+      "start": 452.86,
+      "end": 454.86,
+      "text": "But we will do all this."
+    },
+    {
+      "start": 454.86,
+      "end": 456.86,
+      "text": "Now I will apply a dot rate."
+    },
+    {
+      "start": 456.86,
+      "end": 460.86,
+      "text": "And I am applying a dot in BG-LLO."
+    },
+    {
+      "start": 460.86,
+      "end": 462.86,
+      "text": "What I am applying is dot BG-LLO."
+    },
+    {
+      "start": 462.86,
+      "end": 463.86,
+      "text": "I need a dot rate."
+    },
+    {
+      "start": 463.86,
+      "end": 466.86,
+      "text": "I mean, a class BG-LLO."
+    },
+    {
+      "start": 466.86,
+      "end": 476.86,
+      "text": "I will read background color and then add background color."
+    },
+    {
+      "start": 476.86,
+      "end": 482.86,
+      "text": "You can use this to see the ID and classes in CSS."
+    },
+    {
+      "start": 482.86,
+      "end": 488.86,
+      "text": "The important thing here is that the ID and classes are from the attribute."
+    },
+    {
+      "start": 488.86,
+      "end": 498.86,
+      "text": "The ID and class attribute are from the attribute."
+    },
+    {
+      "start": 498.86,
+      "end": 508.86,
+      "text": "If you are using VickyPedia then you can use VickyPedia."
+    },
+    {
+      "start": 508.86,
+      "end": 518.86,
+      "text": "You can use this particular link."
+    },
+    {
+      "start": 518.86,
+      "end": 528.86,
+      "text": "I will show the ID and class attribute."
+    },
+    {
+      "start": 528.86,
+      "end": 538.86,
+      "text": "I will enter the ID and then add the ID and class attribute."
+    },
+    {
+      "start": 538.86,
+      "end": 548.86,
+      "text": "I will show the ID and class attribute."
+    },
+    {
+      "start": 548.86,
+      "end": 558.86,
+      "text": "I will show the ID and class attribute."
+    },
+    {
+      "start": 558.86,
+      "end": 568.86,
+      "text": "I will show the ID and class attribute."
+    },
+    {
+      "start": 568.86,
+      "end": 578.86,
+      "text": "I will show the ID and class attribute."
+    },
+    {
+      "start": 578.86,
+      "end": 588.86,
+      "text": "I will show the ID and class attribute."
+    },
+    {
+      "start": 588.86,
+      "end": 608.86,
+      "text": "I will show the ID and class attribute."
+    },
+    {
+      "start": 608.86,
+      "end": 618.86,
+      "text": "I have read captions and I have read the ID and class attribute."
+    },
+    {
+      "start": 618.86,
+      "end": 628.86,
+      "text": "I have read the name and village land."
+    },
+    {
+      "start": 628.86,
+      "end": 632.86,
+      "text": "I hope you liked this video."
+    },
+    {
+      "start": 632.86,
+      "end": 634.86,
+      "text": "I will see you next time."
+    }
+  ]
+}

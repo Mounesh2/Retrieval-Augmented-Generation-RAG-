@@ -1,0 +1,2799 @@
+{
+  "video": 5,
+  "course": "Sigma Web Development",
+  "source_file": "5_Image, Lists, and Tables in HTML _ Sigma Web Development Course - Tutorial #5 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " In this video, we will see how images are made in HDM and Table. So, if you like the video, I know a lot of people like YouTube videos. But if you do, thanks to you all, I get the motivation to bring free courses like this. So, let's start the 5th video of Sigma Webloff Lab and the 5th video. Let's roll the intro. So, guys, I have already seen the video in the computer screen. First of all, I want to show you how to open the GETUP.COM slash code. So that you can get all the code. First, click on the playlist and then click on the start. And then click on the playlist. Now, let me tell you the first thing I will tell you about the image. In HDM, what is the image? So, what we will do here will be a folder. The name of the video is Neo folder. And here is video 5. You can come here and try to open the GETUP. I have already told you this. If you want to see the video, you can check the video and the video. And you can see the video. So, what we are doing is, we will make the video in HDM and then click on the mouse. And then click on the screen. So that you can know how many times I am getting the answer. Now, I have taken the exclamation mark and I will take the image abbreviation. And here I will do a view word wrap. I have to work hard. You can see here that this is your word wrap. It has been 15. So, what will happen here? It will not be a horizontal skull. Now, what I will do here? I will write images. First, I will write images. And I will simply do what I will do here. I will take an image. Now, I can bring the image from the internet. I will write here. Let us take an image. Train. Okay, Train. Because we have run a lot of trains in this course. So, we will write the images of the train. We will write some images. I will do a save image. And here, Sigma Web Development Course in the video number 5 folder. It is a CMS file. In fact, I will do a work. I will do a cancel. I will take a snap. Because I am going to go to a CMS extension. I will do a PNG in it. So, I have shot the windows shift and S-Divaya. I have shot the sleeping tool. And if you do not know, Now, you will know the Sigma Web Development Course in the Madhyam. You will know that if you will go to windows shift and S-Divaya, Then your sleeping tool will open in Windows. Do not know about it. In the comment section, I will tell you the image from my father. Now, what will we do here? I have done a shift in Windows shift S. And then I have started talking. So, here, you click and save it here. Here, the floppy disk option is saved. Now, click here. And go to the downloads. Sigma Web Development Course in the video 5M. Image. Okay, Image. Now, I have saved the image. Now, in HTML, I am G tag. Now, in the HTML, I am G tag. Now, in the HTML, I am G tag. Now, in the HTML, I am G tag. Now, in the HTML, I am G tag. Now, in the HTML, I am G tag. In fact, if you do not write the Alt, then it will be recommended. I will tell you what is the attribute. First of all, if you write in the SRC, Image.PnG. You can see that this image is here. So, I put this image in the Alt. Train Image. Okay. Now, if you have seen this in the browser, then you can see it in the same way. This is our page. And this is the image of this train. What is the point of writing the Alt? Where did it go? You can say it. I will tell you where it went. The Alt is inside. See, the Alt is inside. We have not seen that. Manlo for some reason, server does not show you the image. Okay. What will happen? Manlo, I have written the image too. Now, Image.PnG. The file is not here. So, what will happen? What will happen? What will happen? So, the Alt will be displayed. And this way, the error image will be displayed. Which will tell you that you have put the image in the right place. You have put it in the right place. You have given it a little bit. Here, the URL of the Seed Server is there. This image is not there. Okay. This way, it shows like this. And it shows the Alt. So, the user knows what is the image on the top. And if I come back here, you can put it in the image. I will not put it in the Alt. If I do not put it in the Alt, then I will not put it in the Alt. So, the Alt will not come. So, you will not want it to be displayed in your server. So, the user will see the image. You will want it to be displayed like this. And the scenario is like this. The user will see the image from the right place. The train has written it in this way. Okay. I hope you understood. Image is straight forward. There are two more attributes that are very important. It is a bit of a weight. It is a bit of a weight in pixels. If I do 23, then you can see it. In fact, I will fix the image. I have written the image too. I have written it from image.png. So, here you can see it. I have written 23 pixels. Because it is very small. So, I will fix it in 230. I will not put it in the PX. You can see when we write a bit of weight in the CES. We will see that we need to put PX. Here, if we write a bit of weight in double quotes, we will write a number. As you can see. So, if I take it here, then you can see that it is a bit of a image. If I give it a height, I will give it a height. But if you give it a height of 230, then it will be a bit stretched. Because it says that it has a weight of 230 and a height of 230. You can see it. If you want to see a weight of 230 and a width automatic adjust, then just use a height attribute. Now, let it be a width. So, the height of 230 is going to be the same. And the width will be the same. It will be the same. You can see the width of the automatic adjust. And the height is not the same. Now, what happens? The CSS method can also be adjusted through the width of the automatic adjust. And we will see in the CSS section, why do we always set the width of the automatic adjust? We always need to set one thing from the width of the automatic adjust. Such that, when our page is loading, then the image of the page is coming from the image of the page. I will tell you in the coming videos. But now, you understand that these width and height attributes are very different. Many people don't say that they are deprecated or used. But I would say that they should be used for purpose. Why should we do this? I will tell you in the coming videos, where I will tell you about core, vital and SEO. Now, you will see the width of the image. The height of the image is the same. So, the second one is automatically set. And these values are in pixels. And you don't have to write Px or pixel. You just have to write this number. And that's it. This is an attribute. It is a height and a CSS attribute. It is called a attribute. You can use style attribute. In fact, style attribute is almost used with all the tags. So, this was the image. Now, we will talk about the tables in this table. The table tag is very useful. What is the table tag? I will tell you. You get a table tag. I will copy the table from here. And this table, when I copy the table, I will see the page that you see. So, this is the table of this table. Where is my previous page? Here, look name, HarryH100. Now, if I add more things in the table, I will add some things in the table. I will add name, and I will add designation, HarryH100. I will add program in the table. And I want to add more things in the table. I will use all ship bottom. I will use all ship bottom. And I will write here that I want to write a favorite language. And I want to write here, I want to write JavaScript. And now, you will see that this table will be made in this way. Name, destination, favorite language. So, what is this? Let me tell you how to do this. Here, look, this table tag we have used. Table tag is in TR tag. What will come in this row? You will see that you will get this. Now, if you want to use table heading, you will say that this table is row. This is row. Name, destination, and favorite language. What will come in this row? And what will come? You can see that it will be a heading. So, I will use TH. And we will write this only once. First, we will write TR in TH. Once we have added heading, then we will add data. So, we will add TD in table. The table stands from the table. And here, you will add the entire TR in this way. By the way, what will come? You will get a rose add. I will write here, stamp. And this is also a programmer. And this is the favorite language of Java. So, this will be added in table. You can see that this is a rose add. We will see from CSS that it can be ordered. It can be styled. But it is given from default. And we know that this is the next. But you can also understand that table works in the same way. Now, rose span and callspan attributes. Now, you will see that rose span means how much rose will span your TD. For example, let us write here. I want Sam and programmer to write. First, I wanted to write a excel. I wanted to write a excel. I want to write a sample in 2 cells. I want to write a program in 4th. And I want to write here that call span is equal to 2. So, call span is equal to 2. So, Sam will take 2 columns. What does that mean? Sam will take 2 columns. I will show you how Sam will do it. I will show you how Sam will do it. So, this is the entire column. So, the call span will be how many columns will be played. By default, this column will be played. I will explain the excel in this way. You will understand the excel. You will understand the excel table is HTML. I will explain the excel table is HTML. So, here we use merge cell. And I write Sam here. HTML is used in callspan. We also want to merge vertically. I want to merge these cells. We will use rose span. And we will use rose span. And we will use rose span. We will use rose span. We will use rose span. We will use rose span. We will use rose span. So, I hope you guys understood. When we will make tables, projects, HTML, etc. You will understand better. But I will show you how to use rose span. So, if I write rose span as equal to 2. And I will write another TR here. So, you will see how this table is shown. Now, I will explain the better. I will put CSS style here. I will add a style sheet. And I will put the style sheet in my name. So, in style.css, you guys can understand. You guys can already tell me the same. I will write in the TD. I will write in the border. 2 pixel solid black. And I will tell you how to do this. But now you understand that I have put this. I will explain. So, I said that this is the Harry programmer and Jawascript. So, I said that Sam is the rose span. How much was it? Where did I give it to the rose span? I said that my Java is the rose span 2. So, how much was it? Obviously, 2. So, Java is the rose span 2. So, you can see that Java has taken 2. So, when Java has taken 2. So, I don't want to write in the next one. Because I have already written in the next one. So, I will not write in the next one. I took this call span 2. So, what can I do with this? This was Harry programmer and Jawascript. Then I said that Sam is the 2 columns that we will play. This one will play both columns. And Java will play 2 rows. You can see that the exact same voice here. It has taken 2 columns. So, this is how the growth span of the column can be used in HTML. In HTML table, we can add captions. And to add captions, we can use some captions. So, I will show you. If we use the caption, we will use student details. I will say that we will use the employee details. So, you can see that the page is like this. You can see that the caption is added here. Now, CSS changes the font size. But, we will see that the caption is added here. You can also add header and footer. You can also add T-head and T-foot. If we add T-head and T-foot content in it. If we add header and footer in here. You will see T-head and footer. You can see that the header is here and footer is here. Now, I will tell you about a more tech. It has a VR tech line break. You can see that the line break is below. So, this header is here. And after that, I will add footer. I will not add here. So, all the tables I will add are at the end. So, this is my table footer. Now, I can change CSS. Now, I can group some of the tables from T-head and footer. Now, I can Scale it. Now, I can get rid of my Table которой header. And I can setay there inside the table. Let's move into the Table main of Th Bus and choose table table within that table. So, It will come into T- nose. You can also discover table table content. Now,노 below and I want to edit footer. If we have Wanted apple pieces with Dita addgroup D to many Tablets. When you look at my tablet format document it as patterns that go to various points. I want to add TR in this way and I want to group it in T-foot So this is how it will group I added T-foot in T-foot I added T-body in T-body and I added T-head in T-foot and I had no change in it I have grouped it I will show you the footer so that you can find out the footer I will show you the footer You can see that the last one is the footer What is the benefit of doing this? I have grouped it so that I can target it from CSS So you will use it very less but you can do it like this which will come in the head content and the foot will come in the head and the body content will come in between the head and foot but you can write it like this but ideally head body will come in the footer Okay? I hope you all understood So that's all about HTML tables You don't need to know more about HTML tables and now we will talk about list There is a lot of important information in the HTML because the list will be used very much There are 3 other lists in HTML We have an ordered list An ordered list and a definition list The most useful one is the un ordered list First of all, let's look at the un ordered list Sometimes we want to have un ordered data which I will write here UL So I will write here UL as I will write this that un ordered list I can write this in the LL I can write Harry and I can write Rohan Okay? And I can write Shubham Okay? So when I write Harry Rohan Shubham then I will write UL as I will write it This is un ordered list Look Harry Rohan Shubham is here He has ordered it There is no 1 2 3 4 in it But if you want this order I can write this thing as an oil So if I write this opening closing tag as oil and other things are the same then this will be ordered list Okay? So here there will be 1 2 3 You can do this 1 2 3 You can do this on PBCB You can do this on Capital ABCB You can do Roman numbers You can do CSS and you can do this here You can see here that UL has been selected in this image You can see this image Here UL has been selected So this is 1 2 3 This is ordered list example And this is a definition list example Definition list is very less used It is previewed in this way First of all I have written this on DL DL means definition list about DT and DD So definition term here is definition of this definition This is something like this And you can change CSS It is very less used But you should know about this for interviews And ask what is the definition list So preview this code from this way I am not even writing it I am writing it for a long time But try it out Okay? And here first of all we will see an order list In an order list you will tell people this simple and straightforward You can use this bullet points to use type attribute If I write type is equal to square I will write type is equal to and I will write in this way So I have written the type is equal to square So this is how square is written Similarly I can circle the type in UL I can do this I can do this I can do this by default I can do this by default I can do this by square I can do this by circle Along with that You can see how many more list items can be added Now let's see the order list In order list You will write LI So this is how it is 1,2,3 But you can use Type is equal to I When you will use type is equal to I then you will get the case of Roman numbers Type is equal to small I then you will get the lower case of Roman numbers Type is equal to 1 That is default You will get the small You will get the alphabetical and capital Then you will get the alphabetical So let's see Type is equal to I will take capital You see we have given examples of VS code and suggestions And we are worried that we can use it to see the value of VS code So VS code is very useful And many people used old editors which used very early use If you know their correct plugins and you have set them up then you will do it VS code is modern Switch to VS code You will use all VS codes You will see how many more developed you will use If you want to do in mobile then comment in the template and what is the name of the template and you will want to give a shout out to Replay.com Because I use it very often so you can use it in your mobile and your computer and your computer is not that much you will get templates and you will get more in the future But I will stick to VS code I hope you have understood here the order list and order list Now if you have completed 5 videos in Sigma Web development series I want to comment that you have a code like 5 stars and what is the initial review of this code and you have seen 5 videos from that case I know that the order is delayed but the data is delayed and the data is delayed and the data is delayed and the data is delayed and the YouTube comments are not done but I want to comment that you have done and comment I know how the code is going in the first video and in the first video and in the Sigma Web I write a lot of motivation and we will have two interactions If you comment I will see that I have a lot of feelings and I feel two interactions So in the source code I will give a description and if you have access please like this video and comment on Sigma Web and comment on your own I mean, name me Thank you so much guys for watching this video and I will see you next time Bye bye",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "In this video, we will see how images are made in HDM and Table."
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "So, if you like the video, I know a lot of people like YouTube videos."
+    },
+    {
+      "start": 9.0,
+      "end": 15.0,
+      "text": "But if you do, thanks to you all, I get the motivation to bring free courses like this."
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "text": "So, let's start the 5th video of Sigma Webloff Lab and the 5th video."
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "text": "Let's roll the intro."
+    },
+    {
+      "start": 30.0,
+      "end": 33.0,
+      "text": "So, guys, I have already seen the video in the computer screen."
+    },
+    {
+      "start": 33.0,
+      "end": 39.0,
+      "text": "First of all, I want to show you how to open the GETUP.COM slash code."
+    },
+    {
+      "start": 39.0,
+      "end": 41.0,
+      "text": "So that you can get all the code."
+    },
+    {
+      "start": 41.0,
+      "end": 45.0,
+      "text": "First, click on the playlist and then click on the start."
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": "And then click on the playlist."
+    },
+    {
+      "start": 47.0,
+      "end": 50.0,
+      "text": "Now, let me tell you the first thing I will tell you about the image."
+    },
+    {
+      "start": 50.0,
+      "end": 52.0,
+      "text": "In HDM, what is the image?"
+    },
+    {
+      "start": 52.0,
+      "end": 55.0,
+      "text": "So, what we will do here will be a folder."
+    },
+    {
+      "start": 55.0,
+      "end": 58.0,
+      "text": "The name of the video is Neo folder."
+    },
+    {
+      "start": 58.0,
+      "end": 60.0,
+      "text": "And here is video 5."
+    },
+    {
+      "start": 60.0,
+      "end": 62.0,
+      "text": "You can come here and try to open the GETUP."
+    },
+    {
+      "start": 62.0,
+      "end": 64.0,
+      "text": "I have already told you this."
+    },
+    {
+      "start": 64.0,
+      "end": 69.0,
+      "text": "If you want to see the video, you can check the video and the video."
+    },
+    {
+      "start": 69.0,
+      "end": 72.0,
+      "text": "And you can see the video."
+    },
+    {
+      "start": 72.0,
+      "end": 76.0,
+      "text": "So, what we are doing is, we will make the video in HDM and then click on the mouse."
+    },
+    {
+      "start": 76.0,
+      "end": 78.0,
+      "text": "And then click on the screen."
+    },
+    {
+      "start": 78.0,
+      "end": 82.0,
+      "text": "So that you can know how many times I am getting the answer."
+    },
+    {
+      "start": 82.0,
+      "end": 85.0,
+      "text": "Now, I have taken the exclamation mark and I will take the image abbreviation."
+    },
+    {
+      "start": 85.0,
+      "end": 88.0,
+      "text": "And here I will do a view word wrap."
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "text": "I have to work hard."
+    },
+    {
+      "start": 89.0,
+      "end": 92.0,
+      "text": "You can see here that this is your word wrap."
+    },
+    {
+      "start": 92.0,
+      "end": 93.0,
+      "text": "It has been 15."
+    },
+    {
+      "start": 93.0,
+      "end": 95.0,
+      "text": "So, what will happen here?"
+    },
+    {
+      "start": 95.0,
+      "end": 96.0,
+      "text": "It will not be a horizontal skull."
+    },
+    {
+      "start": 96.0,
+      "end": 97.0,
+      "text": "Now, what I will do here?"
+    },
+    {
+      "start": 97.0,
+      "end": 99.0,
+      "text": "I will write images."
+    },
+    {
+      "start": 99.0,
+      "end": 100.0,
+      "text": "First, I will write images."
+    },
+    {
+      "start": 100.0,
+      "end": 102.0,
+      "text": "And I will simply do what I will do here."
+    },
+    {
+      "start": 102.0,
+      "end": 103.0,
+      "text": "I will take an image."
+    },
+    {
+      "start": 103.0,
+      "end": 105.0,
+      "text": "Now, I can bring the image from the internet."
+    },
+    {
+      "start": 105.0,
+      "end": 106.0,
+      "text": "I will write here."
+    },
+    {
+      "start": 106.0,
+      "end": 108.0,
+      "text": "Let us take an image."
+    },
+    {
+      "start": 108.0,
+      "end": 109.0,
+      "text": "Train."
+    },
+    {
+      "start": 109.0,
+      "end": 110.0,
+      "text": "Okay, Train."
+    },
+    {
+      "start": 110.0,
+      "end": 112.0,
+      "text": "Because we have run a lot of trains in this course."
+    },
+    {
+      "start": 112.0,
+      "end": 113.0,
+      "text": "So, we will write the images of the train."
+    },
+    {
+      "start": 113.0,
+      "end": 114.0,
+      "text": "We will write some images."
+    },
+    {
+      "start": 114.0,
+      "end": 115.0,
+      "text": "I will do a save image."
+    },
+    {
+      "start": 115.0,
+      "end": 119.0,
+      "text": "And here, Sigma Web Development Course in the video number 5 folder."
+    },
+    {
+      "start": 119.0,
+      "end": 120.0,
+      "text": "It is a CMS file."
+    },
+    {
+      "start": 120.0,
+      "end": 122.0,
+      "text": "In fact, I will do a work."
+    },
+    {
+      "start": 122.0,
+      "end": 123.0,
+      "text": "I will do a cancel."
+    },
+    {
+      "start": 123.0,
+      "end": 124.0,
+      "text": "I will take a snap."
+    },
+    {
+      "start": 124.0,
+      "end": 126.0,
+      "text": "Because I am going to go to a CMS extension."
+    },
+    {
+      "start": 126.0,
+      "end": 127.0,
+      "text": "I will do a PNG in it."
+    },
+    {
+      "start": 127.0,
+      "end": 129.0,
+      "text": "So, I have shot the windows shift and S-Divaya."
+    },
+    {
+      "start": 129.0,
+      "end": 131.0,
+      "text": "I have shot the sleeping tool."
+    },
+    {
+      "start": 131.0,
+      "end": 132.0,
+      "text": "And if you do not know,"
+    },
+    {
+      "start": 132.0,
+      "end": 135.0,
+      "text": "Now, you will know the Sigma Web Development Course in the Madhyam."
+    },
+    {
+      "start": 135.0,
+      "end": 138.0,
+      "text": "You will know that if you will go to windows shift and S-Divaya,"
+    },
+    {
+      "start": 138.0,
+      "end": 140.0,
+      "text": "Then your sleeping tool will open in Windows."
+    },
+    {
+      "start": 140.0,
+      "end": 141.0,
+      "text": "Do not know about it."
+    },
+    {
+      "start": 141.0,
+      "end": 142.0,
+      "text": "In the comment section,"
+    },
+    {
+      "start": 142.0,
+      "end": 143.0,
+      "text": "I will tell you the image from my father."
+    },
+    {
+      "start": 143.0,
+      "end": 144.0,
+      "text": "Now, what will we do here?"
+    },
+    {
+      "start": 144.0,
+      "end": 146.0,
+      "text": "I have done a shift in Windows shift S."
+    },
+    {
+      "start": 146.0,
+      "end": 147.0,
+      "text": "And then I have started talking."
+    },
+    {
+      "start": 147.0,
+      "end": 150.0,
+      "text": "So, here, you click and save it here."
+    },
+    {
+      "start": 150.0,
+      "end": 152.0,
+      "text": "Here, the floppy disk option is saved."
+    },
+    {
+      "start": 152.0,
+      "end": 153.0,
+      "text": "Now, click here."
+    },
+    {
+      "start": 153.0,
+      "end": 155.0,
+      "text": "And go to the downloads."
+    },
+    {
+      "start": 155.0,
+      "end": 158.0,
+      "text": "Sigma Web Development Course in the video 5M."
+    },
+    {
+      "start": 158.0,
+      "end": 160.0,
+      "text": "Image."
+    },
+    {
+      "start": 160.0,
+      "end": 161.0,
+      "text": "Okay, Image."
+    },
+    {
+      "start": 161.0,
+      "end": 162.0,
+      "text": "Now, I have saved the image."
+    },
+    {
+      "start": 162.0,
+      "end": 163.0,
+      "text": "Now, in HTML, I am G tag."
+    },
+    {
+      "start": 163.0,
+      "end": 164.0,
+      "text": "Now, in the HTML, I am G tag."
+    },
+    {
+      "start": 164.0,
+      "end": 165.0,
+      "text": "Now, in the HTML, I am G tag."
+    },
+    {
+      "start": 165.0,
+      "end": 166.0,
+      "text": "Now, in the HTML, I am G tag."
+    },
+    {
+      "start": 166.0,
+      "end": 167.0,
+      "text": "Now, in the HTML, I am G tag."
+    },
+    {
+      "start": 167.0,
+      "end": 167.5,
+      "text": "Now, in the HTML, I am G tag."
+    },
+    {
+      "start": 167.5,
+      "end": 169.5,
+      "text": "In fact, if you do not write the Alt, then it will be recommended."
+    },
+    {
+      "start": 169.5,
+      "end": 171.5,
+      "text": "I will tell you what is the attribute."
+    },
+    {
+      "start": 171.5,
+      "end": 173.5,
+      "text": "First of all, if you write in the SRC,"
+    },
+    {
+      "start": 173.5,
+      "end": 174.5,
+      "text": "Image.PnG."
+    },
+    {
+      "start": 174.5,
+      "end": 176.5,
+      "text": "You can see that this image is here."
+    },
+    {
+      "start": 176.5,
+      "end": 178.5,
+      "text": "So, I put this image in the Alt."
+    },
+    {
+      "start": 178.5,
+      "end": 179.5,
+      "text": "Train Image."
+    },
+    {
+      "start": 179.5,
+      "end": 180.5,
+      "text": "Okay."
+    },
+    {
+      "start": 180.5,
+      "end": 182.5,
+      "text": "Now, if you have seen this in the browser,"
+    },
+    {
+      "start": 182.5,
+      "end": 184.5,
+      "text": "then you can see it in the same way."
+    },
+    {
+      "start": 184.5,
+      "end": 185.5,
+      "text": "This is our page."
+    },
+    {
+      "start": 185.5,
+      "end": 186.5,
+      "text": "And this is the image of this train."
+    },
+    {
+      "start": 186.5,
+      "end": 188.5,
+      "text": "What is the point of writing the Alt?"
+    },
+    {
+      "start": 188.5,
+      "end": 189.5,
+      "text": "Where did it go?"
+    },
+    {
+      "start": 189.5,
+      "end": 190.5,
+      "text": "You can say it."
+    },
+    {
+      "start": 190.5,
+      "end": 192.5,
+      "text": "I will tell you where it went."
+    },
+    {
+      "start": 192.5,
+      "end": 193.5,
+      "text": "The Alt is inside."
+    },
+    {
+      "start": 193.5,
+      "end": 194.5,
+      "text": "See, the Alt is inside."
+    },
+    {
+      "start": 194.5,
+      "end": 195.5,
+      "text": "We have not seen that."
+    },
+    {
+      "start": 195.5,
+      "end": 198.5,
+      "text": "Manlo for some reason, server does not show you the image."
+    },
+    {
+      "start": 198.5,
+      "end": 199.5,
+      "text": "Okay."
+    },
+    {
+      "start": 199.5,
+      "end": 200.5,
+      "text": "What will happen?"
+    },
+    {
+      "start": 200.5,
+      "end": 201.5,
+      "text": "Manlo, I have written the image too."
+    },
+    {
+      "start": 201.5,
+      "end": 202.5,
+      "text": "Now, Image.PnG."
+    },
+    {
+      "start": 202.5,
+      "end": 203.5,
+      "text": "The file is not here."
+    },
+    {
+      "start": 203.5,
+      "end": 204.5,
+      "text": "So, what will happen?"
+    },
+    {
+      "start": 204.5,
+      "end": 205.5,
+      "text": "What will happen?"
+    },
+    {
+      "start": 205.5,
+      "end": 206.5,
+      "text": "What will happen?"
+    },
+    {
+      "start": 206.5,
+      "end": 208.5,
+      "text": "So, the Alt will be displayed."
+    },
+    {
+      "start": 208.5,
+      "end": 211.5,
+      "text": "And this way, the error image will be displayed."
+    },
+    {
+      "start": 211.5,
+      "end": 214.5,
+      "text": "Which will tell you that you have put the image in the right place."
+    },
+    {
+      "start": 214.5,
+      "end": 215.5,
+      "text": "You have put it in the right place."
+    },
+    {
+      "start": 215.5,
+      "end": 216.5,
+      "text": "You have given it a little bit."
+    },
+    {
+      "start": 216.5,
+      "end": 218.5,
+      "text": "Here, the URL of the Seed Server is there."
+    },
+    {
+      "start": 218.5,
+      "end": 219.5,
+      "text": "This image is not there."
+    },
+    {
+      "start": 219.5,
+      "end": 220.5,
+      "text": "Okay."
+    },
+    {
+      "start": 220.5,
+      "end": 221.5,
+      "text": "This way, it shows like this."
+    },
+    {
+      "start": 221.5,
+      "end": 222.5,
+      "text": "And it shows the Alt."
+    },
+    {
+      "start": 222.5,
+      "end": 225.5,
+      "text": "So, the user knows what is the image on the top."
+    },
+    {
+      "start": 225.5,
+      "end": 229.5,
+      "text": "And if I come back here, you can put it in the image."
+    },
+    {
+      "start": 229.5,
+      "end": 231.5,
+      "text": "I will not put it in the Alt."
+    },
+    {
+      "start": 231.5,
+      "end": 233.5,
+      "text": "If I do not put it in the Alt, then I will not put it in the Alt."
+    },
+    {
+      "start": 233.5,
+      "end": 235.5,
+      "text": "So, the Alt will not come."
+    },
+    {
+      "start": 235.5,
+      "end": 237.5,
+      "text": "So, you will not want it to be displayed in your server."
+    },
+    {
+      "start": 237.5,
+      "end": 238.5,
+      "text": "So, the user will see the image."
+    },
+    {
+      "start": 238.5,
+      "end": 239.5,
+      "text": "You will want it to be displayed like this."
+    },
+    {
+      "start": 239.5,
+      "end": 241.5,
+      "text": "And the scenario is like this."
+    },
+    {
+      "start": 241.5,
+      "end": 242.5,
+      "text": "The user will see the image from the right place."
+    },
+    {
+      "start": 242.5,
+      "end": 244.5,
+      "text": "The train has written it in this way."
+    },
+    {
+      "start": 244.5,
+      "end": 245.5,
+      "text": "Okay."
+    },
+    {
+      "start": 245.5,
+      "end": 246.5,
+      "text": "I hope you understood."
+    },
+    {
+      "start": 246.5,
+      "end": 247.5,
+      "text": "Image is straight forward."
+    },
+    {
+      "start": 247.5,
+      "end": 250.5,
+      "text": "There are two more attributes that are very important."
+    },
+    {
+      "start": 250.5,
+      "end": 251.5,
+      "text": "It is a bit of a weight."
+    },
+    {
+      "start": 251.5,
+      "end": 252.5,
+      "text": "It is a bit of a weight in pixels."
+    },
+    {
+      "start": 252.5,
+      "end": 254.5,
+      "text": "If I do 23, then you can see it."
+    },
+    {
+      "start": 254.5,
+      "end": 256.5,
+      "text": "In fact, I will fix the image."
+    },
+    {
+      "start": 256.5,
+      "end": 257.5,
+      "text": "I have written the image too."
+    },
+    {
+      "start": 257.5,
+      "end": 259.5,
+      "text": "I have written it from image.png."
+    },
+    {
+      "start": 259.5,
+      "end": 260.5,
+      "text": "So, here you can see it."
+    },
+    {
+      "start": 260.5,
+      "end": 261.5,
+      "text": "I have written 23 pixels."
+    },
+    {
+      "start": 261.5,
+      "end": 262.5,
+      "text": "Because it is very small."
+    },
+    {
+      "start": 262.5,
+      "end": 263.5,
+      "text": "So, I will fix it in 230."
+    },
+    {
+      "start": 263.5,
+      "end": 265.5,
+      "text": "I will not put it in the PX."
+    },
+    {
+      "start": 265.5,
+      "end": 267.5,
+      "text": "You can see when we write a bit of weight in the CES."
+    },
+    {
+      "start": 267.5,
+      "end": 269.5,
+      "text": "We will see that we need to put PX."
+    },
+    {
+      "start": 269.5,
+      "end": 272.5,
+      "text": "Here, if we write a bit of weight in double quotes,"
+    },
+    {
+      "start": 272.5,
+      "end": 273.5,
+      "text": "we will write a number."
+    },
+    {
+      "start": 273.5,
+      "end": 274.5,
+      "text": "As you can see."
+    },
+    {
+      "start": 274.5,
+      "end": 278.5,
+      "text": "So, if I take it here, then you can see that it is a bit of a image."
+    },
+    {
+      "start": 278.5,
+      "end": 281.5,
+      "text": "If I give it a height, I will give it a height."
+    },
+    {
+      "start": 281.5,
+      "end": 285.5,
+      "text": "But if you give it a height of 230, then it will be a bit stretched."
+    },
+    {
+      "start": 285.5,
+      "end": 288.5,
+      "text": "Because it says that it has a weight of 230 and a height of 230."
+    },
+    {
+      "start": 288.5,
+      "end": 289.5,
+      "text": "You can see it."
+    },
+    {
+      "start": 289.5,
+      "end": 293.5,
+      "text": "If you want to see a weight of 230 and a width automatic adjust,"
+    },
+    {
+      "start": 293.5,
+      "end": 295.5,
+      "text": "then just use a height attribute."
+    },
+    {
+      "start": 295.5,
+      "end": 296.5,
+      "text": "Now, let it be a width."
+    },
+    {
+      "start": 296.5,
+      "end": 298.5,
+      "text": "So, the height of 230 is going to be the same."
+    },
+    {
+      "start": 298.5,
+      "end": 300.5,
+      "text": "And the width will be the same."
+    },
+    {
+      "start": 300.5,
+      "end": 301.5,
+      "text": "It will be the same."
+    },
+    {
+      "start": 301.5,
+      "end": 303.5,
+      "text": "You can see the width of the automatic adjust."
+    },
+    {
+      "start": 303.5,
+      "end": 305.5,
+      "text": "And the height is not the same."
+    },
+    {
+      "start": 305.5,
+      "end": 306.5,
+      "text": "Now, what happens?"
+    },
+    {
+      "start": 306.5,
+      "end": 309.5,
+      "text": "The CSS method can also be adjusted through the width of the automatic adjust."
+    },
+    {
+      "start": 309.5,
+      "end": 312.5,
+      "text": "And we will see in the CSS section, why do we always set the width of the automatic adjust?"
+    },
+    {
+      "start": 312.5,
+      "end": 315.5,
+      "text": "We always need to set one thing from the width of the automatic adjust."
+    },
+    {
+      "start": 315.5,
+      "end": 318.5,
+      "text": "Such that, when our page is loading,"
+    },
+    {
+      "start": 318.5,
+      "end": 321.5,
+      "text": "then the image of the page is coming from the image of the page."
+    },
+    {
+      "start": 321.5,
+      "end": 324.5,
+      "text": "I will tell you in the coming videos."
+    },
+    {
+      "start": 324.5,
+      "end": 327.5,
+      "text": "But now, you understand that these width and height attributes are very different."
+    },
+    {
+      "start": 327.5,
+      "end": 331.5,
+      "text": "Many people don't say that they are deprecated or used."
+    },
+    {
+      "start": 331.5,
+      "end": 333.5,
+      "text": "But I would say that they should be used for purpose."
+    },
+    {
+      "start": 333.5,
+      "end": 334.5,
+      "text": "Why should we do this?"
+    },
+    {
+      "start": 334.5,
+      "end": 336.5,
+      "text": "I will tell you in the coming videos,"
+    },
+    {
+      "start": 336.5,
+      "end": 338.5,
+      "text": "where I will tell you about core, vital and SEO."
+    },
+    {
+      "start": 338.5,
+      "end": 341.5,
+      "text": "Now, you will see the width of the image."
+    },
+    {
+      "start": 341.5,
+      "end": 343.5,
+      "text": "The height of the image is the same."
+    },
+    {
+      "start": 343.5,
+      "end": 346.5,
+      "text": "So, the second one is automatically set."
+    },
+    {
+      "start": 346.5,
+      "end": 348.5,
+      "text": "And these values are in pixels."
+    },
+    {
+      "start": 348.5,
+      "end": 350.5,
+      "text": "And you don't have to write Px or pixel."
+    },
+    {
+      "start": 350.5,
+      "end": 352.5,
+      "text": "You just have to write this number."
+    },
+    {
+      "start": 352.5,
+      "end": 353.5,
+      "text": "And that's it."
+    },
+    {
+      "start": 353.5,
+      "end": 354.5,
+      "text": "This is an attribute."
+    },
+    {
+      "start": 354.5,
+      "end": 356.5,
+      "text": "It is a height and a CSS attribute."
+    },
+    {
+      "start": 356.5,
+      "end": 357.5,
+      "text": "It is called a attribute."
+    },
+    {
+      "start": 357.5,
+      "end": 359.5,
+      "text": "You can use style attribute."
+    },
+    {
+      "start": 359.5,
+      "end": 362.5,
+      "text": "In fact, style attribute is almost used with all the tags."
+    },
+    {
+      "start": 362.5,
+      "end": 364.5,
+      "text": "So, this was the image."
+    },
+    {
+      "start": 364.5,
+      "end": 366.5,
+      "text": "Now, we will talk about the tables in this table."
+    },
+    {
+      "start": 366.5,
+      "end": 369.5,
+      "text": "The table tag is very useful."
+    },
+    {
+      "start": 369.5,
+      "end": 371.5,
+      "text": "What is the table tag?"
+    },
+    {
+      "start": 371.5,
+      "end": 373.5,
+      "text": "I will tell you."
+    },
+    {
+      "start": 373.5,
+      "end": 374.5,
+      "text": "You get a table tag."
+    },
+    {
+      "start": 374.5,
+      "end": 376.5,
+      "text": "I will copy the table from here."
+    },
+    {
+      "start": 376.5,
+      "end": 379.5,
+      "text": "And this table, when I copy the table, I will see the page that you see."
+    },
+    {
+      "start": 379.5,
+      "end": 381.5,
+      "text": "So, this is the table of this table."
+    },
+    {
+      "start": 381.5,
+      "end": 383.5,
+      "text": "Where is my previous page?"
+    },
+    {
+      "start": 383.5,
+      "end": 385.5,
+      "text": "Here, look name,"
+    },
+    {
+      "start": 385.5,
+      "end": 386.5,
+      "text": "HarryH100."
+    },
+    {
+      "start": 386.5,
+      "end": 389.5,
+      "text": "Now, if I add more things in the table,"
+    },
+    {
+      "start": 389.5,
+      "end": 391.5,
+      "text": "I will add some things in the table."
+    },
+    {
+      "start": 391.5,
+      "end": 393.5,
+      "text": "I will add name,"
+    },
+    {
+      "start": 393.5,
+      "end": 395.5,
+      "text": "and I will add designation,"
+    },
+    {
+      "start": 395.5,
+      "end": 397.5,
+      "text": "HarryH100."
+    },
+    {
+      "start": 397.5,
+      "end": 399.5,
+      "text": "I will add program in the table."
+    },
+    {
+      "start": 399.5,
+      "end": 401.5,
+      "text": "And I want to add more things in the table."
+    },
+    {
+      "start": 401.5,
+      "end": 403.5,
+      "text": "I will use all ship bottom."
+    },
+    {
+      "start": 403.5,
+      "end": 405.5,
+      "text": "I will use all ship bottom."
+    },
+    {
+      "start": 405.5,
+      "end": 407.5,
+      "text": "And I will write here"
+    },
+    {
+      "start": 407.5,
+      "end": 410.5,
+      "text": "that I want to write a favorite language."
+    },
+    {
+      "start": 410.5,
+      "end": 412.5,
+      "text": "And I want to write here,"
+    },
+    {
+      "start": 412.5,
+      "end": 414.5,
+      "text": "I want to write JavaScript."
+    },
+    {
+      "start": 414.5,
+      "end": 416.5,
+      "text": "And now, you will see that this table will be made in this way."
+    },
+    {
+      "start": 416.5,
+      "end": 418.5,
+      "text": "Name, destination, favorite language."
+    },
+    {
+      "start": 418.5,
+      "end": 420.5,
+      "text": "So, what is this?"
+    },
+    {
+      "start": 420.5,
+      "end": 422.5,
+      "text": "Let me tell you how to do this."
+    },
+    {
+      "start": 422.5,
+      "end": 424.5,
+      "text": "Here, look, this table tag we have used."
+    },
+    {
+      "start": 424.5,
+      "end": 426.5,
+      "text": "Table tag is in TR tag."
+    },
+    {
+      "start": 426.5,
+      "end": 428.5,
+      "text": "What will come in this row?"
+    },
+    {
+      "start": 428.5,
+      "end": 430.5,
+      "text": "You will see that you will get this."
+    },
+    {
+      "start": 430.5,
+      "end": 432.5,
+      "text": "Now, if you want to use table heading,"
+    },
+    {
+      "start": 432.5,
+      "end": 434.5,
+      "text": "you will say that this table is row."
+    },
+    {
+      "start": 434.5,
+      "end": 436.5,
+      "text": "This is row."
+    },
+    {
+      "start": 436.5,
+      "end": 438.5,
+      "text": "Name, destination, and favorite language."
+    },
+    {
+      "start": 438.5,
+      "end": 440.5,
+      "text": "What will come in this row?"
+    },
+    {
+      "start": 440.5,
+      "end": 442.5,
+      "text": "And what will come?"
+    },
+    {
+      "start": 442.5,
+      "end": 444.5,
+      "text": "You can see that it will be a heading."
+    },
+    {
+      "start": 444.5,
+      "end": 446.5,
+      "text": "So, I will use TH."
+    },
+    {
+      "start": 446.5,
+      "end": 448.5,
+      "text": "And we will write this only once."
+    },
+    {
+      "start": 448.5,
+      "end": 450.5,
+      "text": "First, we will write TR in TH."
+    },
+    {
+      "start": 450.5,
+      "end": 452.5,
+      "text": "Once we have added heading,"
+    },
+    {
+      "start": 452.5,
+      "end": 454.5,
+      "text": "then we will add data."
+    },
+    {
+      "start": 454.5,
+      "end": 456.5,
+      "text": "So, we will add TD in table."
+    },
+    {
+      "start": 456.5,
+      "end": 458.5,
+      "text": "The table stands from the table."
+    },
+    {
+      "start": 458.5,
+      "end": 460.5,
+      "text": "And here, you will add the entire TR in this way."
+    },
+    {
+      "start": 460.5,
+      "end": 462.5,
+      "text": "By the way, what will come?"
+    },
+    {
+      "start": 462.5,
+      "end": 464.5,
+      "text": "You will get a rose add."
+    },
+    {
+      "start": 464.5,
+      "end": 466.5,
+      "text": "I will write here, stamp."
+    },
+    {
+      "start": 466.5,
+      "end": 468.5,
+      "text": "And this is also a programmer."
+    },
+    {
+      "start": 468.5,
+      "end": 470.5,
+      "text": "And this is the favorite language of Java."
+    },
+    {
+      "start": 470.5,
+      "end": 472.5,
+      "text": "So, this will be added in table."
+    },
+    {
+      "start": 472.5,
+      "end": 474.5,
+      "text": "You can see that this is a rose add."
+    },
+    {
+      "start": 474.5,
+      "end": 477.5,
+      "text": "We will see from CSS that it can be ordered."
+    },
+    {
+      "start": 477.5,
+      "end": 478.5,
+      "text": "It can be styled."
+    },
+    {
+      "start": 478.5,
+      "end": 480.5,
+      "text": "But it is given from default."
+    },
+    {
+      "start": 480.5,
+      "end": 482.5,
+      "text": "And we know that this is the next."
+    },
+    {
+      "start": 482.5,
+      "end": 485.5,
+      "text": "But you can also understand that table works in the same way."
+    },
+    {
+      "start": 485.5,
+      "end": 488.5,
+      "text": "Now, rose span and callspan attributes."
+    },
+    {
+      "start": 488.5,
+      "end": 490.5,
+      "text": "Now, you will see that rose span means"
+    },
+    {
+      "start": 490.5,
+      "end": 492.5,
+      "text": "how much rose will span your TD."
+    },
+    {
+      "start": 492.5,
+      "end": 495.5,
+      "text": "For example, let us write here."
+    },
+    {
+      "start": 495.5,
+      "end": 497.5,
+      "text": "I want Sam and programmer to write."
+    },
+    {
+      "start": 497.5,
+      "end": 499.5,
+      "text": "First, I wanted to write a excel."
+    },
+    {
+      "start": 499.5,
+      "end": 501.5,
+      "text": "I wanted to write a excel."
+    },
+    {
+      "start": 501.5,
+      "end": 504.5,
+      "text": "I want to write a sample in 2 cells."
+    },
+    {
+      "start": 504.5,
+      "end": 506.5,
+      "text": "I want to write a program in 4th."
+    },
+    {
+      "start": 506.5,
+      "end": 509.5,
+      "text": "And I want to write here that call span is equal to 2."
+    },
+    {
+      "start": 509.5,
+      "end": 511.5,
+      "text": "So, call span is equal to 2."
+    },
+    {
+      "start": 511.5,
+      "end": 514.5,
+      "text": "So, Sam will take 2 columns."
+    },
+    {
+      "start": 514.5,
+      "end": 517.5,
+      "text": "What does that mean? Sam will take 2 columns."
+    },
+    {
+      "start": 517.5,
+      "end": 519.5,
+      "text": "I will show you how Sam will do it."
+    },
+    {
+      "start": 519.5,
+      "end": 521.5,
+      "text": "I will show you how Sam will do it."
+    },
+    {
+      "start": 521.5,
+      "end": 523.5,
+      "text": "So, this is the entire column."
+    },
+    {
+      "start": 523.5,
+      "end": 527.5,
+      "text": "So, the call span will be how many columns will be played."
+    },
+    {
+      "start": 527.5,
+      "end": 529.5,
+      "text": "By default, this column will be played."
+    },
+    {
+      "start": 529.5,
+      "end": 532.5,
+      "text": "I will explain the excel in this way."
+    },
+    {
+      "start": 532.5,
+      "end": 534.5,
+      "text": "You will understand the excel."
+    },
+    {
+      "start": 534.5,
+      "end": 536.5,
+      "text": "You will understand the excel table is HTML."
+    },
+    {
+      "start": 536.5,
+      "end": 539.5,
+      "text": "I will explain the excel table is HTML."
+    },
+    {
+      "start": 539.5,
+      "end": 542.5,
+      "text": "So, here we use merge cell."
+    },
+    {
+      "start": 542.5,
+      "end": 544.5,
+      "text": "And I write Sam here."
+    },
+    {
+      "start": 544.5,
+      "end": 546.5,
+      "text": "HTML is used in callspan."
+    },
+    {
+      "start": 546.5,
+      "end": 548.5,
+      "text": "We also want to merge vertically."
+    },
+    {
+      "start": 548.5,
+      "end": 550.5,
+      "text": "I want to merge these cells."
+    },
+    {
+      "start": 550.5,
+      "end": 553.5,
+      "text": "We will use rose span."
+    },
+    {
+      "start": 553.5,
+      "end": 555.5,
+      "text": "And we will use rose span."
+    },
+    {
+      "start": 555.5,
+      "end": 557.5,
+      "text": "And we will use rose span."
+    },
+    {
+      "start": 557.5,
+      "end": 559.5,
+      "text": "We will use rose span."
+    },
+    {
+      "start": 559.5,
+      "end": 561.5,
+      "text": "We will use rose span."
+    },
+    {
+      "start": 561.5,
+      "end": 563.5,
+      "text": "We will use rose span."
+    },
+    {
+      "start": 563.5,
+      "end": 565.5,
+      "text": "We will use rose span."
+    },
+    {
+      "start": 565.5,
+      "end": 567.5,
+      "text": "So, I hope you guys understood."
+    },
+    {
+      "start": 567.5,
+      "end": 570.5,
+      "text": "When we will make tables, projects, HTML, etc."
+    },
+    {
+      "start": 570.5,
+      "end": 572.5,
+      "text": "You will understand better."
+    },
+    {
+      "start": 572.5,
+      "end": 574.5,
+      "text": "But I will show you how to use rose span."
+    },
+    {
+      "start": 574.5,
+      "end": 576.5,
+      "text": "So, if I write rose span as equal to 2."
+    },
+    {
+      "start": 576.5,
+      "end": 578.5,
+      "text": "And I will write another TR here."
+    },
+    {
+      "start": 578.5,
+      "end": 582.5,
+      "text": "So, you will see how this table is shown."
+    },
+    {
+      "start": 582.5,
+      "end": 584.5,
+      "text": "Now, I will explain the better."
+    },
+    {
+      "start": 584.5,
+      "end": 586.5,
+      "text": "I will put CSS style here."
+    },
+    {
+      "start": 586.5,
+      "end": 588.5,
+      "text": "I will add a style sheet."
+    },
+    {
+      "start": 588.5,
+      "end": 590.5,
+      "text": "And I will put the style sheet in my name."
+    },
+    {
+      "start": 590.5,
+      "end": 592.5,
+      "text": "So, in style.css, you guys can understand."
+    },
+    {
+      "start": 592.5,
+      "end": 594.5,
+      "text": "You guys can already tell me the same."
+    },
+    {
+      "start": 594.5,
+      "end": 596.5,
+      "text": "I will write in the TD."
+    },
+    {
+      "start": 596.5,
+      "end": 598.5,
+      "text": "I will write in the border."
+    },
+    {
+      "start": 598.5,
+      "end": 600.5,
+      "text": "2 pixel solid black."
+    },
+    {
+      "start": 600.5,
+      "end": 602.5,
+      "text": "And I will tell you how to do this."
+    },
+    {
+      "start": 602.5,
+      "end": 604.5,
+      "text": "But now you understand that I have put this."
+    },
+    {
+      "start": 604.5,
+      "end": 606.5,
+      "text": "I will explain."
+    },
+    {
+      "start": 606.5,
+      "end": 609.5,
+      "text": "So, I said that this is the Harry programmer and Jawascript."
+    },
+    {
+      "start": 609.5,
+      "end": 612.5,
+      "text": "So, I said that Sam is the rose span."
+    },
+    {
+      "start": 612.5,
+      "end": 613.5,
+      "text": "How much was it?"
+    },
+    {
+      "start": 613.5,
+      "end": 615.5,
+      "text": "Where did I give it to the rose span?"
+    },
+    {
+      "start": 615.5,
+      "end": 619.5,
+      "text": "I said that my Java is the rose span 2."
+    },
+    {
+      "start": 619.5,
+      "end": 621.5,
+      "text": "So, how much was it?"
+    },
+    {
+      "start": 621.5,
+      "end": 623.5,
+      "text": "Obviously, 2."
+    },
+    {
+      "start": 623.5,
+      "end": 625.5,
+      "text": "So, Java is the rose span 2."
+    },
+    {
+      "start": 625.5,
+      "end": 627.5,
+      "text": "So, you can see that Java has taken 2."
+    },
+    {
+      "start": 627.5,
+      "end": 629.5,
+      "text": "So, when Java has taken 2."
+    },
+    {
+      "start": 629.5,
+      "end": 631.5,
+      "text": "So, I don't want to write in the next one."
+    },
+    {
+      "start": 631.5,
+      "end": 633.5,
+      "text": "Because I have already written in the next one."
+    },
+    {
+      "start": 633.5,
+      "end": 635.5,
+      "text": "So, I will not write in the next one."
+    },
+    {
+      "start": 635.5,
+      "end": 637.5,
+      "text": "I took this call span 2."
+    },
+    {
+      "start": 637.5,
+      "end": 639.5,
+      "text": "So, what can I do with this?"
+    },
+    {
+      "start": 639.5,
+      "end": 641.5,
+      "text": "This was Harry programmer and Jawascript."
+    },
+    {
+      "start": 641.5,
+      "end": 647.5,
+      "text": "Then I said that Sam is the 2 columns that we will play."
+    },
+    {
+      "start": 647.5,
+      "end": 649.5,
+      "text": "This one will play both columns."
+    },
+    {
+      "start": 649.5,
+      "end": 651.5,
+      "text": "And Java will play 2 rows."
+    },
+    {
+      "start": 651.5,
+      "end": 653.5,
+      "text": "You can see that the exact same voice here."
+    },
+    {
+      "start": 653.5,
+      "end": 655.5,
+      "text": "It has taken 2 columns."
+    },
+    {
+      "start": 655.5,
+      "end": 658.5,
+      "text": "So, this is how the growth span of the column can be used in HTML."
+    },
+    {
+      "start": 658.5,
+      "end": 661.5,
+      "text": "In HTML table, we can add captions."
+    },
+    {
+      "start": 661.5,
+      "end": 664.5,
+      "text": "And to add captions, we can use some captions."
+    },
+    {
+      "start": 664.5,
+      "end": 666.5,
+      "text": "So, I will show you."
+    },
+    {
+      "start": 666.5,
+      "end": 668.5,
+      "text": "If we use the caption, we will use student details."
+    },
+    {
+      "start": 668.5,
+      "end": 670.5,
+      "text": "I will say that we will use the employee details."
+    },
+    {
+      "start": 670.5,
+      "end": 672.5,
+      "text": "So, you can see that the page is like this."
+    },
+    {
+      "start": 672.5,
+      "end": 676.5,
+      "text": "You can see that the caption is added here."
+    },
+    {
+      "start": 676.5,
+      "end": 679.5,
+      "text": "Now, CSS changes the font size."
+    },
+    {
+      "start": 679.5,
+      "end": 682.5,
+      "text": "But, we will see that the caption is added here."
+    },
+    {
+      "start": 682.5,
+      "end": 686.5,
+      "text": "You can also add header and footer."
+    },
+    {
+      "start": 686.5,
+      "end": 689.5,
+      "text": "You can also add T-head and T-foot."
+    },
+    {
+      "start": 689.5,
+      "end": 692.5,
+      "text": "If we add T-head and T-foot content in it."
+    },
+    {
+      "start": 692.5,
+      "end": 697.5,
+      "text": "If we add header and footer in here."
+    },
+    {
+      "start": 697.5,
+      "end": 700.5,
+      "text": "You will see T-head and footer."
+    },
+    {
+      "start": 700.5,
+      "end": 702.5,
+      "text": "You can see that the header is here and footer is here."
+    },
+    {
+      "start": 702.5,
+      "end": 704.5,
+      "text": "Now, I will tell you about a more tech."
+    },
+    {
+      "start": 704.5,
+      "end": 706.5,
+      "text": "It has a VR tech line break."
+    },
+    {
+      "start": 706.5,
+      "end": 709.5,
+      "text": "You can see that the line break is below."
+    },
+    {
+      "start": 709.5,
+      "end": 710.5,
+      "text": "So, this header is here."
+    },
+    {
+      "start": 710.5,
+      "end": 712.5,
+      "text": "And after that, I will add footer."
+    },
+    {
+      "start": 712.5,
+      "end": 714.5,
+      "text": "I will not add here."
+    },
+    {
+      "start": 714.5,
+      "end": 717.5,
+      "text": "So, all the tables I will add are at the end."
+    },
+    {
+      "start": 717.5,
+      "end": 718.5,
+      "text": "So, this is my table footer."
+    },
+    {
+      "start": 718.5,
+      "end": 720.5,
+      "text": "Now, I can change CSS."
+    },
+    {
+      "start": 720.5,
+      "end": 725.5,
+      "text": "Now, I can group some of the tables from T-head and footer."
+    },
+    {
+      "start": 725.5,
+      "end": 726.5,
+      "text": "Now, I can Scale it."
+    },
+    {
+      "start": 726.5,
+      "end": 728.5,
+      "text": "Now, I can get rid of my Table которой header."
+    },
+    {
+      "start": 729.5,
+      "end": 732.5,
+      "text": "And I can setay there inside the table."
+    },
+    {
+      "start": 734.5,
+      "end": 737.5,
+      "text": "Let's move into the Table main of Th Bus and choose table table within that table."
+    },
+    {
+      "start": 737.5,
+      "end": 739.5,
+      "text": "So, It will come into T- nose."
+    },
+    {
+      "start": 739.5,
+      "end": 742.5,
+      "text": "You can also discover table table content."
+    },
+    {
+      "start": 742.5,
+      "end": 746.5,
+      "text": "Now,노 below and I want to edit footer."
+    },
+    {
+      "start": 746.5,
+      "end": 749.5,
+      "text": "If we have Wanted apple pieces with Dita addgroup D to many Tablets."
+    },
+    {
+      "start": 750.5,
+      "end": 753.5,
+      "text": "When you look at my tablet format document it as patterns that go to various points."
+    },
+    {
+      "start": 753.5,
+      "end": 757.56,
+      "text": "I want to add TR in this way and I want to group it in T-foot"
+    },
+    {
+      "start": 757.56,
+      "end": 759.24,
+      "text": "So this is how it will group"
+    },
+    {
+      "start": 759.24,
+      "end": 760.74,
+      "text": "I added T-foot in T-foot"
+    },
+    {
+      "start": 760.74,
+      "end": 763.74,
+      "text": "I added T-body in T-body"
+    },
+    {
+      "start": 763.74,
+      "end": 766.3,
+      "text": "and I added T-head in T-foot"
+    },
+    {
+      "start": 766.3,
+      "end": 769.1,
+      "text": "and I had no change in it"
+    },
+    {
+      "start": 769.1,
+      "end": 770.36,
+      "text": "I have grouped it"
+    },
+    {
+      "start": 770.36,
+      "end": 773.44,
+      "text": "I will show you the footer"
+    },
+    {
+      "start": 773.44,
+      "end": 775.24,
+      "text": "so that you can find out the footer"
+    },
+    {
+      "start": 775.24,
+      "end": 776.64,
+      "text": "I will show you the footer"
+    },
+    {
+      "start": 776.64,
+      "end": 779.44,
+      "text": "You can see that the last one is the footer"
+    },
+    {
+      "start": 779.44,
+      "end": 780.92,
+      "text": "What is the benefit of doing this?"
+    },
+    {
+      "start": 780.92,
+      "end": 784.04,
+      "text": "I have grouped it so that I can target it from CSS"
+    },
+    {
+      "start": 784.04,
+      "end": 786.28,
+      "text": "So you will use it very less"
+    },
+    {
+      "start": 786.28,
+      "end": 788.04,
+      "text": "but you can do it like this"
+    },
+    {
+      "start": 788.04,
+      "end": 790.58,
+      "text": "which will come in the head content"
+    },
+    {
+      "start": 790.58,
+      "end": 792.0,
+      "text": "and the foot will come in the head"
+    },
+    {
+      "start": 792.0,
+      "end": 794.18,
+      "text": "and the body content will come in between the head and foot"
+    },
+    {
+      "start": 794.18,
+      "end": 797.08,
+      "text": "but you can write it like this"
+    },
+    {
+      "start": 797.08,
+      "end": 800.08,
+      "text": "but ideally head body will come in the footer"
+    },
+    {
+      "start": 800.08,
+      "end": 802.04,
+      "text": "Okay? I hope you all understood"
+    },
+    {
+      "start": 802.04,
+      "end": 804.36,
+      "text": "So that's all about HTML tables"
+    },
+    {
+      "start": 804.36,
+      "end": 807.16,
+      "text": "You don't need to know more about HTML tables"
+    },
+    {
+      "start": 807.16,
+      "end": 810.0,
+      "text": "and now we will talk about list"
+    },
+    {
+      "start": 810.0,
+      "end": 812.16,
+      "text": "There is a lot of important information in the HTML"
+    },
+    {
+      "start": 812.16,
+      "end": 813.84,
+      "text": "because the list will be used very much"
+    },
+    {
+      "start": 813.84,
+      "end": 815.62,
+      "text": "There are 3 other lists in HTML"
+    },
+    {
+      "start": 815.62,
+      "end": 816.92,
+      "text": "We have an ordered list"
+    },
+    {
+      "start": 816.92,
+      "end": 819.36,
+      "text": "An ordered list and a definition list"
+    },
+    {
+      "start": 819.36,
+      "end": 821.8,
+      "text": "The most useful one is the un ordered list"
+    },
+    {
+      "start": 821.8,
+      "end": 823.6,
+      "text": "First of all, let's look at the un ordered list"
+    },
+    {
+      "start": 823.6,
+      "end": 826.96,
+      "text": "Sometimes we want to have un ordered data"
+    },
+    {
+      "start": 826.96,
+      "end": 828.88,
+      "text": "which I will write here UL"
+    },
+    {
+      "start": 828.88,
+      "end": 831.04,
+      "text": "So I will write here UL as I will write this"
+    },
+    {
+      "start": 831.04,
+      "end": 832.36,
+      "text": "that un ordered list"
+    },
+    {
+      "start": 832.36,
+      "end": 833.88,
+      "text": "I can write this in the LL"
+    },
+    {
+      "start": 833.88,
+      "end": 835.08,
+      "text": "I can write Harry"
+    },
+    {
+      "start": 835.08,
+      "end": 836.8,
+      "text": "and I can write Rohan"
+    },
+    {
+      "start": 836.8,
+      "end": 837.72,
+      "text": "Okay?"
+    },
+    {
+      "start": 837.72,
+      "end": 839.88,
+      "text": "And I can write Shubham"
+    },
+    {
+      "start": 839.88,
+      "end": 840.88,
+      "text": "Okay?"
+    },
+    {
+      "start": 840.88,
+      "end": 843.64,
+      "text": "So when I write Harry Rohan Shubham"
+    },
+    {
+      "start": 843.64,
+      "end": 845.64,
+      "text": "then I will write UL as I will write it"
+    },
+    {
+      "start": 845.64,
+      "end": 846.64,
+      "text": "This is un ordered list"
+    },
+    {
+      "start": 846.64,
+      "end": 848.64,
+      "text": "Look Harry Rohan Shubham is here"
+    },
+    {
+      "start": 848.64,
+      "end": 849.64,
+      "text": "He has ordered it"
+    },
+    {
+      "start": 849.64,
+      "end": 851.2,
+      "text": "There is no 1 2 3 4 in it"
+    },
+    {
+      "start": 851.2,
+      "end": 852.92,
+      "text": "But if you want this order"
+    },
+    {
+      "start": 852.92,
+      "end": 855.84,
+      "text": "I can write this thing as an oil"
+    },
+    {
+      "start": 855.84,
+      "end": 858.12,
+      "text": "So if I write this opening closing tag as oil"
+    },
+    {
+      "start": 858.12,
+      "end": 859.48,
+      "text": "and other things are the same"
+    },
+    {
+      "start": 859.48,
+      "end": 861.16,
+      "text": "then this will be ordered list"
+    },
+    {
+      "start": 861.16,
+      "end": 862.16,
+      "text": "Okay?"
+    },
+    {
+      "start": 862.16,
+      "end": 863.92,
+      "text": "So here there will be 1 2 3"
+    },
+    {
+      "start": 863.92,
+      "end": 864.96,
+      "text": "You can do this 1 2 3"
+    },
+    {
+      "start": 864.96,
+      "end": 866.04,
+      "text": "You can do this on PBCB"
+    },
+    {
+      "start": 866.04,
+      "end": 867.24,
+      "text": "You can do this on Capital ABCB"
+    },
+    {
+      "start": 867.24,
+      "end": 869.0,
+      "text": "You can do Roman numbers"
+    },
+    {
+      "start": 869.0,
+      "end": 871.0,
+      "text": "You can do CSS"
+    },
+    {
+      "start": 871.0,
+      "end": 873.0,
+      "text": "and you can do this here"
+    },
+    {
+      "start": 873.0,
+      "end": 875.4,
+      "text": "You can see here that UL has been selected"
+    },
+    {
+      "start": 875.4,
+      "end": 876.4,
+      "text": "in this image"
+    },
+    {
+      "start": 876.4,
+      "end": 878.4,
+      "text": "You can see this image"
+    },
+    {
+      "start": 878.4,
+      "end": 879.6,
+      "text": "Here UL has been selected"
+    },
+    {
+      "start": 879.6,
+      "end": 880.4,
+      "text": "So this is 1 2 3"
+    },
+    {
+      "start": 880.4,
+      "end": 881.6,
+      "text": "This is ordered list example"
+    },
+    {
+      "start": 881.6,
+      "end": 883.4,
+      "text": "And this is a definition list example"
+    },
+    {
+      "start": 883.4,
+      "end": 885.4,
+      "text": "Definition list is very less used"
+    },
+    {
+      "start": 885.4,
+      "end": 887.0,
+      "text": "It is previewed in this way"
+    },
+    {
+      "start": 887.0,
+      "end": 889.0,
+      "text": "First of all"
+    },
+    {
+      "start": 889.0,
+      "end": 891.0,
+      "text": "I have written this on DL"
+    },
+    {
+      "start": 891.0,
+      "end": 893.0,
+      "text": "DL means definition list"
+    },
+    {
+      "start": 893.0,
+      "end": 894.0,
+      "text": "about DT"
+    },
+    {
+      "start": 894.0,
+      "end": 895.4,
+      "text": "and DD"
+    },
+    {
+      "start": 895.4,
+      "end": 897.0,
+      "text": "So definition term here"
+    },
+    {
+      "start": 897.0,
+      "end": 899.0,
+      "text": "is definition of this definition"
+    },
+    {
+      "start": 899.0,
+      "end": 900.0,
+      "text": "This is something like this"
+    },
+    {
+      "start": 900.0,
+      "end": 901.0,
+      "text": "And you can change CSS"
+    },
+    {
+      "start": 901.0,
+      "end": 903.0,
+      "text": "It is very less used"
+    },
+    {
+      "start": 903.0,
+      "end": 905.0,
+      "text": "But you should know about this"
+    },
+    {
+      "start": 905.0,
+      "end": 906.0,
+      "text": "for interviews"
+    },
+    {
+      "start": 906.0,
+      "end": 908.0,
+      "text": "And ask what is the definition list"
+    },
+    {
+      "start": 908.0,
+      "end": 910.6,
+      "text": "So preview this code from this way"
+    },
+    {
+      "start": 910.6,
+      "end": 911.6,
+      "text": "I am not even writing it"
+    },
+    {
+      "start": 911.6,
+      "end": 912.6,
+      "text": "I am writing it for a long time"
+    },
+    {
+      "start": 912.6,
+      "end": 913.6,
+      "text": "But try it out"
+    },
+    {
+      "start": 913.6,
+      "end": 914.1,
+      "text": "Okay?"
+    },
+    {
+      "start": 914.1,
+      "end": 915.6,
+      "text": "And here first of all"
+    },
+    {
+      "start": 915.6,
+      "end": 917.2,
+      "text": "we will see an order list"
+    },
+    {
+      "start": 917.2,
+      "end": 918.2,
+      "text": "In an order list"
+    },
+    {
+      "start": 918.2,
+      "end": 919.2,
+      "text": "you will tell people"
+    },
+    {
+      "start": 919.2,
+      "end": 920.6,
+      "text": "this simple and straightforward"
+    },
+    {
+      "start": 920.6,
+      "end": 922.0,
+      "text": "You can use this bullet points"
+    },
+    {
+      "start": 922.0,
+      "end": 924.8,
+      "text": "to use type attribute"
+    },
+    {
+      "start": 924.8,
+      "end": 926.8,
+      "text": "If I write type is equal to square"
+    },
+    {
+      "start": 926.8,
+      "end": 929.8,
+      "text": "I will write type is equal to"
+    },
+    {
+      "start": 929.8,
+      "end": 931.8,
+      "text": "and I will write in this way"
+    },
+    {
+      "start": 931.8,
+      "end": 933.8,
+      "text": "So I have written the type is equal to"
+    },
+    {
+      "start": 933.8,
+      "end": 934.8,
+      "text": "square"
+    },
+    {
+      "start": 934.8,
+      "end": 936.8,
+      "text": "So this is how square is written"
+    },
+    {
+      "start": 936.8,
+      "end": 940.8,
+      "text": "Similarly I can circle the type"
+    },
+    {
+      "start": 940.8,
+      "end": 941.8,
+      "text": "in UL"
+    },
+    {
+      "start": 941.8,
+      "end": 942.8,
+      "text": "I can do this"
+    },
+    {
+      "start": 942.8,
+      "end": 943.8,
+      "text": "I can do this"
+    },
+    {
+      "start": 943.8,
+      "end": 944.8,
+      "text": "I can do this by default"
+    },
+    {
+      "start": 944.8,
+      "end": 946.8,
+      "text": "I can do this by default"
+    },
+    {
+      "start": 946.8,
+      "end": 948.8,
+      "text": "I can do this by square"
+    },
+    {
+      "start": 948.8,
+      "end": 949.8,
+      "text": "I can do this by circle"
+    },
+    {
+      "start": 949.8,
+      "end": 950.8,
+      "text": "Along with that"
+    },
+    {
+      "start": 950.8,
+      "end": 952.8,
+      "text": "You can see"
+    },
+    {
+      "start": 952.8,
+      "end": 955.8,
+      "text": "how many more list items can be added"
+    },
+    {
+      "start": 955.8,
+      "end": 957.8,
+      "text": "Now let's see the order list"
+    },
+    {
+      "start": 957.8,
+      "end": 958.8,
+      "text": "In order list"
+    },
+    {
+      "start": 958.8,
+      "end": 959.8,
+      "text": "You will write LI"
+    },
+    {
+      "start": 959.8,
+      "end": 960.8,
+      "text": "So this is how it is"
+    },
+    {
+      "start": 960.8,
+      "end": 961.8,
+      "text": "1,2,3"
+    },
+    {
+      "start": 961.8,
+      "end": 962.8,
+      "text": "But you can use"
+    },
+    {
+      "start": 962.8,
+      "end": 964.8,
+      "text": "Type is equal to I"
+    },
+    {
+      "start": 964.8,
+      "end": 965.8,
+      "text": "When you will use type is equal to I"
+    },
+    {
+      "start": 965.8,
+      "end": 967.8,
+      "text": "then you will get the case of Roman numbers"
+    },
+    {
+      "start": 967.8,
+      "end": 968.8,
+      "text": "Type is equal to small I"
+    },
+    {
+      "start": 968.8,
+      "end": 970.8,
+      "text": "then you will get the lower case of Roman numbers"
+    },
+    {
+      "start": 970.8,
+      "end": 971.8,
+      "text": "Type is equal to 1"
+    },
+    {
+      "start": 971.8,
+      "end": 972.8,
+      "text": "That is default"
+    },
+    {
+      "start": 972.8,
+      "end": 974.8,
+      "text": "You will get the small"
+    },
+    {
+      "start": 974.8,
+      "end": 976.8,
+      "text": "You will get the alphabetical"
+    },
+    {
+      "start": 976.8,
+      "end": 977.8,
+      "text": "and capital"
+    },
+    {
+      "start": 977.8,
+      "end": 979.8,
+      "text": "Then you will get the alphabetical"
+    },
+    {
+      "start": 979.8,
+      "end": 980.8,
+      "text": "So let's see"
+    },
+    {
+      "start": 980.8,
+      "end": 982.8,
+      "text": "Type is equal to"
+    },
+    {
+      "start": 982.8,
+      "end": 983.8,
+      "text": "I will take capital"
+    },
+    {
+      "start": 983.8,
+      "end": 985.8,
+      "text": "You see we have given examples of VS code"
+    },
+    {
+      "start": 985.8,
+      "end": 986.8,
+      "text": "and suggestions"
+    },
+    {
+      "start": 986.8,
+      "end": 988.8,
+      "text": "And we are worried"
+    },
+    {
+      "start": 988.8,
+      "end": 989.8,
+      "text": "that we can use it"
+    },
+    {
+      "start": 989.8,
+      "end": 991.8,
+      "text": "to see the value of VS code"
+    },
+    {
+      "start": 991.8,
+      "end": 992.8,
+      "text": "So VS code is very useful"
+    },
+    {
+      "start": 992.8,
+      "end": 993.8,
+      "text": "And many people"
+    },
+    {
+      "start": 993.8,
+      "end": 994.8,
+      "text": "used old editors"
+    },
+    {
+      "start": 994.8,
+      "end": 995.8,
+      "text": "which used very early use"
+    },
+    {
+      "start": 995.8,
+      "end": 997.8,
+      "text": "If you know their correct plugins"
+    },
+    {
+      "start": 997.8,
+      "end": 998.8,
+      "text": "and you have set them up"
+    },
+    {
+      "start": 998.8,
+      "end": 999.8,
+      "text": "then you will do it"
+    },
+    {
+      "start": 999.8,
+      "end": 1000.8,
+      "text": "VS code is modern"
+    },
+    {
+      "start": 1000.8,
+      "end": 1001.8,
+      "text": "Switch to VS code"
+    },
+    {
+      "start": 1001.8,
+      "end": 1002.8,
+      "text": "You will use all VS codes"
+    },
+    {
+      "start": 1002.8,
+      "end": 1004.8,
+      "text": "You will see how many more developed"
+    },
+    {
+      "start": 1004.8,
+      "end": 1005.8,
+      "text": "you will use"
+    },
+    {
+      "start": 1005.8,
+      "end": 1006.8,
+      "text": "If you want to do in mobile"
+    },
+    {
+      "start": 1006.8,
+      "end": 1007.8,
+      "text": "then comment in the template"
+    },
+    {
+      "start": 1007.8,
+      "end": 1009.8,
+      "text": "and what is the name of the template"
+    },
+    {
+      "start": 1009.8,
+      "end": 1011.8,
+      "text": "and you will want to give a shout out"
+    },
+    {
+      "start": 1011.8,
+      "end": 1012.8,
+      "text": "to Replay.com"
+    },
+    {
+      "start": 1012.8,
+      "end": 1014.8,
+      "text": "Because I use it very often"
+    },
+    {
+      "start": 1014.8,
+      "end": 1015.8,
+      "text": "so you can use it"
+    },
+    {
+      "start": 1015.8,
+      "end": 1017.8,
+      "text": "in your mobile"
+    },
+    {
+      "start": 1017.8,
+      "end": 1018.8,
+      "text": "and your computer"
+    },
+    {
+      "start": 1018.8,
+      "end": 1019.8,
+      "text": "and your computer"
+    },
+    {
+      "start": 1019.8,
+      "end": 1020.8,
+      "text": "is not that much"
+    },
+    {
+      "start": 1020.8,
+      "end": 1021.8,
+      "text": "you will get templates"
+    },
+    {
+      "start": 1021.8,
+      "end": 1023.8,
+      "text": "and you will get more"
+    },
+    {
+      "start": 1023.8,
+      "end": 1024.8,
+      "text": "in the future"
+    },
+    {
+      "start": 1024.8,
+      "end": 1026.8,
+      "text": "But I will stick to VS code"
+    },
+    {
+      "start": 1026.8,
+      "end": 1027.8,
+      "text": "I hope you have understood"
+    },
+    {
+      "start": 1027.8,
+      "end": 1028.8,
+      "text": "here the order list"
+    },
+    {
+      "start": 1028.8,
+      "end": 1029.8,
+      "text": "and order list"
+    },
+    {
+      "start": 1029.8,
+      "end": 1031.8,
+      "text": "Now if you have completed 5 videos"
+    },
+    {
+      "start": 1031.8,
+      "end": 1033.8,
+      "text": "in Sigma Web development series"
+    },
+    {
+      "start": 1033.8,
+      "end": 1035.8,
+      "text": "I want to comment"
+    },
+    {
+      "start": 1035.8,
+      "end": 1036.8,
+      "text": "that you have a code"
+    },
+    {
+      "start": 1036.8,
+      "end": 1038.8,
+      "text": "like 5 stars"
+    },
+    {
+      "start": 1038.8,
+      "end": 1040.8,
+      "text": "and what is the initial review of this code"
+    },
+    {
+      "start": 1040.8,
+      "end": 1041.8,
+      "text": "and you have seen 5 videos"
+    },
+    {
+      "start": 1041.8,
+      "end": 1042.8,
+      "text": "from that case"
+    },
+    {
+      "start": 1042.8,
+      "end": 1043.8,
+      "text": "I know that the order is delayed"
+    },
+    {
+      "start": 1043.8,
+      "end": 1044.8,
+      "text": "but the data is delayed"
+    },
+    {
+      "start": 1044.8,
+      "end": 1045.8,
+      "text": "and the data is delayed"
+    },
+    {
+      "start": 1045.8,
+      "end": 1046.8,
+      "text": "and the data is delayed"
+    },
+    {
+      "start": 1046.8,
+      "end": 1047.8,
+      "text": "and the data is delayed"
+    },
+    {
+      "start": 1047.8,
+      "end": 1049.8,
+      "text": "and the YouTube comments are not done"
+    },
+    {
+      "start": 1049.8,
+      "end": 1050.8,
+      "text": "but I want to comment"
+    },
+    {
+      "start": 1050.8,
+      "end": 1051.8,
+      "text": "that you have done"
+    },
+    {
+      "start": 1051.8,
+      "end": 1052.8,
+      "text": "and comment"
+    },
+    {
+      "start": 1052.8,
+      "end": 1053.8,
+      "text": "I know how the code is going"
+    },
+    {
+      "start": 1053.8,
+      "end": 1054.8,
+      "text": "in the first video"
+    },
+    {
+      "start": 1054.8,
+      "end": 1055.8,
+      "text": "and in the first video"
+    },
+    {
+      "start": 1055.8,
+      "end": 1056.8,
+      "text": "and in the Sigma Web"
+    },
+    {
+      "start": 1056.8,
+      "end": 1058.8,
+      "text": "I write a lot of motivation"
+    },
+    {
+      "start": 1058.8,
+      "end": 1059.8,
+      "text": "and we will have two interactions"
+    },
+    {
+      "start": 1059.8,
+      "end": 1061.8,
+      "text": "If you comment"
+    },
+    {
+      "start": 1061.8,
+      "end": 1062.8,
+      "text": "I will see that"
+    },
+    {
+      "start": 1062.8,
+      "end": 1063.8,
+      "text": "I have a lot of feelings"
+    },
+    {
+      "start": 1063.8,
+      "end": 1064.8,
+      "text": "and I feel two interactions"
+    },
+    {
+      "start": 1064.8,
+      "end": 1065.8,
+      "text": "So in the source code"
+    },
+    {
+      "start": 1065.8,
+      "end": 1066.8,
+      "text": "I will give a description"
+    },
+    {
+      "start": 1066.8,
+      "end": 1068.8,
+      "text": "and if you have access"
+    },
+    {
+      "start": 1068.8,
+      "end": 1069.8,
+      "text": "please like this video"
+    },
+    {
+      "start": 1069.8,
+      "end": 1070.8,
+      "text": "and comment"
+    },
+    {
+      "start": 1070.8,
+      "end": 1071.8,
+      "text": "on Sigma Web"
+    },
+    {
+      "start": 1071.8,
+      "end": 1072.8,
+      "text": "and comment on your own"
+    },
+    {
+      "start": 1072.8,
+      "end": 1073.8,
+      "text": "I mean, name me"
+    },
+    {
+      "start": 1073.8,
+      "end": 1074.8,
+      "text": "Thank you so much guys"
+    },
+    {
+      "start": 1074.8,
+      "end": 1075.8,
+      "text": "for watching this video"
+    },
+    {
+      "start": 1075.8,
+      "end": 1076.8,
+      "text": "and I will see you"
+    },
+    {
+      "start": 1076.8,
+      "end": 1077.8,
+      "text": "next time"
+    },
+    {
+      "start": 1096.8,
+      "end": 1098.8,
+      "text": "Bye bye"
+    }
+  ]
+}

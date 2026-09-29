@@ -1,0 +1,1179 @@
+{
+  "video": 11,
+  "course": "Sigma Web Development",
+  "source_file": "11_Semantic Tags in HTML _ Sigma Web Development Course - Tutorial #11 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " What's up guys! We've come to the SIGMA web development course. We've completed 10 videos. So, we've become a part of the consistency of all of them. Today's video we'll see about the semantic tax. Because there are many important things for SEO. And to understand the overall structure of the website, the search engines are very happy to see this structure. That is, if you use the overall SEO website, what are the effects of this text? What's the benefit of this video? Let's go to the video screen and let's roll the intro. So, before the semantic tax, I want to tell you why. You can see that I've made a video called the video 11. And here I've set a video in the video's English, English, English, and Polish. I've set a title, and I'll go to preview this image. So, this image is a bit of an explanation. You'll see what the semantic tax is. The semantic tax browsers and web crawlers want to understand your website properly. They tell you what your website content is and what kind of stack is on it. If you don't use semantic tax in HTML, your work will be done. If you don't use semantic tax, you'll see that your website is not good. You can do a good designing. But, we want to understand how to search engines like Google, Bing, and about our website. And if we'll understand them, we'll understand them about our website and we'll rank them on Google, Bing, and Respective Search engines. And we want to understand the crawler and the website. And we want to understand all our websites properly. So, some special tags like header, nav, main, article, figure. All these special tags are made in HTML, which help you to structure the website. If you know anything about header, it's header. If you know anything about footer, I'll understand that from here, this footer started to end. It could have been a footer, but if I'm using semantic, I'll use footer tag. Along with that, I'll make navigation again. I'll make navigation again. I'll make navigation again. So, the differences are good. Let's understand the search engines. So, I'll show you some semantic tags. And I hope you understood what semantic tags are. Now, there are download folders like computer. You'll get a lot of download folders like this. All the files of the world are there. Your computer's 90% of the files are downloaded in the download folder. But we shouldn't do that. Some people go to the side to learn about their local files. They start to file their files in Windows folder. Some people also file their system 32 and 32. So, if you guys file your files, you'll get a complete computer. Definitely, it doesn't have an orange. But if you guys arrange your folders, there's a folder inside your file. If you want to keep a secret file inside your folder, then you can put a secret file inside. If you want to make a folder, then do not open this. If you can put some files inside your folder, then it'll be arranged in one way. You've arranged the images in one way. You've arranged the videos in one way. And you've arranged the e-book in one way. So, whenever you go to find it, you'll get it. So, you'll understand it. It'll be better. That folder is structured instead of if you're using your files throughout the computer. If you're using your files throughout the computer, you'll definitely not want to use it. So, I hope you guys understand what we're going to do because we use semantic tags. This is a very big step for SEO. So, it's not used in SEO, but SEO is used in the same way. But SEO is used in the same way as a very important semantic text. So, what happens? Basically, you make a website that you're making like this. You use some special tags. For example, let us make this website. Okay, I'll do this image here. I'll comment on it. I'll comment on it. I won't comment on it. Basically, I'll make a new one. So, what I'll do? First of all, I'll say that this is my website's header. I've used this header tag. I'll make a new one in it. I'll make a unordered list in it. I'll make a LI in it. And I'll put it here. And then, let us take it like this. And this is my header. So, there's no website tag. I'll explain it to you. This is my header. Home about contact. I want to write it in the name. I can write it here. So, this is my header. This is my new one. I'll explain it to you. Because I've used header and nav tags. So, I'll write about it. And I'll write about contact. Okay? So, I've written home. Write about it. And I'll write about contact. Okay? So, I hope you understood. Now, I want to make a footer. I want to make a footer. And then, I'll use the main content. And then, I'll use the main tag. And then, I'll write footer in the footer. I'll write footer in the name. Copyright, CWH. And then, I'll write all rights reserved. Okay? I can write it like this. So, you see, I'll write all rights reserved. This is what I've written here. So, I'll cut it. I'll cut it. I'll put it in the main content. So, first, I'll write the main content. Then, I'll write footer. I'll write footer. You can see here. And here, you see, here is the header. Here is the main content and footer. So, I've arranged it. You can arrange it. You can arrange files like this. In different folders. I've arranged HTML tags. So, I've explained it in the header tag. It is used to represent the top section of a web page. The header. Then, after that, we'll put the nav tag in the navigation menu. Article indicates a self-containing piece of content such as blog post or news articles. If you add a self content piece of content, then you add an article tag menu. Section. The group is represented by a thematic. Let's say it's done in one section, then it'll be done in one section, then it'll be done in another section. A side-based content, that is, if it's a side-based content, what use a side-tax? Let's see here, typically, use for side bars and content that is tangentially related to the main content. Just like on a side-tax, what can you do? If you want to add a side note on the main event So you can use time tag in it, you can add date, date, etc. So I hope you understood this. So we will use this to enhance SEO. We will use accessibility to improve it. And we want to take a decision about browser. Let's take a browser and choose a feature. It will read our content aloud. So you can decide on the main content aloud. If you want to read aloud, how will it be? Code with a Home, Code with a Story. You will need to read aloud. Now you will need to read the main content aloud. HTML, semantic tags, HTML 5 introduced, and the semantic tags. The first version of HTML was not the semantic tags. The semantic tags were introduced by HTML 5. The most important reason is to arrange the content. So that the content is parsing, the content is seeing the browser, Google, Bing, search engines, etc. Or you want to generate a preview. You want to generate a preview on Twitter. If you want to create a preview, then you can understand your content properly. If you want to understand your content properly, then you will use semantic tags. Here, this image is very interesting. Without semantic tags, you write in HTML. So you will write the semantic tags. This image is visible. This header is new. We will look at this in the website. Don't be confused. This is not used for styling. Because many people are confused that there will be no use to assign such tags. You will have to style CSS. But here, you can understand your content properly. You can describe what is the main content. You have to create a header. So, semantic tags are not used for this. They only have accessability. Here, you can see some examples. I have given you a header header. What will happen inside the header? You can see that you will add the header in your navigation bar. You can style CSS. I will show you a quick styling. We will do it later. But many people will wonder how this will be done. If you want to do navigation bar and general, I will write CSS here. I will tell you why CSS works here. I have already explained this. I am going to show you a lot of things in the coming videos. You can also get attention. We will not do this. I will tell you how to do CSS. I have also explained why CSS works here. I will also explain this. I will also show you a lot of things. If you have not yet access the game, please do it. You can save the game here. You will get all the videos in the coming videos. You will get all the videos. If you have not yet done this, please like and subscribe. Thank you so much for watching this video. I will see you next time.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "What's up guys! We've come to the SIGMA web development course."
+    },
+    {
+      "start": 3.6,
+      "end": 5.68,
+      "text": "We've completed 10 videos."
+    },
+    {
+      "start": 5.68,
+      "end": 8.32,
+      "text": "So, we've become a part of the consistency of all of them."
+    },
+    {
+      "start": 8.32,
+      "end": 11.0,
+      "text": "Today's video we'll see about the semantic tax."
+    },
+    {
+      "start": 11.0,
+      "end": 12.92,
+      "text": "Because there are many important things for SEO."
+    },
+    {
+      "start": 12.92,
+      "end": 15.52,
+      "text": "And to understand the overall structure of the website,"
+    },
+    {
+      "start": 15.52,
+      "end": 18.44,
+      "text": "the search engines are very happy to see this structure."
+    },
+    {
+      "start": 18.44,
+      "end": 22.72,
+      "text": "That is, if you use the overall SEO website,"
+    },
+    {
+      "start": 22.72,
+      "end": 26.16,
+      "text": "what are the effects of this text?"
+    },
+    {
+      "start": 26.16,
+      "end": 28.2,
+      "text": "What's the benefit of this video?"
+    },
+    {
+      "start": 28.2,
+      "end": 31.12,
+      "text": "Let's go to the video screen and let's roll the intro."
+    },
+    {
+      "start": 40.32,
+      "end": 43.52,
+      "text": "So, before the semantic tax, I want to tell you why."
+    },
+    {
+      "start": 43.52,
+      "end": 47.12,
+      "text": "You can see that I've made a video called the video 11."
+    },
+    {
+      "start": 47.12,
+      "end": 50.44,
+      "text": "And here I've set a video in the video's English, English, English, and Polish."
+    },
+    {
+      "start": 50.44,
+      "end": 55.72,
+      "text": "I've set a title, and I'll go to preview this image."
+    },
+    {
+      "start": 55.76,
+      "end": 57.76,
+      "text": "So, this image is a bit of an explanation."
+    },
+    {
+      "start": 57.76,
+      "end": 59.76,
+      "text": "You'll see what the semantic tax is."
+    },
+    {
+      "start": 59.76,
+      "end": 63.12,
+      "text": "The semantic tax browsers and web crawlers"
+    },
+    {
+      "start": 63.12,
+      "end": 65.92,
+      "text": "want to understand your website properly."
+    },
+    {
+      "start": 65.92,
+      "end": 72.12,
+      "text": "They tell you what your website content is and what kind of stack is on it."
+    },
+    {
+      "start": 72.12,
+      "end": 76.2,
+      "text": "If you don't use semantic tax in HTML,"
+    },
+    {
+      "start": 76.2,
+      "end": 77.96,
+      "text": "your work will be done."
+    },
+    {
+      "start": 77.96,
+      "end": 81.8,
+      "text": "If you don't use semantic tax,"
+    },
+    {
+      "start": 81.8,
+      "end": 84.24,
+      "text": "you'll see that your website is not good."
+    },
+    {
+      "start": 84.24,
+      "end": 85.92,
+      "text": "You can do a good designing."
+    },
+    {
+      "start": 85.92,
+      "end": 92.72,
+      "text": "But, we want to understand how to search engines like Google, Bing, and about our website."
+    },
+    {
+      "start": 92.72,
+      "end": 95.64,
+      "text": "And if we'll understand them,"
+    },
+    {
+      "start": 95.64,
+      "end": 102.76,
+      "text": "we'll understand them about our website and we'll rank them on Google, Bing, and Respective Search engines."
+    },
+    {
+      "start": 102.76,
+      "end": 105.88,
+      "text": "And we want to understand the crawler and the website."
+    },
+    {
+      "start": 105.88,
+      "end": 109.88,
+      "text": "And we want to understand all our websites properly."
+    },
+    {
+      "start": 109.88,
+      "end": 115.28,
+      "text": "So, some special tags like header, nav, main, article, figure."
+    },
+    {
+      "start": 115.28,
+      "end": 118.12,
+      "text": "All these special tags are made in HTML,"
+    },
+    {
+      "start": 118.12,
+      "end": 121.44,
+      "text": "which help you to structure the website."
+    },
+    {
+      "start": 121.44,
+      "end": 125.6,
+      "text": "If you know anything about header, it's header."
+    },
+    {
+      "start": 125.6,
+      "end": 128.0,
+      "text": "If you know anything about footer, I'll understand that from here,"
+    },
+    {
+      "start": 128.0,
+      "end": 130.84,
+      "text": "this footer started to end."
+    },
+    {
+      "start": 130.84,
+      "end": 135.32,
+      "text": "It could have been a footer, but if I'm using semantic,"
+    },
+    {
+      "start": 135.32,
+      "end": 137.36,
+      "text": "I'll use footer tag."
+    },
+    {
+      "start": 137.36,
+      "end": 142.6,
+      "text": "Along with that, I'll make navigation again."
+    },
+    {
+      "start": 142.6,
+      "end": 145.68,
+      "text": "I'll make navigation again."
+    },
+    {
+      "start": 145.68,
+      "end": 148.32,
+      "text": "I'll make navigation again."
+    },
+    {
+      "start": 148.32,
+      "end": 151.76,
+      "text": "So, the differences are good."
+    },
+    {
+      "start": 151.76,
+      "end": 155.56,
+      "text": "Let's understand the search engines."
+    },
+    {
+      "start": 155.56,
+      "end": 160.08,
+      "text": "So, I'll show you some semantic tags."
+    },
+    {
+      "start": 160.08,
+      "end": 162.6,
+      "text": "And I hope you understood what semantic tags are."
+    },
+    {
+      "start": 162.6,
+      "end": 165.12,
+      "text": "Now, there are download folders like computer."
+    },
+    {
+      "start": 165.12,
+      "end": 168.44,
+      "text": "You'll get a lot of download folders like this."
+    },
+    {
+      "start": 168.44,
+      "end": 170.44,
+      "text": "All the files of the world are there."
+    },
+    {
+      "start": 170.44,
+      "end": 174.72,
+      "text": "Your computer's 90% of the files are downloaded in the download folder."
+    },
+    {
+      "start": 174.72,
+      "end": 176.12,
+      "text": "But we shouldn't do that."
+    },
+    {
+      "start": 176.12,
+      "end": 180.12,
+      "text": "Some people go to the side to learn about their local files."
+    },
+    {
+      "start": 180.12,
+      "end": 183.48,
+      "text": "They start to file their files in Windows folder."
+    },
+    {
+      "start": 183.48,
+      "end": 187.4,
+      "text": "Some people also file their system 32 and 32."
+    },
+    {
+      "start": 187.4,
+      "end": 190.44,
+      "text": "So, if you guys file your files,"
+    },
+    {
+      "start": 190.44,
+      "end": 191.88,
+      "text": "you'll get a complete computer."
+    },
+    {
+      "start": 191.88,
+      "end": 194.16,
+      "text": "Definitely, it doesn't have an orange."
+    },
+    {
+      "start": 194.16,
+      "end": 196.4,
+      "text": "But if you guys arrange your folders,"
+    },
+    {
+      "start": 196.4,
+      "end": 199.72,
+      "text": "there's a folder inside your file."
+    },
+    {
+      "start": 199.72,
+      "end": 202.72,
+      "text": "If you want to keep a secret file inside your folder,"
+    },
+    {
+      "start": 202.72,
+      "end": 204.12,
+      "text": "then you can put a secret file inside."
+    },
+    {
+      "start": 204.12,
+      "end": 207.12,
+      "text": "If you want to make a folder, then do not open this."
+    },
+    {
+      "start": 207.12,
+      "end": 209.92,
+      "text": "If you can put some files inside your folder,"
+    },
+    {
+      "start": 209.92,
+      "end": 211.44,
+      "text": "then it'll be arranged in one way."
+    },
+    {
+      "start": 211.44,
+      "end": 212.8,
+      "text": "You've arranged the images in one way."
+    },
+    {
+      "start": 212.8,
+      "end": 215.24,
+      "text": "You've arranged the videos in one way."
+    },
+    {
+      "start": 215.24,
+      "end": 217.92,
+      "text": "And you've arranged the e-book in one way."
+    },
+    {
+      "start": 217.92,
+      "end": 219.96,
+      "text": "So, whenever you go to find it, you'll get it."
+    },
+    {
+      "start": 219.96,
+      "end": 221.6,
+      "text": "So, you'll understand it."
+    },
+    {
+      "start": 221.6,
+      "end": 223.04,
+      "text": "It'll be better."
+    },
+    {
+      "start": 223.04,
+      "end": 224.72,
+      "text": "That folder is structured instead of"
+    },
+    {
+      "start": 224.72,
+      "end": 227.72,
+      "text": "if you're using your files throughout the computer."
+    },
+    {
+      "start": 227.72,
+      "end": 229.56,
+      "text": "If you're using your files throughout the computer,"
+    },
+    {
+      "start": 229.56,
+      "end": 231.72,
+      "text": "you'll definitely not want to use it."
+    },
+    {
+      "start": 231.72,
+      "end": 233.68,
+      "text": "So, I hope you guys understand what we're going to do"
+    },
+    {
+      "start": 233.68,
+      "end": 235.68,
+      "text": "because we use semantic tags."
+    },
+    {
+      "start": 235.68,
+      "end": 237.8,
+      "text": "This is a very big step for SEO."
+    },
+    {
+      "start": 237.8,
+      "end": 240.2,
+      "text": "So, it's not used in SEO, but SEO is used in the same way."
+    },
+    {
+      "start": 240.2,
+      "end": 242.44,
+      "text": "But SEO is used in the same way"
+    },
+    {
+      "start": 242.44,
+      "end": 245.4,
+      "text": "as a very important semantic text."
+    },
+    {
+      "start": 245.4,
+      "end": 246.32,
+      "text": "So, what happens?"
+    },
+    {
+      "start": 246.32,
+      "end": 248.04,
+      "text": "Basically, you make a website"
+    },
+    {
+      "start": 248.04,
+      "end": 249.04,
+      "text": "that you're making like this."
+    },
+    {
+      "start": 249.04,
+      "end": 251.16,
+      "text": "You use some special tags."
+    },
+    {
+      "start": 251.2,
+      "end": 253.36,
+      "text": "For example, let us make this website."
+    },
+    {
+      "start": 253.36,
+      "end": 255.88,
+      "text": "Okay, I'll do this image here."
+    },
+    {
+      "start": 255.88,
+      "end": 256.96,
+      "text": "I'll comment on it."
+    },
+    {
+      "start": 256.96,
+      "end": 258.36,
+      "text": "I'll comment on it."
+    },
+    {
+      "start": 258.36,
+      "end": 259.64,
+      "text": "I won't comment on it."
+    },
+    {
+      "start": 259.64,
+      "end": 261.88,
+      "text": "Basically, I'll make a new one."
+    },
+    {
+      "start": 261.88,
+      "end": 262.96,
+      "text": "So, what I'll do?"
+    },
+    {
+      "start": 262.96,
+      "end": 265.0,
+      "text": "First of all, I'll say that this is my website's header."
+    },
+    {
+      "start": 265.0,
+      "end": 266.36,
+      "text": "I've used this header tag."
+    },
+    {
+      "start": 266.36,
+      "end": 267.68,
+      "text": "I'll make a new one in it."
+    },
+    {
+      "start": 267.68,
+      "end": 270.68,
+      "text": "I'll make a unordered list in it."
+    },
+    {
+      "start": 270.68,
+      "end": 272.64,
+      "text": "I'll make a LI in it."
+    },
+    {
+      "start": 272.64,
+      "end": 274.24,
+      "text": "And I'll put it here."
+    },
+    {
+      "start": 274.24,
+      "end": 277.28,
+      "text": "And then, let us take it like this."
+    },
+    {
+      "start": 277.28,
+      "end": 279.6,
+      "text": "And this is my header."
+    },
+    {
+      "start": 279.6,
+      "end": 280.84,
+      "text": "So, there's no website tag."
+    },
+    {
+      "start": 280.84,
+      "end": 281.84,
+      "text": "I'll explain it to you."
+    },
+    {
+      "start": 281.84,
+      "end": 283.0,
+      "text": "This is my header."
+    },
+    {
+      "start": 283.0,
+      "end": 284.52,
+      "text": "Home about contact."
+    },
+    {
+      "start": 284.52,
+      "end": 285.84,
+      "text": "I want to write it in the name."
+    },
+    {
+      "start": 285.84,
+      "end": 287.2,
+      "text": "I can write it here."
+    },
+    {
+      "start": 287.2,
+      "end": 288.52,
+      "text": "So, this is my header."
+    },
+    {
+      "start": 288.52,
+      "end": 289.52,
+      "text": "This is my new one."
+    },
+    {
+      "start": 289.52,
+      "end": 290.52,
+      "text": "I'll explain it to you."
+    },
+    {
+      "start": 290.52,
+      "end": 292.92,
+      "text": "Because I've used header and nav tags."
+    },
+    {
+      "start": 292.92,
+      "end": 294.32,
+      "text": "So, I'll write about it."
+    },
+    {
+      "start": 294.32,
+      "end": 296.04,
+      "text": "And I'll write about contact."
+    },
+    {
+      "start": 296.04,
+      "end": 296.88,
+      "text": "Okay?"
+    },
+    {
+      "start": 296.88,
+      "end": 297.88,
+      "text": "So, I've written home."
+    },
+    {
+      "start": 297.88,
+      "end": 298.72,
+      "text": "Write about it."
+    },
+    {
+      "start": 298.72,
+      "end": 299.84,
+      "text": "And I'll write about contact."
+    },
+    {
+      "start": 299.84,
+      "end": 300.6,
+      "text": "Okay?"
+    },
+    {
+      "start": 300.6,
+      "end": 302.56,
+      "text": "So, I hope you understood."
+    },
+    {
+      "start": 302.56,
+      "end": 304.28,
+      "text": "Now, I want to make a footer."
+    },
+    {
+      "start": 304.28,
+      "end": 305.28,
+      "text": "I want to make a footer."
+    },
+    {
+      "start": 305.28,
+      "end": 306.76,
+      "text": "And then, I'll use the main content."
+    },
+    {
+      "start": 306.76,
+      "end": 308.76,
+      "text": "And then, I'll use the main tag."
+    },
+    {
+      "start": 308.76,
+      "end": 311.76,
+      "text": "And then, I'll write footer in the footer."
+    },
+    {
+      "start": 311.76,
+      "end": 313.76,
+      "text": "I'll write footer in the name."
+    },
+    {
+      "start": 313.76,
+      "end": 315.76,
+      "text": "Copyright, CWH."
+    },
+    {
+      "start": 315.76,
+      "end": 319.76,
+      "text": "And then, I'll write all rights reserved."
+    },
+    {
+      "start": 319.76,
+      "end": 320.76,
+      "text": "Okay?"
+    },
+    {
+      "start": 320.76,
+      "end": 321.76,
+      "text": "I can write it like this."
+    },
+    {
+      "start": 321.76,
+      "end": 324.76,
+      "text": "So, you see, I'll write all rights reserved."
+    },
+    {
+      "start": 324.76,
+      "end": 325.76,
+      "text": "This is what I've written here."
+    },
+    {
+      "start": 325.76,
+      "end": 328.76,
+      "text": "So, I'll cut it."
+    },
+    {
+      "start": 328.76,
+      "end": 329.76,
+      "text": "I'll cut it."
+    },
+    {
+      "start": 329.76,
+      "end": 331.76,
+      "text": "I'll put it in the main content."
+    },
+    {
+      "start": 331.76,
+      "end": 333.76,
+      "text": "So, first, I'll write the main content."
+    },
+    {
+      "start": 333.76,
+      "end": 334.76,
+      "text": "Then, I'll write footer."
+    },
+    {
+      "start": 334.76,
+      "end": 335.76,
+      "text": "I'll write footer."
+    },
+    {
+      "start": 335.76,
+      "end": 336.76,
+      "text": "You can see here."
+    },
+    {
+      "start": 336.76,
+      "end": 337.76,
+      "text": "And here, you see, here is the header."
+    },
+    {
+      "start": 337.76,
+      "end": 339.76,
+      "text": "Here is the main content and footer."
+    },
+    {
+      "start": 339.76,
+      "end": 341.76,
+      "text": "So, I've arranged it."
+    },
+    {
+      "start": 341.76,
+      "end": 342.76,
+      "text": "You can arrange it."
+    },
+    {
+      "start": 342.76,
+      "end": 344.76,
+      "text": "You can arrange files like this."
+    },
+    {
+      "start": 344.76,
+      "end": 345.76,
+      "text": "In different folders."
+    },
+    {
+      "start": 345.76,
+      "end": 348.76,
+      "text": "I've arranged HTML tags."
+    },
+    {
+      "start": 348.76,
+      "end": 350.76,
+      "text": "So, I've explained it in the header tag."
+    },
+    {
+      "start": 350.76,
+      "end": 352.76,
+      "text": "It is used to represent the top section of a web page."
+    },
+    {
+      "start": 352.76,
+      "end": 353.76,
+      "text": "The header."
+    },
+    {
+      "start": 353.76,
+      "end": 358.76,
+      "text": "Then, after that, we'll put the nav tag in the navigation menu."
+    },
+    {
+      "start": 358.76,
+      "end": 362.76,
+      "text": "Article indicates a self-containing piece of content"
+    },
+    {
+      "start": 362.76,
+      "end": 363.76,
+      "text": "such as blog post or news articles."
+    },
+    {
+      "start": 363.76,
+      "end": 367.76,
+      "text": "If you add a self content piece of content,"
+    },
+    {
+      "start": 367.76,
+      "end": 368.76,
+      "text": "then you add an article tag menu."
+    },
+    {
+      "start": 368.76,
+      "end": 369.76,
+      "text": "Section."
+    },
+    {
+      "start": 369.76,
+      "end": 371.76,
+      "text": "The group is represented by a thematic."
+    },
+    {
+      "start": 371.76,
+      "end": 373.76,
+      "text": "Let's say it's done in one section,"
+    },
+    {
+      "start": 373.76,
+      "end": 374.76,
+      "text": "then it'll be done in one section,"
+    },
+    {
+      "start": 374.76,
+      "end": 376.76,
+      "text": "then it'll be done in another section."
+    },
+    {
+      "start": 376.76,
+      "end": 377.76,
+      "text": "A side-based content,"
+    },
+    {
+      "start": 377.76,
+      "end": 379.76,
+      "text": "that is, if it's a side-based content,"
+    },
+    {
+      "start": 379.76,
+      "end": 380.76,
+      "text": "what use a side-tax?"
+    },
+    {
+      "start": 380.76,
+      "end": 381.76,
+      "text": "Let's see here,"
+    },
+    {
+      "start": 381.76,
+      "end": 383.76,
+      "text": "typically, use for side bars"
+    },
+    {
+      "start": 383.76,
+      "end": 386.76,
+      "text": "and content that is tangentially related to the main content."
+    },
+    {
+      "start": 386.76,
+      "end": 387.76,
+      "text": "Just like on a side-tax,"
+    },
+    {
+      "start": 387.76,
+      "end": 388.76,
+      "text": "what can you do?"
+    },
+    {
+      "start": 388.76,
+      "end": 391.76,
+      "text": "If you want to add a side note on the main event"
+    },
+    {
+      "start": 421.76,
+      "end": 431.76,
+      "text": "So you can use time tag in it, you can add date, date, etc."
+    },
+    {
+      "start": 431.76,
+      "end": 434.76,
+      "text": "So I hope you understood this."
+    },
+    {
+      "start": 434.76,
+      "end": 437.76,
+      "text": "So we will use this to enhance SEO."
+    },
+    {
+      "start": 437.76,
+      "end": 440.76,
+      "text": "We will use accessibility to improve it."
+    },
+    {
+      "start": 440.76,
+      "end": 442.76,
+      "text": "And we want to take a decision about browser."
+    },
+    {
+      "start": 442.76,
+      "end": 446.76,
+      "text": "Let's take a browser and choose a feature."
+    },
+    {
+      "start": 446.76,
+      "end": 449.76,
+      "text": "It will read our content aloud."
+    },
+    {
+      "start": 449.76,
+      "end": 453.76,
+      "text": "So you can decide on the main content aloud."
+    },
+    {
+      "start": 453.76,
+      "end": 456.76,
+      "text": "If you want to read aloud, how will it be?"
+    },
+    {
+      "start": 456.76,
+      "end": 458.76,
+      "text": "Code with a Home, Code with a Story."
+    },
+    {
+      "start": 458.76,
+      "end": 461.76,
+      "text": "You will need to read aloud."
+    },
+    {
+      "start": 461.76,
+      "end": 463.76,
+      "text": "Now you will need to read the main content aloud."
+    },
+    {
+      "start": 463.76,
+      "end": 466.76,
+      "text": "HTML, semantic tags, HTML 5 introduced,"
+    },
+    {
+      "start": 466.76,
+      "end": 467.76,
+      "text": "and the semantic tags."
+    },
+    {
+      "start": 467.76,
+      "end": 471.76,
+      "text": "The first version of HTML was not the semantic tags."
+    },
+    {
+      "start": 471.76,
+      "end": 475.76,
+      "text": "The semantic tags were introduced by HTML 5."
+    },
+    {
+      "start": 475.76,
+      "end": 481.76,
+      "text": "The most important reason is to arrange the content."
+    },
+    {
+      "start": 481.76,
+      "end": 485.76,
+      "text": "So that the content is parsing,"
+    },
+    {
+      "start": 485.76,
+      "end": 490.76,
+      "text": "the content is seeing the browser, Google, Bing,"
+    },
+    {
+      "start": 490.76,
+      "end": 491.76,
+      "text": "search engines, etc."
+    },
+    {
+      "start": 491.76,
+      "end": 493.76,
+      "text": "Or you want to generate a preview."
+    },
+    {
+      "start": 493.76,
+      "end": 496.76,
+      "text": "You want to generate a preview on Twitter."
+    },
+    {
+      "start": 496.76,
+      "end": 499.76,
+      "text": "If you want to create a preview,"
+    },
+    {
+      "start": 499.76,
+      "end": 502.76,
+      "text": "then you can understand your content properly."
+    },
+    {
+      "start": 502.76,
+      "end": 505.76,
+      "text": "If you want to understand your content properly,"
+    },
+    {
+      "start": 505.76,
+      "end": 507.76,
+      "text": "then you will use semantic tags."
+    },
+    {
+      "start": 507.76,
+      "end": 509.76,
+      "text": "Here, this image is very interesting."
+    },
+    {
+      "start": 509.76,
+      "end": 512.76,
+      "text": "Without semantic tags, you write in HTML."
+    },
+    {
+      "start": 512.76,
+      "end": 514.76,
+      "text": "So you will write the semantic tags."
+    },
+    {
+      "start": 514.76,
+      "end": 516.76,
+      "text": "This image is visible."
+    },
+    {
+      "start": 516.76,
+      "end": 518.76,
+      "text": "This header is new."
+    },
+    {
+      "start": 518.76,
+      "end": 521.76,
+      "text": "We will look at this in the website."
+    },
+    {
+      "start": 521.76,
+      "end": 523.76,
+      "text": "Don't be confused."
+    },
+    {
+      "start": 523.76,
+      "end": 525.76,
+      "text": "This is not used for styling."
+    },
+    {
+      "start": 525.76,
+      "end": 527.76,
+      "text": "Because many people are confused that"
+    },
+    {
+      "start": 527.76,
+      "end": 530.76,
+      "text": "there will be no use to assign such tags."
+    },
+    {
+      "start": 530.76,
+      "end": 533.76,
+      "text": "You will have to style CSS."
+    },
+    {
+      "start": 533.76,
+      "end": 537.76,
+      "text": "But here, you can understand your content properly."
+    },
+    {
+      "start": 537.76,
+      "end": 540.76,
+      "text": "You can describe what is the main content."
+    },
+    {
+      "start": 540.76,
+      "end": 542.76,
+      "text": "You have to create a header."
+    },
+    {
+      "start": 542.76,
+      "end": 545.76,
+      "text": "So, semantic tags are not used for this."
+    },
+    {
+      "start": 545.76,
+      "end": 548.76,
+      "text": "They only have accessability."
+    },
+    {
+      "start": 548.76,
+      "end": 551.76,
+      "text": "Here, you can see some examples."
+    },
+    {
+      "start": 551.76,
+      "end": 553.76,
+      "text": "I have given you a header header."
+    },
+    {
+      "start": 553.76,
+      "end": 555.76,
+      "text": "What will happen inside the header?"
+    },
+    {
+      "start": 555.76,
+      "end": 558.76,
+      "text": "You can see that you will add the header in your navigation bar."
+    },
+    {
+      "start": 558.76,
+      "end": 561.76,
+      "text": "You can style CSS."
+    },
+    {
+      "start": 561.76,
+      "end": 564.76,
+      "text": "I will show you a quick styling."
+    },
+    {
+      "start": 564.76,
+      "end": 566.76,
+      "text": "We will do it later."
+    },
+    {
+      "start": 566.76,
+      "end": 570.76,
+      "text": "But many people will wonder how this will be done."
+    },
+    {
+      "start": 570.76,
+      "end": 572.76,
+      "text": "If you want to do navigation bar and general,"
+    },
+    {
+      "start": 572.76,
+      "end": 574.76,
+      "text": "I will write CSS here."
+    },
+    {
+      "start": 574.76,
+      "end": 577.76,
+      "text": "I will tell you why CSS works here."
+    },
+    {
+      "start": 577.76,
+      "end": 580.76,
+      "text": "I have already explained this."
+    },
+    {
+      "start": 580.76,
+      "end": 582.76,
+      "text": "I am going to show you a lot of things in the coming videos."
+    },
+    {
+      "start": 582.76,
+      "end": 584.76,
+      "text": "You can also get attention."
+    },
+    {
+      "start": 584.76,
+      "end": 586.76,
+      "text": "We will not do this."
+    },
+    {
+      "start": 586.76,
+      "end": 589.76,
+      "text": "I will tell you how to do CSS."
+    },
+    {
+      "start": 589.76,
+      "end": 592.76,
+      "text": "I have also explained why CSS works here."
+    },
+    {
+      "start": 592.76,
+      "end": 594.76,
+      "text": "I will also explain this."
+    },
+    {
+      "start": 594.76,
+      "end": 596.76,
+      "text": "I will also show you a lot of things."
+    },
+    {
+      "start": 596.76,
+      "end": 599.76,
+      "text": "If you have not yet access the game,"
+    },
+    {
+      "start": 599.76,
+      "end": 601.76,
+      "text": "please do it."
+    },
+    {
+      "start": 601.76,
+      "end": 604.76,
+      "text": "You can save the game here."
+    },
+    {
+      "start": 604.76,
+      "end": 607.76,
+      "text": "You will get all the videos in the coming videos."
+    },
+    {
+      "start": 607.76,
+      "end": 610.76,
+      "text": "You will get all the videos."
+    },
+    {
+      "start": 610.76,
+      "end": 613.76,
+      "text": "If you have not yet done this,"
+    },
+    {
+      "start": 613.76,
+      "end": 615.76,
+      "text": "please like and subscribe."
+    },
+    {
+      "start": 615.76,
+      "end": 617.76,
+      "text": "Thank you so much for watching this video."
+    },
+    {
+      "start": 617.76,
+      "end": 619.76,
+      "text": "I will see you next time."
+    }
+  ]
+}

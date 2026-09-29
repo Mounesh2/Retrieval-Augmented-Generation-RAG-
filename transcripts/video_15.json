@@ -1,0 +1,1189 @@
+{
+  "video": 15,
+  "course": "Sigma Web Development",
+  "source_file": "15_Inline, Internal & External CSS _ Sigma Web Development Course - Tutorial #15 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " In this video we will see how to add a CSS to an HTML page. CSS is used in HTML to add in three ways. First, the first way is to use the first way to use the first way to add CSS to the HTML page. Now, we have the internal CSS. The internal CSS means to tag the style and then add the CSS, the style tag in the CSS page. And then the most used way is to add the CSS file to the CSS page. And then the CSS file to the CSS page. In this video, I will tell you how many differences you should use and when you should avoid it. I am very excited to make this video like and share it with your friends. Don't forget to write a signature on the signature page. Let's go to the computer screen. In this video, I will show you how to add CSS to an HTML page. First, I will do a video 15 folder with a video 15 folder. I will click on the Shift and then record it with a video 15 folder. And then create a index.html and add a boilerplate template. If you don't have a playlist access, you can access it. You have to access it. Now I will come back to my video 15 folder with a HTML code. I have a basic HTML. I have written, I am a good boy. And then I have written a catch one and I have written, that about me. And then I have added Dev into it. I am a good boy. I have also added a paragraph. Everyone is good. In some way or the other. Does this even make any sense? I have added this. I will click on the view and then I will drop the toggle. I will not write the shift. I will write the command in the palette and then toggle the screen. You have to listen carefully. If I want to style it, then I will also do a very short cut. I will also do it in a very quick and dirty way. I have a style tag here. First of all, let's preview it and see how it is. I have zoomed in to show you. Now I will show you how it is. It is fine. But I will zoom in to show you. Now I will show you how it is. I want to yellow it. I want to red it. Let's do it. I have a very quick and dirty. I will also add a style attribute. I will write here. I will write here. I will write yellow. And you see, I am doing my entire support in writing. I am completing this auto. And that's one of the reasons we are using VS code. If you are in a replicate, or in some IDE, you get the support of this. This is the reason why we don't coding in the node pad. People have asked me about starting the node pad. Why we don't do it in the node pad? Why we don't do it in the node pad? Now let's add another property. I will show you how it is applied. You see, the color is yellow. Now let's red it. Red it. And background will be red. I want to do CSS with CSS. I can do it. I want to add the individual elements. So I can do it. Now this is not considered a good practice. It is not considered a good practice. Why not? I will tell you in a few days. I will show you two more ways. Add CSS to a webpage. I will do one thing. I will write the title of this. I will write three ways to add CSS to HTML. So the first way I will write is to use a dev. I will use the dev. I will use the order list. I will write an list item. I will write it. The first way is to write inline CSS. So I will tell you about the inline CSS. It is called inline CSS. You can write the style attribute in the CSS. What will happen? The CSS will be applied in the element. It will be the same. So we have already told you about the inline CSS. Now I will tell you the second way. I will write the second way. The second way is to use the internal CSS. So the second way is to write inline CSS. Don't do it like this. I will replicate it. I will add this here. Don't do it like this. Write a style tag. Don't confuse me. If you write Rig, or the other tag is our side tag. If you write the original name in our side tag. Add another title, and choose your own definition of Hitler or Hitler. You go to here too. Now what is the name of the Alexander? And how to do all of the H1 and different things. Take background color, create the yellow screen. Create the yellow screen. Let me try it again.改 it again! lambda troubles, make the black background red screen. I have already read the background, but how is this different from online CSS? In online CSS, I have to add all the elements in it. If I have 100H1, I can do it automatically. But here I have to do it in every element. I want to do it again and again. I have also done it again and again. I have added all the elements in it. Now I have to change the elements. For some reason, I have told my boss that there is no red in our production website. I want to turn the background color on. So what should I do? I will turn all the elements on and turn the red color on. I want to edit it. And if I am doing the internal CSS, and I am not doing the internal CSS, then I can edit it. I want to edit it once and turn all the H1 on my page. But if I have written all the elements in every element, then I will have to turn all the elements on. And then I will have to do it individually. So this is why I don't use the online CSS as much as I can. But the online CSS is the one that you should know. Why is it that you can use it like this? You can do the internal or the most useful thing. I will tell you about the external CSS. Now the idea of external CSS is that if you are writing internal CSS, then your style will grow. I mean, I am writing CSS, writing, writing. So your HTML file will grow. So why don't we write CSS here? Why don't we write CSS in a file? That's the idea of external CSS. You can write here, if you want to write here, write in a file. So we will use a link tag. I will write this shortcut here in some way. So I am saying that I have written my CSS in my style. What I am doing? I have written my CSS in my style. Go there and see. I have done something like this. So here I will show you that I can write my style. I will write CSS in a style. I will put this style in it. Now I will show you that my style has been set. By the way, there is no background or anything else. I will add it here. So I have left this style. So what does the link tag do? It says, let the style sheet and style CSS link. So what will happen? This CSS will be set on my page. It's as simple as that. I hope you have understood everything. You have understood that inline CSS, internal CSS and external CSS, what difference is there? Now I will tell you how to use the concept. Inline CSS, you try not to use it. I will try not to use it in the ideal scenarios. But inline CSS, if automatically is generated. I will tell you in detail. Now you do not confuse me. Now as a beginner, you understand that inline CSS, you have to use it less than you. In fact, you have to avoid it. Okay. You will use the internal CSS, when your web page is small. You have to write a little bit different CSS. As I tell you a good use, I will use the internal CSS. When I used to write in the website, I was doing all the work in my website. I was doing all the work in the website. But I had to tweak it. I used to use the internal CSS. You will use the external CSS. When you are creating a large production grade website. And in most of the cases, if you are working on a serious project, you will be creating a production grade website. And if you are creating a production grade website, then you will want to use the best practices. And using the external style sheet is considered a good practice. Because you can get a style sheet from any HTML, you can get a touch from any HTML, you can also get a touch from your colleagues. You can say that you work on that style sheet, I work on HTML. So, you can write styles from the style, I work on that style. So, you can work on a very good way. This way, things get easily done. If you are using external style sheet, and in most of the cases, you can go to any production grade project. You have found a large fürsamo website lly cano Robert Netflix, show youtube, or your visa. Of course, you will find your social media standards on any series of cases. And you will know that in posed group, that time maybe will be nice. But in 11 1330s for one, except for頭 educated. Oh my God! An intelligent smart, or any name, CSS file, you have linked one CSS file. I hope you all will understand this difference in 3-3. And I know that I am going little slower because many people are in this course. I am going to repeat this again and again. We are going to make a lot of production great websites. So you all must be excited about this. Please let me know in the comments section. If you haven't done this playlist access yet, please do not forget to subscribe to my channel. Don't forget to press the bell icon. Thank you so much for watching this video. I will see you next time. Bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "In this video we will see how to add a CSS to an HTML page."
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "CSS is used in HTML to add in three ways."
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": "First, the first way is to use the first way to use the first way to add CSS to the HTML page."
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "Now, we have the internal CSS."
+    },
+    {
+      "start": 17.0,
+      "end": 23.0,
+      "text": "The internal CSS means to tag the style and then add the CSS, the style tag in the CSS page."
+    },
+    {
+      "start": 23.0,
+      "end": 29.0,
+      "text": "And then the most used way is to add the CSS file to the CSS page."
+    },
+    {
+      "start": 29.0,
+      "end": 32.0,
+      "text": "And then the CSS file to the CSS page."
+    },
+    {
+      "start": 32.0,
+      "end": 38.0,
+      "text": "In this video, I will tell you how many differences you should use and when you should avoid it."
+    },
+    {
+      "start": 38.0,
+      "end": 42.0,
+      "text": "I am very excited to make this video like and share it with your friends."
+    },
+    {
+      "start": 42.0,
+      "end": 45.0,
+      "text": "Don't forget to write a signature on the signature page."
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": "Let's go to the computer screen."
+    },
+    {
+      "start": 54.0,
+      "end": 60.0,
+      "text": "In this video, I will show you how to add CSS to an HTML page."
+    },
+    {
+      "start": 60.0,
+      "end": 65.0,
+      "text": "First, I will do a video 15 folder with a video 15 folder."
+    },
+    {
+      "start": 65.0,
+      "end": 68.0,
+      "text": "I will click on the Shift and then record it with a video 15 folder."
+    },
+    {
+      "start": 68.0,
+      "end": 74.0,
+      "text": "And then create a index.html and add a boilerplate template."
+    },
+    {
+      "start": 74.0,
+      "end": 77.0,
+      "text": "If you don't have a playlist access, you can access it."
+    },
+    {
+      "start": 77.0,
+      "end": 79.0,
+      "text": "You have to access it."
+    },
+    {
+      "start": 80.0,
+      "end": 84.0,
+      "text": "Now I will come back to my video 15 folder with a HTML code."
+    },
+    {
+      "start": 84.0,
+      "end": 86.0,
+      "text": "I have a basic HTML."
+    },
+    {
+      "start": 86.0,
+      "end": 88.0,
+      "text": "I have written, I am a good boy."
+    },
+    {
+      "start": 88.0,
+      "end": 91.0,
+      "text": "And then I have written a catch one and I have written,"
+    },
+    {
+      "start": 91.0,
+      "end": 94.0,
+      "text": "that about me."
+    },
+    {
+      "start": 94.0,
+      "end": 96.0,
+      "text": "And then I have added Dev into it."
+    },
+    {
+      "start": 96.0,
+      "end": 97.0,
+      "text": "I am a good boy."
+    },
+    {
+      "start": 97.0,
+      "end": 99.0,
+      "text": "I have also added a paragraph."
+    },
+    {
+      "start": 99.0,
+      "end": 101.0,
+      "text": "Everyone is good."
+    },
+    {
+      "start": 101.0,
+      "end": 104.0,
+      "text": "In some way or the other."
+    },
+    {
+      "start": 104.0,
+      "end": 107.0,
+      "text": "Does this even make any sense?"
+    },
+    {
+      "start": 107.0,
+      "end": 109.0,
+      "text": "I have added this."
+    },
+    {
+      "start": 109.0,
+      "end": 111.0,
+      "text": "I will click on the view and then I will drop the toggle."
+    },
+    {
+      "start": 111.0,
+      "end": 113.0,
+      "text": "I will not write the shift."
+    },
+    {
+      "start": 113.0,
+      "end": 116.0,
+      "text": "I will write the command in the palette and then toggle the screen."
+    },
+    {
+      "start": 116.0,
+      "end": 118.0,
+      "text": "You have to listen carefully."
+    },
+    {
+      "start": 118.0,
+      "end": 123.0,
+      "text": "If I want to style it, then I will also do a very short cut."
+    },
+    {
+      "start": 123.0,
+      "end": 127.0,
+      "text": "I will also do it in a very quick and dirty way."
+    },
+    {
+      "start": 127.0,
+      "end": 129.0,
+      "text": "I have a style tag here."
+    },
+    {
+      "start": 129.0,
+      "end": 132.0,
+      "text": "First of all, let's preview it and see how it is."
+    },
+    {
+      "start": 132.0,
+      "end": 135.0,
+      "text": "I have zoomed in to show you."
+    },
+    {
+      "start": 135.0,
+      "end": 137.0,
+      "text": "Now I will show you how it is."
+    },
+    {
+      "start": 137.0,
+      "end": 139.0,
+      "text": "It is fine."
+    },
+    {
+      "start": 139.0,
+      "end": 141.0,
+      "text": "But I will zoom in to show you."
+    },
+    {
+      "start": 141.0,
+      "end": 143.0,
+      "text": "Now I will show you how it is."
+    },
+    {
+      "start": 143.0,
+      "end": 145.0,
+      "text": "I want to yellow it."
+    },
+    {
+      "start": 145.0,
+      "end": 147.0,
+      "text": "I want to red it."
+    },
+    {
+      "start": 147.0,
+      "end": 149.0,
+      "text": "Let's do it."
+    },
+    {
+      "start": 149.0,
+      "end": 151.0,
+      "text": "I have a very quick and dirty."
+    },
+    {
+      "start": 151.0,
+      "end": 153.0,
+      "text": "I will also add a style attribute."
+    },
+    {
+      "start": 153.0,
+      "end": 155.0,
+      "text": "I will write here."
+    },
+    {
+      "start": 155.0,
+      "end": 157.0,
+      "text": "I will write here."
+    },
+    {
+      "start": 157.0,
+      "end": 159.0,
+      "text": "I will write yellow."
+    },
+    {
+      "start": 159.0,
+      "end": 162.0,
+      "text": "And you see, I am doing my entire support in writing."
+    },
+    {
+      "start": 162.0,
+      "end": 164.0,
+      "text": "I am completing this auto."
+    },
+    {
+      "start": 164.0,
+      "end": 166.0,
+      "text": "And that's one of the reasons we are using VS code."
+    },
+    {
+      "start": 166.0,
+      "end": 170.0,
+      "text": "If you are in a replicate, or in some IDE,"
+    },
+    {
+      "start": 170.0,
+      "end": 172.0,
+      "text": "you get the support of this."
+    },
+    {
+      "start": 172.0,
+      "end": 174.0,
+      "text": "This is the reason why we don't coding in the node pad."
+    },
+    {
+      "start": 174.0,
+      "end": 176.0,
+      "text": "People have asked me about starting the node pad."
+    },
+    {
+      "start": 176.0,
+      "end": 178.0,
+      "text": "Why we don't do it in the node pad?"
+    },
+    {
+      "start": 178.0,
+      "end": 180.0,
+      "text": "Why we don't do it in the node pad?"
+    },
+    {
+      "start": 180.0,
+      "end": 182.0,
+      "text": "Now let's add another property."
+    },
+    {
+      "start": 182.0,
+      "end": 184.0,
+      "text": "I will show you how it is applied."
+    },
+    {
+      "start": 184.0,
+      "end": 186.0,
+      "text": "You see, the color is yellow."
+    },
+    {
+      "start": 186.0,
+      "end": 188.0,
+      "text": "Now let's red it."
+    },
+    {
+      "start": 188.0,
+      "end": 190.0,
+      "text": "Red it."
+    },
+    {
+      "start": 190.0,
+      "end": 192.0,
+      "text": "And background will be red."
+    },
+    {
+      "start": 192.0,
+      "end": 196.0,
+      "text": "I want to do CSS with CSS."
+    },
+    {
+      "start": 196.0,
+      "end": 198.0,
+      "text": "I can do it."
+    },
+    {
+      "start": 198.0,
+      "end": 200.0,
+      "text": "I want to add the individual elements."
+    },
+    {
+      "start": 200.0,
+      "end": 202.0,
+      "text": "So I can do it."
+    },
+    {
+      "start": 202.0,
+      "end": 204.0,
+      "text": "Now this is not considered a good practice."
+    },
+    {
+      "start": 204.0,
+      "end": 206.0,
+      "text": "It is not considered a good practice."
+    },
+    {
+      "start": 206.0,
+      "end": 208.0,
+      "text": "Why not?"
+    },
+    {
+      "start": 208.0,
+      "end": 210.0,
+      "text": "I will tell you in a few days."
+    },
+    {
+      "start": 210.0,
+      "end": 212.0,
+      "text": "I will show you two more ways."
+    },
+    {
+      "start": 212.0,
+      "end": 214.0,
+      "text": "Add CSS to a webpage."
+    },
+    {
+      "start": 214.0,
+      "end": 216.0,
+      "text": "I will do one thing."
+    },
+    {
+      "start": 216.0,
+      "end": 218.0,
+      "text": "I will write the title of this."
+    },
+    {
+      "start": 218.0,
+      "end": 222.0,
+      "text": "I will write three ways to add CSS to HTML."
+    },
+    {
+      "start": 222.0,
+      "end": 226.0,
+      "text": "So the first way I will write is to use a dev."
+    },
+    {
+      "start": 226.0,
+      "end": 228.0,
+      "text": "I will use the dev."
+    },
+    {
+      "start": 228.0,
+      "end": 230.0,
+      "text": "I will use the order list."
+    },
+    {
+      "start": 230.0,
+      "end": 232.0,
+      "text": "I will write an list item."
+    },
+    {
+      "start": 232.0,
+      "end": 234.0,
+      "text": "I will write it."
+    },
+    {
+      "start": 234.0,
+      "end": 236.0,
+      "text": "The first way is to write inline CSS."
+    },
+    {
+      "start": 236.0,
+      "end": 238.0,
+      "text": "So I will tell you about the inline CSS."
+    },
+    {
+      "start": 238.0,
+      "end": 240.0,
+      "text": "It is called inline CSS."
+    },
+    {
+      "start": 240.0,
+      "end": 244.0,
+      "text": "You can write the style attribute in the CSS."
+    },
+    {
+      "start": 244.0,
+      "end": 246.0,
+      "text": "What will happen?"
+    },
+    {
+      "start": 246.0,
+      "end": 250.0,
+      "text": "The CSS will be applied in the element."
+    },
+    {
+      "start": 250.0,
+      "end": 252.0,
+      "text": "It will be the same."
+    },
+    {
+      "start": 252.0,
+      "end": 254.0,
+      "text": "So we have already told you about the inline CSS."
+    },
+    {
+      "start": 254.0,
+      "end": 256.0,
+      "text": "Now I will tell you the second way."
+    },
+    {
+      "start": 256.0,
+      "end": 258.0,
+      "text": "I will write the second way."
+    },
+    {
+      "start": 258.0,
+      "end": 260.0,
+      "text": "The second way is to use the internal CSS."
+    },
+    {
+      "start": 260.0,
+      "end": 262.0,
+      "text": "So the second way is to write inline CSS."
+    },
+    {
+      "start": 262.0,
+      "end": 264.0,
+      "text": "Don't do it like this."
+    },
+    {
+      "start": 264.0,
+      "end": 266.0,
+      "text": "I will replicate it."
+    },
+    {
+      "start": 266.0,
+      "end": 268.0,
+      "text": "I will add this here."
+    },
+    {
+      "start": 268.0,
+      "end": 270.0,
+      "text": "Don't do it like this."
+    },
+    {
+      "start": 270.0,
+      "end": 272.0,
+      "text": "Write a style tag."
+    },
+    {
+      "start": 272.0,
+      "end": 274.0,
+      "text": "Don't confuse me."
+    },
+    {
+      "start": 274.0,
+      "end": 276.0,
+      "text": "If you write Rig, or the other tag is our side tag."
+    },
+    {
+      "start": 276.0,
+      "end": 278.0,
+      "text": "If you write the original name in our side tag."
+    },
+    {
+      "start": 278.0,
+      "end": 282.0,
+      "text": "Add another title, and choose your own definition of Hitler or Hitler."
+    },
+    {
+      "start": 282.0,
+      "end": 284.0,
+      "text": "You go to here too."
+    },
+    {
+      "start": 284.0,
+      "end": 286.0,
+      "text": "Now what is the name of the Alexander?"
+    },
+    {
+      "start": 286.0,
+      "end": 288.0,
+      "text": "And how to do all of the H1 and different things."
+    },
+    {
+      "start": 288.0,
+      "end": 292.0,
+      "text": "Take background color, create the yellow screen."
+    },
+    {
+      "start": 292.0,
+      "end": 294.0,
+      "text": "Create the yellow screen."
+    },
+    {
+      "start": 294.0,
+      "end": 296.0,
+      "text": "Let me try it again."
+    },
+    {
+      "start": 296.0,
+      "end": 298.5,
+      "text": "改 it again!"
+    },
+    {
+      "start": 298.5,
+      "end": 302.0,
+      "text": "lambda troubles, make the black background red screen."
+    },
+    {
+      "start": 302.0,
+      "end": 311.0,
+      "text": "I have already read the background, but how is this different from online CSS?"
+    },
+    {
+      "start": 311.0,
+      "end": 315.0,
+      "text": "In online CSS, I have to add all the elements in it."
+    },
+    {
+      "start": 315.0,
+      "end": 320.0,
+      "text": "If I have 100H1, I can do it automatically."
+    },
+    {
+      "start": 320.0,
+      "end": 326.0,
+      "text": "But here I have to do it in every element."
+    },
+    {
+      "start": 326.0,
+      "end": 329.0,
+      "text": "I want to do it again and again."
+    },
+    {
+      "start": 329.0,
+      "end": 331.0,
+      "text": "I have also done it again and again."
+    },
+    {
+      "start": 331.0,
+      "end": 333.0,
+      "text": "I have added all the elements in it."
+    },
+    {
+      "start": 333.0,
+      "end": 335.0,
+      "text": "Now I have to change the elements."
+    },
+    {
+      "start": 335.0,
+      "end": 338.0,
+      "text": "For some reason, I have told my boss that"
+    },
+    {
+      "start": 338.0,
+      "end": 341.0,
+      "text": "there is no red in our production website."
+    },
+    {
+      "start": 341.0,
+      "end": 343.0,
+      "text": "I want to turn the background color on."
+    },
+    {
+      "start": 343.0,
+      "end": 345.0,
+      "text": "So what should I do?"
+    },
+    {
+      "start": 345.0,
+      "end": 348.0,
+      "text": "I will turn all the elements on and turn the red color on."
+    },
+    {
+      "start": 348.0,
+      "end": 350.0,
+      "text": "I want to edit it."
+    },
+    {
+      "start": 350.0,
+      "end": 353.0,
+      "text": "And if I am doing the internal CSS,"
+    },
+    {
+      "start": 353.0,
+      "end": 357.0,
+      "text": "and I am not doing the internal CSS, then I can edit it."
+    },
+    {
+      "start": 357.0,
+      "end": 362.0,
+      "text": "I want to edit it once and turn all the H1 on my page."
+    },
+    {
+      "start": 362.0,
+      "end": 365.0,
+      "text": "But if I have written all the elements in every element,"
+    },
+    {
+      "start": 365.0,
+      "end": 370.0,
+      "text": "then I will have to turn all the elements on."
+    },
+    {
+      "start": 370.0,
+      "end": 374.0,
+      "text": "And then I will have to do it individually."
+    },
+    {
+      "start": 374.0,
+      "end": 378.0,
+      "text": "So this is why I don't use the online CSS as much as I can."
+    },
+    {
+      "start": 378.0,
+      "end": 380.0,
+      "text": "But the online CSS is the one that you should know."
+    },
+    {
+      "start": 380.0,
+      "end": 384.0,
+      "text": "Why is it that you can use it like this?"
+    },
+    {
+      "start": 384.0,
+      "end": 388.0,
+      "text": "You can do the internal or the most useful thing."
+    },
+    {
+      "start": 388.0,
+      "end": 391.0,
+      "text": "I will tell you about the external CSS."
+    },
+    {
+      "start": 391.0,
+      "end": 393.0,
+      "text": "Now the idea of external CSS is that"
+    },
+    {
+      "start": 393.0,
+      "end": 395.0,
+      "text": "if you are writing internal CSS,"
+    },
+    {
+      "start": 395.0,
+      "end": 397.0,
+      "text": "then your style will grow."
+    },
+    {
+      "start": 397.0,
+      "end": 400.0,
+      "text": "I mean, I am writing CSS, writing, writing."
+    },
+    {
+      "start": 400.0,
+      "end": 403.0,
+      "text": "So your HTML file will grow."
+    },
+    {
+      "start": 403.0,
+      "end": 407.0,
+      "text": "So why don't we write CSS here?"
+    },
+    {
+      "start": 407.0,
+      "end": 410.0,
+      "text": "Why don't we write CSS in a file?"
+    },
+    {
+      "start": 410.0,
+      "end": 413.0,
+      "text": "That's the idea of external CSS."
+    },
+    {
+      "start": 413.0,
+      "end": 416.0,
+      "text": "You can write here, if you want to write here,"
+    },
+    {
+      "start": 416.0,
+      "end": 418.0,
+      "text": "write in a file."
+    },
+    {
+      "start": 418.0,
+      "end": 420.0,
+      "text": "So we will use a link tag."
+    },
+    {
+      "start": 420.0,
+      "end": 423.0,
+      "text": "I will write this shortcut here in some way."
+    },
+    {
+      "start": 423.0,
+      "end": 427.0,
+      "text": "So I am saying that I have written my CSS in my style."
+    },
+    {
+      "start": 427.0,
+      "end": 429.0,
+      "text": "What I am doing?"
+    },
+    {
+      "start": 429.0,
+      "end": 432.0,
+      "text": "I have written my CSS in my style."
+    },
+    {
+      "start": 432.0,
+      "end": 434.0,
+      "text": "Go there and see."
+    },
+    {
+      "start": 434.0,
+      "end": 436.0,
+      "text": "I have done something like this."
+    },
+    {
+      "start": 436.0,
+      "end": 439.0,
+      "text": "So here I will show you that I can write my style."
+    },
+    {
+      "start": 439.0,
+      "end": 442.0,
+      "text": "I will write CSS in a style."
+    },
+    {
+      "start": 442.0,
+      "end": 445.0,
+      "text": "I will put this style in it."
+    },
+    {
+      "start": 445.0,
+      "end": 447.0,
+      "text": "Now I will show you that my style has been set."
+    },
+    {
+      "start": 447.0,
+      "end": 449.0,
+      "text": "By the way, there is no background or anything else."
+    },
+    {
+      "start": 449.0,
+      "end": 451.0,
+      "text": "I will add it here."
+    },
+    {
+      "start": 451.0,
+      "end": 454.0,
+      "text": "So I have left this style."
+    },
+    {
+      "start": 454.0,
+      "end": 457.0,
+      "text": "So what does the link tag do?"
+    },
+    {
+      "start": 457.0,
+      "end": 458.0,
+      "text": "It says,"
+    },
+    {
+      "start": 458.0,
+      "end": 461.0,
+      "text": "let the style sheet and style CSS link."
+    },
+    {
+      "start": 461.0,
+      "end": 462.0,
+      "text": "So what will happen?"
+    },
+    {
+      "start": 462.0,
+      "end": 464.0,
+      "text": "This CSS will be set on my page."
+    },
+    {
+      "start": 464.0,
+      "end": 466.0,
+      "text": "It's as simple as that."
+    },
+    {
+      "start": 466.0,
+      "end": 469.0,
+      "text": "I hope you have understood everything."
+    },
+    {
+      "start": 469.0,
+      "end": 473.0,
+      "text": "You have understood that inline CSS,"
+    },
+    {
+      "start": 473.0,
+      "end": 476.0,
+      "text": "internal CSS and external CSS,"
+    },
+    {
+      "start": 476.0,
+      "end": 477.0,
+      "text": "what difference is there?"
+    },
+    {
+      "start": 477.0,
+      "end": 480.0,
+      "text": "Now I will tell you how to use the concept."
+    },
+    {
+      "start": 480.0,
+      "end": 485.0,
+      "text": "Inline CSS, you try not to use it."
+    },
+    {
+      "start": 485.0,
+      "end": 490.0,
+      "text": "I will try not to use it in the ideal scenarios."
+    },
+    {
+      "start": 490.0,
+      "end": 493.0,
+      "text": "But inline CSS, if automatically is generated."
+    },
+    {
+      "start": 493.0,
+      "end": 495.0,
+      "text": "I will tell you in detail."
+    },
+    {
+      "start": 495.0,
+      "end": 496.0,
+      "text": "Now you do not confuse me."
+    },
+    {
+      "start": 496.0,
+      "end": 497.0,
+      "text": "Now as a beginner,"
+    },
+    {
+      "start": 497.0,
+      "end": 499.0,
+      "text": "you understand that inline CSS,"
+    },
+    {
+      "start": 499.0,
+      "end": 501.0,
+      "text": "you have to use it less than you."
+    },
+    {
+      "start": 501.0,
+      "end": 502.0,
+      "text": "In fact, you have to avoid it."
+    },
+    {
+      "start": 502.0,
+      "end": 503.0,
+      "text": "Okay."
+    },
+    {
+      "start": 503.0,
+      "end": 505.0,
+      "text": "You will use the internal CSS,"
+    },
+    {
+      "start": 505.0,
+      "end": 507.0,
+      "text": "when your web page is small."
+    },
+    {
+      "start": 507.0,
+      "end": 510.0,
+      "text": "You have to write a little bit different CSS."
+    },
+    {
+      "start": 510.0,
+      "end": 512.0,
+      "text": "As I tell you a good use,"
+    },
+    {
+      "start": 512.0,
+      "end": 513.0,
+      "text": "I will use the internal CSS."
+    },
+    {
+      "start": 513.0,
+      "end": 515.0,
+      "text": "When I used to write in the website,"
+    },
+    {
+      "start": 515.0,
+      "end": 518.0,
+      "text": "I was doing all the work in my website."
+    },
+    {
+      "start": 518.0,
+      "end": 520.0,
+      "text": "I was doing all the work in the website."
+    },
+    {
+      "start": 520.0,
+      "end": 522.0,
+      "text": "But I had to tweak it."
+    },
+    {
+      "start": 522.0,
+      "end": 524.0,
+      "text": "I used to use the internal CSS."
+    },
+    {
+      "start": 524.0,
+      "end": 526.0,
+      "text": "You will use the external CSS."
+    },
+    {
+      "start": 526.0,
+      "end": 529.0,
+      "text": "When you are creating a large production grade website."
+    },
+    {
+      "start": 529.0,
+      "end": 531.0,
+      "text": "And in most of the cases,"
+    },
+    {
+      "start": 531.0,
+      "end": 533.0,
+      "text": "if you are working on a serious project,"
+    },
+    {
+      "start": 533.0,
+      "end": 537.0,
+      "text": "you will be creating a production grade website."
+    },
+    {
+      "start": 537.0,
+      "end": 540.0,
+      "text": "And if you are creating a production grade website,"
+    },
+    {
+      "start": 540.0,
+      "end": 542.0,
+      "text": "then you will want to use the best practices."
+    },
+    {
+      "start": 542.0,
+      "end": 547.0,
+      "text": "And using the external style sheet is considered a good practice."
+    },
+    {
+      "start": 548.0,
+      "end": 551.0,
+      "text": "Because you can get a style sheet from any HTML,"
+    },
+    {
+      "start": 551.0,
+      "end": 553.0,
+      "text": "you can get a touch from any HTML,"
+    },
+    {
+      "start": 553.0,
+      "end": 556.0,
+      "text": "you can also get a touch from your colleagues."
+    },
+    {
+      "start": 556.0,
+      "end": 558.0,
+      "text": "You can say that you work on that style sheet,"
+    },
+    {
+      "start": 558.0,
+      "end": 560.0,
+      "text": "I work on HTML."
+    },
+    {
+      "start": 560.0,
+      "end": 562.0,
+      "text": "So, you can write styles from the style,"
+    },
+    {
+      "start": 562.0,
+      "end": 564.0,
+      "text": "I work on that style."
+    },
+    {
+      "start": 564.0,
+      "end": 566.0,
+      "text": "So, you can work on a very good way."
+    },
+    {
+      "start": 566.0,
+      "end": 569.0,
+      "text": "This way, things get easily done."
+    },
+    {
+      "start": 569.0,
+      "end": 571.0,
+      "text": "If you are using external style sheet,"
+    },
+    {
+      "start": 571.0,
+      "end": 573.0,
+      "text": "and in most of the cases,"
+    },
+    {
+      "start": 573.0,
+      "end": 575.0,
+      "text": "you can go to any production grade project."
+    },
+    {
+      "start": 576.0,
+      "end": 577.4,
+      "text": "You have found a large fürsamo website"
+    },
+    {
+      "start": 577.4,
+      "end": 580.0,
+      "text": "lly cano Robert Netflix, show youtube,"
+    },
+    {
+      "start": 580.0,
+      "end": 582.0,
+      "text": "or your visa."
+    },
+    {
+      "start": 585.0,
+      "end": 586.0,
+      "text": "Of course, you will find your social media standards on any series of cases."
+    },
+    {
+      "start": 588.0,
+      "end": 591.0,
+      "text": "And you will know that in posed group,"
+    },
+    {
+      "start": 591.0,
+      "end": 593.0,
+      "text": "that time maybe will be nice."
+    },
+    {
+      "start": 593.0,
+      "end": 594.0,
+      "text": "But in 11 1330s"
+    },
+    {
+      "start": 594.0,
+      "end": 596.0,
+      "text": "for one,"
+    },
+    {
+      "start": 596.0,
+      "end": 599.0,
+      "text": "except for頭 educated."
+    },
+    {
+      "start": 599.0,
+      "end": 601.0,
+      "text": "Oh my God!"
+    },
+    {
+      "start": 601.0,
+      "end": 603.36,
+      "text": "An intelligent smart,"
+    },
+    {
+      "start": 603.36,
+      "end": 610.36,
+      "text": "or any name, CSS file, you have linked one CSS file."
+    },
+    {
+      "start": 610.36,
+      "end": 613.36,
+      "text": "I hope you all will understand this difference in 3-3."
+    },
+    {
+      "start": 613.36,
+      "end": 617.36,
+      "text": "And I know that I am going little slower because many people are in this course."
+    },
+    {
+      "start": 617.36,
+      "end": 620.36,
+      "text": "I am going to repeat this again and again."
+    },
+    {
+      "start": 620.36,
+      "end": 624.36,
+      "text": "We are going to make a lot of production great websites."
+    },
+    {
+      "start": 624.36,
+      "end": 626.36,
+      "text": "So you all must be excited about this."
+    },
+    {
+      "start": 626.36,
+      "end": 628.36,
+      "text": "Please let me know in the comments section."
+    },
+    {
+      "start": 628.36,
+      "end": 630.36,
+      "text": "If you haven't done this playlist access yet,"
+    },
+    {
+      "start": 630.36,
+      "end": 633.36,
+      "text": "please do not forget to subscribe to my channel."
+    },
+    {
+      "start": 633.36,
+      "end": 635.36,
+      "text": "Don't forget to press the bell icon."
+    },
+    {
+      "start": 635.36,
+      "end": 638.36,
+      "text": "Thank you so much for watching this video."
+    },
+    {
+      "start": 638.36,
+      "end": 641.36,
+      "text": "I will see you next time."
+    },
+    {
+      "start": 660.36,
+      "end": 663.36,
+      "text": "Bye."
+    }
+  ]
+}

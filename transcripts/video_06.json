@@ -1,0 +1,1744 @@
+{
+  "video": 6,
+  "course": "Sigma Web Development",
+  "source_file": "6_SEO and Core Web Vitals in HTML _ Sigma Web Development Course - Tutorial #6 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " Today in this video we will talk about core webwitals and why core webwitals are needed Keep this video like, share and subscribe The website of your phone is in the iphone, android phone, surface, etc. Because we have to give good experience to all users In this video we will also know that the hidden tool in the Chrome is called lighthouse and you can use it to enhance your website So write in the comment section, let's go to the signature batch of the computer screen So guys, I have already made a new folder called video6 Video6 and here is video6 I will open the VSCode as always And today I will tell you about the way that SEO is very important First of all, I will tell you what is SEO You can see a website of SEO stands for search engine optimization You can see a website of SEO Amazon.in's example Many Amazon.in is open So Amazon.in's chart will be low so that the products in search can be found in the search Google has a good chance of using good users So Google will only show them the best information which will be fast and with that, there are some things that are good for users For example, there are two pages from the side One page has been told about the dog food The other page has been told about the dog food But the page 2 is very low Google will give it more preference With that, there are a lot of vital things which Google considers to rank both the pages First of all, content is the most important If you have content on the page then you can also rank both the core web vitals But if you are competing with a page which has the same content Similarly, the quality of content is present So you will see your core web vitals And if your core web vitals are true then you will be given preference So your core web vitals are the first of the CLS You can see this video here which I have run from web.dev website And you can see the website and the order of canceling the cancel has been visible and it has shifted the layout and the order is complete But the user doesn't want the order to be complete So he wanted to click on the top So the user experience is much worse And as you have seen in this video, so we should not reduce the CLS Now, we have discussed the CLS Cumulative layout shift The page loads How much shift is it is? This was the first step and after this load, the key term part has shifted If you are not able to write the images then you will not be able to write the layout The next metric is the LCP and LCP stands for largest contextual paint This means that if the user is doing a page view then the biggest element For example, the biggest part of the image is that it is loading in so long Otherwise the whole page will be loaded But the biggest element which is the most important Web.dev or Google's Manit should have a good LCP score 2.5 seconds and the biggest element should be loaded After this, the third metric is the FID which stands for first input delay First input delay means that any user has clicked on an input on the button or any input on the page So that input process is in a long time For example, if you clicked on the button then the button click browser is in a long time and Google and Web.dev's Manit should start in a short time So these are the three core Web vitals which are very important For the knowledge of the core Web they are updated with the core Web but these three are very important Now I will show you what the light house report and what the queue generate and how the three core Web vitals will be So I will tell you If you will inspect the right click and you can see this right-side window you can click on the right-side window and you can click on the right-side window and you can click on the right-side window I prefer this to see the light house You can see the light house You can generate a report and tell you what the HTML is in the HTML page For example, if I want to see how my mobile users will see how I will do the mobile I will do desktop I will do the desktop I will do the mobile I will do the same report You can see that the report is generated in performance, accessibility, best practices, SE and PW You can see there is a scope of improvement You can see the 2.7 seconds fast app website All the suggestions are given If you incorporate these suggestions your website will be very big and the user will be very good You can see Image elements do not have explicit width and height You should give the height the image width and height to be reserved in your browser In HTML, you will be reserved in this browser If we don't set the height and width then what will happen that the browser will not know how much space we need to reserve We don't want to load the page If we start to shift we will click here When we shift from the wrong we will click here I will click here I have clicked that time the image is loaded and it is not preferred In this way the image will not be preferred in this way You can see there is a lot of cumulative layout So we need to keep cumulative layout so that our user can get a good experience We get more suggestions for our mobile We can generate desktop report You can see it has a report It has been given by 100 to 75 to 75 You can see that the things that are good are the scope of improvements So this is a hidden tool We need to use everything Now I want to tell you about the meta-tax I will make a new file called index.stml After making a single file first of all I want to tell you your title is very good When you are changing your page you should reflect your content Because if you want to google you will get the title from Google index You can write in the code You can write it This is the title and this is the title The title is the Instagram The title is the Gidda The title is the title and the title is the content that reflects your content You will be able to rank I will add content I will add H1 and then I will write paragraph and then I will write lawrem45 I will write lawrem45 I will write a very good question I will write this in Alc and 4 or 5 I have written it in 4 or 5 I will write 23 I will now review it I will do an opening browser You can see it in the description If I leave it like this I will write about I will write about the code The title is reflect You can see what will work in google I will also select the light of the report and see what scope of improvement There is no such thing I should improve I will write the details like I will write a more trick in any mobile How you can see You can see You can see You can see You can see You can see Your website is not responsive You can see Iphone 12 Pro Your website is like that Where do you use it? You have been using this at the A pseudonticon What sort of device is this? What do you swear? You can just do that This is because your PC get in the functions and internet You can see What is the amount? I will explain in the different terms of this device. If you have sent me a ve渴omess�� here, A person feels blocked by this device.ρAbo Amhir Abha Paik This ride will be deleted because From top to top I have sent you the same element of ancientIdue. Like in Therad, I will click on Meta. I can give my page description. I know that this is the page. This is a page about. This is a page which contains description about Harry. And here you can write whatever page content you want. I will show you what is SEO. What is SEO? You have written it. This page contains the description of this page. Now, you will need to parse a search engine. If you like it, you will have to parse it. If you don't have a metadata, you can generate your content. This is the search engine's responsibility. We don't know what to do. But, from our point of view, we will write a blog. We want to write a blank page. You can see that I have written a meta keyword. But, the meta keyword is deprecated. Meta keyword is not used yet. Meta keyword is seen in the code. But, it is believed that the meta keyword is not ranked in SEO. People do more than that. You have written about pets and you have written what is SEO. In the keyword, your page will be ranked. I will mark the double quotes. If I write a meta keyword, I will consider the search engine. Some search engines say that the meta keyword is not believed. I will not see the meta keyword. Meta keyword is not used yet. You can parse the content of your page. If you are coming to the same time, you will understand the content. What is your value? You will be ranked. If you want to know about the code, For example, if I inspect and go to the lighthouse, I will take out the lighthouse report for the desktop. There are some core web vitals. Like LCP. Then, FCP. First contextual paint. Now, you can see that everything is 100% 100% 100%. See, there is no more content here. But, you can see that, You can see that, what you are doing is, The pages with the web socket cannot enter back forward. The web socket is in the web socket because, We are using the extension. Live preview. Otherwise, this is the accessibility. Everything is so-so. It is a huge page. The web apps are not made by PWA. But, you can see that, The first contextual paint, The largest contextual paint, Total blocking time, Cumulative layout, speed index. If you want to know about all these, What is the first contextual paint, The user, who is going to see, That is painted in the browser. If you want to see these things, You can go to the web.dev.dev website. What is the point of these things? You can see that, You can see that, You can see that, You can see that, What is the point of these things? If you want to learn PWA, You can learn PWA. In this, everything is, Here, It is very good and abundant. But, we will focus on The web apps in the HTML, The CSS JavaScript and Websites. This is what I wanted to tell you, Because of which, You told about it. If you have not done the web development series, You must do it. Do access playlist, Do it, Do it, Click star, Do it, Do it, Thank you so much for watching this video. And I will see you, Next time.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Today in this video we will talk about core webwitals"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "and why core webwitals are needed"
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "Keep this video like, share and subscribe"
+    },
+    {
+      "start": 8.0,
+      "end": 15.0,
+      "text": "The website of your phone is in the iphone, android phone, surface, etc."
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "text": "Because we have to give good experience to all users"
+    },
+    {
+      "start": 20.0,
+      "end": 25.0,
+      "text": "In this video we will also know that the hidden tool in the Chrome is called lighthouse"
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "and you can use it to enhance your website"
+    },
+    {
+      "start": 28.0,
+      "end": 34.0,
+      "text": "So write in the comment section, let's go to the signature batch of the computer screen"
+    },
+    {
+      "start": 43.0,
+      "end": 48.0,
+      "text": "So guys, I have already made a new folder called video6"
+    },
+    {
+      "start": 48.0,
+      "end": 52.0,
+      "text": "Video6 and here is video6"
+    },
+    {
+      "start": 52.0,
+      "end": 55.0,
+      "text": "I will open the VSCode as always"
+    },
+    {
+      "start": 55.0,
+      "end": 59.0,
+      "text": "And today I will tell you about the way that SEO is very important"
+    },
+    {
+      "start": 59.0,
+      "end": 61.0,
+      "text": "First of all, I will tell you what is SEO"
+    },
+    {
+      "start": 61.0,
+      "end": 64.0,
+      "text": "You can see a website of SEO stands for search engine optimization"
+    },
+    {
+      "start": 64.0,
+      "end": 66.0,
+      "text": "You can see a website of SEO"
+    },
+    {
+      "start": 66.0,
+      "end": 68.0,
+      "text": "Amazon.in's example"
+    },
+    {
+      "start": 68.0,
+      "end": 70.0,
+      "text": "Many Amazon.in is open"
+    },
+    {
+      "start": 70.0,
+      "end": 73.0,
+      "text": "So Amazon.in's chart will be low"
+    },
+    {
+      "start": 73.0,
+      "end": 76.0,
+      "text": "so that the products in search can be found in the search"
+    },
+    {
+      "start": 76.0,
+      "end": 81.0,
+      "text": "Google has a good chance of using good users"
+    },
+    {
+      "start": 81.0,
+      "end": 84.0,
+      "text": "So Google will only show them the best information"
+    },
+    {
+      "start": 84.0,
+      "end": 86.0,
+      "text": "which will be fast"
+    },
+    {
+      "start": 86.0,
+      "end": 91.0,
+      "text": "and with that, there are some things that are good for users"
+    },
+    {
+      "start": 91.0,
+      "end": 93.0,
+      "text": "For example, there are two pages from the side"
+    },
+    {
+      "start": 93.0,
+      "end": 95.0,
+      "text": "One page has been told about the dog food"
+    },
+    {
+      "start": 95.0,
+      "end": 98.0,
+      "text": "The other page has been told about the dog food"
+    },
+    {
+      "start": 98.0,
+      "end": 101.0,
+      "text": "But the page 2 is very low"
+    },
+    {
+      "start": 101.0,
+      "end": 103.0,
+      "text": "Google will give it more preference"
+    },
+    {
+      "start": 103.0,
+      "end": 105.0,
+      "text": "With that, there are a lot of vital things"
+    },
+    {
+      "start": 105.0,
+      "end": 108.0,
+      "text": "which Google considers to rank both the pages"
+    },
+    {
+      "start": 108.0,
+      "end": 110.0,
+      "text": "First of all, content is the most important"
+    },
+    {
+      "start": 110.0,
+      "end": 112.0,
+      "text": "If you have content on the page"
+    },
+    {
+      "start": 112.0,
+      "end": 116.0,
+      "text": "then you can also rank both the core web vitals"
+    },
+    {
+      "start": 116.0,
+      "end": 118.0,
+      "text": "But if you are competing with a page"
+    },
+    {
+      "start": 118.0,
+      "end": 120.0,
+      "text": "which has the same content"
+    },
+    {
+      "start": 120.0,
+      "end": 122.0,
+      "text": "Similarly, the quality of content is present"
+    },
+    {
+      "start": 122.0,
+      "end": 124.0,
+      "text": "So you will see your core web vitals"
+    },
+    {
+      "start": 124.0,
+      "end": 126.0,
+      "text": "And if your core web vitals are true"
+    },
+    {
+      "start": 126.0,
+      "end": 128.0,
+      "text": "then you will be given preference"
+    },
+    {
+      "start": 128.0,
+      "end": 131.0,
+      "text": "So your core web vitals are the first of the CLS"
+    },
+    {
+      "start": 131.0,
+      "end": 133.0,
+      "text": "You can see this video here"
+    },
+    {
+      "start": 133.0,
+      "end": 135.0,
+      "text": "which I have run from web.dev website"
+    },
+    {
+      "start": 135.0,
+      "end": 137.0,
+      "text": "And you can see the website"
+    },
+    {
+      "start": 137.0,
+      "end": 139.0,
+      "text": "and the order of canceling the cancel"
+    },
+    {
+      "start": 139.0,
+      "end": 141.0,
+      "text": "has been visible"
+    },
+    {
+      "start": 141.0,
+      "end": 143.0,
+      "text": "and it has shifted the layout"
+    },
+    {
+      "start": 143.0,
+      "end": 145.0,
+      "text": "and the order is complete"
+    },
+    {
+      "start": 145.0,
+      "end": 147.0,
+      "text": "But the user doesn't want the order to be complete"
+    },
+    {
+      "start": 147.0,
+      "end": 149.0,
+      "text": "So he wanted to click on the top"
+    },
+    {
+      "start": 149.0,
+      "end": 151.0,
+      "text": "So the user experience is much worse"
+    },
+    {
+      "start": 151.0,
+      "end": 153.0,
+      "text": "And as you have seen in this video,"
+    },
+    {
+      "start": 153.0,
+      "end": 155.0,
+      "text": "so we should not reduce the CLS"
+    },
+    {
+      "start": 155.0,
+      "end": 157.0,
+      "text": "Now, we have discussed the CLS"
+    },
+    {
+      "start": 157.0,
+      "end": 159.0,
+      "text": "Cumulative layout shift"
+    },
+    {
+      "start": 159.0,
+      "end": 161.0,
+      "text": "The page loads"
+    },
+    {
+      "start": 161.0,
+      "end": 163.0,
+      "text": "How much shift is it is?"
+    },
+    {
+      "start": 163.0,
+      "end": 165.0,
+      "text": "This was the first step"
+    },
+    {
+      "start": 165.0,
+      "end": 167.0,
+      "text": "and after this load, the key term part"
+    },
+    {
+      "start": 167.0,
+      "end": 169.0,
+      "text": "has shifted"
+    },
+    {
+      "start": 169.0,
+      "end": 171.0,
+      "text": "If you are not able to write the images"
+    },
+    {
+      "start": 171.0,
+      "end": 173.0,
+      "text": "then you will not be able to write the layout"
+    },
+    {
+      "start": 173.0,
+      "end": 175.0,
+      "text": "The next metric is the LCP"
+    },
+    {
+      "start": 175.0,
+      "end": 177.0,
+      "text": "and LCP stands for largest contextual paint"
+    },
+    {
+      "start": 177.0,
+      "end": 179.0,
+      "text": "This means that if the user is doing a page view"
+    },
+    {
+      "start": 179.0,
+      "end": 181.0,
+      "text": "then the biggest element"
+    },
+    {
+      "start": 181.0,
+      "end": 183.0,
+      "text": "For example, the biggest part of the image"
+    },
+    {
+      "start": 183.0,
+      "end": 185.0,
+      "text": "is that it is loading in so long"
+    },
+    {
+      "start": 185.0,
+      "end": 187.0,
+      "text": "Otherwise the whole page will be loaded"
+    },
+    {
+      "start": 187.0,
+      "end": 189.0,
+      "text": "But the biggest element"
+    },
+    {
+      "start": 189.0,
+      "end": 191.0,
+      "text": "which is the most important"
+    },
+    {
+      "start": 191.0,
+      "end": 193.0,
+      "text": "Web.dev or Google's Manit"
+    },
+    {
+      "start": 193.0,
+      "end": 195.0,
+      "text": "should have a good LCP score"
+    },
+    {
+      "start": 195.0,
+      "end": 197.0,
+      "text": "2.5 seconds"
+    },
+    {
+      "start": 197.0,
+      "end": 199.0,
+      "text": "and the biggest element should be loaded"
+    },
+    {
+      "start": 199.0,
+      "end": 201.0,
+      "text": "After this, the third metric is the FID"
+    },
+    {
+      "start": 201.0,
+      "end": 203.0,
+      "text": "which stands for first input delay"
+    },
+    {
+      "start": 203.0,
+      "end": 205.0,
+      "text": "First input delay means"
+    },
+    {
+      "start": 205.0,
+      "end": 207.0,
+      "text": "that any user has clicked on an input"
+    },
+    {
+      "start": 207.0,
+      "end": 209.0,
+      "text": "on the button"
+    },
+    {
+      "start": 209.0,
+      "end": 211.0,
+      "text": "or any input on the page"
+    },
+    {
+      "start": 211.0,
+      "end": 213.0,
+      "text": "So that input process is in a long time"
+    },
+    {
+      "start": 213.0,
+      "end": 215.0,
+      "text": "For example, if you clicked on the button"
+    },
+    {
+      "start": 215.0,
+      "end": 217.0,
+      "text": "then the button click browser is in a long time"
+    },
+    {
+      "start": 217.0,
+      "end": 219.0,
+      "text": "and Google and Web.dev's Manit"
+    },
+    {
+      "start": 219.0,
+      "end": 221.0,
+      "text": "should start in a short time"
+    },
+    {
+      "start": 221.0,
+      "end": 223.0,
+      "text": "So these are the three core Web vitals"
+    },
+    {
+      "start": 223.0,
+      "end": 225.0,
+      "text": "which are very important"
+    },
+    {
+      "start": 225.0,
+      "end": 227.0,
+      "text": "For the knowledge of the core Web"
+    },
+    {
+      "start": 227.0,
+      "end": 229.0,
+      "text": "they are updated with the core Web"
+    },
+    {
+      "start": 229.0,
+      "end": 231.0,
+      "text": "but these three are very important"
+    },
+    {
+      "start": 231.0,
+      "end": 233.0,
+      "text": "Now I will show you what the light house report"
+    },
+    {
+      "start": 233.0,
+      "end": 235.0,
+      "text": "and what the queue generate"
+    },
+    {
+      "start": 235.0,
+      "end": 237.0,
+      "text": "and how the three core Web vitals will be"
+    },
+    {
+      "start": 237.0,
+      "end": 239.0,
+      "text": "So I will tell you"
+    },
+    {
+      "start": 239.0,
+      "end": 241.0,
+      "text": "If you will inspect the right click"
+    },
+    {
+      "start": 241.0,
+      "end": 243.0,
+      "text": "and you can see"
+    },
+    {
+      "start": 243.0,
+      "end": 245.0,
+      "text": "this right-side window"
+    },
+    {
+      "start": 245.0,
+      "end": 247.0,
+      "text": "you can click on the right-side window"
+    },
+    {
+      "start": 247.0,
+      "end": 249.0,
+      "text": "and you can click on the right-side window"
+    },
+    {
+      "start": 249.0,
+      "end": 251.0,
+      "text": "and you can click on the right-side window"
+    },
+    {
+      "start": 251.0,
+      "end": 253.0,
+      "text": "I prefer this"
+    },
+    {
+      "start": 253.0,
+      "end": 255.0,
+      "text": "to see the light house"
+    },
+    {
+      "start": 255.0,
+      "end": 257.0,
+      "text": "You can see the light house"
+    },
+    {
+      "start": 257.0,
+      "end": 259.0,
+      "text": "You can generate a report"
+    },
+    {
+      "start": 259.0,
+      "end": 261.0,
+      "text": "and tell you what the HTML is"
+    },
+    {
+      "start": 261.0,
+      "end": 263.0,
+      "text": "in the HTML page"
+    },
+    {
+      "start": 263.0,
+      "end": 265.0,
+      "text": "For example, if I want to see"
+    },
+    {
+      "start": 265.0,
+      "end": 267.0,
+      "text": "how my mobile users will see"
+    },
+    {
+      "start": 267.0,
+      "end": 269.0,
+      "text": "how I will do the mobile"
+    },
+    {
+      "start": 269.0,
+      "end": 271.0,
+      "text": "I will do desktop"
+    },
+    {
+      "start": 271.0,
+      "end": 273.0,
+      "text": "I will do the desktop"
+    },
+    {
+      "start": 273.0,
+      "end": 275.0,
+      "text": "I will do the mobile"
+    },
+    {
+      "start": 275.0,
+      "end": 277.0,
+      "text": "I will do the same report"
+    },
+    {
+      "start": 277.0,
+      "end": 279.0,
+      "text": "You can see"
+    },
+    {
+      "start": 279.0,
+      "end": 281.0,
+      "text": "that the report is generated"
+    },
+    {
+      "start": 281.0,
+      "end": 283.0,
+      "text": "in performance, accessibility, best practices,"
+    },
+    {
+      "start": 283.0,
+      "end": 285.0,
+      "text": "SE and PW"
+    },
+    {
+      "start": 285.0,
+      "end": 287.0,
+      "text": "You can see"
+    },
+    {
+      "start": 287.0,
+      "end": 289.0,
+      "text": "there is a scope of improvement"
+    },
+    {
+      "start": 289.0,
+      "end": 291.0,
+      "text": "You can see"
+    },
+    {
+      "start": 291.0,
+      "end": 293.0,
+      "text": "the 2.7 seconds"
+    },
+    {
+      "start": 293.0,
+      "end": 295.0,
+      "text": "fast app website"
+    },
+    {
+      "start": 295.0,
+      "end": 297.0,
+      "text": "All the suggestions"
+    },
+    {
+      "start": 297.0,
+      "end": 299.0,
+      "text": "are given"
+    },
+    {
+      "start": 299.0,
+      "end": 301.0,
+      "text": "If you incorporate these suggestions"
+    },
+    {
+      "start": 301.0,
+      "end": 303.0,
+      "text": "your website will be very big"
+    },
+    {
+      "start": 303.0,
+      "end": 305.0,
+      "text": "and the user will be very good"
+    },
+    {
+      "start": 305.0,
+      "end": 307.0,
+      "text": "You can see"
+    },
+    {
+      "start": 307.0,
+      "end": 309.0,
+      "text": "Image elements do not have"
+    },
+    {
+      "start": 309.0,
+      "end": 311.0,
+      "text": "explicit width and height"
+    },
+    {
+      "start": 311.0,
+      "end": 313.0,
+      "text": "You should give the height"
+    },
+    {
+      "start": 313.0,
+      "end": 315.0,
+      "text": "the image width and height"
+    },
+    {
+      "start": 315.0,
+      "end": 317.0,
+      "text": "to be reserved"
+    },
+    {
+      "start": 317.0,
+      "end": 319.0,
+      "text": "in your browser"
+    },
+    {
+      "start": 319.0,
+      "end": 321.0,
+      "text": "In HTML, you will be reserved"
+    },
+    {
+      "start": 321.0,
+      "end": 323.0,
+      "text": "in this browser"
+    },
+    {
+      "start": 323.0,
+      "end": 325.0,
+      "text": "If we don't set the height and width"
+    },
+    {
+      "start": 325.0,
+      "end": 327.0,
+      "text": "then what will happen"
+    },
+    {
+      "start": 327.0,
+      "end": 329.0,
+      "text": "that the browser will not know"
+    },
+    {
+      "start": 329.0,
+      "end": 331.0,
+      "text": "how much space we need to reserve"
+    },
+    {
+      "start": 331.0,
+      "end": 333.0,
+      "text": "We don't want to"
+    },
+    {
+      "start": 333.0,
+      "end": 335.0,
+      "text": "load the page"
+    },
+    {
+      "start": 335.0,
+      "end": 337.0,
+      "text": "If we start to shift"
+    },
+    {
+      "start": 337.0,
+      "end": 339.0,
+      "text": "we will click here"
+    },
+    {
+      "start": 339.0,
+      "end": 341.0,
+      "text": "When we shift from the wrong"
+    },
+    {
+      "start": 341.0,
+      "end": 343.0,
+      "text": "we will click here"
+    },
+    {
+      "start": 343.0,
+      "end": 345.0,
+      "text": "I will click here"
+    },
+    {
+      "start": 345.0,
+      "end": 347.0,
+      "text": "I have clicked"
+    },
+    {
+      "start": 347.0,
+      "end": 349.0,
+      "text": "that time"
+    },
+    {
+      "start": 349.0,
+      "end": 351.0,
+      "text": "the image is loaded"
+    },
+    {
+      "start": 351.0,
+      "end": 353.0,
+      "text": "and it is not preferred"
+    },
+    {
+      "start": 353.0,
+      "end": 355.0,
+      "text": "In this way"
+    },
+    {
+      "start": 355.0,
+      "end": 357.0,
+      "text": "the image will not be preferred"
+    },
+    {
+      "start": 357.0,
+      "end": 359.0,
+      "text": "in this way"
+    },
+    {
+      "start": 359.0,
+      "end": 361.0,
+      "text": "You can see"
+    },
+    {
+      "start": 361.0,
+      "end": 363.0,
+      "text": "there is a lot of cumulative layout"
+    },
+    {
+      "start": 363.0,
+      "end": 365.0,
+      "text": "So we need to keep cumulative layout"
+    },
+    {
+      "start": 365.0,
+      "end": 367.0,
+      "text": "so that our user can get a good experience"
+    },
+    {
+      "start": 367.0,
+      "end": 369.0,
+      "text": "We get more"
+    },
+    {
+      "start": 369.0,
+      "end": 371.0,
+      "text": "suggestions"
+    },
+    {
+      "start": 371.0,
+      "end": 373.0,
+      "text": "for our mobile"
+    },
+    {
+      "start": 373.0,
+      "end": 375.0,
+      "text": "We can generate desktop report"
+    },
+    {
+      "start": 375.0,
+      "end": 377.0,
+      "text": "You can see"
+    },
+    {
+      "start": 377.0,
+      "end": 379.0,
+      "text": "it has a report"
+    },
+    {
+      "start": 379.0,
+      "end": 381.0,
+      "text": "It has been given"
+    },
+    {
+      "start": 381.0,
+      "end": 383.0,
+      "text": "by 100 to 75 to 75"
+    },
+    {
+      "start": 383.0,
+      "end": 385.0,
+      "text": "You can see"
+    },
+    {
+      "start": 385.0,
+      "end": 387.0,
+      "text": "that the things that are good"
+    },
+    {
+      "start": 387.0,
+      "end": 389.0,
+      "text": "are the scope of improvements"
+    },
+    {
+      "start": 389.0,
+      "end": 391.0,
+      "text": "So this is a hidden tool"
+    },
+    {
+      "start": 391.0,
+      "end": 393.0,
+      "text": "We need to use everything"
+    },
+    {
+      "start": 393.0,
+      "end": 395.0,
+      "text": "Now I want to tell you about the meta-tax"
+    },
+    {
+      "start": 395.0,
+      "end": 397.0,
+      "text": "I will make a new file"
+    },
+    {
+      "start": 397.0,
+      "end": 399.0,
+      "text": "called index.stml"
+    },
+    {
+      "start": 399.0,
+      "end": 401.0,
+      "text": "After making a single file"
+    },
+    {
+      "start": 401.0,
+      "end": 403.0,
+      "text": "first of all"
+    },
+    {
+      "start": 403.0,
+      "end": 405.0,
+      "text": "I want to tell you"
+    },
+    {
+      "start": 405.0,
+      "end": 407.0,
+      "text": "your title"
+    },
+    {
+      "start": 407.0,
+      "end": 409.0,
+      "text": "is very good"
+    },
+    {
+      "start": 409.0,
+      "end": 411.0,
+      "text": "When you are changing your page"
+    },
+    {
+      "start": 411.0,
+      "end": 413.0,
+      "text": "you should reflect your content"
+    },
+    {
+      "start": 413.0,
+      "end": 415.0,
+      "text": "Because if you want to google"
+    },
+    {
+      "start": 415.0,
+      "end": 417.0,
+      "text": "you will get the title"
+    },
+    {
+      "start": 417.0,
+      "end": 419.0,
+      "text": "from Google index"
+    },
+    {
+      "start": 419.0,
+      "end": 421.0,
+      "text": "You can write in the code"
+    },
+    {
+      "start": 421.0,
+      "end": 423.0,
+      "text": "You can write it"
+    },
+    {
+      "start": 423.0,
+      "end": 425.0,
+      "text": "This is the title"
+    },
+    {
+      "start": 425.0,
+      "end": 427.0,
+      "text": "and this is the title"
+    },
+    {
+      "start": 427.0,
+      "end": 429.0,
+      "text": "The title is the Instagram"
+    },
+    {
+      "start": 429.0,
+      "end": 431.0,
+      "text": "The title is the Gidda"
+    },
+    {
+      "start": 431.0,
+      "end": 433.0,
+      "text": "The title is the title"
+    },
+    {
+      "start": 433.0,
+      "end": 435.0,
+      "text": "and the title is"
+    },
+    {
+      "start": 435.0,
+      "end": 437.0,
+      "text": "the content that reflects"
+    },
+    {
+      "start": 437.0,
+      "end": 439.0,
+      "text": "your content"
+    },
+    {
+      "start": 439.0,
+      "end": 441.0,
+      "text": "You will be able to rank"
+    },
+    {
+      "start": 441.0,
+      "end": 443.0,
+      "text": "I will add content"
+    },
+    {
+      "start": 443.0,
+      "end": 445.0,
+      "text": "I will add H1"
+    },
+    {
+      "start": 445.0,
+      "end": 447.0,
+      "text": "and then"
+    },
+    {
+      "start": 447.0,
+      "end": 449.0,
+      "text": "I will write paragraph"
+    },
+    {
+      "start": 449.0,
+      "end": 451.0,
+      "text": "and then"
+    },
+    {
+      "start": 451.0,
+      "end": 453.0,
+      "text": "I will write lawrem45"
+    },
+    {
+      "start": 453.0,
+      "end": 455.0,
+      "text": "I will write lawrem45"
+    },
+    {
+      "start": 455.0,
+      "end": 457.0,
+      "text": "I will write a very good question"
+    },
+    {
+      "start": 457.0,
+      "end": 459.0,
+      "text": "I will write this in Alc and 4 or 5"
+    },
+    {
+      "start": 459.0,
+      "end": 461.0,
+      "text": "I have written it in 4 or 5"
+    },
+    {
+      "start": 461.0,
+      "end": 463.0,
+      "text": "I will write 23"
+    },
+    {
+      "start": 463.0,
+      "end": 465.0,
+      "text": "I will now review it"
+    },
+    {
+      "start": 465.0,
+      "end": 467.0,
+      "text": "I will do an opening browser"
+    },
+    {
+      "start": 467.0,
+      "end": 469.0,
+      "text": "You can see it in the description"
+    },
+    {
+      "start": 469.0,
+      "end": 471.0,
+      "text": "If I leave it like this"
+    },
+    {
+      "start": 471.0,
+      "end": 473.0,
+      "text": "I will write about"
+    },
+    {
+      "start": 473.0,
+      "end": 475.0,
+      "text": "I will write about"
+    },
+    {
+      "start": 475.0,
+      "end": 477.0,
+      "text": "the code"
+    },
+    {
+      "start": 477.0,
+      "end": 479.0,
+      "text": "The title is"
+    },
+    {
+      "start": 479.0,
+      "end": 481.0,
+      "text": "reflect"
+    },
+    {
+      "start": 481.0,
+      "end": 483.0,
+      "text": "You can see"
+    },
+    {
+      "start": 483.0,
+      "end": 485.0,
+      "text": "what will work"
+    },
+    {
+      "start": 485.0,
+      "end": 487.0,
+      "text": "in google"
+    },
+    {
+      "start": 487.0,
+      "end": 489.0,
+      "text": "I will also"
+    },
+    {
+      "start": 489.0,
+      "end": 491.0,
+      "text": "select the light of the report"
+    },
+    {
+      "start": 491.0,
+      "end": 493.0,
+      "text": "and see what scope of improvement"
+    },
+    {
+      "start": 493.0,
+      "end": 495.0,
+      "text": "There is no such thing"
+    },
+    {
+      "start": 495.0,
+      "end": 497.0,
+      "text": "I should improve"
+    },
+    {
+      "start": 497.0,
+      "end": 499.0,
+      "text": "I will write the details"
+    },
+    {
+      "start": 499.0,
+      "end": 501.0,
+      "text": "like"
+    },
+    {
+      "start": 501.0,
+      "end": 503.0,
+      "text": "I will write a more trick"
+    },
+    {
+      "start": 503.0,
+      "end": 505.0,
+      "text": "in any mobile"
+    },
+    {
+      "start": 505.0,
+      "end": 507.0,
+      "text": "How you can see"
+    },
+    {
+      "start": 507.0,
+      "end": 509.0,
+      "text": "You can see"
+    },
+    {
+      "start": 509.0,
+      "end": 511.0,
+      "text": "You can see"
+    },
+    {
+      "start": 511.0,
+      "end": 513.0,
+      "text": "You can see"
+    },
+    {
+      "start": 513.0,
+      "end": 515.0,
+      "text": "You can see"
+    },
+    {
+      "start": 515.0,
+      "end": 517.0,
+      "text": "You can see"
+    },
+    {
+      "start": 517.0,
+      "end": 519.0,
+      "text": "Your website"
+    },
+    {
+      "start": 519.0,
+      "end": 521.0,
+      "text": "is not responsive"
+    },
+    {
+      "start": 521.0,
+      "end": 523.0,
+      "text": "You can see"
+    },
+    {
+      "start": 523.0,
+      "end": 525.0,
+      "text": "Iphone 12 Pro"
+    },
+    {
+      "start": 525.0,
+      "end": 527.0,
+      "text": "Your website is"
+    },
+    {
+      "start": 527.0,
+      "end": 529.0,
+      "text": "like that"
+    },
+    {
+      "start": 529.0,
+      "end": 529.42,
+      "text": "Where do you"
+    },
+    {
+      "start": 529.42,
+      "end": 531.0,
+      "text": "use it?"
+    },
+    {
+      "start": 531.0,
+      "end": 531.74,
+      "text": "You have been"
+    },
+    {
+      "start": 531.74,
+      "end": 535.24,
+      "text": "using this at the A pseudonticon"
+    },
+    {
+      "start": 535.24,
+      "end": 537.24,
+      "text": "What sort of device is this?"
+    },
+    {
+      "start": 537.24,
+      "end": 539.24,
+      "text": "What do you swear?"
+    },
+    {
+      "start": 539.24,
+      "end": 541.24,
+      "text": "You can just do that"
+    },
+    {
+      "start": 541.24,
+      "end": 543.24,
+      "text": "This is because"
+    },
+    {
+      "start": 543.24,
+      "end": 543.64,
+      "text": "your PC get"
+    },
+    {
+      "start": 543.64,
+      "end": 545.24,
+      "text": "in the functions"
+    },
+    {
+      "start": 545.24,
+      "end": 545.72,
+      "text": "and"
+    },
+    {
+      "start": 545.72,
+      "end": 548.14,
+      "text": "internet"
+    },
+    {
+      "start": 548.14,
+      "end": 550.2,
+      "text": "You can see"
+    },
+    {
+      "start": 550.2,
+      "end": 552.2,
+      "text": "What is the amount?"
+    },
+    {
+      "start": 552.2,
+      "end": 556.72,
+      "text": "I will explain in the different terms of this device."
+    },
+    {
+      "start": 556.72,
+      "end": 562.82,
+      "text": "If you have sent me a ve渴omess�� here,"
+    },
+    {
+      "start": 562.82,
+      "end": 565.62,
+      "text": "A person feels blocked by this device."
+    },
+    {
+      "start": 565.62,
+      "end": 568.4,
+      "text": "ρAbo Amhir Abha Paik"
+    },
+    {
+      "start": 568.4,
+      "end": 571.1,
+      "text": "This ride will be deleted because"
+    },
+    {
+      "start": 571.1,
+      "end": 574.56,
+      "text": "From top to top I have sent you the same element of ancientIdue."
+    },
+    {
+      "start": 574.56,
+      "end": 581.44,
+      "text": "Like in Therad,"
+    },
+    {
+      "start": 581.44,
+      "end": 585.44,
+      "text": "I will click on Meta. I can give my page description."
+    },
+    {
+      "start": 585.44,
+      "end": 595.44,
+      "text": "I know that this is the page. This is a page about. This is a page which contains description about Harry."
+    },
+    {
+      "start": 596.44,
+      "end": 600.44,
+      "text": "And here you can write whatever page content you want."
+    },
+    {
+      "start": 600.44,
+      "end": 603.44,
+      "text": "I will show you what is SEO."
+    },
+    {
+      "start": 603.44,
+      "end": 605.44,
+      "text": "What is SEO? You have written it."
+    },
+    {
+      "start": 605.44,
+      "end": 609.44,
+      "text": "This page contains the description of this page."
+    },
+    {
+      "start": 609.44,
+      "end": 613.44,
+      "text": "Now, you will need to parse a search engine."
+    },
+    {
+      "start": 613.44,
+      "end": 620.44,
+      "text": "If you like it, you will have to parse it. If you don't have a metadata, you can generate your content."
+    },
+    {
+      "start": 620.44,
+      "end": 623.44,
+      "text": "This is the search engine's responsibility."
+    },
+    {
+      "start": 623.44,
+      "end": 625.44,
+      "text": "We don't know what to do."
+    },
+    {
+      "start": 625.44,
+      "end": 629.44,
+      "text": "But, from our point of view, we will write a blog."
+    },
+    {
+      "start": 629.44,
+      "end": 632.44,
+      "text": "We want to write a blank page."
+    },
+    {
+      "start": 632.44,
+      "end": 636.44,
+      "text": "You can see that I have written a meta keyword."
+    },
+    {
+      "start": 636.44,
+      "end": 641.44,
+      "text": "But, the meta keyword is deprecated."
+    },
+    {
+      "start": 641.44,
+      "end": 643.44,
+      "text": "Meta keyword is not used yet."
+    },
+    {
+      "start": 643.44,
+      "end": 645.44,
+      "text": "Meta keyword is seen in the code."
+    },
+    {
+      "start": 645.44,
+      "end": 649.44,
+      "text": "But, it is believed that the meta keyword is not ranked in SEO."
+    },
+    {
+      "start": 649.44,
+      "end": 651.44,
+      "text": "People do more than that."
+    },
+    {
+      "start": 651.44,
+      "end": 654.44,
+      "text": "You have written about pets and you have written what is SEO."
+    },
+    {
+      "start": 654.44,
+      "end": 656.44,
+      "text": "In the keyword, your page will be ranked."
+    },
+    {
+      "start": 656.44,
+      "end": 659.44,
+      "text": "I will mark the double quotes."
+    },
+    {
+      "start": 659.44,
+      "end": 663.44,
+      "text": "If I write a meta keyword, I will consider the search engine."
+    },
+    {
+      "start": 663.44,
+      "end": 666.44,
+      "text": "Some search engines say that the meta keyword is not believed."
+    },
+    {
+      "start": 666.44,
+      "end": 668.44,
+      "text": "I will not see the meta keyword."
+    },
+    {
+      "start": 668.44,
+      "end": 671.44,
+      "text": "Meta keyword is not used yet."
+    },
+    {
+      "start": 671.44,
+      "end": 673.44,
+      "text": "You can parse the content of your page."
+    },
+    {
+      "start": 673.44,
+      "end": 677.44,
+      "text": "If you are coming to the same time, you will understand the content."
+    },
+    {
+      "start": 677.44,
+      "end": 679.44,
+      "text": "What is your value?"
+    },
+    {
+      "start": 679.44,
+      "end": 680.44,
+      "text": "You will be ranked."
+    },
+    {
+      "start": 680.44,
+      "end": 683.44,
+      "text": "If you want to know about the code,"
+    },
+    {
+      "start": 683.44,
+      "end": 686.44,
+      "text": "For example, if I inspect and go to the lighthouse,"
+    },
+    {
+      "start": 686.44,
+      "end": 688.44,
+      "text": "I will take out the lighthouse report for the desktop."
+    },
+    {
+      "start": 688.44,
+      "end": 690.44,
+      "text": "There are some core web vitals."
+    },
+    {
+      "start": 690.44,
+      "end": 691.44,
+      "text": "Like LCP."
+    },
+    {
+      "start": 691.44,
+      "end": 693.44,
+      "text": "Then, FCP."
+    },
+    {
+      "start": 693.44,
+      "end": 695.44,
+      "text": "First contextual paint."
+    },
+    {
+      "start": 695.44,
+      "end": 697.44,
+      "text": "Now, you can see that everything is 100% 100% 100%."
+    },
+    {
+      "start": 697.44,
+      "end": 699.44,
+      "text": "See, there is no more content here."
+    },
+    {
+      "start": 699.44,
+      "end": 701.44,
+      "text": "But, you can see that,"
+    },
+    {
+      "start": 701.44,
+      "end": 702.44,
+      "text": "You can see that, what you are doing is,"
+    },
+    {
+      "start": 702.44,
+      "end": 705.44,
+      "text": "The pages with the web socket cannot enter back forward."
+    },
+    {
+      "start": 705.44,
+      "end": 706.44,
+      "text": "The web socket is in the web socket because,"
+    },
+    {
+      "start": 706.44,
+      "end": 708.44,
+      "text": "We are using the extension."
+    },
+    {
+      "start": 708.44,
+      "end": 709.44,
+      "text": "Live preview."
+    },
+    {
+      "start": 709.44,
+      "end": 711.44,
+      "text": "Otherwise, this is the accessibility."
+    },
+    {
+      "start": 711.44,
+      "end": 712.44,
+      "text": "Everything is so-so."
+    },
+    {
+      "start": 712.44,
+      "end": 713.44,
+      "text": "It is a huge page."
+    },
+    {
+      "start": 713.44,
+      "end": 716.44,
+      "text": "The web apps are not made by PWA."
+    },
+    {
+      "start": 716.44,
+      "end": 717.44,
+      "text": "But, you can see that,"
+    },
+    {
+      "start": 717.44,
+      "end": 718.44,
+      "text": "The first contextual paint,"
+    },
+    {
+      "start": 718.44,
+      "end": 719.44,
+      "text": "The largest contextual paint,"
+    },
+    {
+      "start": 719.44,
+      "end": 721.44,
+      "text": "Total blocking time,"
+    },
+    {
+      "start": 721.44,
+      "end": 723.44,
+      "text": "Cumulative layout, speed index."
+    },
+    {
+      "start": 723.44,
+      "end": 725.44,
+      "text": "If you want to know about all these,"
+    },
+    {
+      "start": 725.44,
+      "end": 726.44,
+      "text": "What is the first contextual paint,"
+    },
+    {
+      "start": 726.44,
+      "end": 727.44,
+      "text": "The user, who is going to see,"
+    },
+    {
+      "start": 727.44,
+      "end": 729.44,
+      "text": "That is painted in the browser."
+    },
+    {
+      "start": 729.44,
+      "end": 731.44,
+      "text": "If you want to see these things,"
+    },
+    {
+      "start": 731.44,
+      "end": 734.44,
+      "text": "You can go to the web.dev.dev website."
+    },
+    {
+      "start": 734.44,
+      "end": 736.44,
+      "text": "What is the point of these things?"
+    },
+    {
+      "start": 736.44,
+      "end": 738.44,
+      "text": "You can see that,"
+    },
+    {
+      "start": 738.44,
+      "end": 739.44,
+      "text": "You can see that,"
+    },
+    {
+      "start": 739.44,
+      "end": 740.44,
+      "text": "You can see that,"
+    },
+    {
+      "start": 740.44,
+      "end": 741.44,
+      "text": "You can see that,"
+    },
+    {
+      "start": 741.44,
+      "end": 743.44,
+      "text": "What is the point of these things?"
+    },
+    {
+      "start": 743.44,
+      "end": 744.44,
+      "text": "If you want to learn PWA,"
+    },
+    {
+      "start": 744.44,
+      "end": 745.44,
+      "text": "You can learn PWA."
+    },
+    {
+      "start": 745.44,
+      "end": 746.44,
+      "text": "In this, everything is,"
+    },
+    {
+      "start": 746.44,
+      "end": 747.44,
+      "text": "Here,"
+    },
+    {
+      "start": 747.44,
+      "end": 749.44,
+      "text": "It is very good and abundant."
+    },
+    {
+      "start": 749.44,
+      "end": 750.44,
+      "text": "But, we will focus on"
+    },
+    {
+      "start": 750.44,
+      "end": 751.44,
+      "text": "The web apps in the HTML,"
+    },
+    {
+      "start": 751.44,
+      "end": 753.44,
+      "text": "The CSS JavaScript and Websites."
+    },
+    {
+      "start": 753.44,
+      "end": 755.44,
+      "text": "This is what I wanted to tell you,"
+    },
+    {
+      "start": 755.44,
+      "end": 756.44,
+      "text": "Because of which,"
+    },
+    {
+      "start": 756.44,
+      "end": 757.44,
+      "text": "You told about it."
+    },
+    {
+      "start": 757.44,
+      "end": 760.44,
+      "text": "If you have not done the web development series,"
+    },
+    {
+      "start": 760.44,
+      "end": 762.44,
+      "text": "You must do it."
+    },
+    {
+      "start": 762.44,
+      "end": 763.44,
+      "text": "Do access playlist,"
+    },
+    {
+      "start": 763.44,
+      "end": 764.44,
+      "text": "Do it,"
+    },
+    {
+      "start": 764.44,
+      "end": 765.44,
+      "text": "Do it,"
+    },
+    {
+      "start": 765.44,
+      "end": 766.44,
+      "text": "Click star,"
+    },
+    {
+      "start": 766.44,
+      "end": 767.44,
+      "text": "Do it,"
+    },
+    {
+      "start": 767.44,
+      "end": 768.44,
+      "text": "Do it,"
+    },
+    {
+      "start": 768.44,
+      "end": 770.44,
+      "text": "Thank you so much for watching this video."
+    },
+    {
+      "start": 770.44,
+      "end": 772.44,
+      "text": "And I will see you,"
+    },
+    {
+      "start": 772.44,
+      "end": 773.44,
+      "text": "Next time."
+    }
+  ]
+}

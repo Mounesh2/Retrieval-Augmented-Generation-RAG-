@@ -1,0 +1,354 @@
+{
+  "video": 12,
+  "course": "Sigma Web Development",
+  "source_file": "12_Exercise 1 - Pure HTML Media Player _ Sigma Web Development Course - Tutorial #12 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " In today's video, I will give you a exercise and I will give you a shout out in the comments section. So, in this comment section, you can write all the challenges accepted. If you accept my challenge, I will give you a question and you will have to solve it. And, it will be a great challenge, as much as we have studied the SIGMA web development course, I am very excited to give you a question, I hope you are equally excited. Let's roll the intro. So, guys, I am going to show you how to do your video on your screen. If you haven't access all your playlists yet, then you can click here and click on the bookmark. And, if you haven't access all your code, then you can see all the data in the video. And, I will update the videos as soon as I will be able to upload them. Now, I will make a folder for you guys. My name is Voltra and I will definitely upload a video on your screen. I will do a video with the open with code and I will accept all the challenges. If you accept it, I will feel good. What do you guys do here? I will make an index on your screen and I will give you a question. So, the question is, you are given 12 video files. Okay? 12 files, 6 audio and 6 video. And, 6 video. Design a website using HTML only. And, which shows these 12 files. Okay, I will drop the toggle word. So that you can see the word. So, what do you guys have to do? You have given 12 files. And, what is the name of those files? 1.mp3, 2.mp3. So, let me tell you what is the name of those files? 1.mp3, 2.mp3, all the way till 6.mp3. So, your MP3 is the file. Then, you have 1.mp4, 2.mp4, all the way till 6.mp4. Okay? This is the file. So, all these files are the 12 files you have to preview. So, I hope this will happen. It is a very simple question. And, you can comment quickly and give the challenge accepted. Because, if you accept the challenge, then write the challenge accepted in the first version. And, whatever you will give the code here, I will give it a shout out. I will give it a shout out. For sure. And, comment section, you guys tell me. I will definitely do it. So, I hope you guys will complete it. And, it is a very simple question. I know that many people will say that it is very simple. One thing that I will do with you guys, is to try to do it. You have told me the concept of using it more than you. To solve this question. So, this was the question of today. I hope you guys enjoyed it. I will do a control forward slash. And, what is the use of control forward slash? That you can comment on the uncomment. So, if you can comment on the control forward slash, then you can see that it is uncommented. And, if you can comment on the control forward slash, then this comment is done. So, you have to complete this website. It is a very simple problem. It is a straight forward problem. You guys have to solve it. So, for now, this video is for you guys. Thank you so much for watching this video. And, I will see you next time. Bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.72,
+      "text": "In today's video, I will give you a exercise and I will give you a shout out in the comments section."
+    },
+    {
+      "start": 6.72,
+      "end": 9.92,
+      "text": "So, in this comment section, you can write all the challenges accepted."
+    },
+    {
+      "start": 9.92,
+      "end": 15.36,
+      "text": "If you accept my challenge, I will give you a question and you will have to solve it."
+    },
+    {
+      "start": 15.36,
+      "end": 21.04,
+      "text": "And, it will be a great challenge, as much as we have studied the SIGMA web development course,"
+    },
+    {
+      "start": 21.04,
+      "end": 26.0,
+      "text": "I am very excited to give you a question, I hope you are equally excited."
+    },
+    {
+      "start": 26.0,
+      "end": 27.44,
+      "text": "Let's roll the intro."
+    },
+    {
+      "start": 30.0,
+      "end": 39.12,
+      "text": "So, guys, I am going to show you how to do your video on your screen."
+    },
+    {
+      "start": 39.12,
+      "end": 45.36,
+      "text": "If you haven't access all your playlists yet, then you can click here and click on the bookmark."
+    },
+    {
+      "start": 45.36,
+      "end": 49.76,
+      "text": "And, if you haven't access all your code, then you can see all the data in the video."
+    },
+    {
+      "start": 49.76,
+      "end": 52.4,
+      "text": "And, I will update the videos as soon as I will be able to upload them."
+    },
+    {
+      "start": 52.4,
+      "end": 56.4,
+      "text": "Now, I will make a folder for you guys."
+    },
+    {
+      "start": 56.48,
+      "end": 58.96,
+      "text": "My name is Voltra and I will definitely upload a video on your screen."
+    },
+    {
+      "start": 58.96,
+      "end": 63.12,
+      "text": "I will do a video with the open with code and I will accept all the challenges."
+    },
+    {
+      "start": 63.12,
+      "end": 65.36,
+      "text": "If you accept it, I will feel good."
+    },
+    {
+      "start": 65.36,
+      "end": 66.96,
+      "text": "What do you guys do here?"
+    },
+    {
+      "start": 66.96,
+      "end": 71.76,
+      "text": "I will make an index on your screen and I will give you a question."
+    },
+    {
+      "start": 71.76,
+      "end": 78.96,
+      "text": "So, the question is, you are given 12 video files."
+    },
+    {
+      "start": 78.96,
+      "end": 82.4,
+      "text": "Okay? 12 files, 6 audio and 6 video."
+    },
+    {
+      "start": 84.08,
+      "end": 85.6,
+      "text": "And, 6 video."
+    },
+    {
+      "start": 86.48,
+      "end": 90.4,
+      "text": "Design a website using HTML only."
+    },
+    {
+      "start": 91.2,
+      "end": 95.76,
+      "text": "And, which shows these 12 files."
+    },
+    {
+      "start": 96.72,
+      "end": 99.04,
+      "text": "Okay, I will drop the toggle word."
+    },
+    {
+      "start": 99.04,
+      "end": 101.04,
+      "text": "So that you can see the word."
+    },
+    {
+      "start": 102.0,
+      "end": 103.2,
+      "text": "So, what do you guys have to do?"
+    },
+    {
+      "start": 103.2,
+      "end": 104.56,
+      "text": "You have given 12 files."
+    },
+    {
+      "start": 104.56,
+      "end": 106.08,
+      "text": "And, what is the name of those files?"
+    },
+    {
+      "start": 106.08,
+      "end": 108.4,
+      "text": "1.mp3, 2.mp3."
+    },
+    {
+      "start": 108.4,
+      "end": 111.36,
+      "text": "So, let me tell you what is the name of those files?"
+    },
+    {
+      "start": 111.36,
+      "end": 115.92,
+      "text": "1.mp3, 2.mp3, all the way till 6.mp3."
+    },
+    {
+      "start": 116.0,
+      "end": 117.2,
+      "text": "So, your MP3 is the file."
+    },
+    {
+      "start": 117.2,
+      "end": 123.68,
+      "text": "Then, you have 1.mp4, 2.mp4, all the way till 6.mp4."
+    },
+    {
+      "start": 123.68,
+      "end": 124.48,
+      "text": "Okay?"
+    },
+    {
+      "start": 124.48,
+      "end": 125.68,
+      "text": "This is the file."
+    },
+    {
+      "start": 125.68,
+      "end": 129.92,
+      "text": "So, all these files are the 12 files you have to preview."
+    },
+    {
+      "start": 129.92,
+      "end": 131.52,
+      "text": "So, I hope this will happen."
+    },
+    {
+      "start": 131.52,
+      "end": 133.12,
+      "text": "It is a very simple question."
+    },
+    {
+      "start": 133.12,
+      "end": 136.8,
+      "text": "And, you can comment quickly and give the challenge accepted."
+    },
+    {
+      "start": 136.8,
+      "end": 138.8,
+      "text": "Because, if you accept the challenge,"
+    },
+    {
+      "start": 138.8,
+      "end": 141.04,
+      "text": "then write the challenge accepted in the first version."
+    },
+    {
+      "start": 141.04,
+      "end": 143.92,
+      "text": "And, whatever you will give the code here,"
+    },
+    {
+      "start": 143.92,
+      "end": 145.2,
+      "text": "I will give it a shout out."
+    },
+    {
+      "start": 145.2,
+      "end": 147.2,
+      "text": "I will give it a shout out."
+    },
+    {
+      "start": 147.2,
+      "end": 148.16,
+      "text": "For sure."
+    },
+    {
+      "start": 148.16,
+      "end": 150.16,
+      "text": "And, comment section, you guys tell me."
+    },
+    {
+      "start": 150.16,
+      "end": 151.2,
+      "text": "I will definitely do it."
+    },
+    {
+      "start": 151.2,
+      "end": 153.44,
+      "text": "So, I hope you guys will complete it."
+    },
+    {
+      "start": 153.44,
+      "end": 155.44,
+      "text": "And, it is a very simple question."
+    },
+    {
+      "start": 155.44,
+      "end": 157.92,
+      "text": "I know that many people will say that it is very simple."
+    },
+    {
+      "start": 157.92,
+      "end": 159.92,
+      "text": "One thing that I will do with you guys,"
+    },
+    {
+      "start": 159.92,
+      "end": 161.92,
+      "text": "is to try to do it."
+    },
+    {
+      "start": 161.92,
+      "end": 165.92,
+      "text": "You have told me the concept of using it more than you."
+    },
+    {
+      "start": 165.92,
+      "end": 167.92,
+      "text": "To solve this question."
+    },
+    {
+      "start": 167.92,
+      "end": 169.92,
+      "text": "So, this was the question of today."
+    },
+    {
+      "start": 169.92,
+      "end": 171.92,
+      "text": "I hope you guys enjoyed it."
+    },
+    {
+      "start": 171.92,
+      "end": 173.92,
+      "text": "I will do a control forward slash."
+    },
+    {
+      "start": 173.92,
+      "end": 175.92,
+      "text": "And, what is the use of control forward slash?"
+    },
+    {
+      "start": 175.92,
+      "end": 177.92,
+      "text": "That you can comment on the uncomment."
+    },
+    {
+      "start": 177.92,
+      "end": 179.92,
+      "text": "So, if you can comment on the control forward slash,"
+    },
+    {
+      "start": 179.92,
+      "end": 181.92,
+      "text": "then you can see that it is uncommented."
+    },
+    {
+      "start": 181.92,
+      "end": 183.92,
+      "text": "And, if you can comment on the control forward slash,"
+    },
+    {
+      "start": 183.92,
+      "end": 185.92,
+      "text": "then this comment is done."
+    },
+    {
+      "start": 185.92,
+      "end": 187.92,
+      "text": "So, you have to complete this website."
+    },
+    {
+      "start": 187.92,
+      "end": 189.92,
+      "text": "It is a very simple problem."
+    },
+    {
+      "start": 189.92,
+      "end": 191.92,
+      "text": "It is a straight forward problem."
+    },
+    {
+      "start": 191.92,
+      "end": 193.92,
+      "text": "You guys have to solve it."
+    },
+    {
+      "start": 193.92,
+      "end": 195.92,
+      "text": "So, for now, this video is for you guys."
+    },
+    {
+      "start": 195.92,
+      "end": 197.92,
+      "text": "Thank you so much for watching this video."
+    },
+    {
+      "start": 197.92,
+      "end": 199.92,
+      "text": "And, I will see you next time."
+    },
+    {
+      "start": 201.92,
+      "end": 203.92,
+      "text": "Bye."
+    }
+  ]
+}

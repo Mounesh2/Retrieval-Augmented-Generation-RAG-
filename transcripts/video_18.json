@@ -1,0 +1,1339 @@
+{
+  "video": 18,
+  "course": "Sigma Web Development",
+  "source_file": "18_CSS Box Model - Margin, Padding & Borders _ Sigma Web Development Course - Tutorial #18 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " Guys, today in this video we are going to talk about the box model of CSS There is a content of any element that is there And then margin, then border and padding Where is this border, margin and padding? This is the concept of the box model in CSS In this video, we will explain all these things And we will see that margin, border, padding, etc. And it is said in CSS So let's go to the computer screen I am really very excited Let's go on the intro So guys, I have already taken the computer screen And first of all, I will also show you the playlist of the game And you guys do not click on the star and not access it You guys will not do it, do it here Click on star and access it here And so, you have also added the people You can access it I also want to take care of it So, let's take care of it And what will you do? I have made this folder here I will try to do it now I will quote it with open As you can see And this will open in VS Code If you guys are not able to open with code option Which I am very sorry to say that our open with code option is not able to do it So, for you guys, go to me What you will do is Install VS Code twice I will run it with setup twice And see which options have been checked Now I will come to the video And here we will make a 5 made by index. And we will place a boilerplate template And here I will write CSS box model After writing CSS box model I will make a style tech here Which I will make from it Oops, see how I made a style tech Is it too fast? No, it is not fast Okay, let's go So, here we will make a style tech And I will put the styles And I will tell you how to do it in CSS First of all, let's take the concept of the concept of CSS Is CSS in the concept of box model? Look CSS has everything in it All the elements we made from HTML All the elements are box Whether we are a container Whether we are dev Whether we are a span All the boxes in our CSS And there are some things in the box Which I want to show you So, in the commuter screen, you can see I have explained the concept of CSS box model CSS box model means Your content is out of padding It is out of padding And it is out of margin So, we should show you the concept One more thing I want to tell you I have made a div box I have made a box I will write an IMA box And if you see the preview of it I will make a box And there is some padding already Which you will know When I will add a background I will write a box Which means I will write a box And I will add a background And I will add a background And I will write a box Which means we will get a formatting You can see there is some margin padding already I will do this I will use a universal selector It is a browser It plays a bit with its own way It says that If you don't have this developer I will add a bit with my own And it will add some margin And we will reset the CSS So, I have written star And m-0 So, if m-0 is written If p-0 is written Then padding is 0 And if you do this Then you will get a full chip So, I have written an IMA box And I will write an IMA box And I will write a div box And I will add multiple classes I will do box one So, I have one box And I will add one box And I will add one box So, whatever I will select the box And write it on this element And write it on this element Because you can give multiple classes I told you earlier You can give multiple classes And you can see here And give it box one And I will write it I am another box This box is one And I will say what I will do I will say that the box is two And the box is one And then I will write that property Which I want to give both boxes And then it will say that it is ten boxes I will give ten boxes And I will write that box And some properties Which I will give And I want to give the box two And I will give box one class And give box two classes And any element should be given to one class You can give more ideas to the element of the element Let me know in the comments section below If you want to make a 2-in-traction, you can find more ideas in this element Let me know in the comments section below I can write classes for you I will confirm this I don't know the comments I wrote a dot box I will show you in detail I have made a yellow color What will be the color of yellow? I will provide a right color in the following column The right will be yellow So, you should know this thing. We have seen the CSS box model in this. So, I have not added any other classes here. Now, what I will do? I will give you a little padding inside the box 1. I want to give you 10 pixel padding. If I give you 10 pixel padding, you will get 10-10 pixel padding here. And you can inspect it for you to see it. You can see it from this. You can see it from this. You can see that I have inspected it for you to see it. You can see it from this. You can see it from this. I have removed the padding. I hope you have seen it. Okay, box and box 1. You can see the box 1. If I hover over box 1, I will select the element. You can see it from here. You can see it from here. If I hover over it, I will select box 2. Click on box 1 and select the element. I can come here. I have removed it. Now, I can see everything about it. I can change the color of this color. I can change it temporarily. Because it has a source code. I will change it here. I will change it here. I will tell you everything about it. I can preview it. If I will look at the box, it will be white. I will reload it. I will select box and come here on the computer. I will come here on the computer. I will show you a box. This box is the same box. You will know that this particular element is box 1. The weight and height is so. The weight and height is there. The weight is there. It is 4 on the side. The border is not there. The border is not there. We have placed all this parts in this element. Let's add a border I am doing this in box 1. I am doing this in box 1. I will do this in box 1. My computer is back. I will do this here. I will add margin and I will add 5 pixels And as I will add margin 5 pixels, what will happen is that this element is outside So the back of the element does not retain, ok? What does that mean? This means that if I put a pink color on you, I will put a pink color on you So you will get pink, but if you put a pink color on your face or face, then you will get pink color on you So this is a very strange example, but I will tell you that the content is outside the padding If I add padding, the background is yellow, it comes in the padding area Because the padding content is inside and the margin that is outside the content, the element that is outside the content The content is inside the content, look, this is the entire element, the content is the padding, the margin So the background is the color that will be in the padding area The margin will remain in the area, you have to pay attention So I have given margin, now you have seen the margin of 5 Now I will tell you how to add border Now I will tell you about border, but for now I will write this as a summary, I will write border, 2 pixel solid, blue is the border of 2 pixels And here you can see that I have given the border of 2 pixels, ok? You can see that the border is here, ok? So this border is showing you the border, and you can see that this is my content and this is the border So what happens here is that there is a DPI factor in our display, which is the actual border You will see the difference, but this is pretty much that you can see the margin, the padding and the margin of the margin So I hope you have understood something Now I will tell you how you can calculate the width of the element, ok? Now I will give the width from this element, or from this height, from this element, 200 pixels So I have given the height to 200 pixels and 200 pixels Now I will show you one thing, and I will show you And I will fill the computed values, so see the height of this is 200 pixels, ok? And you can see that I have shown the content on the screen, the padding, the border on the screen, the margin on the screen, ok? Now you can see that the actual height of this element is 200 pixels, then it will be 10, then it will be 200, then it will be the borders Then margin will be set, ok? So as I will connect all these things, then this will not be the entire space here, but a particular height of the element or height of the total width is not set from this formula So what do we do? We will connect the left and right both the padding and the left and right both the margin, this will not be the total width of the margin, ok? I hope you guys will understand this, and I will talk about the element, how much the border is going to be in this space, so you will connect all these things, ok? But now I want to tell you one thing, that if I put a CSS property here, which I can directly put here, I can add it in styles, I can also show you this, I will do background read, it will be background read, it will be temporarily until I reload, ok? Ok, I will put here, ok? What I will do here, I will write box sizing and I will write border box, like I will write border box sizing, you guys see here that the height of this element is 176, 176.8 is the reason, because 176.8 plus 20 is so much, 196.8 and then the border will be connected to total 200, ok? Okay, we do not include margin here, because margin is outside, okay? Margin does not include, whenever we set a height and give the box sizing property, you guys try to understand it, when I say that it is the height of 200, or I say that it is the width of 200, so if I put this in the box sizing, you guys listen carefully, if I did not put the box sizing, then what will happen? So, the height of the content is the height of the content, if I say that it is the width of 200, I will explain it to you by example, the height of the content of the content of the content of the content will be the height, then if you are talking about the total space that is going to be added in it, then the padding will be added in it, but if I say box sizing and border box, I am basically saying that I have told you that the padding is not included in the border box, margin is not there, I am telling you that I have included this border and padding, box sizing and border box, where I have done it, it means the height of the element that I have written here is the height of my border and padding, both are mixed, and both are mixed, the content plus border plus padding is the same, I am saying that box sizing and border box, I am saying that box sizing and border box, if I write, then what am I saying? I am saying that I am saying that I am giving you this height, I am giving you this height, I am giving you the padding and border of both are mixed, I am giving you this content plus border plus padding, when I am giving you this height, then what is the first height definition, that is, that in this, it will not be included, padding will not be included, this is the only element that I will do, this height will be less than this, and this will adjust the size of the padding and border, I hope that that makes a lot of sense, I hope that I have explained to you, this is a very important concept, I would like to tell you all, now I am going to tell you the concept, it will be fun, because I will tell you about the margin of the collapse, now I will tell you, that the margin of the box is 10-10-10, the margin of the box is 10-10-10, so here we should have double the space, and the margin of the box is 10-10-10, now I will tell you, the margin of the box is 10-10-10, then this element is 10-10-10, then this element is 10-10-10, then this distance should be 50-50, and this is also 50, why is this 50? why is this 50? the element of the box is also below and the bottom element is below, here we come, the concept of the margin of the box is 10-10-10, what is the concept of the margin of the box? the concept of the margin of the box is that if the margin of two elements is overlapped, then the maximum margin of the box will be 1-1, as if if I have given the margin of 25 in this, then the margin of 25 is how much the box is missing, both the boxes are being made, then the margin of 25 will be 1-1, if I give an example of 25, then this difference will be the margin of the box, then the margin of the box is called the margin of the box, if I show you a good example of the margin of the box, I hope I will get an image, I will explain the margin of the box, if I have a box, then this image is very good, I will give an example of the margin of the box, then this is how much the margin of the box is missing, because the most important message of the two elements is that the margin of the box is missing, so I hope you have understood the concept of the margin of the box, what is the concept of the margin of the box, and I have tried to explain it to you, the concept of the margin of the box is that, I know many CSS developers, I know many CSS developers, because they say that what is the reason for this, why is this my margin is wrong, this is the concept of the margin of the box, and if you understood the concept of the margin of the box, then you will be able to enjoy the content, then you will be able to develop the margin of the box, you will have to apply the Box sizing, what will you not apply, you will have to see all this, especially when we will convert the Figma files to HTML, CSS JavaScript, then you will have to apply the Box sizing, I hope you are enjoying this course, and I hope you all are understanding everything, if you are not able to access the playlist, then do access it, and if you are saving the book and updating the book, then you will get the source code update, I hope you all are enjoying the source code update, so like the video, access the playlist, subscribe the channel, share the channel and do both the places of the village and the land of the two, and I will get ready to meet you in the next video, thank you so much guys for watching this video, and I will see you next time.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "Guys, today in this video we are going to talk about the box model of CSS"
+    },
+    {
+      "start": 4.2,
+      "end": 7.2,
+      "text": "There is a content of any element that is there"
+    },
+    {
+      "start": 7.2,
+      "end": 10.5,
+      "text": "And then margin, then border and padding"
+    },
+    {
+      "start": 10.5,
+      "end": 13.0,
+      "text": "Where is this border, margin and padding?"
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "This is the concept of the box model in CSS"
+    },
+    {
+      "start": 15.0,
+      "end": 17.5,
+      "text": "In this video, we will explain all these things"
+    },
+    {
+      "start": 17.5,
+      "end": 21.0,
+      "text": "And we will see that margin, border, padding, etc."
+    },
+    {
+      "start": 21.0,
+      "end": 22.5,
+      "text": "And it is said in CSS"
+    },
+    {
+      "start": 22.5,
+      "end": 24.0,
+      "text": "So let's go to the computer screen"
+    },
+    {
+      "start": 24.0,
+      "end": 25.5,
+      "text": "I am really very excited"
+    },
+    {
+      "start": 25.5,
+      "end": 27.0,
+      "text": "Let's go on the intro"
+    },
+    {
+      "start": 30.0,
+      "end": 38.0,
+      "text": "So guys, I have already taken the computer screen"
+    },
+    {
+      "start": 38.0,
+      "end": 41.5,
+      "text": "And first of all, I will also show you the playlist of the game"
+    },
+    {
+      "start": 41.5,
+      "end": 46.0,
+      "text": "And you guys do not click on the star and not access it"
+    },
+    {
+      "start": 46.0,
+      "end": 48.0,
+      "text": "You guys will not do it, do it here"
+    },
+    {
+      "start": 48.0,
+      "end": 50.5,
+      "text": "Click on star and access it here"
+    },
+    {
+      "start": 50.5,
+      "end": 52.0,
+      "text": "And so, you have also added the people"
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "text": "You can access it"
+    },
+    {
+      "start": 53.0,
+      "end": 54.5,
+      "text": "I also want to take care of it"
+    },
+    {
+      "start": 54.5,
+      "end": 56.0,
+      "text": "So, let's take care of it"
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "text": "And what will you do?"
+    },
+    {
+      "start": 57.0,
+      "end": 58.5,
+      "text": "I have made this folder here"
+    },
+    {
+      "start": 58.5,
+      "end": 60.5,
+      "text": "I will try to do it now"
+    },
+    {
+      "start": 60.5,
+      "end": 62.0,
+      "text": "I will quote it with open"
+    },
+    {
+      "start": 62.0,
+      "end": 63.0,
+      "text": "As you can see"
+    },
+    {
+      "start": 63.0,
+      "end": 65.0,
+      "text": "And this will open in VS Code"
+    },
+    {
+      "start": 65.0,
+      "end": 67.0,
+      "text": "If you guys are not able to open with code option"
+    },
+    {
+      "start": 67.0,
+      "end": 70.0,
+      "text": "Which I am very sorry to say that our open with code option is not able to do it"
+    },
+    {
+      "start": 70.0,
+      "end": 73.0,
+      "text": "So, for you guys, go to me"
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "text": "What you will do is"
+    },
+    {
+      "start": 74.0,
+      "end": 76.0,
+      "text": "Install VS Code twice"
+    },
+    {
+      "start": 76.0,
+      "end": 78.0,
+      "text": "I will run it with setup twice"
+    },
+    {
+      "start": 78.0,
+      "end": 80.0,
+      "text": "And see which options have been checked"
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "text": "Now I will come to the video"
+    },
+    {
+      "start": 81.0,
+      "end": 83.0,
+      "text": "And here we will make a 5 made by index."
+    },
+    {
+      "start": 83.0,
+      "end": 85.0,
+      "text": "And we will place a boilerplate template"
+    },
+    {
+      "start": 85.0,
+      "end": 87.0,
+      "text": "And here I will write CSS box model"
+    },
+    {
+      "start": 87.0,
+      "end": 89.0,
+      "text": "After writing CSS box model"
+    },
+    {
+      "start": 89.0,
+      "end": 91.0,
+      "text": "I will make a style tech here"
+    },
+    {
+      "start": 91.0,
+      "end": 93.0,
+      "text": "Which I will make from it"
+    },
+    {
+      "start": 93.0,
+      "end": 95.0,
+      "text": "Oops, see how I made a style tech"
+    },
+    {
+      "start": 97.0,
+      "end": 98.0,
+      "text": "Is it too fast?"
+    },
+    {
+      "start": 98.0,
+      "end": 100.0,
+      "text": "No, it is not fast"
+    },
+    {
+      "start": 100.0,
+      "end": 101.0,
+      "text": "Okay, let's go"
+    },
+    {
+      "start": 101.0,
+      "end": 103.0,
+      "text": "So, here we will make a style tech"
+    },
+    {
+      "start": 103.0,
+      "end": 104.0,
+      "text": "And I will put the styles"
+    },
+    {
+      "start": 104.0,
+      "end": 107.0,
+      "text": "And I will tell you how to do it in CSS"
+    },
+    {
+      "start": 107.0,
+      "end": 110.0,
+      "text": "First of all, let's take the concept of the concept of CSS"
+    },
+    {
+      "start": 110.0,
+      "end": 112.0,
+      "text": "Is CSS in the concept of box model?"
+    },
+    {
+      "start": 112.0,
+      "end": 113.0,
+      "text": "Look"
+    },
+    {
+      "start": 113.0,
+      "end": 115.0,
+      "text": "CSS has everything in it"
+    },
+    {
+      "start": 115.0,
+      "end": 117.0,
+      "text": "All the elements we made from HTML"
+    },
+    {
+      "start": 117.0,
+      "end": 119.0,
+      "text": "All the elements are box"
+    },
+    {
+      "start": 119.0,
+      "end": 121.0,
+      "text": "Whether we are a container"
+    },
+    {
+      "start": 121.0,
+      "end": 123.0,
+      "text": "Whether we are dev"
+    },
+    {
+      "start": 123.0,
+      "end": 125.0,
+      "text": "Whether we are a span"
+    },
+    {
+      "start": 125.0,
+      "end": 127.0,
+      "text": "All the boxes in our CSS"
+    },
+    {
+      "start": 127.0,
+      "end": 129.0,
+      "text": "And there are some things in the box"
+    },
+    {
+      "start": 129.0,
+      "end": 131.0,
+      "text": "Which I want to show you"
+    },
+    {
+      "start": 131.0,
+      "end": 133.0,
+      "text": "So, in the commuter screen, you can see"
+    },
+    {
+      "start": 133.0,
+      "end": 135.0,
+      "text": "I have explained the concept of CSS box model"
+    },
+    {
+      "start": 135.0,
+      "end": 137.0,
+      "text": "CSS box model means"
+    },
+    {
+      "start": 137.0,
+      "end": 140.0,
+      "text": "Your content is out of padding"
+    },
+    {
+      "start": 140.0,
+      "end": 142.0,
+      "text": "It is out of padding"
+    },
+    {
+      "start": 142.0,
+      "end": 144.0,
+      "text": "And it is out of margin"
+    },
+    {
+      "start": 144.0,
+      "end": 146.0,
+      "text": "So, we should show you the concept"
+    },
+    {
+      "start": 146.0,
+      "end": 148.0,
+      "text": "One more thing I want to tell you"
+    },
+    {
+      "start": 148.0,
+      "end": 150.0,
+      "text": "I have made a div box"
+    },
+    {
+      "start": 150.0,
+      "end": 152.0,
+      "text": "I have made a box"
+    },
+    {
+      "start": 152.0,
+      "end": 154.0,
+      "text": "I will write an IMA box"
+    },
+    {
+      "start": 154.0,
+      "end": 156.0,
+      "text": "And if you see the preview of it"
+    },
+    {
+      "start": 156.0,
+      "end": 158.0,
+      "text": "I will make a box"
+    },
+    {
+      "start": 158.0,
+      "end": 160.0,
+      "text": "And there is some padding already"
+    },
+    {
+      "start": 160.0,
+      "end": 162.0,
+      "text": "Which you will know"
+    },
+    {
+      "start": 162.0,
+      "end": 164.0,
+      "text": "When I will add a background"
+    },
+    {
+      "start": 164.0,
+      "end": 166.0,
+      "text": "I will write a box"
+    },
+    {
+      "start": 166.0,
+      "end": 168.0,
+      "text": "Which means"
+    },
+    {
+      "start": 168.0,
+      "end": 170.0,
+      "text": "I will write a box"
+    },
+    {
+      "start": 170.0,
+      "end": 172.0,
+      "text": "And I will add a background"
+    },
+    {
+      "start": 172.0,
+      "end": 174.0,
+      "text": "And I will add a background"
+    },
+    {
+      "start": 174.0,
+      "end": 176.0,
+      "text": "And I will write a box"
+    },
+    {
+      "start": 176.0,
+      "end": 178.0,
+      "text": "Which means we will get a formatting"
+    },
+    {
+      "start": 178.0,
+      "end": 180.0,
+      "text": "You can see there is some margin padding already"
+    },
+    {
+      "start": 180.0,
+      "end": 182.0,
+      "text": "I will do this"
+    },
+    {
+      "start": 182.0,
+      "end": 184.0,
+      "text": "I will use a universal selector"
+    },
+    {
+      "start": 184.0,
+      "end": 186.0,
+      "text": "It is a browser"
+    },
+    {
+      "start": 186.0,
+      "end": 188.0,
+      "text": "It plays a bit with its own way"
+    },
+    {
+      "start": 188.0,
+      "end": 190.0,
+      "text": "It says that"
+    },
+    {
+      "start": 190.0,
+      "end": 192.0,
+      "text": "If you don't have this developer"
+    },
+    {
+      "start": 192.0,
+      "end": 194.0,
+      "text": "I will add a bit with my own"
+    },
+    {
+      "start": 194.0,
+      "end": 196.0,
+      "text": "And it will add some margin"
+    },
+    {
+      "start": 196.0,
+      "end": 198.0,
+      "text": "And we will reset the CSS"
+    },
+    {
+      "start": 198.0,
+      "end": 202.0,
+      "text": "So, I have written star"
+    },
+    {
+      "start": 202.0,
+      "end": 204.0,
+      "text": "And m-0"
+    },
+    {
+      "start": 204.0,
+      "end": 206.0,
+      "text": "So, if m-0 is written"
+    },
+    {
+      "start": 206.0,
+      "end": 208.0,
+      "text": "If p-0 is written"
+    },
+    {
+      "start": 208.0,
+      "end": 210.0,
+      "text": "Then padding is 0"
+    },
+    {
+      "start": 210.0,
+      "end": 212.0,
+      "text": "And if you do this"
+    },
+    {
+      "start": 212.0,
+      "end": 214.0,
+      "text": "Then you will get a full chip"
+    },
+    {
+      "start": 214.0,
+      "end": 216.0,
+      "text": "So, I have written an IMA box"
+    },
+    {
+      "start": 216.0,
+      "end": 218.0,
+      "text": "And I will write an IMA box"
+    },
+    {
+      "start": 218.0,
+      "end": 220.0,
+      "text": "And I will write a div box"
+    },
+    {
+      "start": 220.0,
+      "end": 222.0,
+      "text": "And I will add multiple classes"
+    },
+    {
+      "start": 222.0,
+      "end": 224.0,
+      "text": "I will do box one"
+    },
+    {
+      "start": 224.0,
+      "end": 226.0,
+      "text": "So, I have one box"
+    },
+    {
+      "start": 226.0,
+      "end": 228.0,
+      "text": "And I will add one box"
+    },
+    {
+      "start": 228.0,
+      "end": 230.0,
+      "text": "And I will add one box"
+    },
+    {
+      "start": 230.0,
+      "end": 232.0,
+      "text": "So, whatever I will select the box"
+    },
+    {
+      "start": 232.0,
+      "end": 234.0,
+      "text": "And write it on this element"
+    },
+    {
+      "start": 234.0,
+      "end": 236.0,
+      "text": "And write it on this element"
+    },
+    {
+      "start": 236.0,
+      "end": 238.0,
+      "text": "Because you can give multiple classes"
+    },
+    {
+      "start": 238.0,
+      "end": 240.0,
+      "text": "I told you earlier"
+    },
+    {
+      "start": 240.0,
+      "end": 242.0,
+      "text": "You can give multiple classes"
+    },
+    {
+      "start": 242.0,
+      "end": 244.0,
+      "text": "And you can see here"
+    },
+    {
+      "start": 244.0,
+      "end": 246.0,
+      "text": "And give it box one"
+    },
+    {
+      "start": 246.0,
+      "end": 248.0,
+      "text": "And I will write it"
+    },
+    {
+      "start": 248.0,
+      "end": 250.0,
+      "text": "I am another box"
+    },
+    {
+      "start": 250.0,
+      "end": 252.0,
+      "text": "This box is one"
+    },
+    {
+      "start": 252.0,
+      "end": 254.0,
+      "text": "And I will say what I will do"
+    },
+    {
+      "start": 254.0,
+      "end": 256.0,
+      "text": "I will say that the box is two"
+    },
+    {
+      "start": 256.0,
+      "end": 258.0,
+      "text": "And the box is one"
+    },
+    {
+      "start": 258.0,
+      "end": 260.0,
+      "text": "And then I will write that property"
+    },
+    {
+      "start": 260.0,
+      "end": 262.0,
+      "text": "Which I want to give both boxes"
+    },
+    {
+      "start": 262.0,
+      "end": 264.0,
+      "text": "And then it will say that it is ten boxes"
+    },
+    {
+      "start": 264.0,
+      "end": 266.0,
+      "text": "I will give ten boxes"
+    },
+    {
+      "start": 266.0,
+      "end": 268.0,
+      "text": "And I will write that box"
+    },
+    {
+      "start": 268.0,
+      "end": 270.0,
+      "text": "And some properties"
+    },
+    {
+      "start": 270.0,
+      "end": 272.0,
+      "text": "Which I will give"
+    },
+    {
+      "start": 272.0,
+      "end": 274.0,
+      "text": "And I want to give the box two"
+    },
+    {
+      "start": 274.0,
+      "end": 276.0,
+      "text": "And I will give box one class"
+    },
+    {
+      "start": 276.0,
+      "end": 278.0,
+      "text": "And give box two classes"
+    },
+    {
+      "start": 278.0,
+      "end": 280.0,
+      "text": "And any element should be given to one class"
+    },
+    {
+      "start": 280.0,
+      "end": 284.0,
+      "text": "You can give more ideas to the element of the element"
+    },
+    {
+      "start": 284.0,
+      "end": 286.0,
+      "text": "Let me know in the comments section below"
+    },
+    {
+      "start": 286.0,
+      "end": 290.0,
+      "text": "If you want to make a 2-in-traction, you can find more ideas in this element"
+    },
+    {
+      "start": 290.0,
+      "end": 292.0,
+      "text": "Let me know in the comments section below"
+    },
+    {
+      "start": 292.0,
+      "end": 294.0,
+      "text": "I can write classes for you"
+    },
+    {
+      "start": 294.0,
+      "end": 296.0,
+      "text": "I will confirm this"
+    },
+    {
+      "start": 296.0,
+      "end": 298.0,
+      "text": "I don't know the comments"
+    },
+    {
+      "start": 298.0,
+      "end": 300.0,
+      "text": "I wrote a dot box"
+    },
+    {
+      "start": 300.0,
+      "end": 302.0,
+      "text": "I will show you in detail"
+    },
+    {
+      "start": 302.0,
+      "end": 304.0,
+      "text": "I have made a yellow color"
+    },
+    {
+      "start": 304.0,
+      "end": 306.0,
+      "text": "What will be the color of yellow?"
+    },
+    {
+      "start": 306.0,
+      "end": 310.0,
+      "text": "I will provide a right color in the following column"
+    },
+    {
+      "start": 310.0,
+      "end": 334.94,
+      "text": "The right will be yellow"
+    },
+    {
+      "start": 334.94,
+      "end": 336.94,
+      "text": "So, you should know this thing."
+    },
+    {
+      "start": 336.94,
+      "end": 338.94,
+      "text": "We have seen the CSS box model in this."
+    },
+    {
+      "start": 338.94,
+      "end": 340.94,
+      "text": "So, I have not added any other classes here."
+    },
+    {
+      "start": 340.94,
+      "end": 342.94,
+      "text": "Now, what I will do?"
+    },
+    {
+      "start": 342.94,
+      "end": 346.94,
+      "text": "I will give you a little padding inside the box 1."
+    },
+    {
+      "start": 346.94,
+      "end": 348.94,
+      "text": "I want to give you 10 pixel padding."
+    },
+    {
+      "start": 348.94,
+      "end": 350.94,
+      "text": "If I give you 10 pixel padding,"
+    },
+    {
+      "start": 350.94,
+      "end": 352.94,
+      "text": "you will get 10-10 pixel padding here."
+    },
+    {
+      "start": 352.94,
+      "end": 354.94,
+      "text": "And you can inspect it for you to see it."
+    },
+    {
+      "start": 354.94,
+      "end": 356.94,
+      "text": "You can see it from this."
+    },
+    {
+      "start": 356.94,
+      "end": 358.94,
+      "text": "You can see it from this."
+    },
+    {
+      "start": 358.94,
+      "end": 360.94,
+      "text": "You can see that I have inspected it for you to see it."
+    },
+    {
+      "start": 360.94,
+      "end": 362.94,
+      "text": "You can see it from this."
+    },
+    {
+      "start": 362.94,
+      "end": 364.94,
+      "text": "You can see it from this."
+    },
+    {
+      "start": 364.94,
+      "end": 366.94,
+      "text": "I have removed the padding."
+    },
+    {
+      "start": 366.94,
+      "end": 368.94,
+      "text": "I hope you have seen it."
+    },
+    {
+      "start": 368.94,
+      "end": 370.94,
+      "text": "Okay, box and box 1."
+    },
+    {
+      "start": 370.94,
+      "end": 372.94,
+      "text": "You can see the box 1."
+    },
+    {
+      "start": 372.94,
+      "end": 374.94,
+      "text": "If I hover over box 1,"
+    },
+    {
+      "start": 374.94,
+      "end": 376.94,
+      "text": "I will select the element."
+    },
+    {
+      "start": 376.94,
+      "end": 378.94,
+      "text": "You can see it from here."
+    },
+    {
+      "start": 378.94,
+      "end": 380.94,
+      "text": "You can see it from here."
+    },
+    {
+      "start": 380.94,
+      "end": 382.94,
+      "text": "If I hover over it, I will select box 2."
+    },
+    {
+      "start": 382.94,
+      "end": 384.94,
+      "text": "Click on box 1 and select the element."
+    },
+    {
+      "start": 384.94,
+      "end": 386.94,
+      "text": "I can come here."
+    },
+    {
+      "start": 386.94,
+      "end": 388.94,
+      "text": "I have removed it."
+    },
+    {
+      "start": 388.94,
+      "end": 390.94,
+      "text": "Now, I can see everything about it."
+    },
+    {
+      "start": 390.94,
+      "end": 392.94,
+      "text": "I can change the color of this color."
+    },
+    {
+      "start": 392.94,
+      "end": 394.94,
+      "text": "I can change it temporarily."
+    },
+    {
+      "start": 394.94,
+      "end": 396.94,
+      "text": "Because it has a source code."
+    },
+    {
+      "start": 396.94,
+      "end": 398.94,
+      "text": "I will change it here."
+    },
+    {
+      "start": 398.94,
+      "end": 400.94,
+      "text": "I will change it here."
+    },
+    {
+      "start": 400.94,
+      "end": 402.94,
+      "text": "I will tell you everything about it."
+    },
+    {
+      "start": 402.94,
+      "end": 404.94,
+      "text": "I can preview it."
+    },
+    {
+      "start": 404.94,
+      "end": 406.94,
+      "text": "If I will look at the box,"
+    },
+    {
+      "start": 406.94,
+      "end": 408.94,
+      "text": "it will be white."
+    },
+    {
+      "start": 408.94,
+      "end": 410.94,
+      "text": "I will reload it."
+    },
+    {
+      "start": 410.94,
+      "end": 412.94,
+      "text": "I will select box and come here on the computer."
+    },
+    {
+      "start": 412.94,
+      "end": 414.94,
+      "text": "I will come here on the computer."
+    },
+    {
+      "start": 414.94,
+      "end": 416.94,
+      "text": "I will show you a box."
+    },
+    {
+      "start": 416.94,
+      "end": 418.94,
+      "text": "This box is the same box."
+    },
+    {
+      "start": 418.94,
+      "end": 420.94,
+      "text": "You will know"
+    },
+    {
+      "start": 420.94,
+      "end": 422.94,
+      "text": "that this particular element is box 1."
+    },
+    {
+      "start": 422.94,
+      "end": 424.94,
+      "text": "The weight and height is so."
+    },
+    {
+      "start": 424.94,
+      "end": 426.94,
+      "text": "The weight and height is there."
+    },
+    {
+      "start": 426.94,
+      "end": 428.94,
+      "text": "The weight is there."
+    },
+    {
+      "start": 428.94,
+      "end": 430.94,
+      "text": "It is 4 on the side."
+    },
+    {
+      "start": 430.94,
+      "end": 432.94,
+      "text": "The border is not there."
+    },
+    {
+      "start": 432.94,
+      "end": 434.94,
+      "text": "The border is not there."
+    },
+    {
+      "start": 434.94,
+      "end": 436.94,
+      "text": "We have placed all this parts in this element."
+    },
+    {
+      "start": 436.94,
+      "end": 438.94,
+      "text": "Let's add a border"
+    },
+    {
+      "start": 438.94,
+      "end": 440.94,
+      "text": "I am doing this in box 1."
+    },
+    {
+      "start": 440.94,
+      "end": 442.94,
+      "text": "I am doing this in box 1."
+    },
+    {
+      "start": 442.94,
+      "end": 444.94,
+      "text": "I will do this in box 1."
+    },
+    {
+      "start": 444.94,
+      "end": 446.94,
+      "text": "My computer is back."
+    },
+    {
+      "start": 446.94,
+      "end": 447.94,
+      "text": "I will do this here."
+    },
+    {
+      "start": 447.94,
+      "end": 451.94,
+      "text": "I will add margin and I will add 5 pixels"
+    },
+    {
+      "start": 451.94,
+      "end": 456.94,
+      "text": "And as I will add margin 5 pixels, what will happen is that this element is outside"
+    },
+    {
+      "start": 456.94,
+      "end": 459.94,
+      "text": "So the back of the element does not retain, ok?"
+    },
+    {
+      "start": 459.94,
+      "end": 461.94,
+      "text": "What does that mean?"
+    },
+    {
+      "start": 461.94,
+      "end": 466.94,
+      "text": "This means that if I put a pink color on you, I will put a pink color on you"
+    },
+    {
+      "start": 466.94,
+      "end": 471.94,
+      "text": "So you will get pink, but if you put a pink color on your face or face, then you will get pink color on you"
+    },
+    {
+      "start": 471.94,
+      "end": 476.94,
+      "text": "So this is a very strange example, but I will tell you that the content is outside the padding"
+    },
+    {
+      "start": 476.94,
+      "end": 480.94,
+      "text": "If I add padding, the background is yellow, it comes in the padding area"
+    },
+    {
+      "start": 480.94,
+      "end": 486.94,
+      "text": "Because the padding content is inside and the margin that is outside the content, the element that is outside the content"
+    },
+    {
+      "start": 486.94,
+      "end": 491.94,
+      "text": "The content is inside the content, look, this is the entire element, the content is the padding, the margin"
+    },
+    {
+      "start": 491.94,
+      "end": 495.94,
+      "text": "So the background is the color that will be in the padding area"
+    },
+    {
+      "start": 495.94,
+      "end": 497.94,
+      "text": "The margin will remain in the area, you have to pay attention"
+    },
+    {
+      "start": 497.94,
+      "end": 500.94,
+      "text": "So I have given margin, now you have seen the margin of 5"
+    },
+    {
+      "start": 500.94,
+      "end": 503.94,
+      "text": "Now I will tell you how to add border"
+    },
+    {
+      "start": 503.94,
+      "end": 506.94,
+      "text": "Now I will tell you about border, but for now"
+    },
+    {
+      "start": 506.94,
+      "end": 512.94,
+      "text": "I will write this as a summary, I will write border, 2 pixel solid, blue is the border of 2 pixels"
+    },
+    {
+      "start": 512.94,
+      "end": 516.94,
+      "text": "And here you can see that I have given the border of 2 pixels, ok?"
+    },
+    {
+      "start": 516.94,
+      "end": 519.94,
+      "text": "You can see that the border is here, ok?"
+    },
+    {
+      "start": 519.94,
+      "end": 525.94,
+      "text": "So this border is showing you the border, and you can see that this is my content and this is the border"
+    },
+    {
+      "start": 525.94,
+      "end": 529.94,
+      "text": "So what happens here is that there is a DPI factor in our display, which is the actual border"
+    },
+    {
+      "start": 529.94,
+      "end": 535.94,
+      "text": "You will see the difference, but this is pretty much that you can see the margin, the padding and the margin of the margin"
+    },
+    {
+      "start": 535.94,
+      "end": 538.94,
+      "text": "So I hope you have understood something"
+    },
+    {
+      "start": 538.94,
+      "end": 544.94,
+      "text": "Now I will tell you how you can calculate the width of the element, ok?"
+    },
+    {
+      "start": 544.94,
+      "end": 552.94,
+      "text": "Now I will give the width from this element, or from this height, from this element, 200 pixels"
+    },
+    {
+      "start": 552.94,
+      "end": 555.94,
+      "text": "So I have given the height to 200 pixels and 200 pixels"
+    },
+    {
+      "start": 555.94,
+      "end": 558.94,
+      "text": "Now I will show you one thing, and I will show you"
+    },
+    {
+      "start": 558.94,
+      "end": 564.94,
+      "text": "And I will fill the computed values, so see the height of this is 200 pixels, ok?"
+    },
+    {
+      "start": 564.94,
+      "end": 572.94,
+      "text": "And you can see that I have shown the content on the screen, the padding, the border on the screen, the margin on the screen, ok?"
+    },
+    {
+      "start": 572.94,
+      "end": 583.94,
+      "text": "Now you can see that the actual height of this element is 200 pixels, then it will be 10, then it will be 200, then it will be the borders"
+    },
+    {
+      "start": 583.94,
+      "end": 585.94,
+      "text": "Then margin will be set, ok?"
+    },
+    {
+      "start": 585.94,
+      "end": 597.94,
+      "text": "So as I will connect all these things, then this will not be the entire space here, but a particular height of the element or height of the total width is not set from this formula"
+    },
+    {
+      "start": 597.94,
+      "end": 606.94,
+      "text": "So what do we do? We will connect the left and right both the padding and the left and right both the margin, this will not be the total width of the margin, ok?"
+    },
+    {
+      "start": 606.94,
+      "end": 614.94,
+      "text": "I hope you guys will understand this, and I will talk about the element, how much the border is going to be in this space, so you will connect all these things, ok?"
+    },
+    {
+      "start": 614.94,
+      "end": 628.94,
+      "text": "But now I want to tell you one thing, that if I put a CSS property here, which I can directly put here, I can add it in styles, I can also show you this, I will do background read, it will be background read, it will be temporarily until I reload, ok?"
+    },
+    {
+      "start": 628.94,
+      "end": 652.94,
+      "text": "Ok, I will put here, ok? What I will do here, I will write box sizing and I will write border box, like I will write border box sizing, you guys see here that the height of this element is 176, 176.8 is the reason, because 176.8 plus 20 is so much, 196.8 and then the border will be connected to total 200, ok?"
+    },
+    {
+      "start": 652.94,
+      "end": 677.94,
+      "text": "Okay, we do not include margin here, because margin is outside, okay? Margin does not include, whenever we set a height and give the box sizing property, you guys try to understand it, when I say that it is the height of 200, or I say that it is the width of 200, so if I put this in the box sizing, you guys listen carefully, if I did not put the box sizing, then what will happen?"
+    },
+    {
+      "start": 677.94,
+      "end": 704.94,
+      "text": "So, the height of the content is the height of the content, if I say that it is the width of 200, I will explain it to you by example, the height of the content of the content of the content of the content will be the height, then if you are talking about the total space that is going to be added in it, then the padding will be added in it, but if I say box sizing and border box, I am basically saying that I have told you that the padding is not included in the border box,"
+    },
+    {
+      "start": 704.94,
+      "end": 724.94,
+      "text": "margin is not there, I am telling you that I have included this border and padding, box sizing and border box, where I have done it, it means the height of the element that I have written here is the height of my border and padding, both are mixed, and both are mixed, the content plus border plus padding is the same,"
+    },
+    {
+      "start": 724.94,
+      "end": 741.94,
+      "text": "I am saying that box sizing and border box, I am saying that box sizing and border box, if I write, then what am I saying? I am saying that I am saying that I am giving you this height, I am giving you this height, I am giving you the padding and border of both are mixed,"
+    },
+    {
+      "start": 741.94,
+      "end": 759.94,
+      "text": "I am giving you this content plus border plus padding, when I am giving you this height, then what is the first height definition, that is, that in this, it will not be included, padding will not be included, this is the only element that I will do,"
+    },
+    {
+      "start": 789.94,
+      "end": 800.94,
+      "text": "this height will be less than this, and this will adjust the size of the padding and border, I hope that that makes a lot of sense, I hope that I have explained to you,"
+    },
+    {
+      "start": 800.94,
+      "end": 814.94,
+      "text": "this is a very important concept, I would like to tell you all, now I am going to tell you the concept, it will be fun, because I will tell you about the margin of the collapse,"
+    },
+    {
+      "start": 844.94,
+      "end": 859.94,
+      "text": "now I will tell you, that the margin of the box is 10-10-10, the margin of the box is 10-10-10, so here we should have double the space, and the margin of the box is 10-10-10,"
+    },
+    {
+      "start": 859.94,
+      "end": 877.94,
+      "text": "now I will tell you, the margin of the box is 10-10-10, then this element is 10-10-10, then this element is 10-10-10, then this distance should be 50-50,"
+    },
+    {
+      "start": 877.94,
+      "end": 891.94,
+      "text": "and this is also 50, why is this 50? why is this 50? the element of the box is also below and the bottom element is below, here we come, the concept of the margin of the box is 10-10-10,"
+    },
+    {
+      "start": 891.94,
+      "end": 901.94,
+      "text": "what is the concept of the margin of the box? the concept of the margin of the box is that if the margin of two elements is overlapped, then the maximum margin of the box will be 1-1,"
+    },
+    {
+      "start": 901.94,
+      "end": 910.94,
+      "text": "as if if I have given the margin of 25 in this, then the margin of 25 is how much the box is missing, both the boxes are being made, then the margin of 25 will be 1-1,"
+    },
+    {
+      "start": 910.94,
+      "end": 919.94,
+      "text": "if I give an example of 25, then this difference will be the margin of the box, then the margin of the box is called the margin of the box,"
+    },
+    {
+      "start": 919.94,
+      "end": 929.94,
+      "text": "if I show you a good example of the margin of the box, I hope I will get an image, I will explain the margin of the box,"
+    },
+    {
+      "start": 929.94,
+      "end": 944.94,
+      "text": "if I have a box, then this image is very good, I will give an example of the margin of the box, then this is how much the margin of the box is missing,"
+    },
+    {
+      "start": 944.94,
+      "end": 954.94,
+      "text": "because the most important message of the two elements is that the margin of the box is missing,"
+    },
+    {
+      "start": 954.94,
+      "end": 962.94,
+      "text": "so I hope you have understood the concept of the margin of the box, what is the concept of the margin of the box,"
+    },
+    {
+      "start": 962.94,
+      "end": 971.94,
+      "text": "and I have tried to explain it to you, the concept of the margin of the box is that, I know many CSS developers,"
+    },
+    {
+      "start": 971.94,
+      "end": 979.94,
+      "text": "I know many CSS developers, because they say that what is the reason for this, why is this my margin is wrong,"
+    },
+    {
+      "start": 979.94,
+      "end": 987.94,
+      "text": "this is the concept of the margin of the box, and if you understood the concept of the margin of the box, then you will be able to enjoy the content,"
+    },
+    {
+      "start": 987.94,
+      "end": 993.94,
+      "text": "then you will be able to develop the margin of the box, you will have to apply the Box sizing, what will you not apply,"
+    },
+    {
+      "start": 993.94,
+      "end": 999.94,
+      "text": "you will have to see all this, especially when we will convert the Figma files to HTML, CSS JavaScript,"
+    },
+    {
+      "start": 999.94,
+      "end": 1005.94,
+      "text": "then you will have to apply the Box sizing, I hope you are enjoying this course,"
+    },
+    {
+      "start": 1005.94,
+      "end": 1008.94,
+      "text": "and I hope you all are understanding everything,"
+    },
+    {
+      "start": 1008.94,
+      "end": 1012.94,
+      "text": "if you are not able to access the playlist, then do access it,"
+    },
+    {
+      "start": 1012.94,
+      "end": 1018.94,
+      "text": "and if you are saving the book and updating the book, then you will get the source code update,"
+    },
+    {
+      "start": 1018.94,
+      "end": 1022.94,
+      "text": "I hope you all are enjoying the source code update,"
+    },
+    {
+      "start": 1022.94,
+      "end": 1030.94,
+      "text": "so like the video, access the playlist, subscribe the channel, share the channel and do both the places of the village and the land of the two,"
+    },
+    {
+      "start": 1030.94,
+      "end": 1033.94,
+      "text": "and I will get ready to meet you in the next video,"
+    },
+    {
+      "start": 1033.94,
+      "end": 1037.94,
+      "text": "thank you so much guys for watching this video, and I will see you next time."
+    }
+  ]
+}

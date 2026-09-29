@@ -1,0 +1,1709 @@
+{
+  "video": 17,
+  "course": "Sigma Web Development",
+  "source_file": "17_CSS Selectors MasterClass _ Sigma Web Development Course - Tutorial #17 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " Guys, we talked about selectors in this session and we said that we will select some element to apply it to the style applied in the elements. And how can we select those elements? For example, we can target the element with an ID, and by its name we can also decide that if we apply a particular type of element in the element, then we will apply the styling. I will explain this in the video of applying this styling and I will explain the elements in this video and I will explain the selectors. In this course, we will definitely write a signature patch in the comments below. We have to maintain the high energy throughout the course. You guys want to give the heads up, this video is a very important CSS video. So, let's go to our biggest local computer screen and let's roll the intro. Alright guys, I am now in my video screen and the first thing I am going to do is to make a video of 17 folder. And I will say the CSS video of the video of 17 folder. It is one of the most important videos in the video because if you are a selector, then you will be very easy to do. So, I will make this video of 17 in index.html and I will use the internal CSS style sheet. So that you can see how I am doing it. I will do a lot of things here, I will tap on the water, I will turn on the screen, so that whatever button I press, you guys will know. And I will take the CSS selector and I will make a div here. And I have made a div here, I am a div here. Guys, if you guys haven't done the CSS yet, then you should start the development of the sigma web. And the source code is going to be updated. So, no worry, you guys should not come to that regard. Now I am going to do a simple work here, I will preview it first. And I want to red the background of div. Now why do you want to do background red? Because I want to take the div as much space as I want to red. So I want to do red, so I will simply red the background of this. I will give it to div, I will take a style tag, I will say that div is the background color of div. Now this is our property, this is the value. I will tell you about the other properties, but now it is the property of this. So this is the value of this. So I will write here, element selector. And I will comment on this, let's write in CSS, in the forward slash star. We write in the forward slash between star and star. So I have written in CSS, that element selector, you can see here, background red is red. So this is our element selector, it is the basic selector. Now the element selector, I have created here, is the drawbacks. The drawbacks are that I add another div here in the moment. So what will be the background red of this div? And it seems that you want to red the background of this div. So if you want to red the background of this div, then what will you do? Definitely you will use any other selector here. And you will want to use any specific selector. So I can say that you do one thing, where you only red the class, only red the div. So I have reded the class here. Now I have reded the class here, you will see what will be found here. I will write here dot red. And after that I will red the background color. I will comment on this, I don't want the div to be red. So I will show you only red. As you can see here. So this is the class selector. This is our class selector. I will write here class selector. Now the next selector, I am going to tell you, is ID selector. And you guys have guessed the selector. Let us say that the hashtag red id, or we will do it here. Let us make a id from the hashtag green name. And I will write here the background color green. So wherever I write id green, it will be green. You can see here that this is our I am another div. This is the color of this, the background color. But as I will show it to you, I will write here. I will give you the id here. Green and you can see that I have given the background color green in the name of the green. So this is our id selector. It is very simple. Yes, it is very simple. We will do it here. Now I will tell you what are the child selector. And the source code, will work on the notes here. So what are the child selector? If I want the paragraph of div inside the paragraph, I will say the paragraph of div inside the paragraph, the color of the div is blue, and what is the background color? The background color will be brown. Okay, I want this. So if I will put the paragraph of div inside the paragraph, I am a paragraph inside div. So what will be the selector of this, the child selector? Because this is the child div. This paragraph is the child div. And I said that there is no paragraph if the child is the child. So what will be the background color? The background color will be blue, as simple as that. Now I will show you something. If I am going to wrap this in a div, I will not span this. I will put it in another element. I will use the article tag. So now this paragraph of div is not in the paragraph, now this article of div is not in the paragraph, so I will show you this in the property. Now this is not the property. Because this selector means that if the div is directly in the paragraph, if the child is directly, what will be the background color? This selector will not apply, but will not apply. Here this is not the direct child. Div is in the article, then it is also the background color. This is not the direct child of div. But if I want to say, if the paragraph is a div's descendant, then this property is put in another element. So I have another element. I will show you. I will simply do this. I will say, I will use the decedent selector. And what is the decedent selector? We will write something like decedent selector. I will write a div, I will write a space, and I will write a p. I want to say, I should write a div inside the div. Whether it is in the article, whether it is in the article, the main, the footer, the p. It should be in the div, in some form. Then it is applied. That is, it should be descendant. So you see, now this property is put in another element. But when I talk about the child selector, then the child selector should be a direct child. Then it will be put in another element. I hope that you all are making sense. Now, after this, it is another universal selector. Okay, that means, I want all the elements, I want to margin, 0, and I want to padding, I want to write 0, okay, I will write p, then I will write a p, I will write a padding, I can write a padding, I will write all the elements, margin 0, padding 0, see, everything is hidden here. First, a little bit, margin and padding, which was given by default, we will google chrome. But now this margin and padding is finished. Okay, as you have also seen. Okay, I hope that you all have understood this. Now, now, see, the selector is also in some other way. But these are the most used selector. Okay, now, I will tell you about the more selected videos about the child selector. But these are the ones, which we will do with our web development. So, I don't want you all to confuse more people. And you all, in the future, the main selector is not allowed to learn. So, I want you all to stay here. This is the most important. It has been made up of 99% of the websites. So, we focus on this. Okay, I hope that you all have understood this. And you all have understood this very well. Okay, now, see, the selector is also important. I will tell you more about it. And what is its name? Seudo selector. Now, see, I know that I have a link. Okay, I will write it down first. I will write the universal selector. Universal selector. Okay. Universal selector. What is happening? Why are you not writing it down? Okay, now, I will simply write it down. PCUdo. PCUdo. Yes, you know, it is called the same. You can write in the comment section. PCUdo is not a pseudo. It is not a pneumonia. You know, it is a P silent. So, why is it a silent? I need to tell you in the comment section. When I was silent, it was like this. Tell me in the comment section, I have this thing. But now, I will tell you what I have to tell you. And that is Seudo selector. Okay, now, see, I have a link. Okay, what is it? It is a link. LIN's link. Now, I will write it down. HTTPS. www.Google.com. Okay. And I will write it down. Go to Google. And it is a lot of things. You will go to Google. You will say, yes, it is in this. I want it to be colored. Let us say white. I will not say white. I will not say white. I will say yellow. I will say, like this. I will visit it. So, I want you to see what is a visitate. What is a visitate? What is its color? What is its color? Yellow. So, I know, I will say yellow. So, what is its color? Yes. So, I want to see the yellow color after I visit it. So, I can use the pseudo selector. Okay. So, you can see the color change here. If you do a color link after that. That is, the link that is not a visitate. And you want it to be green. I will put a link in it. What will happen to its color? I will go to Facebook in this way. Okay. And yes, Google's G is also a capital. So, what will be the color of the color? No, it will not be green. I have already visited Facebook. Sorry, Google has visited. I will have to click Facebook. Okay. I will click Facebook. I will not click Facebook. I will do Facebook 2. What will happen? I will do Facebook 2. I have not visited Facebook 2. I have actually visited Facebook. If you remember, in initial few lectures. So, this is how it is showing. Now, I will tell you about two more selector. Link is related. One is A active. Now, let me tell you. You will see a pseudo selector in your suggestion. Now, I want this active background color red. So, I will click on a link. You will see that it is red. So, it means that when you click, then you will see Google.com. And as soon as I click, this background will be red. Okay. Yes, I know that you do not want to use this id. But that is just an example. For you to see how it is done. It is the easiest for me to red this background color. You will know directly. Now, what are the different types of anchor tech? Some pseudo selector. The answer is yes. Definitely, there is one hover. Okay. If I want to hover on any anchor tech. Okay. And I want that background color red. Here, background color yellow. I will hover here. If I want to hover, you can see that this background color is yellow. I am hovering here. I have written here a hover. I will write this yellow. So, this is a pseudo selector. Now, I will tell you one more pseudo selector. And it will be that if I want to have a div. The class monlo selector. And I will write a selector. Okay. Here, it works. It is called one. Selectors, you do not confuse. O and E1. So, now I will tell you about the first child pseudo selector. Because maybe you will find a trick. And this is the pseudo selector. So, this pseudo selector is the first child. If I write here P first child background color aqua. That means, this is where P is the first child of your parent. There is the background color aqua. In this case, I have added a main tag here. And here P I am first. P I am second. You can see here that where the main first child P is. Because here P is the first child. So, this class will apply in this. So, see that here the background color aqua is not. But I will tell you about this. It is very less used. When you develop web. So, you guys, the pseudo classes. I will do more research in the description. I will put links in this. So, the additional reading material you want. And you will get the link in the description. I will put in the pinned comment. And if I forget to give the link to you. I will give all the links to you. You can read about the selector. But now we will move on to this course. And we will read about the main things. Because we have to come to the very early projects. And we have to make good real world apps. And we have to do back end. We have to do database. So, we have to build the people. I hope you guys are enjoying this course. If you haven't done this bookmark yet. Then do it now. Now, click on the bookmark and save it. So, access the playlist. Access the GitHub code. Like the video. Share it. And share your village and town. We will get the name of both the people. I will meet you in the next video. Thank you so much guys for watching this video. And I will see you next time. Bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.0,
+      "text": "Guys, we talked about selectors in this session and we said that we will select some element to apply it to the style applied in the elements."
+    },
+    {
+      "start": 11.0,
+      "end": 27.0,
+      "text": "And how can we select those elements? For example, we can target the element with an ID, and by its name we can also decide that if we apply a particular type of element in the element, then we will apply the styling."
+    },
+    {
+      "start": 27.0,
+      "end": 32.0,
+      "text": "I will explain this in the video of applying this styling and I will explain the elements in this video and I will explain the selectors."
+    },
+    {
+      "start": 32.0,
+      "end": 36.0,
+      "text": "In this course, we will definitely write a signature patch in the comments below."
+    },
+    {
+      "start": 36.0,
+      "end": 39.0,
+      "text": "We have to maintain the high energy throughout the course."
+    },
+    {
+      "start": 39.0,
+      "end": 44.0,
+      "text": "You guys want to give the heads up, this video is a very important CSS video."
+    },
+    {
+      "start": 44.0,
+      "end": 48.0,
+      "text": "So, let's go to our biggest local computer screen and let's roll the intro."
+    },
+    {
+      "start": 57.0,
+      "end": 62.0,
+      "text": "Alright guys, I am now in my video screen and the first thing I am going to do is to make a video of 17 folder."
+    },
+    {
+      "start": 62.0,
+      "end": 65.0,
+      "text": "And I will say the CSS video of the video of 17 folder."
+    },
+    {
+      "start": 65.0,
+      "end": 72.0,
+      "text": "It is one of the most important videos in the video because if you are a selector, then you will be very easy to do."
+    },
+    {
+      "start": 72.0,
+      "end": 82.0,
+      "text": "So, I will make this video of 17 in index.html and I will use the internal CSS style sheet."
+    },
+    {
+      "start": 82.0,
+      "end": 87.0,
+      "text": "So that you can see how I am doing it."
+    },
+    {
+      "start": 87.0,
+      "end": 94.0,
+      "text": "I will do a lot of things here, I will tap on the water, I will turn on the screen, so that whatever button I press, you guys will know."
+    },
+    {
+      "start": 94.0,
+      "end": 99.0,
+      "text": "And I will take the CSS selector and I will make a div here."
+    },
+    {
+      "start": 99.0,
+      "end": 103.0,
+      "text": "And I have made a div here, I am a div here."
+    },
+    {
+      "start": 103.0,
+      "end": 107.0,
+      "text": "Guys, if you guys haven't done the CSS yet, then you should start the development of the sigma web."
+    },
+    {
+      "start": 107.0,
+      "end": 109.0,
+      "text": "And the source code is going to be updated."
+    },
+    {
+      "start": 109.0,
+      "end": 112.0,
+      "text": "So, no worry, you guys should not come to that regard."
+    },
+    {
+      "start": 112.0,
+      "end": 117.0,
+      "text": "Now I am going to do a simple work here, I will preview it first."
+    },
+    {
+      "start": 117.0,
+      "end": 120.0,
+      "text": "And I want to red the background of div."
+    },
+    {
+      "start": 120.0,
+      "end": 123.0,
+      "text": "Now why do you want to do background red?"
+    },
+    {
+      "start": 123.0,
+      "end": 127.0,
+      "text": "Because I want to take the div as much space as I want to red."
+    },
+    {
+      "start": 127.0,
+      "end": 132.0,
+      "text": "So I want to do red, so I will simply red the background of this."
+    },
+    {
+      "start": 132.0,
+      "end": 142.0,
+      "text": "I will give it to div, I will take a style tag, I will say that div is the background color of div."
+    },
+    {
+      "start": 142.0,
+      "end": 146.0,
+      "text": "Now this is our property, this is the value."
+    },
+    {
+      "start": 146.0,
+      "end": 151.0,
+      "text": "I will tell you about the other properties, but now it is the property of this."
+    },
+    {
+      "start": 151.0,
+      "end": 155.0,
+      "text": "So this is the value of this."
+    },
+    {
+      "start": 155.0,
+      "end": 158.0,
+      "text": "So I will write here, element selector."
+    },
+    {
+      "start": 158.0,
+      "end": 163.0,
+      "text": "And I will comment on this, let's write in CSS, in the forward slash star."
+    },
+    {
+      "start": 163.0,
+      "end": 166.0,
+      "text": "We write in the forward slash between star and star."
+    },
+    {
+      "start": 166.0,
+      "end": 171.0,
+      "text": "So I have written in CSS, that element selector, you can see here, background red is red."
+    },
+    {
+      "start": 171.0,
+      "end": 175.0,
+      "text": "So this is our element selector, it is the basic selector."
+    },
+    {
+      "start": 175.0,
+      "end": 179.0,
+      "text": "Now the element selector, I have created here, is the drawbacks."
+    },
+    {
+      "start": 179.0,
+      "end": 183.0,
+      "text": "The drawbacks are that I add another div here in the moment."
+    },
+    {
+      "start": 183.0,
+      "end": 186.0,
+      "text": "So what will be the background red of this div?"
+    },
+    {
+      "start": 186.0,
+      "end": 190.0,
+      "text": "And it seems that you want to red the background of this div."
+    },
+    {
+      "start": 190.0,
+      "end": 194.0,
+      "text": "So if you want to red the background of this div, then what will you do?"
+    },
+    {
+      "start": 194.0,
+      "end": 198.0,
+      "text": "Definitely you will use any other selector here."
+    },
+    {
+      "start": 198.0,
+      "end": 201.0,
+      "text": "And you will want to use any specific selector."
+    },
+    {
+      "start": 201.0,
+      "end": 206.0,
+      "text": "So I can say that you do one thing, where you only red the class, only red the div."
+    },
+    {
+      "start": 206.0,
+      "end": 208.0,
+      "text": "So I have reded the class here."
+    },
+    {
+      "start": 208.0,
+      "end": 213.0,
+      "text": "Now I have reded the class here, you will see what will be found here."
+    },
+    {
+      "start": 213.0,
+      "end": 216.0,
+      "text": "I will write here dot red."
+    },
+    {
+      "start": 216.0,
+      "end": 221.0,
+      "text": "And after that I will red the background color."
+    },
+    {
+      "start": 221.0,
+      "end": 225.0,
+      "text": "I will comment on this, I don't want the div to be red."
+    },
+    {
+      "start": 225.0,
+      "end": 228.0,
+      "text": "So I will show you only red."
+    },
+    {
+      "start": 228.0,
+      "end": 230.0,
+      "text": "As you can see here."
+    },
+    {
+      "start": 230.0,
+      "end": 233.0,
+      "text": "So this is the class selector."
+    },
+    {
+      "start": 233.0,
+      "end": 235.0,
+      "text": "This is our class selector."
+    },
+    {
+      "start": 235.0,
+      "end": 237.0,
+      "text": "I will write here class selector."
+    },
+    {
+      "start": 237.0,
+      "end": 241.0,
+      "text": "Now the next selector, I am going to tell you, is ID selector."
+    },
+    {
+      "start": 241.0,
+      "end": 245.0,
+      "text": "And you guys have guessed the selector."
+    },
+    {
+      "start": 245.0,
+      "end": 251.0,
+      "text": "Let us say that the hashtag red id, or we will do it here."
+    },
+    {
+      "start": 251.0,
+      "end": 254.0,
+      "text": "Let us make a id from the hashtag green name."
+    },
+    {
+      "start": 254.0,
+      "end": 256.0,
+      "text": "And I will write here the background color green."
+    },
+    {
+      "start": 256.0,
+      "end": 259.0,
+      "text": "So wherever I write id green, it will be green."
+    },
+    {
+      "start": 259.0,
+      "end": 262.0,
+      "text": "You can see here that this is our I am another div."
+    },
+    {
+      "start": 262.0,
+      "end": 264.0,
+      "text": "This is the color of this, the background color."
+    },
+    {
+      "start": 264.0,
+      "end": 268.0,
+      "text": "But as I will show it to you, I will write here."
+    },
+    {
+      "start": 269.0,
+      "end": 271.0,
+      "text": "I will give you the id here."
+    },
+    {
+      "start": 271.0,
+      "end": 277.0,
+      "text": "Green and you can see that I have given the background color green in the name of the green."
+    },
+    {
+      "start": 277.0,
+      "end": 279.0,
+      "text": "So this is our id selector."
+    },
+    {
+      "start": 279.0,
+      "end": 281.0,
+      "text": "It is very simple."
+    },
+    {
+      "start": 281.0,
+      "end": 283.0,
+      "text": "Yes, it is very simple."
+    },
+    {
+      "start": 283.0,
+      "end": 285.0,
+      "text": "We will do it here."
+    },
+    {
+      "start": 285.0,
+      "end": 287.0,
+      "text": "Now I will tell you what are the child selector."
+    },
+    {
+      "start": 287.0,
+      "end": 289.0,
+      "text": "And the source code,"
+    },
+    {
+      "start": 289.0,
+      "end": 292.0,
+      "text": "will work on the notes here."
+    },
+    {
+      "start": 292.0,
+      "end": 294.0,
+      "text": "So what are the child selector?"
+    },
+    {
+      "start": 294.0,
+      "end": 297.0,
+      "text": "If I want the paragraph of div inside the paragraph,"
+    },
+    {
+      "start": 297.0,
+      "end": 300.0,
+      "text": "I will say the paragraph of div inside the paragraph,"
+    },
+    {
+      "start": 300.0,
+      "end": 304.0,
+      "text": "the color of the div is blue, and what is the background color?"
+    },
+    {
+      "start": 304.0,
+      "end": 307.0,
+      "text": "The background color will be brown."
+    },
+    {
+      "start": 307.0,
+      "end": 308.0,
+      "text": "Okay, I want this."
+    },
+    {
+      "start": 308.0,
+      "end": 311.0,
+      "text": "So if I will put the paragraph of div inside the paragraph,"
+    },
+    {
+      "start": 311.0,
+      "end": 315.0,
+      "text": "I am a paragraph inside div."
+    },
+    {
+      "start": 315.0,
+      "end": 318.0,
+      "text": "So what will be the selector of this, the child selector?"
+    },
+    {
+      "start": 318.0,
+      "end": 321.0,
+      "text": "Because this is the child div."
+    },
+    {
+      "start": 321.0,
+      "end": 323.0,
+      "text": "This paragraph is the child div."
+    },
+    {
+      "start": 323.0,
+      "end": 327.0,
+      "text": "And I said that there is no paragraph if the child is the child."
+    },
+    {
+      "start": 327.0,
+      "end": 330.0,
+      "text": "So what will be the background color?"
+    },
+    {
+      "start": 330.0,
+      "end": 332.0,
+      "text": "The background color will be blue,"
+    },
+    {
+      "start": 332.0,
+      "end": 334.0,
+      "text": "as simple as that."
+    },
+    {
+      "start": 334.0,
+      "end": 336.0,
+      "text": "Now I will show you something."
+    },
+    {
+      "start": 336.0,
+      "end": 338.0,
+      "text": "If I am going to wrap this in a div,"
+    },
+    {
+      "start": 338.0,
+      "end": 341.0,
+      "text": "I will not span this."
+    },
+    {
+      "start": 341.0,
+      "end": 345.0,
+      "text": "I will put it in another element."
+    },
+    {
+      "start": 345.0,
+      "end": 349.0,
+      "text": "I will use the article tag."
+    },
+    {
+      "start": 349.0,
+      "end": 352.0,
+      "text": "So now this paragraph of div is not in the paragraph,"
+    },
+    {
+      "start": 352.0,
+      "end": 355.0,
+      "text": "now this article of div is not in the paragraph,"
+    },
+    {
+      "start": 355.0,
+      "end": 357.0,
+      "text": "so I will show you this in the property."
+    },
+    {
+      "start": 357.0,
+      "end": 359.0,
+      "text": "Now this is not the property."
+    },
+    {
+      "start": 359.0,
+      "end": 363.0,
+      "text": "Because this selector means that if the div is directly in the paragraph,"
+    },
+    {
+      "start": 363.0,
+      "end": 366.0,
+      "text": "if the child is directly, what will be the background color?"
+    },
+    {
+      "start": 366.0,
+      "end": 368.0,
+      "text": "This selector will not apply, but will not apply."
+    },
+    {
+      "start": 368.0,
+      "end": 370.0,
+      "text": "Here this is not the direct child."
+    },
+    {
+      "start": 370.0,
+      "end": 373.0,
+      "text": "Div is in the article, then it is also the background color."
+    },
+    {
+      "start": 373.0,
+      "end": 375.0,
+      "text": "This is not the direct child of div."
+    },
+    {
+      "start": 375.0,
+      "end": 377.0,
+      "text": "But if I want to say,"
+    },
+    {
+      "start": 377.0,
+      "end": 380.0,
+      "text": "if the paragraph is a div's descendant,"
+    },
+    {
+      "start": 380.0,
+      "end": 383.0,
+      "text": "then this property is put in another element."
+    },
+    {
+      "start": 383.0,
+      "end": 385.0,
+      "text": "So I have another element."
+    },
+    {
+      "start": 385.0,
+      "end": 386.0,
+      "text": "I will show you."
+    },
+    {
+      "start": 386.0,
+      "end": 388.0,
+      "text": "I will simply do this."
+    },
+    {
+      "start": 388.0,
+      "end": 389.0,
+      "text": "I will say,"
+    },
+    {
+      "start": 389.0,
+      "end": 392.0,
+      "text": "I will use the decedent selector."
+    },
+    {
+      "start": 392.0,
+      "end": 394.0,
+      "text": "And what is the decedent selector?"
+    },
+    {
+      "start": 394.0,
+      "end": 397.0,
+      "text": "We will write something like decedent selector."
+    },
+    {
+      "start": 397.0,
+      "end": 399.0,
+      "text": "I will write a div,"
+    },
+    {
+      "start": 399.0,
+      "end": 401.0,
+      "text": "I will write a space, and I will write a p."
+    },
+    {
+      "start": 401.0,
+      "end": 402.0,
+      "text": "I want to say,"
+    },
+    {
+      "start": 402.0,
+      "end": 403.0,
+      "text": "I should write a div inside the div."
+    },
+    {
+      "start": 403.0,
+      "end": 405.0,
+      "text": "Whether it is in the article,"
+    },
+    {
+      "start": 405.0,
+      "end": 409.0,
+      "text": "whether it is in the article, the main, the footer, the p."
+    },
+    {
+      "start": 409.0,
+      "end": 411.0,
+      "text": "It should be in the div, in some form."
+    },
+    {
+      "start": 411.0,
+      "end": 412.0,
+      "text": "Then it is applied."
+    },
+    {
+      "start": 412.0,
+      "end": 414.0,
+      "text": "That is, it should be descendant."
+    },
+    {
+      "start": 414.0,
+      "end": 415.0,
+      "text": "So you see,"
+    },
+    {
+      "start": 415.0,
+      "end": 418.0,
+      "text": "now this property is put in another element."
+    },
+    {
+      "start": 418.0,
+      "end": 420.0,
+      "text": "But when I talk about the child selector,"
+    },
+    {
+      "start": 420.0,
+      "end": 422.0,
+      "text": "then the child selector should be a direct child."
+    },
+    {
+      "start": 422.0,
+      "end": 423.0,
+      "text": "Then it will be put in another element."
+    },
+    {
+      "start": 423.0,
+      "end": 425.0,
+      "text": "I hope that you all are making sense."
+    },
+    {
+      "start": 425.0,
+      "end": 426.0,
+      "text": "Now, after this,"
+    },
+    {
+      "start": 426.0,
+      "end": 427.0,
+      "text": "it is another universal selector."
+    },
+    {
+      "start": 427.0,
+      "end": 428.0,
+      "text": "Okay, that means,"
+    },
+    {
+      "start": 428.0,
+      "end": 430.0,
+      "text": "I want all the elements,"
+    },
+    {
+      "start": 430.0,
+      "end": 432.0,
+      "text": "I want to margin,"
+    },
+    {
+      "start": 432.0,
+      "end": 433.0,
+      "text": "0,"
+    },
+    {
+      "start": 433.0,
+      "end": 434.0,
+      "text": "and I want to padding,"
+    },
+    {
+      "start": 434.0,
+      "end": 435.0,
+      "text": "I want to write 0,"
+    },
+    {
+      "start": 435.0,
+      "end": 436.0,
+      "text": "okay, I will write p,"
+    },
+    {
+      "start": 436.0,
+      "end": 437.0,
+      "text": "then I will write a p,"
+    },
+    {
+      "start": 437.0,
+      "end": 438.0,
+      "text": "I will write a padding,"
+    },
+    {
+      "start": 438.0,
+      "end": 439.0,
+      "text": "I can write a padding,"
+    },
+    {
+      "start": 439.0,
+      "end": 440.0,
+      "text": "I will write all the elements,"
+    },
+    {
+      "start": 440.0,
+      "end": 441.0,
+      "text": "margin 0,"
+    },
+    {
+      "start": 441.0,
+      "end": 442.0,
+      "text": "padding 0,"
+    },
+    {
+      "start": 442.0,
+      "end": 443.0,
+      "text": "see, everything is hidden here."
+    },
+    {
+      "start": 443.0,
+      "end": 444.0,
+      "text": "First, a little bit,"
+    },
+    {
+      "start": 444.0,
+      "end": 445.0,
+      "text": "margin and padding,"
+    },
+    {
+      "start": 445.0,
+      "end": 446.0,
+      "text": "which was given by default,"
+    },
+    {
+      "start": 446.0,
+      "end": 447.0,
+      "text": "we will google chrome."
+    },
+    {
+      "start": 447.0,
+      "end": 449.0,
+      "text": "But now this margin and padding is finished."
+    },
+    {
+      "start": 449.0,
+      "end": 450.0,
+      "text": "Okay,"
+    },
+    {
+      "start": 450.0,
+      "end": 451.0,
+      "text": "as you have also seen."
+    },
+    {
+      "start": 451.0,
+      "end": 452.0,
+      "text": "Okay,"
+    },
+    {
+      "start": 452.0,
+      "end": 453.0,
+      "text": "I hope that you all have understood this."
+    },
+    {
+      "start": 453.0,
+      "end": 454.0,
+      "text": "Now,"
+    },
+    {
+      "start": 454.0,
+      "end": 455.0,
+      "text": "now, see, the selector is also in some other way."
+    },
+    {
+      "start": 455.0,
+      "end": 457.0,
+      "text": "But these are the most used selector."
+    },
+    {
+      "start": 457.0,
+      "end": 458.0,
+      "text": "Okay,"
+    },
+    {
+      "start": 458.0,
+      "end": 461.0,
+      "text": "now, I will tell you about the more selected videos about the child selector."
+    },
+    {
+      "start": 461.0,
+      "end": 462.0,
+      "text": "But these are the ones,"
+    },
+    {
+      "start": 462.0,
+      "end": 464.0,
+      "text": "which we will do with our web development."
+    },
+    {
+      "start": 464.0,
+      "end": 466.0,
+      "text": "So, I don't want you all to confuse more people."
+    },
+    {
+      "start": 466.0,
+      "end": 467.0,
+      "text": "And you all,"
+    },
+    {
+      "start": 467.0,
+      "end": 468.0,
+      "text": "in the future,"
+    },
+    {
+      "start": 468.0,
+      "end": 470.0,
+      "text": "the main selector is not allowed to learn."
+    },
+    {
+      "start": 470.0,
+      "end": 472.0,
+      "text": "So, I want you all to stay here."
+    },
+    {
+      "start": 472.0,
+      "end": 474.0,
+      "text": "This is the most important."
+    },
+    {
+      "start": 474.0,
+      "end": 477.0,
+      "text": "It has been made up of 99% of the websites."
+    },
+    {
+      "start": 477.0,
+      "end": 479.0,
+      "text": "So, we focus on this."
+    },
+    {
+      "start": 479.0,
+      "end": 480.0,
+      "text": "Okay,"
+    },
+    {
+      "start": 480.0,
+      "end": 481.0,
+      "text": "I hope that you all have understood this."
+    },
+    {
+      "start": 481.0,
+      "end": 483.0,
+      "text": "And you all have understood this very well."
+    },
+    {
+      "start": 483.0,
+      "end": 484.0,
+      "text": "Okay,"
+    },
+    {
+      "start": 484.0,
+      "end": 485.0,
+      "text": "now, see, the selector is also important."
+    },
+    {
+      "start": 485.0,
+      "end": 486.0,
+      "text": "I will tell you more about it."
+    },
+    {
+      "start": 486.0,
+      "end": 487.0,
+      "text": "And what is its name?"
+    },
+    {
+      "start": 487.0,
+      "end": 488.0,
+      "text": "Seudo selector."
+    },
+    {
+      "start": 488.0,
+      "end": 490.0,
+      "text": "Now, see,"
+    },
+    {
+      "start": 490.0,
+      "end": 492.0,
+      "text": "I know that I have a link."
+    },
+    {
+      "start": 492.0,
+      "end": 494.0,
+      "text": "Okay, I will write it down first."
+    },
+    {
+      "start": 494.0,
+      "end": 496.0,
+      "text": "I will write the universal selector."
+    },
+    {
+      "start": 496.0,
+      "end": 498.0,
+      "text": "Universal selector."
+    },
+    {
+      "start": 498.0,
+      "end": 500.0,
+      "text": "Okay."
+    },
+    {
+      "start": 500.0,
+      "end": 502.0,
+      "text": "Universal selector."
+    },
+    {
+      "start": 502.0,
+      "end": 504.0,
+      "text": "What is happening?"
+    },
+    {
+      "start": 504.0,
+      "end": 506.0,
+      "text": "Why are you not writing it down?"
+    },
+    {
+      "start": 506.0,
+      "end": 509.0,
+      "text": "Okay, now, I will simply write it down."
+    },
+    {
+      "start": 509.0,
+      "end": 511.0,
+      "text": "PCUdo."
+    },
+    {
+      "start": 511.0,
+      "end": 513.0,
+      "text": "PCUdo."
+    },
+    {
+      "start": 513.0,
+      "end": 515.0,
+      "text": "Yes, you know, it is called the same."
+    },
+    {
+      "start": 515.0,
+      "end": 517.0,
+      "text": "You can write in the comment section."
+    },
+    {
+      "start": 517.0,
+      "end": 519.0,
+      "text": "PCUdo is not a pseudo."
+    },
+    {
+      "start": 519.0,
+      "end": 521.0,
+      "text": "It is not a pneumonia."
+    },
+    {
+      "start": 521.0,
+      "end": 523.0,
+      "text": "You know, it is a P silent."
+    },
+    {
+      "start": 523.0,
+      "end": 524.0,
+      "text": "So, why is it a silent?"
+    },
+    {
+      "start": 524.0,
+      "end": 526.0,
+      "text": "I need to tell you in the comment section."
+    },
+    {
+      "start": 526.0,
+      "end": 528.0,
+      "text": "When I was silent, it was like this."
+    },
+    {
+      "start": 528.0,
+      "end": 530.0,
+      "text": "Tell me in the comment section,"
+    },
+    {
+      "start": 530.0,
+      "end": 532.0,
+      "text": "I have this thing."
+    },
+    {
+      "start": 532.0,
+      "end": 534.0,
+      "text": "But now, I will tell you what I have to tell you."
+    },
+    {
+      "start": 534.0,
+      "end": 536.0,
+      "text": "And that is Seudo selector."
+    },
+    {
+      "start": 536.0,
+      "end": 537.0,
+      "text": "Okay, now, see, I have a link."
+    },
+    {
+      "start": 537.0,
+      "end": 538.0,
+      "text": "Okay, what is it?"
+    },
+    {
+      "start": 538.0,
+      "end": 540.0,
+      "text": "It is a link."
+    },
+    {
+      "start": 540.0,
+      "end": 541.0,
+      "text": "LIN's link."
+    },
+    {
+      "start": 541.0,
+      "end": 542.0,
+      "text": "Now, I will write it down."
+    },
+    {
+      "start": 542.0,
+      "end": 544.0,
+      "text": "HTTPS."
+    },
+    {
+      "start": 544.0,
+      "end": 546.0,
+      "text": "www.Google.com."
+    },
+    {
+      "start": 546.0,
+      "end": 547.0,
+      "text": "Okay."
+    },
+    {
+      "start": 547.0,
+      "end": 548.0,
+      "text": "And I will write it down."
+    },
+    {
+      "start": 548.0,
+      "end": 550.0,
+      "text": "Go to Google."
+    },
+    {
+      "start": 550.0,
+      "end": 552.0,
+      "text": "And it is a lot of things."
+    },
+    {
+      "start": 552.0,
+      "end": 553.0,
+      "text": "You will go to Google."
+    },
+    {
+      "start": 553.0,
+      "end": 554.0,
+      "text": "You will say, yes, it is in this."
+    },
+    {
+      "start": 554.0,
+      "end": 556.0,
+      "text": "I want it to be colored."
+    },
+    {
+      "start": 556.0,
+      "end": 558.0,
+      "text": "Let us say white."
+    },
+    {
+      "start": 558.0,
+      "end": 559.0,
+      "text": "I will not say white."
+    },
+    {
+      "start": 559.0,
+      "end": 560.0,
+      "text": "I will not say white."
+    },
+    {
+      "start": 560.0,
+      "end": 561.0,
+      "text": "I will say yellow."
+    },
+    {
+      "start": 561.0,
+      "end": 562.0,
+      "text": "I will say, like this."
+    },
+    {
+      "start": 562.0,
+      "end": 563.0,
+      "text": "I will visit it."
+    },
+    {
+      "start": 563.0,
+      "end": 566.0,
+      "text": "So, I want you to see what is a visitate."
+    },
+    {
+      "start": 566.0,
+      "end": 568.0,
+      "text": "What is a visitate?"
+    },
+    {
+      "start": 568.0,
+      "end": 570.0,
+      "text": "What is its color?"
+    },
+    {
+      "start": 570.0,
+      "end": 571.0,
+      "text": "What is its color?"
+    },
+    {
+      "start": 571.0,
+      "end": 572.0,
+      "text": "Yellow."
+    },
+    {
+      "start": 572.0,
+      "end": 574.0,
+      "text": "So, I know, I will say yellow."
+    },
+    {
+      "start": 574.0,
+      "end": 576.0,
+      "text": "So, what is its color?"
+    },
+    {
+      "start": 576.0,
+      "end": 577.0,
+      "text": "Yes."
+    },
+    {
+      "start": 577.0,
+      "end": 581.0,
+      "text": "So, I want to see the yellow color after I visit it."
+    },
+    {
+      "start": 581.0,
+      "end": 583.0,
+      "text": "So, I can use the pseudo selector."
+    },
+    {
+      "start": 583.0,
+      "end": 584.0,
+      "text": "Okay."
+    },
+    {
+      "start": 584.0,
+      "end": 587.0,
+      "text": "So, you can see the color change here."
+    },
+    {
+      "start": 587.0,
+      "end": 590.0,
+      "text": "If you do a color link after that."
+    },
+    {
+      "start": 590.0,
+      "end": 593.0,
+      "text": "That is, the link that is not a visitate."
+    },
+    {
+      "start": 593.0,
+      "end": 595.0,
+      "text": "And you want it to be green."
+    },
+    {
+      "start": 595.0,
+      "end": 597.0,
+      "text": "I will put a link in it."
+    },
+    {
+      "start": 597.0,
+      "end": 598.0,
+      "text": "What will happen to its color?"
+    },
+    {
+      "start": 598.0,
+      "end": 602.0,
+      "text": "I will go to Facebook in this way."
+    },
+    {
+      "start": 602.0,
+      "end": 603.0,
+      "text": "Okay."
+    },
+    {
+      "start": 603.0,
+      "end": 606.0,
+      "text": "And yes, Google's G is also a capital."
+    },
+    {
+      "start": 606.0,
+      "end": 608.0,
+      "text": "So, what will be the color of the color?"
+    },
+    {
+      "start": 608.0,
+      "end": 609.0,
+      "text": "No, it will not be green."
+    },
+    {
+      "start": 609.0,
+      "end": 611.0,
+      "text": "I have already visited Facebook."
+    },
+    {
+      "start": 611.0,
+      "end": 613.0,
+      "text": "Sorry, Google has visited."
+    },
+    {
+      "start": 613.0,
+      "end": 615.0,
+      "text": "I will have to click Facebook."
+    },
+    {
+      "start": 615.0,
+      "end": 616.0,
+      "text": "Okay."
+    },
+    {
+      "start": 616.0,
+      "end": 617.0,
+      "text": "I will click Facebook."
+    },
+    {
+      "start": 617.0,
+      "end": 618.0,
+      "text": "I will not click Facebook."
+    },
+    {
+      "start": 618.0,
+      "end": 619.0,
+      "text": "I will do Facebook 2."
+    },
+    {
+      "start": 619.0,
+      "end": 620.0,
+      "text": "What will happen?"
+    },
+    {
+      "start": 620.0,
+      "end": 621.0,
+      "text": "I will do Facebook 2."
+    },
+    {
+      "start": 621.0,
+      "end": 623.0,
+      "text": "I have not visited Facebook 2."
+    },
+    {
+      "start": 623.0,
+      "end": 625.0,
+      "text": "I have actually visited Facebook."
+    },
+    {
+      "start": 625.0,
+      "end": 627.0,
+      "text": "If you remember, in initial few lectures."
+    },
+    {
+      "start": 627.0,
+      "end": 628.0,
+      "text": "So, this is how it is showing."
+    },
+    {
+      "start": 628.0,
+      "end": 631.0,
+      "text": "Now, I will tell you about two more selector."
+    },
+    {
+      "start": 631.0,
+      "end": 632.0,
+      "text": "Link is related."
+    },
+    {
+      "start": 632.0,
+      "end": 634.0,
+      "text": "One is A active."
+    },
+    {
+      "start": 634.0,
+      "end": 635.0,
+      "text": "Now, let me tell you."
+    },
+    {
+      "start": 635.0,
+      "end": 638.0,
+      "text": "You will see a pseudo selector in your suggestion."
+    },
+    {
+      "start": 638.0,
+      "end": 641.0,
+      "text": "Now, I want this active background color red."
+    },
+    {
+      "start": 641.0,
+      "end": 643.0,
+      "text": "So, I will click on a link."
+    },
+    {
+      "start": 643.0,
+      "end": 644.0,
+      "text": "You will see that it is red."
+    },
+    {
+      "start": 644.0,
+      "end": 647.0,
+      "text": "So, it means that when you click,"
+    },
+    {
+      "start": 647.0,
+      "end": 649.0,
+      "text": "then you will see Google.com."
+    },
+    {
+      "start": 649.0,
+      "end": 651.0,
+      "text": "And as soon as I click, this background will be red."
+    },
+    {
+      "start": 651.0,
+      "end": 652.0,
+      "text": "Okay."
+    },
+    {
+      "start": 652.0,
+      "end": 654.0,
+      "text": "Yes, I know that you do not want to use this id."
+    },
+    {
+      "start": 654.0,
+      "end": 656.0,
+      "text": "But that is just an example."
+    },
+    {
+      "start": 656.0,
+      "end": 658.0,
+      "text": "For you to see how it is done."
+    },
+    {
+      "start": 658.0,
+      "end": 661.0,
+      "text": "It is the easiest for me to red this background color."
+    },
+    {
+      "start": 661.0,
+      "end": 663.0,
+      "text": "You will know directly."
+    },
+    {
+      "start": 663.0,
+      "end": 667.0,
+      "text": "Now, what are the different types of anchor tech?"
+    },
+    {
+      "start": 667.0,
+      "end": 669.0,
+      "text": "Some pseudo selector."
+    },
+    {
+      "start": 669.0,
+      "end": 670.0,
+      "text": "The answer is yes."
+    },
+    {
+      "start": 670.0,
+      "end": 672.0,
+      "text": "Definitely, there is one hover."
+    },
+    {
+      "start": 672.0,
+      "end": 673.0,
+      "text": "Okay."
+    },
+    {
+      "start": 673.0,
+      "end": 676.0,
+      "text": "If I want to hover on any anchor tech."
+    },
+    {
+      "start": 676.0,
+      "end": 677.0,
+      "text": "Okay."
+    },
+    {
+      "start": 677.0,
+      "end": 679.0,
+      "text": "And I want that background color red."
+    },
+    {
+      "start": 679.0,
+      "end": 681.0,
+      "text": "Here, background color yellow."
+    },
+    {
+      "start": 681.0,
+      "end": 684.0,
+      "text": "I will hover here."
+    },
+    {
+      "start": 684.0,
+      "end": 687.0,
+      "text": "If I want to hover, you can see that this background color"
+    },
+    {
+      "start": 687.0,
+      "end": 688.0,
+      "text": "is yellow."
+    },
+    {
+      "start": 688.0,
+      "end": 690.0,
+      "text": "I am hovering here."
+    },
+    {
+      "start": 690.0,
+      "end": 692.0,
+      "text": "I have written here a hover."
+    },
+    {
+      "start": 692.0,
+      "end": 693.0,
+      "text": "I will write this yellow."
+    },
+    {
+      "start": 693.0,
+      "end": 695.0,
+      "text": "So, this is a pseudo selector."
+    },
+    {
+      "start": 695.0,
+      "end": 697.0,
+      "text": "Now, I will tell you one more pseudo selector."
+    },
+    {
+      "start": 697.0,
+      "end": 701.0,
+      "text": "And it will be that if I want to have a div."
+    },
+    {
+      "start": 701.0,
+      "end": 705.0,
+      "text": "The class monlo selector."
+    },
+    {
+      "start": 705.0,
+      "end": 707.0,
+      "text": "And I will write a selector."
+    },
+    {
+      "start": 707.0,
+      "end": 708.0,
+      "text": "Okay."
+    },
+    {
+      "start": 708.0,
+      "end": 709.0,
+      "text": "Here, it works."
+    },
+    {
+      "start": 709.0,
+      "end": 710.0,
+      "text": "It is called one."
+    },
+    {
+      "start": 710.0,
+      "end": 711.0,
+      "text": "Selectors, you do not confuse."
+    },
+    {
+      "start": 711.0,
+      "end": 712.0,
+      "text": "O and E1."
+    },
+    {
+      "start": 712.0,
+      "end": 715.0,
+      "text": "So, now I will tell you about the first child pseudo selector."
+    },
+    {
+      "start": 715.0,
+      "end": 717.0,
+      "text": "Because maybe you will find a trick."
+    },
+    {
+      "start": 717.0,
+      "end": 720.0,
+      "text": "And this is the pseudo selector."
+    },
+    {
+      "start": 720.0,
+      "end": 722.0,
+      "text": "So, this pseudo selector is the first child."
+    },
+    {
+      "start": 722.0,
+      "end": 725.0,
+      "text": "If I write here P first child background color"
+    },
+    {
+      "start": 725.0,
+      "end": 726.0,
+      "text": "aqua."
+    },
+    {
+      "start": 726.0,
+      "end": 730.0,
+      "text": "That means, this is where P is the first child of your parent."
+    },
+    {
+      "start": 730.0,
+      "end": 732.0,
+      "text": "There is the background color aqua."
+    },
+    {
+      "start": 732.0,
+      "end": 736.0,
+      "text": "In this case, I have added a main tag here."
+    },
+    {
+      "start": 736.0,
+      "end": 738.0,
+      "text": "And here P I am first."
+    },
+    {
+      "start": 738.0,
+      "end": 740.0,
+      "text": "P I am second."
+    },
+    {
+      "start": 740.0,
+      "end": 743.0,
+      "text": "You can see here that where the main first child P is."
+    },
+    {
+      "start": 743.0,
+      "end": 746.0,
+      "text": "Because here P is the first child."
+    },
+    {
+      "start": 746.0,
+      "end": 749.0,
+      "text": "So, this class will apply in this."
+    },
+    {
+      "start": 749.0,
+      "end": 753.0,
+      "text": "So, see that here the background color aqua is not."
+    },
+    {
+      "start": 753.0,
+      "end": 755.0,
+      "text": "But I will tell you about this."
+    },
+    {
+      "start": 755.0,
+      "end": 757.0,
+      "text": "It is very less used."
+    },
+    {
+      "start": 757.0,
+      "end": 758.0,
+      "text": "When you develop web."
+    },
+    {
+      "start": 758.0,
+      "end": 761.0,
+      "text": "So, you guys, the pseudo classes."
+    },
+    {
+      "start": 761.0,
+      "end": 764.0,
+      "text": "I will do more research in the description."
+    },
+    {
+      "start": 764.0,
+      "end": 767.0,
+      "text": "I will put links in this."
+    },
+    {
+      "start": 767.0,
+      "end": 769.0,
+      "text": "So, the additional reading material you want."
+    },
+    {
+      "start": 769.0,
+      "end": 773.0,
+      "text": "And you will get the link in the description."
+    },
+    {
+      "start": 773.0,
+      "end": 775.0,
+      "text": "I will put in the pinned comment."
+    },
+    {
+      "start": 775.0,
+      "end": 778.0,
+      "text": "And if I forget to give the link to you."
+    },
+    {
+      "start": 778.0,
+      "end": 780.0,
+      "text": "I will give all the links to you."
+    },
+    {
+      "start": 780.0,
+      "end": 783.0,
+      "text": "You can read about the selector."
+    },
+    {
+      "start": 783.0,
+      "end": 785.0,
+      "text": "But now we will move on to this course."
+    },
+    {
+      "start": 785.0,
+      "end": 787.0,
+      "text": "And we will read about the main things."
+    },
+    {
+      "start": 787.0,
+      "end": 789.0,
+      "text": "Because we have to come to the very early projects."
+    },
+    {
+      "start": 789.0,
+      "end": 791.0,
+      "text": "And we have to make good real world apps."
+    },
+    {
+      "start": 791.0,
+      "end": 793.0,
+      "text": "And we have to do back end."
+    },
+    {
+      "start": 793.0,
+      "end": 794.0,
+      "text": "We have to do database."
+    },
+    {
+      "start": 794.0,
+      "end": 797.0,
+      "text": "So, we have to build the people."
+    },
+    {
+      "start": 797.0,
+      "end": 799.0,
+      "text": "I hope you guys are enjoying this course."
+    },
+    {
+      "start": 799.0,
+      "end": 801.0,
+      "text": "If you haven't done this bookmark yet."
+    },
+    {
+      "start": 801.0,
+      "end": 802.0,
+      "text": "Then do it now."
+    },
+    {
+      "start": 802.0,
+      "end": 804.0,
+      "text": "Now, click on the bookmark and save it."
+    },
+    {
+      "start": 804.0,
+      "end": 805.0,
+      "text": "So, access the playlist."
+    },
+    {
+      "start": 805.0,
+      "end": 806.0,
+      "text": "Access the GitHub code."
+    },
+    {
+      "start": 806.0,
+      "end": 807.0,
+      "text": "Like the video."
+    },
+    {
+      "start": 807.0,
+      "end": 808.0,
+      "text": "Share it."
+    },
+    {
+      "start": 808.0,
+      "end": 810.0,
+      "text": "And share your village and town."
+    },
+    {
+      "start": 810.0,
+      "end": 812.0,
+      "text": "We will get the name of both the people."
+    },
+    {
+      "start": 812.0,
+      "end": 813.0,
+      "text": "I will meet you in the next video."
+    },
+    {
+      "start": 813.0,
+      "end": 815.0,
+      "text": "Thank you so much guys for watching this video."
+    },
+    {
+      "start": 815.0,
+      "end": 817.0,
+      "text": "And I will see you next time."
+    },
+    {
+      "start": 831.0,
+      "end": 832.0,
+      "text": "Bye."
+    }
+  ]
+}

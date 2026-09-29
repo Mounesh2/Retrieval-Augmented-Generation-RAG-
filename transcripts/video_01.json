@@ -1,0 +1,3684 @@
+{
+  "video": 1,
+  "course": "Sigma Web Development",
+  "source_file": "1_Installing VS Code & How Websites Work _ Sigma Web Development Course - Tutorial #1 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " Today we will start the SIGMA web development course with this video. We will start the SIGMA web development course with high energy. Because in this video, I will be making a profitable web developer with zero. This course is a modern world because web development has changed over time. There are many new things. There are many things in JavaScript that are very easy to work with. There are many technologies that will make you work very hard. These course will be for those who don't know anything. You know zero once about web development. We will start with zero but we will continue to raise the bar like anything. What we will learn is that I will tell you in a few days in this course. Web development is a very profitable thing. I have made a lot of money through web development. And my main thing is that you can learn a lot of successful web development. Like course, you will learn notes, cheats, cheats, references. This course will be a little different because I will learn all the technologies that I have experienced in this course. I will make a complete course with all the web development technologies. The course content will be complete web development, front and back and database which you should learn as much as possible. I will tell you in a few days what the course content will be exactly. But you will be able to keep trust that you will be a full stack developer. Many projects will be made ahead of you. The course will be made in the end of course and in the course of the end, some good projects will be made. So that you can get a lot of strong development. I have learned the way to learn a lot of projects. So I will make a lot of projects and if you agree, then write in the comment section below. Because when you comment, it gets spied on my face. So comment on it. I want to give you a lot of advice that you will be able to make a lot of such websites and start a new course. And I want to make many websites like your confidence will be very high. So let's start with the first video of your SIGMA web development course. Let's roll the intro. Alright guys, I have already in my computer screen. And as I am doing like this, you guys follow me. I have downloaded Google Chrome browser and you also download Google Chrome browser. I am not doing this, but you guys are doing exactly the same as the beginner I am doing. So here we will follow one thumb, like I am doing it. And with that, you will get exactly the same videos as you will be able to follow. I will go to Google quickly and I will write you download VS code. What is this VS code? It is a source code editor. If you have Windows, I will click Windows. If you are in Mac, Linux, or any other operating system, You can download VS code for that feature operating system. And you can see exactly the same process as I have downloaded the folder. Here I have already downloaded VS code. And here you can see that this setup has been downloaded. I will refresh here and see here. You can install it in the VS code setup. So just install VS code. The easier you install the game, you will quickly get the agreement. This lies in upslice. And then I will accept the agreement and accept it. And I am the fastest reader in the world. I will do it. Next, we will do it. Check both icons here. Check both icons. Check the code. If you want to get a shortcut, then you can get a shortcut. You can do a desktop. Next, we will install it. If your PC is not as fast as mine, then it will be too much. But if you are a PC, then there is no problem with the shortcut. So it will be a little slow. Nothing will happen with this. Now I will recommend you to subscribe to the channel. Because these videos, I want you to follow and click the notification button. So if you want to follow this course, then you should subscribe. The VS code has been downloaded from the Vidya set. I have already downloaded the VS code. Don't be scared. Began or see it. And I am saying this again. If you are already coming. We are taking beginner and friendly start here in initial videos. But we will raise the bar like anything in the upcoming videos. So stay tuned. Hi. I will request you to tell me in the comment section that you are a beginner. Advanced or intermediate user. Tell me in the comment section where you can get a web development. Beginner, Advanced Intermediate. Please, do comment here. Now what is the VS code here? Let me tell you in the comment section. If you do not know the beginner, let me tell you that the VS code editor. Because you help to edit the code. You can also edit the code in the node pad. Yes, in the node pad, it will be in the same way. Yes, I am not doing it in the same way. Or I will set it here. And I will show you what is in it. Which is made a little different from the node pad. Now let's set it quickly. I will not do the color theme without the brows. I will take dark mode on the theme. I have done this in the next section. Next section. You can also turn this welcome to the next section. But there are some tips to tell you. That's it. The VS code here has started. You can see the screen of this VS code. You can make your new file or folder. But I will recommend you to turn it on. Yes, you can turn it on. I am going to make a new folder. And I am going to keep it in the name of the world. You guessed it right. Sigma web development. Of course, we will do everything in this course. We will do everything. We will do everything from the course. We will not do anything. You can see here that the option of open with code is open. This option of open with code is open. You can open this particular folder in the VS code. You can select it. You can select this side trust file. You can select this side trust author. And this folder is open. I will click on the plus button. To make a new file. I have written here index.html. Now write it down. I will write it down. And I will write here. Hey, I am your first HTML file. I have written here. You can see the window white color. This window means that you have not saved this file. Save it by copying it. If you want to control it, it will be saved. I will recommend you to go to file and enable the auto save option. As you type, you will not see the window. You will instantly save your files. And I will also recommend this. We will not use the control as it is not used. If you want to save the control as it is saved, you can disable this option. I will do something else. Click on the gear. Click on settings. And search for mouse. Now you will see the editor mouse wheel. Check it. What will I tell you to check it? I will just turn it on and turn it on. Now you have to be afraid. Why is the VS code? How is the VS code? Why is this? What is the news? But you can't see it. Now you will simply scroll from this side. What happens? The font size of your file is changed. Now I will show you a magic. It is very simple and logic. What happened in the web development course folder? This file is made in the index.html. Which is very natural. Because I have opened this folder in VS code. I have opened this folder in VS code. This file is also made here. I will make another file here. I know that this.txt is made in this file. I will make it in this file. This is this. What will happen? This file will be made here. Now you can see it. This folder and the VS code are going in sync. Open this file from here and open this node pad. I will show you this file. I can do that too. It is my duty. But I will not use this node pad. Because I don't give this node pad in VS code. And I want to get that feature. I don't want to overrun you. But I will show you this. What is the VS code that you don't get in the node pad? If I write it, I will write it.html. I will enter it. It automatically opened the closing tag. If I hit the exclamation mark, I will click on the boiler plate. This is the basic code of this item. I will do it again. You can do it. But I want to tell you that this is the way we get the VS code. We have used this node pad. This is how much it is getting. It is getting the developer. It is getting hacker. It is also necessary. It will get the convenience to coding. I want to comment on this one for the Mac and Linux users. It is going to be a similar thing. I am using Windows. I have Windows Laptop. I cannot use it in 3 laptops. Linux Mac and Windows 3 can be used in 7 or 6 days. So I will use it for the same. In fact, I want to say that it is going to be similar. It is going to be very similar. So you will be able to follow along. It is very easy. Don't worry. I will tell you about some extensions. You will enjoy it. I will tell you about some extensions. You will enjoy it. What do you want to comment about? I will tell you in a bit. And this is criminally underrated. I will tell you about the fun of this. I want to tell you about it. You will be able to write, fill the command and fill the command. It is going to be a lot of options for the VS code. You don't have to tell all these options. We will be able to write in a course. The feature of this feature will be used. I will tell you about it. I will use it. But what do I do now? I will toggle a screencast mode. I will not do this. I will do it. I will type something. If I type a caps lock, I will click caps lock. And you will know when I will type a concept button. This is not relevant for you. But I want to tell you about screencast mode. We can change the settings from here. Now you can see the vertical offset of the screencast mode. If I type vertical offset, I will type 0. I will type up. I will type up to 70. I will type 60. If I type 60, I will type 80. I will type 80. From bottom to top. I will type 0. I will type something. I will type this. I will type this. I will type this. I will type this. I will type this. I will type this. I hope you have understood. I will tell you about the setup. I will type this. I will type this. If you are zooming in the video, I will record the video. I will add the number of videos. I will zoom in the video. These 6 sets are the resolution photos. I will중t the VSCode in the video. I will BIZlands be theшиеale section. These 3 sets of 3 people will open. Something different happens. Is Windows Server Server? THe 3 sites have Angularout. will be updated. so i will try to record it fast.films decrease disk drive. typically it sounds less passive. While user x MATK Easily has created video renders in KBC and I am a friend of the same family. So what is the question of the same family? What is the same family? I am a client. You all use a browser. This is a Chrome. Hello Chrome. I am a client. I write code with Harry. I write code with Harry. I write code with Harry. I write it in YouTube. I write it in YouTube. I write it in YouTube. I write it in YouTube. I want to see YouTube. What is the browser? You want YouTube? You can choose it. Please let me know. I will enter YouTube. I have come to the server. You all understand? I have passed the YouTube.com and shown this screen to you. This work has been done so quickly because my internet.com is very fast. Even today people are still working. But still, my locality is very fast. So this fast internet speed is very fast. So, clients sell a request through browser. I will help you to manage the server with my assistant. Who is managing the server? They are managing the server. And there is a code in the server which sends me this code. When I write YouTube.com, this code is converted into this code. So, I have to show this work from this side. So, clients say this from this side. They give me this youtube.com. They say that you should give me this youtube.com. I ask for this youtube.com. Then, the server goes to the server. I give this youtube.com. The server will give it here. Or it will say it is not there. Or it will say error. Or it will say that the server error is not there. All the responses are ideally 200. There should be 200. And there is a response with this browser. It comes back to the client and it is sent to this side. I hope you have cleared it. You have a client browser server. So, the client has a browser server. So, this is how things work. I will tell you a little more about this. When you write Google.com. So, client says, give me Google.com. It says, give me Google.com. I will give you Google.com. So, the server goes to browser and Google.com. And you give it to me. You just give Google.com. Now, Google.com has all the images, videos, all these things. All these icons are sent to this code. And that also is the browser that we have displayed in the size. So, the server that sends a bundle to the browser. This is the bundle that we have to show from this side. Now, the user will interact with this page with the browser. He will get the additional request. If I do it right, then I will go to the network. And I will write here, hello. Happy. So, this is how many requests sent to the images. And also, many requests sent to the images. So, as soon as you interact with them, you will have to send the browser to the request. So, you can consider it as a restaurant. You have ordered it. You have ordered it. You have taken a waiter. Then, you have sent it to the kitchen. You have sent it to the order kitchen. And then, finally, when the order is given to the kitchen, what is the order? The waiter is doing the browser. The waiter has given it to you. You have ordered it. It can be that the order is not allowed in the kitchen. It is very less. You are ordering something. But sometimes, you get a error. You get an error. 404 error or 500 error. It is not working properly. That is, when you get an error, then, you tell people. But ideally, it is 200, so it is the okey response. And you get this kind of package. So, you can consider it as a restaurant. When you write Google.com slash mail, then, if Google.com slash mail is available, then you will see it. And, if you write clarity, then, if you write code with any call and your contact, then, if you are available, then you will see it. If you are not available, then you will see the phone number. What does it mean? It means that the server is processing the request. If you have a blog, it has a lot of data inside. So what will you do? You will store all the web pages here, or you will generate that content dynamically. You will generate that content dynamically. I will take Google's example. If I search for a header, you can see that the header of Google is this link. This format doesn't change at all. If I write here, I have written Shubham. I will write here like Shubham. Now, when I wrote a very similar content in the header, Google does not show me the similar content. Google does not show me the same content. Google's server is the backend. The backend process does data from this way to the corresponding query. When Shubham writes, when you write a header, then it is the same. This is the same thing to generate the query. The same backend is happening through this system. Now, this backend can be joined. This can be a flash. This backend can be nodeJS. This backend can be PHP. This backend can be Ruby on Rails. And the data from the backend is used in the database. The backend code does not show the client. This is the front-end code that sends the server. And how did the server make this code? We don't know. Because it is running on the server. If you are confused, then you will be confused. You will understand everything. We will see the backend. Now, we understand how the front-end works. The front-end is made from 3 languages. HTML, CSS and JavaScript. These are 3 languages. Because if you are making a website, every website has HTML, CSS, JavaScript, in most of the cases. If you only use HTML, then the skeleton is the website. And CSS, when you use it, you can style it. If you only see CSS on the button, then you can see CSS on the button. Along with that, this button is red. Here, the button is made from the curve. This is from CSS. Here, you are seeing edges. This is from CSS. So, CSS works. We are styling a page. What color will be the button? What will be the whole page? This is a beauty. This is a HTML page. HTML is the body of a page. Some people understand that this is a standard. If you have any website, then you will make it on HTML. So that the browser is able to parse it. It is a part of the browser. It is a part of HTML. And HTML is a skeleton. This is a standard. Anyone in this world will make it on HTML. This is a standard. This is a standard. So that everyone is making the same pages. If you are making some browser, then you have to parse the same language. If you have learnt 80% HTML, then you are good to go for web development. Now, HTML is directly used. Like I am writing HTML code. So, I am writing HTML code from this way. I am using the image of the excel mission mark. You can use the image of the image. You can use the image of the image of the image. I am writing HTML. And I can open the HTML file directly. And as I open the HTML file directly, You can see that it will open from this way. I can open it directly. I have actually double-clicked it from here. And it has been opened. You can see that it has been written as HTML. But it is not styled. This HTML file is very basic. Now, you can run directly videos from HTML. I have an HTML file that I will show you. You can run videos from it. I work to show you that I can change the HTML file from HTML. I am showing you such videos. So, in HTML, there is a video tag. If the video enters the video, You will see that the video will be played in the SRC. Like I will show you video 1.10 before. You can see that I have shown it automatically. I have shown it automatically. This is the file. You can use the video of the video. You can see that I will reload it. I can play it automatically here. I have to click on the control button. And I will refresh it. I can play it with the control button. If you want to get it, you need to turn the switch on. If you want to cache it, You need to re-install it. And re-install it. Now, if I add video 2.mp4 here. I added video 1.10 before. I have 2 more videos. I have some more videos. And after that, I will refer them to video 2.mp4. If I add video 2, I will show it to you. I will reload it. I have put the editor in the video. I have put it in the editor. And after that, I will show it to you. Now, when I add video 3. I will reload it. And after that, I will record it. I will record it. I have shot it. Now, when I reload it, I will play it. I have shot it. I have shot it. I have shot it. I will close it. We can also run video 4 And 4 is a DJ video Which is a DJ So watch this Chaburana Pichiroko Pichiroko You can make things like this You can use only FHDM Because you don't need to do anything You can play video games You can play video games You can play all these If you want to style it I want to add a border You can add a border You can add a border You can add CSS You can add CSS You can add a beauty You can add a job You can add interaction For example I will click search I will write code with air I will write code with air And I will write auto complete So I will write it Because I have requested And for this query I have come to the results of auto complete So all these things are called Java script We call it client side script We want to do script in client We want to do coding We can do it in client side We can do it in client side This is a brain So our website is called beauty with brain I am talking about website Beauty with brain And brain Java script is here Now you guys help us to make a dynamic page Without it If you want to change content You can change all these things If you want to add a lot of things I will kill all of them I am not able to do anything I am working on my record Oh my god I will like the video because I will also eat the current chat When I was in college I had a chat with HTML, CSS, JavaScript I had a 100% HTML, 100% CSS, CSS, CSS, CSS, etc. I don't remember the entire property But this is a wrong thing Because HTML is only 80% And CSS is only 47% And JavaScript is only 50% And CSS is only 50% We can start web development We can make projects We can make them Next in this course I will tell you about chat gpt and web development And we will talk about it You guys are doing tundra So don't forget to follow the perfection And make CSS I will do a year HTML Next year I will do CSS And I will do a year of JavaScript And I will make 4 years of projects And do a year of HTML And the JavaScript is only 50% And you can make a big website And as soon as you make a website You will have more HTML and CSS And you will have more JavaScript And you will not even know You will have perfected HTML and CSS And you will make money And working as a professional web developer And you guys are learning And you are growing And you guys are upgrading your skills So if you want to think about all the HTML tactics You will make all the HTML You will have all the HTML properties You will have all the JavaScript You will have the same cost You will learn what matters I don't want you to learn only for years, so I designed this course to be a part of it, so that you can learn that thing that matters. Now, you will learn about practice and I am going to teach you a lot of practice in this course. Sigma of App Development is also a good audience for learning this course. We will learn the first HTML, then go to JavaScript and I will tell you about the tricks in this course, which you will not hear much. I will teach you a lot of tricks in this course. I have learned a lot of tricks in my career and I want you to learn how to start learning these tricks. Now, if you are in the video of a doubt test course, you can use the hashtag doubt and ask your doubt. I am going to try to answer all the doubts. I will try my best to solve the doubt. If you have any questions, please write them in the comments below. I will try to answer all the doubts as much as I can and you will learn all the tricks in this course. If you have not done this course yet, then do try to find out the next one. Now, what is the next thing, what is the next thing, what is the Angular, then see all these things that are used in the framework of the front end or in the use of JavaScript. So, HTML and JavaScript are made from the website of this process. How? We will learn in this course. Yes, we will learn in this course. I told you that I will make a course in different ways. I will make you do this so that you can take it from zero to the web development and take it from zero to the web development. I will take a look at the beauty of the course because you have taken a ticket and it is a sigma web development express. A great analogy is that you want to give HTML and JavaScript to the HTML. HTML is just like car skeleton. Because of that, CSS and internal engine car is in it, it is JavaScript. A human example is seen on the top. The skeleton is HTML. After that, the skin is all set. So, CSS and brain is in it. You can see the nervous system of the JavaScript. Now, I will take the folks.com. If you go to the fobs, you can see that the website is open. And the fobs.com is used in the HTML and JavaScript. It is just like a website. Now, if I click on the right, I will click on the inspect. Here, the inspect element is open. Now, see here, you have used the script in the head. And here, to add CSS, they have used the link. So, what I will do here is, the CSS is to remove it from here. So, I will do the CSS simply to remove it. All the styles and all the clear and deleted things. So, I will remove all the styles and then add all the link tags. So, as I have deleted all the styles and what happened in the page. This page is showing in this way. They have only HTML. I should have done the size of the images. I should have done all these. And only the raw HTML is written here. If you have not styled it, the fobs.com condition is like this. Without CSS. They only show raw buttons in the way they are showing raw text. They are showing raw links in the way they are showing. Similarly, I can see the script tags in the header. Without the JavaScript website, how will it be seen? Now, if I delete this page's HTML tag. I have deleted it from here. I have deleted it from here. I have done a blank page. I have not done HTML tag. So, this is HTML. I have done HTML. Now, let me tell you one thing. This course was initially made to be paid. But, I have converted it into free course. I thought I will put it on YouTube. So, I want you all to be serious. I have also done a lot of people to launch the paid course. There are a lot of companies. But, I should have done this course with my heart. I can understand the content. When you have a course, you don't have to learn it. And, you don't have to do a paid course. You can understand it. And, I have decided that I have done a sigma web development course. I have absolutely free of course. This course is free. But, it is free. As you will earn a lot of money in the coming days. You all will earn a lot of money in the coming days. This is our agreement in this video. So, when you earn a lot of money and you will earn a lot of money in this course. Then, send a good wife to me. But, you have to do it. You will earn a lot of money. So, I will tell you in the next video. How you can complete the paid course. I will put a lot of money on this. This is also important. Come on, guys. How to work? How to earn money? That is also important personally. I will do freelancing. How to do all this? I will tell you all about this. I want to tell you some action items. First, you have to access the first action item. I will give all of your requests in the description. You can click the start button on the playlist. Click the start button on the list. You can also click save button on the playlist. The next one is paid. Now, we will get the paid. Thank you so much for all the support. All the support that you all love me. Let me show you. I am very proud of it. But, this course is going to be free. Now, technical issues, no one should come. In all these videos. I am putting all the videos on 1080p. I am putting them in resolution. I should not go plus willing, but also feel free to tell you that, As a S.D. mid, 120p, 220p, 144p. People watch Balikavadu videos. When<|be|><|en|> How is the good communication between us? We will see in the videos how we make the website We will make our first website in the next video So, we will have to make a lot of excitement Because in the next video, our first website is going to be And you can get it from you It will be the first website So, please access it Thank you so much guys for watching this video And I will see you next time Thanks for watching",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.52,
+      "text": "Today we will start the SIGMA web development course with this video."
+    },
+    {
+      "start": 3.52,
+      "end": 5.16,
+      "text": "We will start the SIGMA web development course with high energy."
+    },
+    {
+      "start": 5.16,
+      "end": 9.5,
+      "text": "Because in this video, I will be making a profitable web developer with zero."
+    },
+    {
+      "start": 9.5,
+      "end": 12.78,
+      "text": "This course is a modern world because web development has changed over time."
+    },
+    {
+      "start": 12.78,
+      "end": 14.12,
+      "text": "There are many new things."
+    },
+    {
+      "start": 14.12,
+      "end": 18.04,
+      "text": "There are many things in JavaScript that are very easy to work with."
+    },
+    {
+      "start": 18.04,
+      "end": 22.18,
+      "text": "There are many technologies that will make you work very hard."
+    },
+    {
+      "start": 22.18,
+      "end": 24.88,
+      "text": "These course will be for those who don't know anything."
+    },
+    {
+      "start": 24.88,
+      "end": 28.92,
+      "text": "You know zero once about web development."
+    },
+    {
+      "start": 28.92,
+      "end": 32.06,
+      "text": "We will start with zero but we will continue to raise the bar like anything."
+    },
+    {
+      "start": 32.06,
+      "end": 35.16,
+      "text": "What we will learn is that I will tell you in a few days in this course."
+    },
+    {
+      "start": 35.16,
+      "end": 37.62,
+      "text": "Web development is a very profitable thing."
+    },
+    {
+      "start": 37.62,
+      "end": 40.62,
+      "text": "I have made a lot of money through web development."
+    },
+    {
+      "start": 40.62,
+      "end": 44.96,
+      "text": "And my main thing is that you can learn a lot of successful web development."
+    },
+    {
+      "start": 44.96,
+      "end": 49.0,
+      "text": "Like course, you will learn notes, cheats, cheats, references."
+    },
+    {
+      "start": 49.0,
+      "end": 57.36,
+      "text": "This course will be a little different because I will learn all the technologies that I have experienced in this course."
+    },
+    {
+      "start": 57.36,
+      "end": 61.28,
+      "text": "I will make a complete course with all the web development technologies."
+    },
+    {
+      "start": 61.28,
+      "end": 65.0,
+      "text": "The course content will be complete web development, front and back and database"
+    },
+    {
+      "start": 65.0,
+      "end": 67.04,
+      "text": "which you should learn as much as possible."
+    },
+    {
+      "start": 67.04,
+      "end": 69.92,
+      "text": "I will tell you in a few days what the course content will be exactly."
+    },
+    {
+      "start": 69.92,
+      "end": 72.96,
+      "text": "But you will be able to keep trust that you will be a full stack developer."
+    },
+    {
+      "start": 72.96,
+      "end": 75.4,
+      "text": "Many projects will be made ahead of you."
+    },
+    {
+      "start": 75.4,
+      "end": 79.16,
+      "text": "The course will be made in the end of course and in the course of the end, some good projects will be made."
+    },
+    {
+      "start": 79.16,
+      "end": 82.76,
+      "text": "So that you can get a lot of strong development."
+    },
+    {
+      "start": 82.76,
+      "end": 86.96,
+      "text": "I have learned the way to learn a lot of projects."
+    },
+    {
+      "start": 86.96,
+      "end": 92.12,
+      "text": "So I will make a lot of projects and if you agree, then write in the comment section below."
+    },
+    {
+      "start": 92.12,
+      "end": 94.76,
+      "text": "Because when you comment, it gets spied on my face."
+    },
+    {
+      "start": 94.76,
+      "end": 95.96,
+      "text": "So comment on it."
+    },
+    {
+      "start": 95.96,
+      "end": 104.96,
+      "text": "I want to give you a lot of advice that you will be able to make a lot of such websites and start a new course."
+    },
+    {
+      "start": 104.96,
+      "end": 107.76,
+      "text": "And I want to make many websites like your confidence will be very high."
+    },
+    {
+      "start": 107.76,
+      "end": 111.76,
+      "text": "So let's start with the first video of your SIGMA web development course."
+    },
+    {
+      "start": 111.76,
+      "end": 112.76,
+      "text": "Let's roll the intro."
+    },
+    {
+      "start": 121.76,
+      "end": 124.76,
+      "text": "Alright guys, I have already in my computer screen."
+    },
+    {
+      "start": 124.76,
+      "end": 127.76,
+      "text": "And as I am doing like this, you guys follow me."
+    },
+    {
+      "start": 127.76,
+      "end": 131.76,
+      "text": "I have downloaded Google Chrome browser and you also download Google Chrome browser."
+    },
+    {
+      "start": 131.76,
+      "end": 136.76,
+      "text": "I am not doing this, but you guys are doing exactly the same as the beginner I am doing."
+    },
+    {
+      "start": 136.76,
+      "end": 139.76,
+      "text": "So here we will follow one thumb, like I am doing it."
+    },
+    {
+      "start": 139.76,
+      "end": 143.76,
+      "text": "And with that, you will get exactly the same videos as you will be able to follow."
+    },
+    {
+      "start": 143.76,
+      "end": 148.76,
+      "text": "I will go to Google quickly and I will write you download VS code."
+    },
+    {
+      "start": 148.76,
+      "end": 149.76,
+      "text": "What is this VS code?"
+    },
+    {
+      "start": 149.76,
+      "end": 152.76,
+      "text": "It is a source code editor."
+    },
+    {
+      "start": 152.76,
+      "end": 154.76,
+      "text": "If you have Windows, I will click Windows."
+    },
+    {
+      "start": 154.76,
+      "end": 159.76,
+      "text": "If you are in Mac, Linux, or any other operating system,"
+    },
+    {
+      "start": 159.76,
+      "end": 163.76,
+      "text": "You can download VS code for that feature operating system."
+    },
+    {
+      "start": 163.76,
+      "end": 168.76,
+      "text": "And you can see exactly the same process as I have downloaded the folder."
+    },
+    {
+      "start": 168.76,
+      "end": 170.76,
+      "text": "Here I have already downloaded VS code."
+    },
+    {
+      "start": 170.76,
+      "end": 174.76,
+      "text": "And here you can see that this setup has been downloaded."
+    },
+    {
+      "start": 174.76,
+      "end": 176.76,
+      "text": "I will refresh here and see here."
+    },
+    {
+      "start": 176.76,
+      "end": 180.76,
+      "text": "You can install it in the VS code setup."
+    },
+    {
+      "start": 180.76,
+      "end": 182.76,
+      "text": "So just install VS code."
+    },
+    {
+      "start": 182.76,
+      "end": 185.76,
+      "text": "The easier you install the game, you will quickly get the agreement."
+    },
+    {
+      "start": 185.76,
+      "end": 187.76,
+      "text": "This lies in upslice."
+    },
+    {
+      "start": 187.76,
+      "end": 191.76,
+      "text": "And then I will accept the agreement and accept it."
+    },
+    {
+      "start": 191.76,
+      "end": 194.76,
+      "text": "And I am the fastest reader in the world."
+    },
+    {
+      "start": 194.76,
+      "end": 197.76,
+      "text": "I will do it."
+    },
+    {
+      "start": 198.76,
+      "end": 200.76,
+      "text": "Next, we will do it."
+    },
+    {
+      "start": 200.76,
+      "end": 203.76,
+      "text": "Check both icons here."
+    },
+    {
+      "start": 203.76,
+      "end": 204.76,
+      "text": "Check both icons."
+    },
+    {
+      "start": 204.76,
+      "end": 206.76,
+      "text": "Check the code."
+    },
+    {
+      "start": 206.76,
+      "end": 212.76,
+      "text": "If you want to get a shortcut, then you can get a shortcut."
+    },
+    {
+      "start": 212.76,
+      "end": 214.76,
+      "text": "You can do a desktop."
+    },
+    {
+      "start": 214.76,
+      "end": 217.76,
+      "text": "Next, we will install it."
+    },
+    {
+      "start": 217.76,
+      "end": 220.76,
+      "text": "If your PC is not as fast as mine, then it will be too much."
+    },
+    {
+      "start": 220.76,
+      "end": 224.76,
+      "text": "But if you are a PC, then there is no problem with the shortcut."
+    },
+    {
+      "start": 224.76,
+      "end": 226.76,
+      "text": "So it will be a little slow."
+    },
+    {
+      "start": 226.76,
+      "end": 228.76,
+      "text": "Nothing will happen with this."
+    },
+    {
+      "start": 228.76,
+      "end": 231.76,
+      "text": "Now I will recommend you to subscribe to the channel."
+    },
+    {
+      "start": 231.76,
+      "end": 236.76,
+      "text": "Because these videos, I want you to follow and click the notification button."
+    },
+    {
+      "start": 236.76,
+      "end": 240.76,
+      "text": "So if you want to follow this course, then you should subscribe."
+    },
+    {
+      "start": 240.76,
+      "end": 243.76,
+      "text": "The VS code has been downloaded from the Vidya set."
+    },
+    {
+      "start": 243.76,
+      "end": 245.76,
+      "text": "I have already downloaded the VS code."
+    },
+    {
+      "start": 245.76,
+      "end": 246.76,
+      "text": "Don't be scared."
+    },
+    {
+      "start": 246.76,
+      "end": 247.76,
+      "text": "Began or see it."
+    },
+    {
+      "start": 247.76,
+      "end": 249.76,
+      "text": "And I am saying this again."
+    },
+    {
+      "start": 249.76,
+      "end": 251.76,
+      "text": "If you are already coming."
+    },
+    {
+      "start": 251.76,
+      "end": 254.76,
+      "text": "We are taking beginner and friendly start here in initial videos."
+    },
+    {
+      "start": 254.76,
+      "end": 257.76,
+      "text": "But we will raise the bar like anything in the upcoming videos."
+    },
+    {
+      "start": 257.76,
+      "end": 258.76,
+      "text": "So stay tuned."
+    },
+    {
+      "start": 258.76,
+      "end": 259.76,
+      "text": "Hi."
+    },
+    {
+      "start": 259.76,
+      "end": 263.76,
+      "text": "I will request you to tell me in the comment section that you are a beginner."
+    },
+    {
+      "start": 263.76,
+      "end": 266.76,
+      "text": "Advanced or intermediate user."
+    },
+    {
+      "start": 266.76,
+      "end": 268.76,
+      "text": "Tell me in the comment section where you can get a web development."
+    },
+    {
+      "start": 268.76,
+      "end": 270.76,
+      "text": "Beginner, Advanced Intermediate."
+    },
+    {
+      "start": 270.76,
+      "end": 272.76,
+      "text": "Please, do comment here."
+    },
+    {
+      "start": 272.76,
+      "end": 274.76,
+      "text": "Now what is the VS code here?"
+    },
+    {
+      "start": 274.76,
+      "end": 276.76,
+      "text": "Let me tell you in the comment section."
+    },
+    {
+      "start": 276.76,
+      "end": 280.76,
+      "text": "If you do not know the beginner, let me tell you that the VS code editor."
+    },
+    {
+      "start": 280.76,
+      "end": 283.76,
+      "text": "Because you help to edit the code."
+    },
+    {
+      "start": 283.76,
+      "end": 286.76,
+      "text": "You can also edit the code in the node pad."
+    },
+    {
+      "start": 286.76,
+      "end": 289.76,
+      "text": "Yes, in the node pad, it will be in the same way."
+    },
+    {
+      "start": 289.76,
+      "end": 291.76,
+      "text": "Yes, I am not doing it in the same way."
+    },
+    {
+      "start": 291.76,
+      "end": 293.76,
+      "text": "Or I will set it here."
+    },
+    {
+      "start": 293.76,
+      "end": 295.76,
+      "text": "And I will show you what is in it."
+    },
+    {
+      "start": 295.76,
+      "end": 298.76,
+      "text": "Which is made a little different from the node pad."
+    },
+    {
+      "start": 298.76,
+      "end": 300.76,
+      "text": "Now let's set it quickly."
+    },
+    {
+      "start": 300.76,
+      "end": 303.76,
+      "text": "I will not do the color theme without the brows."
+    },
+    {
+      "start": 303.76,
+      "end": 305.76,
+      "text": "I will take dark mode on the theme."
+    },
+    {
+      "start": 305.76,
+      "end": 307.76,
+      "text": "I have done this in the next section."
+    },
+    {
+      "start": 307.76,
+      "end": 309.76,
+      "text": "Next section."
+    },
+    {
+      "start": 309.76,
+      "end": 311.76,
+      "text": "You can also turn this welcome to the next section."
+    },
+    {
+      "start": 311.76,
+      "end": 314.76,
+      "text": "But there are some tips to tell you."
+    },
+    {
+      "start": 314.76,
+      "end": 315.76,
+      "text": "That's it."
+    },
+    {
+      "start": 315.76,
+      "end": 318.76,
+      "text": "The VS code here has started."
+    },
+    {
+      "start": 318.76,
+      "end": 320.76,
+      "text": "You can see the screen of this VS code."
+    },
+    {
+      "start": 320.76,
+      "end": 323.76,
+      "text": "You can make your new file or folder."
+    },
+    {
+      "start": 323.76,
+      "end": 325.76,
+      "text": "But I will recommend you to turn it on."
+    },
+    {
+      "start": 325.76,
+      "end": 327.76,
+      "text": "Yes, you can turn it on."
+    },
+    {
+      "start": 327.76,
+      "end": 330.76,
+      "text": "I am going to make a new folder."
+    },
+    {
+      "start": 330.76,
+      "end": 332.76,
+      "text": "And I am going to keep it in the name of the world."
+    },
+    {
+      "start": 332.76,
+      "end": 334.76,
+      "text": "You guessed it right."
+    },
+    {
+      "start": 334.76,
+      "end": 336.76,
+      "text": "Sigma web development."
+    },
+    {
+      "start": 336.76,
+      "end": 339.76,
+      "text": "Of course, we will do everything in this course."
+    },
+    {
+      "start": 339.76,
+      "end": 341.76,
+      "text": "We will do everything."
+    },
+    {
+      "start": 341.76,
+      "end": 343.76,
+      "text": "We will do everything from the course."
+    },
+    {
+      "start": 343.76,
+      "end": 344.76,
+      "text": "We will not do anything."
+    },
+    {
+      "start": 344.76,
+      "end": 349.76,
+      "text": "You can see here that the option of open with code is open."
+    },
+    {
+      "start": 349.76,
+      "end": 352.76,
+      "text": "This option of open with code is open."
+    },
+    {
+      "start": 352.76,
+      "end": 357.76,
+      "text": "You can open this particular folder in the VS code."
+    },
+    {
+      "start": 357.76,
+      "end": 359.76,
+      "text": "You can select it."
+    },
+    {
+      "start": 359.76,
+      "end": 361.76,
+      "text": "You can select this side trust file."
+    },
+    {
+      "start": 361.76,
+      "end": 363.76,
+      "text": "You can select this side trust author."
+    },
+    {
+      "start": 363.76,
+      "end": 365.76,
+      "text": "And this folder is open."
+    },
+    {
+      "start": 365.76,
+      "end": 367.76,
+      "text": "I will click on the plus button."
+    },
+    {
+      "start": 367.76,
+      "end": 369.76,
+      "text": "To make a new file."
+    },
+    {
+      "start": 369.76,
+      "end": 371.76,
+      "text": "I have written here index.html."
+    },
+    {
+      "start": 371.76,
+      "end": 373.76,
+      "text": "Now write it down."
+    },
+    {
+      "start": 373.76,
+      "end": 375.76,
+      "text": "I will write it down."
+    },
+    {
+      "start": 375.76,
+      "end": 378.76,
+      "text": "And I will write here."
+    },
+    {
+      "start": 378.76,
+      "end": 383.76,
+      "text": "Hey, I am your first HTML file."
+    },
+    {
+      "start": 383.76,
+      "end": 384.76,
+      "text": "I have written here."
+    },
+    {
+      "start": 384.76,
+      "end": 386.76,
+      "text": "You can see the window white color."
+    },
+    {
+      "start": 386.76,
+      "end": 389.76,
+      "text": "This window means that you have not saved this file."
+    },
+    {
+      "start": 389.76,
+      "end": 391.76,
+      "text": "Save it by copying it."
+    },
+    {
+      "start": 391.76,
+      "end": 393.76,
+      "text": "If you want to control it, it will be saved."
+    },
+    {
+      "start": 393.76,
+      "end": 397.76,
+      "text": "I will recommend you to go to file and enable the auto save option."
+    },
+    {
+      "start": 397.76,
+      "end": 400.76,
+      "text": "As you type, you will not see the window."
+    },
+    {
+      "start": 400.76,
+      "end": 403.76,
+      "text": "You will instantly save your files."
+    },
+    {
+      "start": 403.76,
+      "end": 405.76,
+      "text": "And I will also recommend this."
+    },
+    {
+      "start": 405.76,
+      "end": 407.76,
+      "text": "We will not use the control as it is not used."
+    },
+    {
+      "start": 407.76,
+      "end": 410.76,
+      "text": "If you want to save the control as it is saved, you can disable this option."
+    },
+    {
+      "start": 410.76,
+      "end": 412.76,
+      "text": "I will do something else."
+    },
+    {
+      "start": 412.76,
+      "end": 413.76,
+      "text": "Click on the gear."
+    },
+    {
+      "start": 413.76,
+      "end": 414.76,
+      "text": "Click on settings."
+    },
+    {
+      "start": 414.76,
+      "end": 417.76,
+      "text": "And search for mouse."
+    },
+    {
+      "start": 417.76,
+      "end": 419.76,
+      "text": "Now you will see the editor mouse wheel."
+    },
+    {
+      "start": 419.76,
+      "end": 420.76,
+      "text": "Check it."
+    },
+    {
+      "start": 420.76,
+      "end": 422.76,
+      "text": "What will I tell you to check it?"
+    },
+    {
+      "start": 422.76,
+      "end": 424.76,
+      "text": "I will just turn it on and turn it on."
+    },
+    {
+      "start": 424.76,
+      "end": 426.76,
+      "text": "Now you have to be afraid."
+    },
+    {
+      "start": 426.76,
+      "end": 427.76,
+      "text": "Why is the VS code?"
+    },
+    {
+      "start": 427.76,
+      "end": 428.76,
+      "text": "How is the VS code?"
+    },
+    {
+      "start": 428.76,
+      "end": 429.76,
+      "text": "Why is this?"
+    },
+    {
+      "start": 429.76,
+      "end": 430.76,
+      "text": "What is the news?"
+    },
+    {
+      "start": 430.76,
+      "end": 431.76,
+      "text": "But you can't see it."
+    },
+    {
+      "start": 431.76,
+      "end": 435.76,
+      "text": "Now you will simply scroll from this side."
+    },
+    {
+      "start": 435.76,
+      "end": 436.76,
+      "text": "What happens?"
+    },
+    {
+      "start": 436.76,
+      "end": 439.76,
+      "text": "The font size of your file is changed."
+    },
+    {
+      "start": 439.76,
+      "end": 441.76,
+      "text": "Now I will show you a magic."
+    },
+    {
+      "start": 441.76,
+      "end": 443.76,
+      "text": "It is very simple and logic."
+    },
+    {
+      "start": 443.76,
+      "end": 448.76,
+      "text": "What happened in the web development course folder?"
+    },
+    {
+      "start": 448.76,
+      "end": 451.76,
+      "text": "This file is made in the index.html."
+    },
+    {
+      "start": 451.76,
+      "end": 453.76,
+      "text": "Which is very natural."
+    },
+    {
+      "start": 453.76,
+      "end": 456.76,
+      "text": "Because I have opened this folder in VS code."
+    },
+    {
+      "start": 456.76,
+      "end": 458.76,
+      "text": "I have opened this folder in VS code."
+    },
+    {
+      "start": 458.76,
+      "end": 460.76,
+      "text": "This file is also made here."
+    },
+    {
+      "start": 460.76,
+      "end": 461.76,
+      "text": "I will make another file here."
+    },
+    {
+      "start": 461.76,
+      "end": 463.76,
+      "text": "I know that this.txt is made in this file."
+    },
+    {
+      "start": 463.76,
+      "end": 464.76,
+      "text": "I will make it in this file."
+    },
+    {
+      "start": 464.76,
+      "end": 465.76,
+      "text": "This is this."
+    },
+    {
+      "start": 465.76,
+      "end": 466.76,
+      "text": "What will happen?"
+    },
+    {
+      "start": 466.76,
+      "end": 467.76,
+      "text": "This file will be made here."
+    },
+    {
+      "start": 467.76,
+      "end": 468.76,
+      "text": "Now you can see it."
+    },
+    {
+      "start": 468.76,
+      "end": 470.76,
+      "text": "This folder and the VS code are going in sync."
+    },
+    {
+      "start": 471.76,
+      "end": 473.76,
+      "text": "Open this file from here and open this node pad."
+    },
+    {
+      "start": 473.76,
+      "end": 475.76,
+      "text": "I will show you this file."
+    },
+    {
+      "start": 475.76,
+      "end": 477.76,
+      "text": "I can do that too."
+    },
+    {
+      "start": 477.76,
+      "end": 478.76,
+      "text": "It is my duty."
+    },
+    {
+      "start": 478.76,
+      "end": 479.76,
+      "text": "But I will not use this node pad."
+    },
+    {
+      "start": 479.76,
+      "end": 483.76,
+      "text": "Because I don't give this node pad in VS code."
+    },
+    {
+      "start": 483.76,
+      "end": 486.76,
+      "text": "And I want to get that feature."
+    },
+    {
+      "start": 486.76,
+      "end": 488.76,
+      "text": "I don't want to overrun you."
+    },
+    {
+      "start": 488.76,
+      "end": 489.76,
+      "text": "But I will show you this."
+    },
+    {
+      "start": 489.76,
+      "end": 492.76,
+      "text": "What is the VS code that you don't get in the node pad?"
+    },
+    {
+      "start": 492.76,
+      "end": 495.76,
+      "text": "If I write it, I will write it.html."
+    },
+    {
+      "start": 495.76,
+      "end": 496.76,
+      "text": "I will enter it."
+    },
+    {
+      "start": 496.76,
+      "end": 498.76,
+      "text": "It automatically opened the closing tag."
+    },
+    {
+      "start": 499.76,
+      "end": 501.76,
+      "text": "If I hit the exclamation mark,"
+    },
+    {
+      "start": 501.76,
+      "end": 504.76,
+      "text": "I will click on the boiler plate."
+    },
+    {
+      "start": 504.76,
+      "end": 507.76,
+      "text": "This is the basic code of this item."
+    },
+    {
+      "start": 507.76,
+      "end": 509.76,
+      "text": "I will do it again."
+    },
+    {
+      "start": 509.76,
+      "end": 511.76,
+      "text": "You can do it."
+    },
+    {
+      "start": 511.76,
+      "end": 515.76,
+      "text": "But I want to tell you that this is the way we get the VS code."
+    },
+    {
+      "start": 515.76,
+      "end": 517.76,
+      "text": "We have used this node pad."
+    },
+    {
+      "start": 517.76,
+      "end": 519.76,
+      "text": "This is how much it is getting."
+    },
+    {
+      "start": 519.76,
+      "end": 521.76,
+      "text": "It is getting the developer."
+    },
+    {
+      "start": 521.76,
+      "end": 522.76,
+      "text": "It is getting hacker."
+    },
+    {
+      "start": 522.76,
+      "end": 524.76,
+      "text": "It is also necessary."
+    },
+    {
+      "start": 524.76,
+      "end": 526.76,
+      "text": "It will get the convenience to coding."
+    },
+    {
+      "start": 526.76,
+      "end": 529.76,
+      "text": "I want to comment on this one for the Mac and Linux users."
+    },
+    {
+      "start": 529.76,
+      "end": 531.76,
+      "text": "It is going to be a similar thing."
+    },
+    {
+      "start": 531.76,
+      "end": 533.76,
+      "text": "I am using Windows."
+    },
+    {
+      "start": 533.76,
+      "end": 535.76,
+      "text": "I have Windows Laptop."
+    },
+    {
+      "start": 535.76,
+      "end": 537.76,
+      "text": "I cannot use it in 3 laptops."
+    },
+    {
+      "start": 537.76,
+      "end": 540.76,
+      "text": "Linux Mac and Windows 3 can be used in 7 or 6 days."
+    },
+    {
+      "start": 540.76,
+      "end": 542.76,
+      "text": "So I will use it for the same."
+    },
+    {
+      "start": 542.76,
+      "end": 544.76,
+      "text": "In fact, I want to say that it is going to be similar."
+    },
+    {
+      "start": 544.76,
+      "end": 546.76,
+      "text": "It is going to be very similar."
+    },
+    {
+      "start": 546.76,
+      "end": 548.76,
+      "text": "So you will be able to follow along."
+    },
+    {
+      "start": 548.76,
+      "end": 549.76,
+      "text": "It is very easy."
+    },
+    {
+      "start": 549.76,
+      "end": 550.76,
+      "text": "Don't worry."
+    },
+    {
+      "start": 550.76,
+      "end": 552.76,
+      "text": "I will tell you about some extensions."
+    },
+    {
+      "start": 552.76,
+      "end": 554.76,
+      "text": "You will enjoy it."
+    },
+    {
+      "start": 554.76,
+      "end": 556.76,
+      "text": "I will tell you about some extensions."
+    },
+    {
+      "start": 556.76,
+      "end": 557.76,
+      "text": "You will enjoy it."
+    },
+    {
+      "start": 557.76,
+      "end": 558.76,
+      "text": "What do you want to comment about?"
+    },
+    {
+      "start": 558.76,
+      "end": 560.76,
+      "text": "I will tell you in a bit."
+    },
+    {
+      "start": 560.76,
+      "end": 562.76,
+      "text": "And this is criminally underrated."
+    },
+    {
+      "start": 562.76,
+      "end": 564.76,
+      "text": "I will tell you about the fun of this."
+    },
+    {
+      "start": 564.76,
+      "end": 566.76,
+      "text": "I want to tell you about it."
+    },
+    {
+      "start": 566.76,
+      "end": 569.76,
+      "text": "You will be able to write, fill the command and fill the command."
+    },
+    {
+      "start": 569.76,
+      "end": 571.76,
+      "text": "It is going to be a lot of options for the VS code."
+    },
+    {
+      "start": 571.76,
+      "end": 573.76,
+      "text": "You don't have to tell all these options."
+    },
+    {
+      "start": 573.76,
+      "end": 575.76,
+      "text": "We will be able to write in a course."
+    },
+    {
+      "start": 575.76,
+      "end": 578.76,
+      "text": "The feature of this feature will be used."
+    },
+    {
+      "start": 578.76,
+      "end": 581.76,
+      "text": "I will tell you about it."
+    },
+    {
+      "start": 581.76,
+      "end": 583.76,
+      "text": "I will use it."
+    },
+    {
+      "start": 583.76,
+      "end": 585.76,
+      "text": "But what do I do now?"
+    },
+    {
+      "start": 585.76,
+      "end": 587.76,
+      "text": "I will toggle a screencast mode."
+    },
+    {
+      "start": 587.76,
+      "end": 589.76,
+      "text": "I will not do this."
+    },
+    {
+      "start": 589.76,
+      "end": 591.76,
+      "text": "I will do it."
+    },
+    {
+      "start": 591.76,
+      "end": 593.76,
+      "text": "I will type something."
+    },
+    {
+      "start": 593.76,
+      "end": 595.76,
+      "text": "If I type a caps lock, I will click caps lock."
+    },
+    {
+      "start": 595.76,
+      "end": 598.76,
+      "text": "And you will know when I will type a concept button."
+    },
+    {
+      "start": 598.76,
+      "end": 601.76,
+      "text": "This is not relevant for you."
+    },
+    {
+      "start": 601.76,
+      "end": 605.76,
+      "text": "But I want to tell you about screencast mode."
+    },
+    {
+      "start": 605.76,
+      "end": 609.76,
+      "text": "We can change the settings from here."
+    },
+    {
+      "start": 609.76,
+      "end": 613.76,
+      "text": "Now you can see the vertical offset of the screencast mode."
+    },
+    {
+      "start": 613.76,
+      "end": 615.76,
+      "text": "If I type vertical offset, I will type 0."
+    },
+    {
+      "start": 615.76,
+      "end": 617.76,
+      "text": "I will type up."
+    },
+    {
+      "start": 617.76,
+      "end": 619.76,
+      "text": "I will type up to 70."
+    },
+    {
+      "start": 619.76,
+      "end": 621.76,
+      "text": "I will type 60."
+    },
+    {
+      "start": 621.76,
+      "end": 625.76,
+      "text": "If I type 60, I will type 80."
+    },
+    {
+      "start": 625.76,
+      "end": 627.76,
+      "text": "I will type 80."
+    },
+    {
+      "start": 627.76,
+      "end": 629.76,
+      "text": "From bottom to top."
+    },
+    {
+      "start": 629.76,
+      "end": 631.76,
+      "text": "I will type 0."
+    },
+    {
+      "start": 631.76,
+      "end": 633.76,
+      "text": "I will type something."
+    },
+    {
+      "start": 633.76,
+      "end": 635.76,
+      "text": "I will type this."
+    },
+    {
+      "start": 635.76,
+      "end": 637.76,
+      "text": "I will type this."
+    },
+    {
+      "start": 637.76,
+      "end": 639.76,
+      "text": "I will type this."
+    },
+    {
+      "start": 639.76,
+      "end": 641.76,
+      "text": "I will type this."
+    },
+    {
+      "start": 641.76,
+      "end": 643.76,
+      "text": "I will type this."
+    },
+    {
+      "start": 643.76,
+      "end": 645.76,
+      "text": "I will type this."
+    },
+    {
+      "start": 645.76,
+      "end": 647.76,
+      "text": "I hope you have understood."
+    },
+    {
+      "start": 647.76,
+      "end": 651.76,
+      "text": "I will tell you about the setup."
+    },
+    {
+      "start": 651.76,
+      "end": 653.76,
+      "text": "I will type this."
+    },
+    {
+      "start": 653.76,
+      "end": 655.76,
+      "text": "I will type this."
+    },
+    {
+      "start": 655.76,
+      "end": 659.76,
+      "text": "If you are zooming in the video,"
+    },
+    {
+      "start": 659.76,
+      "end": 661.76,
+      "text": "I will record the video."
+    },
+    {
+      "start": 661.76,
+      "end": 663.76,
+      "text": "I will add the number of videos."
+    },
+    {
+      "start": 663.76,
+      "end": 665.76,
+      "text": "I will zoom in the video."
+    },
+    {
+      "start": 665.76,
+      "end": 667.76,
+      "text": "These 6 sets are the resolution photos."
+    },
+    {
+      "start": 667.76,
+      "end": 669.76,
+      "text": "I will중t the VSCode in the video."
+    },
+    {
+      "start": 669.76,
+      "end": 671.76,
+      "text": "I will BIZlands be theшиеale section."
+    },
+    {
+      "start": 671.76,
+      "end": 675.76,
+      "text": "These 3 sets of 3 people will open."
+    },
+    {
+      "start": 675.76,
+      "end": 677.76,
+      "text": "Something different happens."
+    },
+    {
+      "start": 677.76,
+      "end": 681.76,
+      "text": "Is Windows Server Server?"
+    },
+    {
+      "start": 681.76,
+      "end": 683.76,
+      "text": "THe 3 sites have Angularout."
+    },
+    {
+      "start": 683.76,
+      "end": 685.76,
+      "text": "will be updated."
+    },
+    {
+      "start": 685.76,
+      "end": 687.76,
+      "text": "so i will try to record it fast."
+    },
+    {
+      "start": 687.76,
+      "end": 689.76,
+      "text": "films decrease disk drive."
+    },
+    {
+      "start": 689.76,
+      "end": 691.76,
+      "text": "typically it sounds less passive."
+    },
+    {
+      "start": 691.76,
+      "end": 695.52,
+      "text": "While user x MATK Easily has created video renders in KBC and"
+    },
+    {
+      "start": 695.52,
+      "end": 697.52,
+      "text": "I am a friend of the same family."
+    },
+    {
+      "start": 697.52,
+      "end": 701.52,
+      "text": "So what is the question of the same family?"
+    },
+    {
+      "start": 701.52,
+      "end": 703.52,
+      "text": "What is the same family?"
+    },
+    {
+      "start": 703.52,
+      "end": 705.52,
+      "text": "I am a client."
+    },
+    {
+      "start": 705.52,
+      "end": 707.52,
+      "text": "You all use a browser."
+    },
+    {
+      "start": 707.52,
+      "end": 709.52,
+      "text": "This is a Chrome."
+    },
+    {
+      "start": 709.52,
+      "end": 711.52,
+      "text": "Hello Chrome."
+    },
+    {
+      "start": 711.52,
+      "end": 713.52,
+      "text": "I am a client."
+    },
+    {
+      "start": 713.52,
+      "end": 717.52,
+      "text": "I write code with Harry."
+    },
+    {
+      "start": 717.52,
+      "end": 719.52,
+      "text": "I write code with Harry."
+    },
+    {
+      "start": 719.52,
+      "end": 723.52,
+      "text": "I write code with Harry."
+    },
+    {
+      "start": 723.52,
+      "end": 725.52,
+      "text": "I write it in YouTube."
+    },
+    {
+      "start": 725.52,
+      "end": 727.52,
+      "text": "I write it in YouTube."
+    },
+    {
+      "start": 727.52,
+      "end": 729.52,
+      "text": "I write it in YouTube."
+    },
+    {
+      "start": 729.52,
+      "end": 731.52,
+      "text": "I write it in YouTube."
+    },
+    {
+      "start": 731.52,
+      "end": 733.52,
+      "text": "I want to see YouTube."
+    },
+    {
+      "start": 733.52,
+      "end": 735.52,
+      "text": "What is the browser?"
+    },
+    {
+      "start": 735.52,
+      "end": 737.52,
+      "text": "You want YouTube?"
+    },
+    {
+      "start": 737.52,
+      "end": 739.52,
+      "text": "You can choose it."
+    },
+    {
+      "start": 739.52,
+      "end": 741.52,
+      "text": "Please let me know."
+    },
+    {
+      "start": 741.52,
+      "end": 743.52,
+      "text": "I will enter YouTube."
+    },
+    {
+      "start": 743.52,
+      "end": 747.52,
+      "text": "I have come to the server."
+    },
+    {
+      "start": 747.52,
+      "end": 749.52,
+      "text": "You all understand?"
+    },
+    {
+      "start": 749.52,
+      "end": 754.52,
+      "text": "I have passed the YouTube.com and shown this screen to you."
+    },
+    {
+      "start": 754.52,
+      "end": 759.52,
+      "text": "This work has been done so quickly because my internet.com is very fast."
+    },
+    {
+      "start": 759.52,
+      "end": 762.52,
+      "text": "Even today people are still working."
+    },
+    {
+      "start": 762.52,
+      "end": 765.52,
+      "text": "But still, my locality is very fast."
+    },
+    {
+      "start": 765.52,
+      "end": 770.52,
+      "text": "So this fast internet speed is very fast."
+    },
+    {
+      "start": 770.52,
+      "end": 773.52,
+      "text": "So, clients sell a request through browser."
+    },
+    {
+      "start": 773.52,
+      "end": 778.52,
+      "text": "I will help you to manage the server with my assistant."
+    },
+    {
+      "start": 778.52,
+      "end": 782.52,
+      "text": "Who is managing the server?"
+    },
+    {
+      "start": 782.52,
+      "end": 786.52,
+      "text": "They are managing the server."
+    },
+    {
+      "start": 786.52,
+      "end": 791.52,
+      "text": "And there is a code in the server which sends me this code."
+    },
+    {
+      "start": 791.52,
+      "end": 796.52,
+      "text": "When I write YouTube.com, this code is converted into this code."
+    },
+    {
+      "start": 796.52,
+      "end": 799.52,
+      "text": "So, I have to show this work from this side."
+    },
+    {
+      "start": 799.52,
+      "end": 801.52,
+      "text": "So, clients say this from this side."
+    },
+    {
+      "start": 801.52,
+      "end": 804.52,
+      "text": "They give me this youtube.com."
+    },
+    {
+      "start": 804.52,
+      "end": 806.52,
+      "text": "They say that you should give me this youtube.com."
+    },
+    {
+      "start": 806.52,
+      "end": 809.52,
+      "text": "I ask for this youtube.com."
+    },
+    {
+      "start": 809.52,
+      "end": 811.52,
+      "text": "Then, the server goes to the server."
+    },
+    {
+      "start": 811.52,
+      "end": 814.52,
+      "text": "I give this youtube.com."
+    },
+    {
+      "start": 814.52,
+      "end": 816.52,
+      "text": "The server will give it here."
+    },
+    {
+      "start": 816.52,
+      "end": 818.52,
+      "text": "Or it will say it is not there."
+    },
+    {
+      "start": 818.52,
+      "end": 820.52,
+      "text": "Or it will say error."
+    },
+    {
+      "start": 820.52,
+      "end": 822.52,
+      "text": "Or it will say that the server error is not there."
+    },
+    {
+      "start": 822.52,
+      "end": 824.52,
+      "text": "All the responses are ideally 200."
+    },
+    {
+      "start": 824.52,
+      "end": 826.52,
+      "text": "There should be 200."
+    },
+    {
+      "start": 826.52,
+      "end": 830.52,
+      "text": "And there is a response with this browser."
+    },
+    {
+      "start": 830.52,
+      "end": 833.52,
+      "text": "It comes back to the client and it is sent to this side."
+    },
+    {
+      "start": 833.52,
+      "end": 835.52,
+      "text": "I hope you have cleared it."
+    },
+    {
+      "start": 835.52,
+      "end": 837.52,
+      "text": "You have a client browser server."
+    },
+    {
+      "start": 837.52,
+      "end": 840.52,
+      "text": "So, the client has a browser server."
+    },
+    {
+      "start": 840.52,
+      "end": 842.52,
+      "text": "So, this is how things work."
+    },
+    {
+      "start": 842.52,
+      "end": 844.52,
+      "text": "I will tell you a little more about this."
+    },
+    {
+      "start": 844.52,
+      "end": 846.52,
+      "text": "When you write Google.com."
+    },
+    {
+      "start": 846.52,
+      "end": 850.52,
+      "text": "So, client says, give me Google.com."
+    },
+    {
+      "start": 850.52,
+      "end": 853.52,
+      "text": "It says, give me Google.com."
+    },
+    {
+      "start": 853.52,
+      "end": 855.52,
+      "text": "I will give you Google.com."
+    },
+    {
+      "start": 855.52,
+      "end": 857.52,
+      "text": "So, the server goes to browser and Google.com."
+    },
+    {
+      "start": 857.52,
+      "end": 859.52,
+      "text": "And you give it to me."
+    },
+    {
+      "start": 859.52,
+      "end": 861.52,
+      "text": "You just give Google.com."
+    },
+    {
+      "start": 861.52,
+      "end": 865.52,
+      "text": "Now, Google.com has all the images, videos,"
+    },
+    {
+      "start": 865.52,
+      "end": 867.52,
+      "text": "all these things."
+    },
+    {
+      "start": 867.52,
+      "end": 871.52,
+      "text": "All these icons are sent to this code."
+    },
+    {
+      "start": 871.52,
+      "end": 874.52,
+      "text": "And that also is the browser that we have displayed in the size."
+    },
+    {
+      "start": 874.52,
+      "end": 877.52,
+      "text": "So, the server that sends a bundle to the browser."
+    },
+    {
+      "start": 877.52,
+      "end": 881.52,
+      "text": "This is the bundle that we have to show from this side."
+    },
+    {
+      "start": 881.52,
+      "end": 885.52,
+      "text": "Now, the user will interact with this page with the browser."
+    },
+    {
+      "start": 885.52,
+      "end": 887.52,
+      "text": "He will get the additional request."
+    },
+    {
+      "start": 887.52,
+      "end": 890.52,
+      "text": "If I do it right, then I will go to the network."
+    },
+    {
+      "start": 890.52,
+      "end": 892.52,
+      "text": "And I will write here, hello."
+    },
+    {
+      "start": 892.52,
+      "end": 893.52,
+      "text": "Happy."
+    },
+    {
+      "start": 893.52,
+      "end": 896.52,
+      "text": "So, this is how many requests sent to the images."
+    },
+    {
+      "start": 896.52,
+      "end": 898.52,
+      "text": "And also, many requests sent to the images."
+    },
+    {
+      "start": 898.52,
+      "end": 900.52,
+      "text": "So, as soon as you interact with them,"
+    },
+    {
+      "start": 900.52,
+      "end": 903.52,
+      "text": "you will have to send the browser to the request."
+    },
+    {
+      "start": 903.52,
+      "end": 906.52,
+      "text": "So, you can consider it as a restaurant."
+    },
+    {
+      "start": 906.52,
+      "end": 908.52,
+      "text": "You have ordered it."
+    },
+    {
+      "start": 908.52,
+      "end": 910.52,
+      "text": "You have ordered it."
+    },
+    {
+      "start": 910.52,
+      "end": 912.52,
+      "text": "You have taken a waiter."
+    },
+    {
+      "start": 912.52,
+      "end": 914.52,
+      "text": "Then, you have sent it to the kitchen."
+    },
+    {
+      "start": 914.52,
+      "end": 916.52,
+      "text": "You have sent it to the order kitchen."
+    },
+    {
+      "start": 916.52,
+      "end": 919.52,
+      "text": "And then, finally, when the order is given to the kitchen,"
+    },
+    {
+      "start": 919.52,
+      "end": 921.52,
+      "text": "what is the order?"
+    },
+    {
+      "start": 921.52,
+      "end": 923.52,
+      "text": "The waiter is doing the browser."
+    },
+    {
+      "start": 923.52,
+      "end": 925.52,
+      "text": "The waiter has given it to you."
+    },
+    {
+      "start": 925.52,
+      "end": 927.52,
+      "text": "You have ordered it."
+    },
+    {
+      "start": 927.52,
+      "end": 929.52,
+      "text": "It can be that the order is not allowed in the kitchen."
+    },
+    {
+      "start": 929.52,
+      "end": 931.52,
+      "text": "It is very less."
+    },
+    {
+      "start": 931.52,
+      "end": 933.52,
+      "text": "You are ordering something."
+    },
+    {
+      "start": 933.52,
+      "end": 935.52,
+      "text": "But sometimes, you get a error."
+    },
+    {
+      "start": 935.52,
+      "end": 936.52,
+      "text": "You get an error."
+    },
+    {
+      "start": 936.52,
+      "end": 938.52,
+      "text": "404 error or 500 error."
+    },
+    {
+      "start": 938.52,
+      "end": 940.52,
+      "text": "It is not working properly."
+    },
+    {
+      "start": 940.52,
+      "end": 942.52,
+      "text": "That is, when you get an error,"
+    },
+    {
+      "start": 942.52,
+      "end": 944.52,
+      "text": "then, you tell people."
+    },
+    {
+      "start": 944.52,
+      "end": 947.52,
+      "text": "But ideally, it is 200, so it is the okey response."
+    },
+    {
+      "start": 947.52,
+      "end": 949.52,
+      "text": "And you get this kind of package."
+    },
+    {
+      "start": 949.52,
+      "end": 951.52,
+      "text": "So, you can consider it as a restaurant."
+    },
+    {
+      "start": 951.52,
+      "end": 953.52,
+      "text": "When you write Google.com slash mail,"
+    },
+    {
+      "start": 953.52,
+      "end": 955.52,
+      "text": "then, if Google.com slash mail is available,"
+    },
+    {
+      "start": 955.52,
+      "end": 956.52,
+      "text": "then you will see it."
+    },
+    {
+      "start": 956.52,
+      "end": 958.52,
+      "text": "And, if you write clarity,"
+    },
+    {
+      "start": 958.52,
+      "end": 960.52,
+      "text": "then, if you write code with any call and your contact,"
+    },
+    {
+      "start": 960.52,
+      "end": 962.52,
+      "text": "then, if you are available, then you will see it."
+    },
+    {
+      "start": 962.52,
+      "end": 964.52,
+      "text": "If you are not available, then you will see the phone number."
+    },
+    {
+      "start": 994.52,
+      "end": 995.52,
+      "text": "What does it mean?"
+    },
+    {
+      "start": 995.52,
+      "end": 998.52,
+      "text": "It means that the server is processing the request."
+    },
+    {
+      "start": 998.52,
+      "end": 1003.52,
+      "text": "If you have a blog, it has a lot of data inside."
+    },
+    {
+      "start": 1003.52,
+      "end": 1005.52,
+      "text": "So what will you do?"
+    },
+    {
+      "start": 1005.52,
+      "end": 1007.52,
+      "text": "You will store all the web pages here,"
+    },
+    {
+      "start": 1007.52,
+      "end": 1009.52,
+      "text": "or you will generate that content dynamically."
+    },
+    {
+      "start": 1009.52,
+      "end": 1012.52,
+      "text": "You will generate that content dynamically."
+    },
+    {
+      "start": 1012.52,
+      "end": 1013.52,
+      "text": "I will take Google's example."
+    },
+    {
+      "start": 1013.52,
+      "end": 1015.52,
+      "text": "If I search for a header,"
+    },
+    {
+      "start": 1015.52,
+      "end": 1019.52,
+      "text": "you can see that the header of Google is this link."
+    },
+    {
+      "start": 1019.52,
+      "end": 1021.52,
+      "text": "This format doesn't change at all."
+    },
+    {
+      "start": 1021.52,
+      "end": 1025.52,
+      "text": "If I write here, I have written Shubham."
+    },
+    {
+      "start": 1025.52,
+      "end": 1027.52,
+      "text": "I will write here like Shubham."
+    },
+    {
+      "start": 1027.52,
+      "end": 1030.52,
+      "text": "Now, when I wrote a very similar content in the header,"
+    },
+    {
+      "start": 1030.52,
+      "end": 1033.52,
+      "text": "Google does not show me the similar content."
+    },
+    {
+      "start": 1033.52,
+      "end": 1035.52,
+      "text": "Google does not show me the same content."
+    },
+    {
+      "start": 1035.52,
+      "end": 1037.52,
+      "text": "Google's server is the backend."
+    },
+    {
+      "start": 1037.52,
+      "end": 1039.52,
+      "text": "The backend process does data from this way"
+    },
+    {
+      "start": 1039.52,
+      "end": 1042.52,
+      "text": "to the corresponding query."
+    },
+    {
+      "start": 1042.52,
+      "end": 1044.52,
+      "text": "When Shubham writes,"
+    },
+    {
+      "start": 1044.52,
+      "end": 1046.52,
+      "text": "when you write a header,"
+    },
+    {
+      "start": 1046.52,
+      "end": 1048.52,
+      "text": "then it is the same."
+    },
+    {
+      "start": 1048.52,
+      "end": 1051.52,
+      "text": "This is the same thing to generate the query."
+    },
+    {
+      "start": 1051.52,
+      "end": 1053.52,
+      "text": "The same backend is happening through this system."
+    },
+    {
+      "start": 1053.52,
+      "end": 1055.52,
+      "text": "Now, this backend can be joined."
+    },
+    {
+      "start": 1055.52,
+      "end": 1057.52,
+      "text": "This can be a flash."
+    },
+    {
+      "start": 1057.52,
+      "end": 1058.52,
+      "text": "This backend can be nodeJS."
+    },
+    {
+      "start": 1058.52,
+      "end": 1060.52,
+      "text": "This backend can be PHP."
+    },
+    {
+      "start": 1060.52,
+      "end": 1062.52,
+      "text": "This backend can be Ruby on Rails."
+    },
+    {
+      "start": 1062.52,
+      "end": 1065.52,
+      "text": "And the data from the backend is used in the database."
+    },
+    {
+      "start": 1065.52,
+      "end": 1067.52,
+      "text": "The backend code does not show the client."
+    },
+    {
+      "start": 1067.52,
+      "end": 1069.52,
+      "text": "This is the front-end code that sends the server."
+    },
+    {
+      "start": 1069.52,
+      "end": 1071.52,
+      "text": "And how did the server make this code?"
+    },
+    {
+      "start": 1071.52,
+      "end": 1072.52,
+      "text": "We don't know."
+    },
+    {
+      "start": 1072.52,
+      "end": 1074.52,
+      "text": "Because it is running on the server."
+    },
+    {
+      "start": 1074.52,
+      "end": 1075.52,
+      "text": "If you are confused,"
+    },
+    {
+      "start": 1075.52,
+      "end": 1076.52,
+      "text": "then you will be confused."
+    },
+    {
+      "start": 1076.52,
+      "end": 1077.52,
+      "text": "You will understand everything."
+    },
+    {
+      "start": 1077.52,
+      "end": 1079.52,
+      "text": "We will see the backend."
+    },
+    {
+      "start": 1079.52,
+      "end": 1082.52,
+      "text": "Now, we understand how the front-end works."
+    },
+    {
+      "start": 1082.52,
+      "end": 1086.52,
+      "text": "The front-end is made from 3 languages."
+    },
+    {
+      "start": 1086.52,
+      "end": 1089.52,
+      "text": "HTML, CSS and JavaScript."
+    },
+    {
+      "start": 1089.52,
+      "end": 1090.52,
+      "text": "These are 3 languages."
+    },
+    {
+      "start": 1090.52,
+      "end": 1093.52,
+      "text": "Because if you are making a website,"
+    },
+    {
+      "start": 1093.52,
+      "end": 1095.52,
+      "text": "every website has HTML, CSS, JavaScript,"
+    },
+    {
+      "start": 1095.52,
+      "end": 1097.52,
+      "text": "in most of the cases."
+    },
+    {
+      "start": 1097.52,
+      "end": 1099.52,
+      "text": "If you only use HTML,"
+    },
+    {
+      "start": 1099.52,
+      "end": 1102.52,
+      "text": "then the skeleton is the website."
+    },
+    {
+      "start": 1102.52,
+      "end": 1104.52,
+      "text": "And CSS, when you use it,"
+    },
+    {
+      "start": 1104.52,
+      "end": 1106.52,
+      "text": "you can style it."
+    },
+    {
+      "start": 1106.52,
+      "end": 1108.52,
+      "text": "If you only see CSS on the button,"
+    },
+    {
+      "start": 1108.52,
+      "end": 1110.52,
+      "text": "then you can see CSS on the button."
+    },
+    {
+      "start": 1110.52,
+      "end": 1112.52,
+      "text": "Along with that, this button is red."
+    },
+    {
+      "start": 1112.52,
+      "end": 1114.52,
+      "text": "Here, the button is made from the curve."
+    },
+    {
+      "start": 1114.52,
+      "end": 1116.52,
+      "text": "This is from CSS."
+    },
+    {
+      "start": 1116.52,
+      "end": 1118.52,
+      "text": "Here, you are seeing edges."
+    },
+    {
+      "start": 1118.52,
+      "end": 1120.52,
+      "text": "This is from CSS."
+    },
+    {
+      "start": 1120.52,
+      "end": 1122.52,
+      "text": "So, CSS works."
+    },
+    {
+      "start": 1122.52,
+      "end": 1123.52,
+      "text": "We are styling a page."
+    },
+    {
+      "start": 1123.52,
+      "end": 1125.52,
+      "text": "What color will be the button?"
+    },
+    {
+      "start": 1125.52,
+      "end": 1127.52,
+      "text": "What will be the whole page?"
+    },
+    {
+      "start": 1127.52,
+      "end": 1129.52,
+      "text": "This is a beauty."
+    },
+    {
+      "start": 1129.52,
+      "end": 1132.52,
+      "text": "This is a HTML page."
+    },
+    {
+      "start": 1132.52,
+      "end": 1135.52,
+      "text": "HTML is the body of a page."
+    },
+    {
+      "start": 1135.52,
+      "end": 1137.52,
+      "text": "Some people understand that this is a standard."
+    },
+    {
+      "start": 1137.52,
+      "end": 1140.52,
+      "text": "If you have any website, then you will make it on HTML."
+    },
+    {
+      "start": 1140.52,
+      "end": 1143.52,
+      "text": "So that the browser is able to parse it."
+    },
+    {
+      "start": 1143.52,
+      "end": 1145.52,
+      "text": "It is a part of the browser."
+    },
+    {
+      "start": 1145.52,
+      "end": 1147.52,
+      "text": "It is a part of HTML."
+    },
+    {
+      "start": 1147.52,
+      "end": 1149.52,
+      "text": "And HTML is a skeleton."
+    },
+    {
+      "start": 1149.52,
+      "end": 1150.52,
+      "text": "This is a standard."
+    },
+    {
+      "start": 1150.52,
+      "end": 1153.52,
+      "text": "Anyone in this world will make it on HTML."
+    },
+    {
+      "start": 1153.52,
+      "end": 1155.52,
+      "text": "This is a standard."
+    },
+    {
+      "start": 1155.52,
+      "end": 1157.52,
+      "text": "This is a standard."
+    },
+    {
+      "start": 1157.52,
+      "end": 1159.52,
+      "text": "So that everyone is making the same pages."
+    },
+    {
+      "start": 1159.52,
+      "end": 1162.52,
+      "text": "If you are making some browser, then you have to parse the same language."
+    },
+    {
+      "start": 1162.52,
+      "end": 1167.52,
+      "text": "If you have learnt 80% HTML, then you are good to go for web development."
+    },
+    {
+      "start": 1167.52,
+      "end": 1169.52,
+      "text": "Now, HTML is directly used."
+    },
+    {
+      "start": 1169.52,
+      "end": 1172.52,
+      "text": "Like I am writing HTML code."
+    },
+    {
+      "start": 1172.52,
+      "end": 1175.52,
+      "text": "So, I am writing HTML code from this way."
+    },
+    {
+      "start": 1175.52,
+      "end": 1178.52,
+      "text": "I am using the image of the excel mission mark."
+    },
+    {
+      "start": 1178.52,
+      "end": 1180.52,
+      "text": "You can use the image of the image."
+    },
+    {
+      "start": 1180.52,
+      "end": 1182.52,
+      "text": "You can use the image of the image of the image."
+    },
+    {
+      "start": 1182.52,
+      "end": 1184.52,
+      "text": "I am writing HTML."
+    },
+    {
+      "start": 1184.52,
+      "end": 1187.52,
+      "text": "And I can open the HTML file directly."
+    },
+    {
+      "start": 1187.52,
+      "end": 1190.52,
+      "text": "And as I open the HTML file directly,"
+    },
+    {
+      "start": 1190.52,
+      "end": 1193.52,
+      "text": "You can see that it will open from this way."
+    },
+    {
+      "start": 1193.52,
+      "end": 1195.52,
+      "text": "I can open it directly."
+    },
+    {
+      "start": 1195.52,
+      "end": 1197.52,
+      "text": "I have actually double-clicked it from here."
+    },
+    {
+      "start": 1197.52,
+      "end": 1198.52,
+      "text": "And it has been opened."
+    },
+    {
+      "start": 1198.52,
+      "end": 1200.52,
+      "text": "You can see that it has been written as HTML."
+    },
+    {
+      "start": 1200.52,
+      "end": 1202.52,
+      "text": "But it is not styled."
+    },
+    {
+      "start": 1202.52,
+      "end": 1204.52,
+      "text": "This HTML file is very basic."
+    },
+    {
+      "start": 1204.52,
+      "end": 1206.52,
+      "text": "Now, you can run directly videos from HTML."
+    },
+    {
+      "start": 1206.52,
+      "end": 1209.52,
+      "text": "I have an HTML file that I will show you."
+    },
+    {
+      "start": 1209.52,
+      "end": 1211.52,
+      "text": "You can run videos from it."
+    },
+    {
+      "start": 1211.52,
+      "end": 1214.52,
+      "text": "I work to show you that I can change the HTML file from HTML."
+    },
+    {
+      "start": 1214.52,
+      "end": 1216.52,
+      "text": "I am showing you such videos."
+    },
+    {
+      "start": 1216.52,
+      "end": 1218.52,
+      "text": "So, in HTML, there is a video tag."
+    },
+    {
+      "start": 1218.52,
+      "end": 1219.52,
+      "text": "If the video enters the video,"
+    },
+    {
+      "start": 1219.52,
+      "end": 1221.52,
+      "text": "You will see that the video will be played in the SRC."
+    },
+    {
+      "start": 1221.52,
+      "end": 1224.52,
+      "text": "Like I will show you video 1.10 before."
+    },
+    {
+      "start": 1224.52,
+      "end": 1226.52,
+      "text": "You can see that I have shown it automatically."
+    },
+    {
+      "start": 1226.52,
+      "end": 1227.52,
+      "text": "I have shown it automatically."
+    },
+    {
+      "start": 1227.52,
+      "end": 1228.52,
+      "text": "This is the file."
+    },
+    {
+      "start": 1228.52,
+      "end": 1229.52,
+      "text": "You can use the video of the video."
+    },
+    {
+      "start": 1229.52,
+      "end": 1232.52,
+      "text": "You can see that I will reload it."
+    },
+    {
+      "start": 1232.52,
+      "end": 1235.52,
+      "text": "I can play it automatically here."
+    },
+    {
+      "start": 1235.52,
+      "end": 1238.52,
+      "text": "I have to click on the control button."
+    },
+    {
+      "start": 1238.52,
+      "end": 1239.52,
+      "text": "And I will refresh it."
+    },
+    {
+      "start": 1239.52,
+      "end": 1242.52,
+      "text": "I can play it with the control button."
+    },
+    {
+      "start": 1242.52,
+      "end": 1246.52,
+      "text": "If you want to get it, you need to turn the switch on."
+    },
+    {
+      "start": 1246.52,
+      "end": 1248.52,
+      "text": "If you want to cache it,"
+    },
+    {
+      "start": 1248.52,
+      "end": 1250.52,
+      "text": "You need to re-install it."
+    },
+    {
+      "start": 1250.52,
+      "end": 1252.52,
+      "text": "And re-install it."
+    },
+    {
+      "start": 1252.52,
+      "end": 1256.52,
+      "text": "Now, if I add video 2.mp4 here."
+    },
+    {
+      "start": 1256.52,
+      "end": 1258.52,
+      "text": "I added video 1.10 before."
+    },
+    {
+      "start": 1258.52,
+      "end": 1260.52,
+      "text": "I have 2 more videos."
+    },
+    {
+      "start": 1260.52,
+      "end": 1262.52,
+      "text": "I have some more videos."
+    },
+    {
+      "start": 1262.52,
+      "end": 1266.52,
+      "text": "And after that, I will refer them to video 2.mp4."
+    },
+    {
+      "start": 1266.52,
+      "end": 1268.52,
+      "text": "If I add video 2, I will show it to you."
+    },
+    {
+      "start": 1268.52,
+      "end": 1269.52,
+      "text": "I will reload it."
+    },
+    {
+      "start": 1269.52,
+      "end": 1271.52,
+      "text": "I have put the editor in the video."
+    },
+    {
+      "start": 1271.52,
+      "end": 1273.52,
+      "text": "I have put it in the editor."
+    },
+    {
+      "start": 1273.52,
+      "end": 1275.52,
+      "text": "And after that, I will show it to you."
+    },
+    {
+      "start": 1275.52,
+      "end": 1277.52,
+      "text": "Now, when I add video 3."
+    },
+    {
+      "start": 1277.52,
+      "end": 1279.52,
+      "text": "I will reload it."
+    },
+    {
+      "start": 1279.52,
+      "end": 1281.52,
+      "text": "And after that, I will record it."
+    },
+    {
+      "start": 1281.52,
+      "end": 1283.52,
+      "text": "I will record it."
+    },
+    {
+      "start": 1283.52,
+      "end": 1285.52,
+      "text": "I have shot it."
+    },
+    {
+      "start": 1285.52,
+      "end": 1287.52,
+      "text": "Now, when I reload it,"
+    },
+    {
+      "start": 1287.52,
+      "end": 1289.52,
+      "text": "I will play it."
+    },
+    {
+      "start": 1289.52,
+      "end": 1291.52,
+      "text": "I have shot it."
+    },
+    {
+      "start": 1291.52,
+      "end": 1293.52,
+      "text": "I have shot it."
+    },
+    {
+      "start": 1293.52,
+      "end": 1295.52,
+      "text": "I have shot it."
+    },
+    {
+      "start": 1295.52,
+      "end": 1297.52,
+      "text": "I will close it."
+    },
+    {
+      "start": 1297.52,
+      "end": 1299.52,
+      "text": "We can also run video 4"
+    },
+    {
+      "start": 1299.52,
+      "end": 1301.52,
+      "text": "And 4 is a DJ video"
+    },
+    {
+      "start": 1301.52,
+      "end": 1303.52,
+      "text": "Which is a DJ"
+    },
+    {
+      "start": 1303.52,
+      "end": 1305.52,
+      "text": "So watch this"
+    },
+    {
+      "start": 1305.52,
+      "end": 1307.52,
+      "text": "Chaburana"
+    },
+    {
+      "start": 1307.52,
+      "end": 1311.52,
+      "text": "Pichiroko"
+    },
+    {
+      "start": 1311.52,
+      "end": 1313.52,
+      "text": "Pichiroko"
+    },
+    {
+      "start": 1313.52,
+      "end": 1315.52,
+      "text": "You can make things like this"
+    },
+    {
+      "start": 1315.52,
+      "end": 1317.52,
+      "text": "You can use only FHDM"
+    },
+    {
+      "start": 1317.52,
+      "end": 1319.52,
+      "text": "Because you don't need to do anything"
+    },
+    {
+      "start": 1319.52,
+      "end": 1321.52,
+      "text": "You can play video games"
+    },
+    {
+      "start": 1321.52,
+      "end": 1323.52,
+      "text": "You can play video games"
+    },
+    {
+      "start": 1323.52,
+      "end": 1325.52,
+      "text": "You can play all these"
+    },
+    {
+      "start": 1325.52,
+      "end": 1327.52,
+      "text": "If you want to style it"
+    },
+    {
+      "start": 1327.52,
+      "end": 1329.52,
+      "text": "I want to add a border"
+    },
+    {
+      "start": 1329.52,
+      "end": 1331.52,
+      "text": "You can add a border"
+    },
+    {
+      "start": 1331.52,
+      "end": 1333.52,
+      "text": "You can add a border"
+    },
+    {
+      "start": 1333.52,
+      "end": 1335.52,
+      "text": "You can add CSS"
+    },
+    {
+      "start": 1335.52,
+      "end": 1337.52,
+      "text": "You can add CSS"
+    },
+    {
+      "start": 1337.52,
+      "end": 1339.52,
+      "text": "You can add a beauty"
+    },
+    {
+      "start": 1339.52,
+      "end": 1341.52,
+      "text": "You can add a job"
+    },
+    {
+      "start": 1341.52,
+      "end": 1343.52,
+      "text": "You can add interaction"
+    },
+    {
+      "start": 1343.52,
+      "end": 1345.52,
+      "text": "For example"
+    },
+    {
+      "start": 1345.52,
+      "end": 1347.52,
+      "text": "I will click search"
+    },
+    {
+      "start": 1347.52,
+      "end": 1349.52,
+      "text": "I will write code with air"
+    },
+    {
+      "start": 1349.52,
+      "end": 1351.52,
+      "text": "I will write code with air"
+    },
+    {
+      "start": 1351.52,
+      "end": 1353.52,
+      "text": "And I will write auto complete"
+    },
+    {
+      "start": 1353.52,
+      "end": 1355.52,
+      "text": "So I will write it"
+    },
+    {
+      "start": 1355.52,
+      "end": 1357.52,
+      "text": "Because I have requested"
+    },
+    {
+      "start": 1357.52,
+      "end": 1359.52,
+      "text": "And for this query"
+    },
+    {
+      "start": 1359.52,
+      "end": 1361.52,
+      "text": "I have come to the results of auto complete"
+    },
+    {
+      "start": 1361.52,
+      "end": 1363.52,
+      "text": "So all these things are called Java script"
+    },
+    {
+      "start": 1363.52,
+      "end": 1365.52,
+      "text": "We call it client side script"
+    },
+    {
+      "start": 1365.52,
+      "end": 1367.52,
+      "text": "We want to do script in client"
+    },
+    {
+      "start": 1367.52,
+      "end": 1369.52,
+      "text": "We want to do coding"
+    },
+    {
+      "start": 1369.52,
+      "end": 1371.52,
+      "text": "We can do it in client side"
+    },
+    {
+      "start": 1371.52,
+      "end": 1373.52,
+      "text": "We can do it in client side"
+    },
+    {
+      "start": 1373.52,
+      "end": 1375.52,
+      "text": "This is a brain"
+    },
+    {
+      "start": 1375.52,
+      "end": 1377.52,
+      "text": "So our website is called beauty with brain"
+    },
+    {
+      "start": 1377.52,
+      "end": 1379.52,
+      "text": "I am talking about website"
+    },
+    {
+      "start": 1379.52,
+      "end": 1381.52,
+      "text": "Beauty with brain"
+    },
+    {
+      "start": 1381.52,
+      "end": 1383.52,
+      "text": "And brain"
+    },
+    {
+      "start": 1383.52,
+      "end": 1385.52,
+      "text": "Java script is here"
+    },
+    {
+      "start": 1385.52,
+      "end": 1387.52,
+      "text": "Now you guys help us to make a dynamic page"
+    },
+    {
+      "start": 1387.52,
+      "end": 1389.52,
+      "text": "Without it"
+    },
+    {
+      "start": 1389.52,
+      "end": 1391.52,
+      "text": "If you want to change content"
+    },
+    {
+      "start": 1391.52,
+      "end": 1393.52,
+      "text": "You can change all these things"
+    },
+    {
+      "start": 1393.52,
+      "end": 1395.52,
+      "text": "If you want to add a lot of things"
+    },
+    {
+      "start": 1395.52,
+      "end": 1397.52,
+      "text": "I will kill all of them"
+    },
+    {
+      "start": 1397.52,
+      "end": 1399.52,
+      "text": "I am not able to do anything"
+    },
+    {
+      "start": 1399.52,
+      "end": 1401.52,
+      "text": "I am working on my record"
+    },
+    {
+      "start": 1401.52,
+      "end": 1403.52,
+      "text": "Oh my god"
+    },
+    {
+      "start": 1403.52,
+      "end": 1405.52,
+      "text": "I will like the video because I will also eat the current chat"
+    },
+    {
+      "start": 1405.52,
+      "end": 1407.52,
+      "text": "When I was in college"
+    },
+    {
+      "start": 1407.52,
+      "end": 1409.52,
+      "text": "I had a chat with HTML, CSS, JavaScript"
+    },
+    {
+      "start": 1409.52,
+      "end": 1413.52,
+      "text": "I had a 100% HTML, 100% CSS, CSS, CSS, CSS, etc."
+    },
+    {
+      "start": 1413.52,
+      "end": 1415.52,
+      "text": "I don't remember the entire property"
+    },
+    {
+      "start": 1415.52,
+      "end": 1417.52,
+      "text": "But this is a wrong thing"
+    },
+    {
+      "start": 1417.52,
+      "end": 1419.52,
+      "text": "Because HTML is only 80%"
+    },
+    {
+      "start": 1419.52,
+      "end": 1423.52,
+      "text": "And CSS is only 47%"
+    },
+    {
+      "start": 1423.52,
+      "end": 1425.52,
+      "text": "And JavaScript is only 50%"
+    },
+    {
+      "start": 1425.52,
+      "end": 1427.52,
+      "text": "And CSS is only 50%"
+    },
+    {
+      "start": 1427.52,
+      "end": 1429.52,
+      "text": "We can start web development"
+    },
+    {
+      "start": 1429.52,
+      "end": 1431.52,
+      "text": "We can make projects"
+    },
+    {
+      "start": 1431.52,
+      "end": 1433.52,
+      "text": "We can make them"
+    },
+    {
+      "start": 1433.52,
+      "end": 1435.52,
+      "text": "Next in this course"
+    },
+    {
+      "start": 1435.52,
+      "end": 1437.52,
+      "text": "I will tell you about chat gpt and web development"
+    },
+    {
+      "start": 1437.52,
+      "end": 1439.52,
+      "text": "And we will talk about it"
+    },
+    {
+      "start": 1439.52,
+      "end": 1441.52,
+      "text": "You guys are doing tundra"
+    },
+    {
+      "start": 1441.52,
+      "end": 1443.52,
+      "text": "So don't forget to follow the perfection"
+    },
+    {
+      "start": 1443.52,
+      "end": 1445.52,
+      "text": "And make CSS"
+    },
+    {
+      "start": 1445.52,
+      "end": 1447.52,
+      "text": "I will do a year HTML"
+    },
+    {
+      "start": 1447.52,
+      "end": 1449.52,
+      "text": "Next year I will do CSS"
+    },
+    {
+      "start": 1449.52,
+      "end": 1451.52,
+      "text": "And I will do a year of JavaScript"
+    },
+    {
+      "start": 1451.52,
+      "end": 1453.52,
+      "text": "And I will make 4 years of projects"
+    },
+    {
+      "start": 1453.52,
+      "end": 1455.52,
+      "text": "And do a year of HTML"
+    },
+    {
+      "start": 1455.52,
+      "end": 1457.52,
+      "text": "And the JavaScript is only 50%"
+    },
+    {
+      "start": 1457.52,
+      "end": 1461.52,
+      "text": "And you can make a big website"
+    },
+    {
+      "start": 1461.52,
+      "end": 1463.52,
+      "text": "And as soon as you make a website"
+    },
+    {
+      "start": 1463.52,
+      "end": 1465.52,
+      "text": "You will have more HTML and CSS"
+    },
+    {
+      "start": 1465.52,
+      "end": 1467.52,
+      "text": "And you will have more JavaScript"
+    },
+    {
+      "start": 1467.52,
+      "end": 1469.52,
+      "text": "And you will not even know"
+    },
+    {
+      "start": 1469.52,
+      "end": 1471.52,
+      "text": "You will have perfected HTML and CSS"
+    },
+    {
+      "start": 1471.52,
+      "end": 1473.52,
+      "text": "And you will make money"
+    },
+    {
+      "start": 1473.52,
+      "end": 1475.52,
+      "text": "And working as a professional web developer"
+    },
+    {
+      "start": 1475.52,
+      "end": 1477.52,
+      "text": "And you guys are learning"
+    },
+    {
+      "start": 1477.52,
+      "end": 1479.52,
+      "text": "And you are growing"
+    },
+    {
+      "start": 1479.52,
+      "end": 1481.52,
+      "text": "And you guys are upgrading your skills"
+    },
+    {
+      "start": 1481.52,
+      "end": 1483.52,
+      "text": "So if you want to think about all the HTML tactics"
+    },
+    {
+      "start": 1483.52,
+      "end": 1485.68,
+      "text": "You will make all the HTML"
+    },
+    {
+      "start": 1485.68,
+      "end": 1487.68,
+      "text": "You will have all the HTML properties"
+    },
+    {
+      "start": 1487.68,
+      "end": 1489.68,
+      "text": "You will have all the JavaScript"
+    },
+    {
+      "start": 1489.68,
+      "end": 1491.68,
+      "text": "You will have the same cost"
+    },
+    {
+      "start": 1491.68,
+      "end": 1493.68,
+      "text": "You will learn what matters"
+    },
+    {
+      "start": 1493.68,
+      "end": 1500.68,
+      "text": "I don't want you to learn only for years, so I designed this course to be a part of it, so that you can learn that thing that matters."
+    },
+    {
+      "start": 1500.68,
+      "end": 1504.68,
+      "text": "Now, you will learn about practice and I am going to teach you a lot of practice in this course."
+    },
+    {
+      "start": 1504.68,
+      "end": 1509.68,
+      "text": "Sigma of App Development is also a good audience for learning this course."
+    },
+    {
+      "start": 1509.68,
+      "end": 1515.68,
+      "text": "We will learn the first HTML, then go to JavaScript and I will tell you about the tricks in this course,"
+    },
+    {
+      "start": 1515.68,
+      "end": 1517.68,
+      "text": "which you will not hear much."
+    },
+    {
+      "start": 1517.68,
+      "end": 1521.68,
+      "text": "I will teach you a lot of tricks in this course."
+    },
+    {
+      "start": 1521.68,
+      "end": 1528.68,
+      "text": "I have learned a lot of tricks in my career and I want you to learn how to start learning these tricks."
+    },
+    {
+      "start": 1528.68,
+      "end": 1535.68,
+      "text": "Now, if you are in the video of a doubt test course, you can use the hashtag doubt and ask your doubt."
+    },
+    {
+      "start": 1535.68,
+      "end": 1538.68,
+      "text": "I am going to try to answer all the doubts."
+    },
+    {
+      "start": 1538.68,
+      "end": 1542.68,
+      "text": "I will try my best to solve the doubt."
+    },
+    {
+      "start": 1543.68,
+      "end": 1550.68,
+      "text": "If you have any questions, please write them in the comments below."
+    },
+    {
+      "start": 1550.68,
+      "end": 1562.68,
+      "text": "I will try to answer all the doubts as much as I can and you will learn all the tricks in this course."
+    },
+    {
+      "start": 1562.68,
+      "end": 1568.68,
+      "text": "If you have not done this course yet, then do try to find out the next one."
+    },
+    {
+      "start": 1568.68,
+      "end": 1571.68,
+      "text": "Now, what is the next thing, what is the next thing, what is the Angular,"
+    },
+    {
+      "start": 1571.68,
+      "end": 1576.68,
+      "text": "then see all these things that are used in the framework of the front end or in the use of JavaScript."
+    },
+    {
+      "start": 1576.68,
+      "end": 1581.68,
+      "text": "So, HTML and JavaScript are made from the website of this process."
+    },
+    {
+      "start": 1581.68,
+      "end": 1584.68,
+      "text": "How? We will learn in this course."
+    },
+    {
+      "start": 1584.68,
+      "end": 1586.68,
+      "text": "Yes, we will learn in this course."
+    },
+    {
+      "start": 1586.68,
+      "end": 1589.68,
+      "text": "I told you that I will make a course in different ways."
+    },
+    {
+      "start": 1589.68,
+      "end": 1593.68,
+      "text": "I will make you do this so that you can take it from zero to the web development and take it from zero to the web development."
+    },
+    {
+      "start": 1593.68,
+      "end": 1598.68,
+      "text": "I will take a look at the beauty of the course because you have taken a ticket and it is a sigma web development express."
+    },
+    {
+      "start": 1598.68,
+      "end": 1602.68,
+      "text": "A great analogy is that you want to give HTML and JavaScript to the HTML."
+    },
+    {
+      "start": 1602.68,
+      "end": 1604.68,
+      "text": "HTML is just like car skeleton."
+    },
+    {
+      "start": 1604.68,
+      "end": 1609.68,
+      "text": "Because of that, CSS and internal engine car is in it, it is JavaScript."
+    },
+    {
+      "start": 1609.68,
+      "end": 1612.68,
+      "text": "A human example is seen on the top."
+    },
+    {
+      "start": 1612.68,
+      "end": 1614.68,
+      "text": "The skeleton is HTML."
+    },
+    {
+      "start": 1614.68,
+      "end": 1616.68,
+      "text": "After that, the skin is all set."
+    },
+    {
+      "start": 1616.68,
+      "end": 1618.68,
+      "text": "So, CSS and brain is in it."
+    },
+    {
+      "start": 1618.68,
+      "end": 1621.7,
+      "text": "You can see the nervous system of the"
+    },
+    {
+      "start": 1621.7,
+      "end": 1622.7,
+      "text": "JavaScript."
+    },
+    {
+      "start": 1622.7,
+      "end": 1624.7,
+      "text": "Now, I will take the folks.com."
+    },
+    {
+      "start": 1624.7,
+      "end": 1628.68,
+      "text": "If you go to the fobs, you can see that the website is open."
+    },
+    {
+      "start": 1628.68,
+      "end": 1633.68,
+      "text": "And the fobs.com is used in the HTML and JavaScript."
+    },
+    {
+      "start": 1633.68,
+      "end": 1635.68,
+      "text": "It is just like a website."
+    },
+    {
+      "start": 1635.68,
+      "end": 1638.68,
+      "text": "Now, if I click on the right, I will click on the inspect."
+    },
+    {
+      "start": 1638.68,
+      "end": 1640.68,
+      "text": "Here, the inspect element is open."
+    },
+    {
+      "start": 1640.68,
+      "end": 1644.68,
+      "text": "Now, see here, you have used the script in the head."
+    },
+    {
+      "start": 1644.68,
+      "end": 1648.68,
+      "text": "And here, to add CSS, they have used the link."
+    },
+    {
+      "start": 1648.68,
+      "end": 1652.68,
+      "text": "So, what I will do here is, the CSS is to remove it from here."
+    },
+    {
+      "start": 1652.68,
+      "end": 1654.68,
+      "text": "So, I will do the CSS simply to remove it."
+    },
+    {
+      "start": 1654.68,
+      "end": 1659.68,
+      "text": "All the styles and all the clear and deleted things."
+    },
+    {
+      "start": 1659.68,
+      "end": 1664.68,
+      "text": "So, I will remove all the styles and then add all the link tags."
+    },
+    {
+      "start": 1664.68,
+      "end": 1668.68,
+      "text": "So, as I have deleted all the styles and what happened in the page."
+    },
+    {
+      "start": 1668.68,
+      "end": 1670.68,
+      "text": "This page is showing in this way."
+    },
+    {
+      "start": 1670.68,
+      "end": 1671.68,
+      "text": "They have only HTML."
+    },
+    {
+      "start": 1671.68,
+      "end": 1673.68,
+      "text": "I should have done the size of the images."
+    },
+    {
+      "start": 1673.68,
+      "end": 1675.68,
+      "text": "I should have done all these."
+    },
+    {
+      "start": 1675.68,
+      "end": 1677.68,
+      "text": "And only the raw HTML is written here."
+    },
+    {
+      "start": 1677.68,
+      "end": 1681.68,
+      "text": "If you have not styled it, the fobs.com condition is like this."
+    },
+    {
+      "start": 1681.68,
+      "end": 1682.68,
+      "text": "Without CSS."
+    },
+    {
+      "start": 1682.68,
+      "end": 1686.68,
+      "text": "They only show raw buttons in the way they are showing raw text."
+    },
+    {
+      "start": 1686.68,
+      "end": 1689.68,
+      "text": "They are showing raw links in the way they are showing."
+    },
+    {
+      "start": 1689.68,
+      "end": 1692.68,
+      "text": "Similarly, I can see the script tags in the header."
+    },
+    {
+      "start": 1692.68,
+      "end": 1694.68,
+      "text": "Without the JavaScript website, how will it be seen?"
+    },
+    {
+      "start": 1694.68,
+      "end": 1697.68,
+      "text": "Now, if I delete this page's HTML tag."
+    },
+    {
+      "start": 1697.68,
+      "end": 1699.68,
+      "text": "I have deleted it from here."
+    },
+    {
+      "start": 1699.68,
+      "end": 1701.68,
+      "text": "I have deleted it from here."
+    },
+    {
+      "start": 1701.68,
+      "end": 1703.68,
+      "text": "I have done a blank page."
+    },
+    {
+      "start": 1703.68,
+      "end": 1705.68,
+      "text": "I have not done HTML tag."
+    },
+    {
+      "start": 1705.68,
+      "end": 1707.68,
+      "text": "So, this is HTML."
+    },
+    {
+      "start": 1707.68,
+      "end": 1708.68,
+      "text": "I have done HTML."
+    },
+    {
+      "start": 1708.68,
+      "end": 1710.68,
+      "text": "Now, let me tell you one thing."
+    },
+    {
+      "start": 1710.68,
+      "end": 1712.68,
+      "text": "This course was initially made to be paid."
+    },
+    {
+      "start": 1712.68,
+      "end": 1715.68,
+      "text": "But, I have converted it into free course."
+    },
+    {
+      "start": 1715.68,
+      "end": 1717.68,
+      "text": "I thought I will put it on YouTube."
+    },
+    {
+      "start": 1717.68,
+      "end": 1719.68,
+      "text": "So, I want you all to be serious."
+    },
+    {
+      "start": 1719.68,
+      "end": 1722.68,
+      "text": "I have also done a lot of people to launch the paid course."
+    },
+    {
+      "start": 1722.68,
+      "end": 1724.68,
+      "text": "There are a lot of companies."
+    },
+    {
+      "start": 1724.68,
+      "end": 1726.68,
+      "text": "But, I should have done this course with my heart."
+    },
+    {
+      "start": 1726.68,
+      "end": 1728.68,
+      "text": "I can understand the content."
+    },
+    {
+      "start": 1728.68,
+      "end": 1730.68,
+      "text": "When you have a course, you don't have to learn it."
+    },
+    {
+      "start": 1730.68,
+      "end": 1732.68,
+      "text": "And, you don't have to do a paid course."
+    },
+    {
+      "start": 1732.68,
+      "end": 1734.68,
+      "text": "You can understand it."
+    },
+    {
+      "start": 1734.68,
+      "end": 1737.68,
+      "text": "And, I have decided that I have done a sigma web development course."
+    },
+    {
+      "start": 1737.68,
+      "end": 1739.68,
+      "text": "I have absolutely free of course."
+    },
+    {
+      "start": 1739.68,
+      "end": 1740.68,
+      "text": "This course is free."
+    },
+    {
+      "start": 1740.68,
+      "end": 1741.68,
+      "text": "But, it is free."
+    },
+    {
+      "start": 1741.68,
+      "end": 1744.68,
+      "text": "As you will earn a lot of money in the coming days."
+    },
+    {
+      "start": 1744.68,
+      "end": 1747.68,
+      "text": "You all will earn a lot of money in the coming days."
+    },
+    {
+      "start": 1747.68,
+      "end": 1749.68,
+      "text": "This is our agreement in this video."
+    },
+    {
+      "start": 1749.68,
+      "end": 1752.68,
+      "text": "So, when you earn a lot of money and you will earn a lot of money in this course."
+    },
+    {
+      "start": 1752.68,
+      "end": 1754.68,
+      "text": "Then, send a good wife to me."
+    },
+    {
+      "start": 1755.68,
+      "end": 1757.68,
+      "text": "But, you have to do it."
+    },
+    {
+      "start": 1757.68,
+      "end": 1759.68,
+      "text": "You will earn a lot of money."
+    },
+    {
+      "start": 1759.68,
+      "end": 1762.68,
+      "text": "So, I will tell you in the next video."
+    },
+    {
+      "start": 1762.68,
+      "end": 1765.68,
+      "text": "How you can complete the paid course."
+    },
+    {
+      "start": 1765.68,
+      "end": 1767.68,
+      "text": "I will put a lot of money on this."
+    },
+    {
+      "start": 1767.68,
+      "end": 1768.68,
+      "text": "This is also important."
+    },
+    {
+      "start": 1768.68,
+      "end": 1769.68,
+      "text": "Come on, guys."
+    },
+    {
+      "start": 1769.68,
+      "end": 1770.68,
+      "text": "How to work?"
+    },
+    {
+      "start": 1770.68,
+      "end": 1771.68,
+      "text": "How to earn money?"
+    },
+    {
+      "start": 1771.68,
+      "end": 1772.68,
+      "text": "That is also important personally."
+    },
+    {
+      "start": 1772.68,
+      "end": 1774.68,
+      "text": "I will do freelancing."
+    },
+    {
+      "start": 1774.68,
+      "end": 1775.68,
+      "text": "How to do all this?"
+    },
+    {
+      "start": 1775.68,
+      "end": 1777.68,
+      "text": "I will tell you all about this."
+    },
+    {
+      "start": 1777.68,
+      "end": 1779.68,
+      "text": "I want to tell you some action items."
+    },
+    {
+      "start": 1779.68,
+      "end": 1781.68,
+      "text": "First, you have to access the first action item."
+    },
+    {
+      "start": 1781.68,
+      "end": 1784.68,
+      "text": "I will give all of your requests in the description."
+    },
+    {
+      "start": 1784.68,
+      "end": 1787.68,
+      "text": "You can click the start button on the playlist."
+    },
+    {
+      "start": 1787.68,
+      "end": 1790.68,
+      "text": "Click the start button on the list."
+    },
+    {
+      "start": 1790.68,
+      "end": 1792.68,
+      "text": "You can also click save button on the playlist."
+    },
+    {
+      "start": 1792.68,
+      "end": 1794.68,
+      "text": "The next one is paid."
+    },
+    {
+      "start": 1794.68,
+      "end": 1795.68,
+      "text": "Now, we will get the paid."
+    },
+    {
+      "start": 1795.68,
+      "end": 1797.68,
+      "text": "Thank you so much for all the support."
+    },
+    {
+      "start": 1797.68,
+      "end": 1799.68,
+      "text": "All the support that you all love me."
+    },
+    {
+      "start": 1799.68,
+      "end": 1800.68,
+      "text": "Let me show you."
+    },
+    {
+      "start": 1800.68,
+      "end": 1801.68,
+      "text": "I am very proud of it."
+    },
+    {
+      "start": 1801.68,
+      "end": 1803.68,
+      "text": "But, this course is going to be free."
+    },
+    {
+      "start": 1803.68,
+      "end": 1805.68,
+      "text": "Now, technical issues, no one should come."
+    },
+    {
+      "start": 1805.68,
+      "end": 1806.68,
+      "text": "In all these videos."
+    },
+    {
+      "start": 1806.68,
+      "end": 1808.68,
+      "text": "I am putting all the videos on 1080p."
+    },
+    {
+      "start": 1808.68,
+      "end": 1810.68,
+      "text": "I am putting them in resolution."
+    },
+    {
+      "start": 1810.68,
+      "end": 1812.68,
+      "text": "I should not go plus willing, but also feel free to tell you that,"
+    },
+    {
+      "start": 1812.68,
+      "end": 1815.68,
+      "text": "As a S.D. mid, 120p, 220p, 144p."
+    },
+    {
+      "start": 1815.68,
+      "end": 1817.68,
+      "text": "People watch Balikavadu videos."
+    },
+    {
+      "start": 1817.68,
+      "end": 1830.5,
+      "text": "When"
+    },
+    {
+      "start": 1830.5,
+      "end": 1837.98,
+      "text": "How is the good communication between us?"
+    },
+    {
+      "start": 1837.98,
+      "end": 1840.86,
+      "text": "We will see in the videos how we make the website"
+    },
+    {
+      "start": 1840.86,
+      "end": 1843.36,
+      "text": "We will make our first website in the next video"
+    },
+    {
+      "start": 1843.36,
+      "end": 1845.86,
+      "text": "So, we will have to make a lot of excitement"
+    },
+    {
+      "start": 1845.86,
+      "end": 1848.86,
+      "text": "Because in the next video, our first website is going to be"
+    },
+    {
+      "start": 1848.86,
+      "end": 1850.36,
+      "text": "And you can get it from you"
+    },
+    {
+      "start": 1850.36,
+      "end": 1851.6,
+      "text": "It will be the first website"
+    },
+    {
+      "start": 1851.6,
+      "end": 1853.0,
+      "text": "So, please access it"
+    },
+    {
+      "start": 1853.0,
+      "end": 1855.0,
+      "text": "Thank you so much guys for watching this video"
+    },
+    {
+      "start": 1855.0,
+      "end": 1857.6,
+      "text": "And I will see you next time"
+    },
+    {
+      "start": 1867.98,
+      "end": 1869.98,
+      "text": "Thanks for watching"
+    }
+  ]
+}

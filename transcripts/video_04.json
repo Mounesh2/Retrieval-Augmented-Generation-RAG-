@@ -1,0 +1,2489 @@
+{
+  "video": 4,
+  "course": "Sigma Web Development",
+  "source_file": "4_Heading, Paragraphs and Links _ Sigma Web Development Course - Tutorial #4 [360p].mp4.mp3",
+  "language": "hi",
+  "text": " In today's video, I will tell you about the settings and paragraphs I will tell you about the anchor text If you have found this course awesome, then like this video Please like and share this video with your friends In this video, we will make a small project Which will be a bookmark website This bookmark will help you to get all your favorite websites And you will be able to use it in actual use So let's start quickly In the comment section, click the SIGMA BATCH OP Let's roll the intro So guys, as you can see, I have already made my computer screen And if you haven't even done the playlist access yet, then you can access it The other thing I want to tell you guys is that you will go to the GitHub.com slash code And you will get the Github repo of the SIGMA webda course I have made all the other videos of this folder And I have made a lot of other folders of this folder So you will get access from the source code You will get the link in the description And I will put the link in the description Now we will make a very basic website today But it will be very important for us Because it will be our first useful website So I will not take much time to make a new folder in this folder And I will keep the video for this because it is our fourth video So I will make this from the video for the first time I will click on the open with code to open the folder in our VS code After doing this, I will do the same thing that we always do Index.html, Main.css, Style.css and with that, script.js We usually make these three files If I write CSS, I will write here and write script But for now, I will write some things here I will write in the document My bookmarks I will write the code in the description So you will see all the titles I will write here What is H1? You can write it in the web page We have talked about basic structure We have talked about the HTML page HTML is equal to EN The value of the attribute of the language is EN In English, this is the content This is the search engine If any of the link of this web page is in the description You can parse the web page from the search engine You can also find out that the web page is in English Here is the header, which is in the metadata, which is title, which is in the description The link of the CSS is in the description Body is in the main content Body is in the tag to write a tag I will write in the description box If I write in the description box, I will write in the description box If I want to live this video I will click here Then I will open it I will show you how my bookmarks are shown Now, why should I use H1? I didn't write my bookmark directly Because I will tell you the browser This is my first level heading Now, I want to write in the main bookmarks I will use H2 I will use H2 If you have used Microsoft Word, you will know what H1H2 is If you don't know, I will tell you H1H2 is your main level heading And the second level heading I will use H2 I will use main bookmarks I will use the second bookmarks I will use Alt Shift I will use Alt Shift I will use the screen cast mode I will use Alt Shift I will use Alt Shift This is the shortcut I will use Alt if you press the shortcut I will click the result I can click for tweeter I will click clicked thats I will use the database I will use this I will type whatever I want, it will be multiple concerts, where I will type, it will be seen. That's it, please like and subscribe to my channel. I will drop some of these things here and you will see that it will be updated. This is my main heading, this is my H2. From H1 to H2, we have H6th heading. You can say that you have given the main heading. After the main heading, you have given a second heading. Then you have to give some heading inside. And so on, you have to give a lot of sub-adding. You can give the H6th heading. H6th is more than enough, in HTML, you have given 6th to the heading. You will never need H7th, you will never need it. You will never need it. And if you study, you can use H6th for repeatedly. Because it is so small that H6th will be a small one. So small one, you will not be able to go. Now I will do Alt Shift down. I will replicate it. And I will do Alt, I will do all this. This is all short cuts, so that you guys have a lot of productivity. Now I have put two cuts here and here. I will do the backspace h3. I will do Alt, I will do it here and here. I will do it here. And I will do it here. I will do it here and h5. Now I will do it here. I will do it here and h6. So h6th is the type of gun. Now I will write here using h1. So that you guys know. I will write using here. I will do it here and here. I will write h. And now I will click my work here and take it to h6. You can see some of these things. You will know that I have H1 and H2 and H3. I have H4 and H5 and H6 and H6. What is the difference between H6 and H6? It will end in a short time. H6 is more than enough. I will show you a practical demonstration. I have given the main heading of my HTML tutorial. I have given the HTML to the features of HTML. I have given it H1 and H2. I have given it H2 and H3. I have given it H3. It has a wide variety of types of text and mock-up language. It is heading 2. What is the main heading of HTML introduction? All these are the settings. I have given it some exercise. I have used it in H3. I have given it H2 and H3. I have given it H2 and H3 and H5 and H5. I have given it H2 and H5 and H6. I hope you have understood. I have given it a lot of comments. I have given it a lot of comments. I will make a beginner course with this course. When I learn HTML admission, It is very easy to solve. After that I will teach you a lesson. I will teach you a lesson. I am Boots manufacturer. Of course I go to aデcos вый s . YEs the rules and Alors I am R🖻 The axel obey . You can also fail the errors. I told you that we will raise a bar like anything this is what I meant. So when we react, we will do whatever we want to do, then I will ask them to comment below, and you tell me what level you are. So don't talk about level, it will be a big deal if you are going to get the level. So this is the heading summary. The 6 addings that I want to keep like this. Now if we want to write a paragraph, you can use P tag. P entermaring will be paragraph. Now I will tell you a short cut trick. If you want to play a dummy paragraph in the MS code, then what will you do? You write here, I wrote the lawm 23. And here you see, the M at every version is here, this is the lawm 23, I will give 23 words. Something like this. You can trap the view here and then you can do it. So you won't get a horizontal straw bar. So you can trap the view. Now you see here, the lawm fm dollar set is here, this is a dummy text. Why do we want dummy text? Because we want to make template. And we want to fill that template with something. So you can make a website, which looks like the OEO rooms. Now OEO become a member, OEO for business, I don't want to write here, I wrote a lawm here. Now I want to write something here. So I write 7 words here. I will give the lawm 7 letter to the center. Then I will give OEO to them, they will write it. So you can use it in filling the placeholder. My plan is that we will also make popular websites, so that you know what to do. This is also a popular website. If you are interested in the services, then you must write in the comment section. Now we will see more things, like you have a paragraph, you have to style it like this. And all these things are made through CSS. Now in paragraph, you can see here, when I wrote the lawm 20, I will write this text here. Now I will enter P, if I know, I will write the lawm 10, then I will write 10 words. Okay. And if I write the lawm 100, I will write it very much, I will fill my page. So I can do that too. This lawm value tray is very big. You will enjoy it. And whenever we will make popular websites, I will make Amazon.in. Okay. I will make Amazon.in. So I have to write something here. Okay. Now I will write 3 words here. So I will write the lawm 3. I will not think about the makeup products. I will write the lawm 4. I will write the lawm 3. I will write the lawm 2. And I will make it ready. And then everything will be in my database. And I can bring it from different ways. I can bring it from my index time. Many people asked What is this course? It will be a job ready. The answer is yes. This course is going to be a job ready. Absolutely. I will make it like this. You will see that you will get the job in the actual industry level. You will get the job in the learning of this course. Now let's talk about what are the attributes in HTML. These attributes are in HTML. As I used HTML tag. The language is equal to the attribute in the language. In the body, we did not use any attribute. In H1, we did not use any attribute. In P, we did not use any attribute. But I can use a P-MAKE style attribute. The one that tells the online CSS is I will red it with the background color. It is something like this. The background color is red. It also says the online CSS. So if you add CSS to the style attribute. First, we will add CSS here. But if you add the style to the attribute. Then you will get the background red here. I will show you. You have red red red background. I will tell you that I will do this. I will do this. This color is already looking good. So I can also add the style in line. But when you create the website of the industry. We use the online styles. We do not use them very much. Because the maintainability becomes less. Reusability becomes less. So we want to shift the bundle from a small browser. And the website is more optimized. So we avoid all these things. But in the online CSS, the style is a tag. But here, the style is a attribute. It is a tag. It is a P-Tag type attribute. The style that we can style through this element. We will read about the attributes. We will give an enhanced functionality to the attribute. This is the paragraph we gave to a style. The background color was the same. We used this background color to attribute the style. Similarly, to give properties, we used this type of attribute to give a tag. As if we talked about the link. We talked about the link of the link. The link is a relic attribute. It is an HRF attribute. So what can we do with this attribute? We can use CSS style sheet to add background color to the background. We have to add background color to the background. And don't take too much tension. We will tell you about the content. But I will tell you that I am using hot pink. Let's listen to the VSCode functionality. This is an Inja tag. It is very low. Over-Grow mouse. You can choose the color of the object. You can choose the color of the object. I will leave it like this. You can see the background color of the body. We can write the name in the comment section. Now we have come back to the index.html. I can open it. I will comment on this style sheet. The background color was removed from the style sheet. This background color was removed from the line CSS. This is very natural. I have made this style sheet with background color. I have made this style sheet with background color. Now we are going to make a bookmark manager. BookmarkManager.html. I am making a different file. I have told you about the different settings. I am going to make a useful bookmark manager. I will show you. BookmarkManager. Now you guys know why this bookmark manager is making this in Chrome. This is our hand. We made this picture near the destination of Chrome with Burmese Ventress. Brother, this clean hätteco fan has made. You can see theBlue Hemant curl. In fact, I will show you all the shift buttons here Secondary bookmarks What will happen? I can write in the second bookmarks here Now I will write in paragraph 1 Google I will write like this I will write it like this But in the next video, I will tell you how to use this list Google, I will write this in google Open google And I will use anchor to use this I will enter in the same way It is an mandatory attribute I will write it in the link I will write it in hrefisicald.com STTPS colon double slash www.google.com I will write it in this address When I will click on open google I will cut this open google And put it here Because the content stack will be like this And you can see here This is hrefisicald.google We will make links in anchor tag You will see many links in this way You can see here As I am I will go to bookmarkmanager.html You can see here You can see all the books I will click on google You can see When I clicked on it, it was blue I have visited it So it changed When you visit it, it is a visited link I know that I have visited it I will tell you one more If you want to open this new tab I am clicking it on it If you want to open it You can choose the mouse This mouse can be clicked I will tell you If you want to use a click You can use it You can use it You can write Target is equal to underscore blank I have written two enter marks I have written two notes I have written a notes note What was the quality of this? Free is equal to VSC But if you use the quality of this Target is equal to underscore You have to type the blank You can write it on it I will click on mouse I am clicking it I will click on mouse I will open it I can open it I have written an open google You can use it as a website You can use it as a website You can use it as a website Okay I will open the website You can see it on facebook I will write it on facebook I will write it on facebook I will write it on facebook Let us start from here YouTube.com Let us see I am coming in one line If you want You can use it as a website You can use it as a website I am telling you I will tell you I will close this paragraph If you want I will shift the right arrow I will X I will end I will go in all the cutters I will go in the end I will control this I will use it as a tool You will get a lot of people If you are not sure I have used a VSCode functionality I have used multiple cutters I have used multiple cutters I have used it as a tool This is not a good idea We can not use the paragraph But we will not use the paragraph We will use it This is our work We have not done a visit We have done a visit on facebook We have done a visit on this color Now we will talk about the primary bookmarks Which of your second bookmarks are you? We are two second bookmarks Second bookmarks are the same Follow VKPD.com We have come to VKPD.com And we will talk about the stack overflow We will talk about the stack overflow We will talk about the stack overflow You will see the second bookmarks Your VKPD and stack overflow This is the bookmark manager We will talk about the stack overflow If you are learning the following Don't worry It is a very important thing Don't worry We will talk about the time We will talk about the time You will see the bookmark You will see the title of the bookmark manager I will also write it in H1 We will also write the title of the bookmark This is the same You can also write the bookmark manager You can use it in actual use If you are saving something I have got a bookmark manager You can also put it on your desktop Whenever you open any website You will just double click If you double click If you want to open it You have to open it You have to tap choose And then you will have to choose a google chrome And then you have to choose a google chrome And then you will have to choose a google chrome You will have to choose a google chrome So this is our bookmark. I hope you liked it. I request you to complete 4 videos today. If you like any of the codes, share it with your friends. I know you will share them, but if you will, don't give me strength. I will try to get more codes. Many people are saying that how are you going to make a code free? I will find the ways to make more money. I am going to mark this code with my biggest code. I will add everything with my web development. I will add everything with my web development. I will learn more from you. I have been very late to get a lot of new codes. I had told all the companies to launch this code. I will not be able to get a lot of new codes. I told them to launch this code. You will regret your decision. Hopefully I will not regret my decision. I will make a free code. I will learn more ways to make money. I will learn more from you. How can you earn more money? With that said, I will add the code in the description. You can take it from your repository. Thank you so much for watching this video. I will see you next time. Bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "In today's video, I will tell you about the settings and paragraphs"
+    },
+    {
+      "start": 3.28,
+      "end": 6.38,
+      "text": "I will tell you about the anchor text"
+    },
+    {
+      "start": 6.38,
+      "end": 9.84,
+      "text": "If you have found this course awesome, then like this video"
+    },
+    {
+      "start": 9.84,
+      "end": 12.34,
+      "text": "Please like and share this video with your friends"
+    },
+    {
+      "start": 12.34,
+      "end": 14.08,
+      "text": "In this video, we will make a small project"
+    },
+    {
+      "start": 14.08,
+      "end": 15.64,
+      "text": "Which will be a bookmark website"
+    },
+    {
+      "start": 15.64,
+      "end": 20.16,
+      "text": "This bookmark will help you to get all your favorite websites"
+    },
+    {
+      "start": 20.16,
+      "end": 22.08,
+      "text": "And you will be able to use it in actual use"
+    },
+    {
+      "start": 22.08,
+      "end": 23.48,
+      "text": "So let's start quickly"
+    },
+    {
+      "start": 23.48,
+      "end": 26.44,
+      "text": "In the comment section, click the SIGMA BATCH OP"
+    },
+    {
+      "start": 26.44,
+      "end": 27.84,
+      "text": "Let's roll the intro"
+    },
+    {
+      "start": 30.0,
+      "end": 40.0,
+      "text": "So guys, as you can see, I have already made my computer screen"
+    },
+    {
+      "start": 40.0,
+      "end": 44.0,
+      "text": "And if you haven't even done the playlist access yet, then you can access it"
+    },
+    {
+      "start": 44.0,
+      "end": 49.0,
+      "text": "The other thing I want to tell you guys is that you will go to the GitHub.com slash code"
+    },
+    {
+      "start": 49.0,
+      "end": 53.0,
+      "text": "And you will get the Github repo of the SIGMA webda course"
+    },
+    {
+      "start": 53.0,
+      "end": 56.0,
+      "text": "I have made all the other videos of this folder"
+    },
+    {
+      "start": 56.0,
+      "end": 58.0,
+      "text": "And I have made a lot of other folders of this folder"
+    },
+    {
+      "start": 58.0,
+      "end": 61.0,
+      "text": "So you will get access from the source code"
+    },
+    {
+      "start": 61.0,
+      "end": 63.0,
+      "text": "You will get the link in the description"
+    },
+    {
+      "start": 63.0,
+      "end": 66.0,
+      "text": "And I will put the link in the description"
+    },
+    {
+      "start": 66.0,
+      "end": 69.0,
+      "text": "Now we will make a very basic website today"
+    },
+    {
+      "start": 69.0,
+      "end": 71.0,
+      "text": "But it will be very important for us"
+    },
+    {
+      "start": 71.0,
+      "end": 73.0,
+      "text": "Because it will be our first useful website"
+    },
+    {
+      "start": 73.0,
+      "end": 79.0,
+      "text": "So I will not take much time to make a new folder in this folder"
+    },
+    {
+      "start": 79.0,
+      "end": 82.0,
+      "text": "And I will keep the video for this because it is our fourth video"
+    },
+    {
+      "start": 82.0,
+      "end": 84.0,
+      "text": "So I will make this from the video for the first time"
+    },
+    {
+      "start": 84.0,
+      "end": 88.0,
+      "text": "I will click on the open with code to open the folder in our VS code"
+    },
+    {
+      "start": 88.0,
+      "end": 91.0,
+      "text": "After doing this, I will do the same thing that we always do"
+    },
+    {
+      "start": 91.0,
+      "end": 98.0,
+      "text": "Index.html, Main.css, Style.css and with that, script.js"
+    },
+    {
+      "start": 98.0,
+      "end": 100.0,
+      "text": "We usually make these three files"
+    },
+    {
+      "start": 100.0,
+      "end": 102.0,
+      "text": "If I write CSS, I will write here and write script"
+    },
+    {
+      "start": 102.0,
+      "end": 106.0,
+      "text": "But for now, I will write some things here"
+    },
+    {
+      "start": 106.0,
+      "end": 108.0,
+      "text": "I will write in the document"
+    },
+    {
+      "start": 108.0,
+      "end": 110.0,
+      "text": "My bookmarks"
+    },
+    {
+      "start": 110.0,
+      "end": 112.0,
+      "text": "I will write the code in the description"
+    },
+    {
+      "start": 112.0,
+      "end": 114.0,
+      "text": "So you will see all the titles"
+    },
+    {
+      "start": 114.0,
+      "end": 116.0,
+      "text": "I will write here"
+    },
+    {
+      "start": 116.0,
+      "end": 118.0,
+      "text": "What is H1?"
+    },
+    {
+      "start": 118.0,
+      "end": 120.0,
+      "text": "You can write it in the web page"
+    },
+    {
+      "start": 120.0,
+      "end": 122.0,
+      "text": "We have talked about basic structure"
+    },
+    {
+      "start": 122.0,
+      "end": 124.0,
+      "text": "We have talked about the HTML page"
+    },
+    {
+      "start": 124.0,
+      "end": 127.0,
+      "text": "HTML is equal to EN"
+    },
+    {
+      "start": 127.0,
+      "end": 129.0,
+      "text": "The value of the attribute of the language is EN"
+    },
+    {
+      "start": 129.0,
+      "end": 131.0,
+      "text": "In English, this is the content"
+    },
+    {
+      "start": 131.0,
+      "end": 133.0,
+      "text": "This is the search engine"
+    },
+    {
+      "start": 133.0,
+      "end": 136.0,
+      "text": "If any of the link of this web page is in the description"
+    },
+    {
+      "start": 136.0,
+      "end": 140.0,
+      "text": "You can parse the web page from the search engine"
+    },
+    {
+      "start": 140.0,
+      "end": 144.0,
+      "text": "You can also find out that the web page is in English"
+    },
+    {
+      "start": 144.0,
+      "end": 148.0,
+      "text": "Here is the header, which is in the metadata, which is title, which is in the description"
+    },
+    {
+      "start": 148.0,
+      "end": 150.0,
+      "text": "The link of the CSS is in the description"
+    },
+    {
+      "start": 150.0,
+      "end": 152.0,
+      "text": "Body is in the main content"
+    },
+    {
+      "start": 152.0,
+      "end": 156.0,
+      "text": "Body is in the tag to write a tag"
+    },
+    {
+      "start": 156.0,
+      "end": 158.0,
+      "text": "I will write in the description box"
+    },
+    {
+      "start": 158.0,
+      "end": 162.0,
+      "text": "If I write in the description box, I will write in the description box"
+    },
+    {
+      "start": 162.0,
+      "end": 164.0,
+      "text": "If I want to live this video"
+    },
+    {
+      "start": 164.0,
+      "end": 166.0,
+      "text": "I will click here"
+    },
+    {
+      "start": 166.0,
+      "end": 168.0,
+      "text": "Then I will open it"
+    },
+    {
+      "start": 168.0,
+      "end": 170.0,
+      "text": "I will show you how my bookmarks are shown"
+    },
+    {
+      "start": 170.0,
+      "end": 172.0,
+      "text": "Now, why should I use H1?"
+    },
+    {
+      "start": 172.0,
+      "end": 174.0,
+      "text": "I didn't write my bookmark directly"
+    },
+    {
+      "start": 174.0,
+      "end": 176.0,
+      "text": "Because I will tell you the browser"
+    },
+    {
+      "start": 176.0,
+      "end": 178.0,
+      "text": "This is my first level heading"
+    },
+    {
+      "start": 178.0,
+      "end": 182.0,
+      "text": "Now, I want to write in the main bookmarks"
+    },
+    {
+      "start": 182.0,
+      "end": 185.0,
+      "text": "I will use H2"
+    },
+    {
+      "start": 185.0,
+      "end": 187.0,
+      "text": "I will use H2"
+    },
+    {
+      "start": 187.0,
+      "end": 191.0,
+      "text": "If you have used Microsoft Word, you will know what H1H2 is"
+    },
+    {
+      "start": 191.0,
+      "end": 193.0,
+      "text": "If you don't know, I will tell you"
+    },
+    {
+      "start": 193.0,
+      "end": 195.0,
+      "text": "H1H2 is your main level heading"
+    },
+    {
+      "start": 195.0,
+      "end": 197.0,
+      "text": "And the second level heading"
+    },
+    {
+      "start": 197.0,
+      "end": 199.0,
+      "text": "I will use H2"
+    },
+    {
+      "start": 199.0,
+      "end": 201.0,
+      "text": "I will use main bookmarks"
+    },
+    {
+      "start": 201.0,
+      "end": 203.0,
+      "text": "I will use the second bookmarks"
+    },
+    {
+      "start": 203.0,
+      "end": 207.0,
+      "text": "I will use Alt Shift"
+    },
+    {
+      "start": 207.0,
+      "end": 209.0,
+      "text": "I will use Alt Shift"
+    },
+    {
+      "start": 209.0,
+      "end": 211.0,
+      "text": "I will use the screen cast mode"
+    },
+    {
+      "start": 211.0,
+      "end": 213.0,
+      "text": "I will use Alt Shift"
+    },
+    {
+      "start": 213.0,
+      "end": 215.0,
+      "text": "I will use Alt Shift"
+    },
+    {
+      "start": 215.0,
+      "end": 217.0,
+      "text": "This is the shortcut"
+    },
+    {
+      "start": 217.0,
+      "end": 219.0,
+      "text": "I will use Alt if you press the shortcut"
+    },
+    {
+      "start": 219.0,
+      "end": 221.0,
+      "text": "I will click the result"
+    },
+    {
+      "start": 221.0,
+      "end": 223.0,
+      "text": "I can click for tweeter"
+    },
+    {
+      "start": 225.0,
+      "end": 231.96,
+      "text": "I will click clicked thats"
+    },
+    {
+      "start": 233.0,
+      "end": 235.0,
+      "text": "I will use the database"
+    },
+    {
+      "start": 236.0,
+      "end": 244.48,
+      "text": "I will use this"
+    },
+    {
+      "start": 244.48,
+      "end": 250.86,
+      "text": "I will type whatever I want, it will be multiple concerts, where I will type, it will be seen."
+    },
+    {
+      "start": 250.86,
+      "end": 253.04,
+      "text": "That's it, please like and subscribe to my channel."
+    },
+    {
+      "start": 253.04,
+      "end": 256.94,
+      "text": "I will drop some of these things here and you will see that it will be updated."
+    },
+    {
+      "start": 256.94,
+      "end": 259.26,
+      "text": "This is my main heading, this is my H2."
+    },
+    {
+      "start": 259.26,
+      "end": 262.48,
+      "text": "From H1 to H2, we have H6th heading."
+    },
+    {
+      "start": 262.48,
+      "end": 264.08,
+      "text": "You can say that you have given the main heading."
+    },
+    {
+      "start": 264.08,
+      "end": 266.62,
+      "text": "After the main heading, you have given a second heading."
+    },
+    {
+      "start": 266.62,
+      "end": 269.02,
+      "text": "Then you have to give some heading inside."
+    },
+    {
+      "start": 269.02,
+      "end": 271.52,
+      "text": "And so on, you have to give a lot of sub-adding."
+    },
+    {
+      "start": 271.52,
+      "end": 273.52,
+      "text": "You can give the H6th heading."
+    },
+    {
+      "start": 273.52,
+      "end": 277.52,
+      "text": "H6th is more than enough, in HTML, you have given 6th to the heading."
+    },
+    {
+      "start": 277.52,
+      "end": 279.52,
+      "text": "You will never need H7th, you will never need it."
+    },
+    {
+      "start": 279.52,
+      "end": 281.52,
+      "text": "You will never need it."
+    },
+    {
+      "start": 281.52,
+      "end": 284.02,
+      "text": "And if you study, you can use H6th for repeatedly."
+    },
+    {
+      "start": 284.02,
+      "end": 288.02,
+      "text": "Because it is so small that H6th will be a small one."
+    },
+    {
+      "start": 288.02,
+      "end": 290.02,
+      "text": "So small one, you will not be able to go."
+    },
+    {
+      "start": 290.02,
+      "end": 293.02,
+      "text": "Now I will do Alt Shift down."
+    },
+    {
+      "start": 293.02,
+      "end": 294.52,
+      "text": "I will replicate it."
+    },
+    {
+      "start": 294.52,
+      "end": 296.52,
+      "text": "And I will do Alt, I will do all this."
+    },
+    {
+      "start": 296.52,
+      "end": 300.02,
+      "text": "This is all short cuts, so that you guys have a lot of productivity."
+    },
+    {
+      "start": 300.02,
+      "end": 302.52,
+      "text": "Now I have put two cuts here and here."
+    },
+    {
+      "start": 302.52,
+      "end": 304.52,
+      "text": "I will do the backspace h3."
+    },
+    {
+      "start": 304.52,
+      "end": 306.52,
+      "text": "I will do Alt, I will do it here and here."
+    },
+    {
+      "start": 306.52,
+      "end": 308.52,
+      "text": "I will do it here."
+    },
+    {
+      "start": 308.52,
+      "end": 310.52,
+      "text": "And I will do it here."
+    },
+    {
+      "start": 310.52,
+      "end": 312.52,
+      "text": "I will do it here and h5."
+    },
+    {
+      "start": 312.52,
+      "end": 314.52,
+      "text": "Now I will do it here."
+    },
+    {
+      "start": 314.52,
+      "end": 316.52,
+      "text": "I will do it here and h6."
+    },
+    {
+      "start": 316.52,
+      "end": 318.52,
+      "text": "So h6th is the type of gun."
+    },
+    {
+      "start": 318.52,
+      "end": 320.52,
+      "text": "Now I will write here using h1."
+    },
+    {
+      "start": 320.52,
+      "end": 321.52,
+      "text": "So that you guys know."
+    },
+    {
+      "start": 321.52,
+      "end": 323.52,
+      "text": "I will write using here."
+    },
+    {
+      "start": 323.52,
+      "end": 325.52,
+      "text": "I will do it here and here."
+    },
+    {
+      "start": 325.52,
+      "end": 326.52,
+      "text": "I will write h."
+    },
+    {
+      "start": 326.52,
+      "end": 331.52,
+      "text": "And now I will click my work here and take it to h6."
+    },
+    {
+      "start": 331.52,
+      "end": 333.52,
+      "text": "You can see some of these things."
+    },
+    {
+      "start": 333.52,
+      "end": 335.52,
+      "text": "You will know that I have H1 and H2 and H3."
+    },
+    {
+      "start": 335.52,
+      "end": 339.52,
+      "text": "I have H4 and H5 and H6 and H6."
+    },
+    {
+      "start": 339.52,
+      "end": 341.52,
+      "text": "What is the difference between H6 and H6?"
+    },
+    {
+      "start": 341.52,
+      "end": 343.52,
+      "text": "It will end in a short time."
+    },
+    {
+      "start": 343.52,
+      "end": 345.52,
+      "text": "H6 is more than enough."
+    },
+    {
+      "start": 345.52,
+      "end": 347.52,
+      "text": "I will show you a practical demonstration."
+    },
+    {
+      "start": 347.52,
+      "end": 351.52,
+      "text": "I have given the main heading of my HTML tutorial."
+    },
+    {
+      "start": 351.52,
+      "end": 355.52,
+      "text": "I have given the HTML to the features of HTML."
+    },
+    {
+      "start": 355.52,
+      "end": 357.52,
+      "text": "I have given it H1 and H2."
+    },
+    {
+      "start": 357.52,
+      "end": 359.52,
+      "text": "I have given it H2 and H3."
+    },
+    {
+      "start": 359.52,
+      "end": 361.52,
+      "text": "I have given it H3."
+    },
+    {
+      "start": 361.52,
+      "end": 365.52,
+      "text": "It has a wide variety of types of text and mock-up language."
+    },
+    {
+      "start": 365.52,
+      "end": 367.52,
+      "text": "It is heading 2."
+    },
+    {
+      "start": 367.52,
+      "end": 369.52,
+      "text": "What is the main heading of HTML introduction?"
+    },
+    {
+      "start": 369.52,
+      "end": 371.52,
+      "text": "All these are the settings."
+    },
+    {
+      "start": 371.52,
+      "end": 373.52,
+      "text": "I have given it some exercise."
+    },
+    {
+      "start": 373.52,
+      "end": 375.52,
+      "text": "I have used it in H3."
+    },
+    {
+      "start": 375.52,
+      "end": 377.52,
+      "text": "I have given it H2 and H3."
+    },
+    {
+      "start": 377.52,
+      "end": 379.52,
+      "text": "I have given it H2 and H3 and H5 and H5."
+    },
+    {
+      "start": 379.52,
+      "end": 381.52,
+      "text": "I have given it H2 and H5 and H6."
+    },
+    {
+      "start": 381.52,
+      "end": 383.52,
+      "text": "I hope you have understood."
+    },
+    {
+      "start": 383.52,
+      "end": 385.52,
+      "text": "I have given it a lot of comments."
+    },
+    {
+      "start": 385.52,
+      "end": 387.52,
+      "text": "I have given it a lot of comments."
+    },
+    {
+      "start": 387.52,
+      "end": 389.52,
+      "text": "I will make a beginner course with this course."
+    },
+    {
+      "start": 389.52,
+      "end": 391.52,
+      "text": "When I learn HTML admission,"
+    },
+    {
+      "start": 391.52,
+      "end": 393.52,
+      "text": "It is very easy to solve."
+    },
+    {
+      "start": 393.52,
+      "end": 395.52,
+      "text": "After that I will teach you a lesson."
+    },
+    {
+      "start": 395.52,
+      "end": 397.52,
+      "text": "I will teach you a lesson."
+    },
+    {
+      "start": 397.52,
+      "end": 399.52,
+      "text": "I am Boots manufacturer."
+    },
+    {
+      "start": 399.52,
+      "end": 401.52,
+      "text": "Of course I go to aデcos вый s ."
+    },
+    {
+      "start": 401.52,
+      "end": 404.84,
+      "text": "YEs the rules and Alors"
+    },
+    {
+      "start": 404.84,
+      "end": 411.88,
+      "text": "I am R🖻"
+    },
+    {
+      "start": 411.88,
+      "end": 414.68,
+      "text": "The axel obey ."
+    },
+    {
+      "start": 414.68,
+      "end": 416.52,
+      "text": "You can also fail the errors."
+    },
+    {
+      "start": 416.52,
+      "end": 419.4,
+      "text": "I told you that we will raise a bar like anything this is what I meant."
+    },
+    {
+      "start": 419.4,
+      "end": 423.76,
+      "text": "So when we react, we will do whatever we want to do,"
+    },
+    {
+      "start": 423.76,
+      "end": 426.08,
+      "text": "then I will ask them to comment below,"
+    },
+    {
+      "start": 426.08,
+      "end": 427.6,
+      "text": "and you tell me what level you are."
+    },
+    {
+      "start": 427.6,
+      "end": 429.08,
+      "text": "So don't talk about level,"
+    },
+    {
+      "start": 429.08,
+      "end": 430.8,
+      "text": "it will be a big deal if you are going to get the level."
+    },
+    {
+      "start": 430.8,
+      "end": 432.08,
+      "text": "So this is the heading summary."
+    },
+    {
+      "start": 432.08,
+      "end": 434.28,
+      "text": "The 6 addings that I want to keep like this."
+    },
+    {
+      "start": 434.28,
+      "end": 436.28,
+      "text": "Now if we want to write a paragraph,"
+    },
+    {
+      "start": 436.28,
+      "end": 438.48,
+      "text": "you can use P tag."
+    },
+    {
+      "start": 438.48,
+      "end": 440.64,
+      "text": "P entermaring will be paragraph."
+    },
+    {
+      "start": 440.64,
+      "end": 442.44,
+      "text": "Now I will tell you a short cut trick."
+    },
+    {
+      "start": 442.44,
+      "end": 445.28,
+      "text": "If you want to play a dummy paragraph in the MS code,"
+    },
+    {
+      "start": 445.28,
+      "end": 446.16,
+      "text": "then what will you do?"
+    },
+    {
+      "start": 446.4,
+      "end": 448.4,
+      "text": "You write here,"
+    },
+    {
+      "start": 448.4,
+      "end": 450.2,
+      "text": "I wrote the lawm 23."
+    },
+    {
+      "start": 450.2,
+      "end": 451.92,
+      "text": "And here you see, the M at every version is here,"
+    },
+    {
+      "start": 451.92,
+      "end": 452.92,
+      "text": "this is the lawm 23,"
+    },
+    {
+      "start": 452.92,
+      "end": 454.36,
+      "text": "I will give 23 words."
+    },
+    {
+      "start": 454.36,
+      "end": 455.16,
+      "text": "Something like this."
+    },
+    {
+      "start": 455.16,
+      "end": 457.36,
+      "text": "You can trap the view here and then you can do it."
+    },
+    {
+      "start": 457.36,
+      "end": 459.16,
+      "text": "So you won't get a horizontal straw bar."
+    },
+    {
+      "start": 459.16,
+      "end": 460.52,
+      "text": "So you can trap the view."
+    },
+    {
+      "start": 460.52,
+      "end": 461.32,
+      "text": "Now you see here,"
+    },
+    {
+      "start": 461.32,
+      "end": 463.4,
+      "text": "the lawm fm dollar set is here,"
+    },
+    {
+      "start": 463.4,
+      "end": 464.84,
+      "text": "this is a dummy text."
+    },
+    {
+      "start": 464.84,
+      "end": 466.84,
+      "text": "Why do we want dummy text?"
+    },
+    {
+      "start": 466.84,
+      "end": 468.72,
+      "text": "Because we want to make template."
+    },
+    {
+      "start": 468.72,
+      "end": 471.72,
+      "text": "And we want to fill that template with something."
+    },
+    {
+      "start": 471.72,
+      "end": 473.96,
+      "text": "So you can make a website,"
+    },
+    {
+      "start": 473.96,
+      "end": 476.44,
+      "text": "which looks like the OEO rooms."
+    },
+    {
+      "start": 476.44,
+      "end": 479.52,
+      "text": "Now OEO become a member,"
+    },
+    {
+      "start": 479.52,
+      "end": 480.52,
+      "text": "OEO for business,"
+    },
+    {
+      "start": 480.52,
+      "end": 482.28,
+      "text": "I don't want to write here,"
+    },
+    {
+      "start": 482.28,
+      "end": 483.96,
+      "text": "I wrote a lawm here."
+    },
+    {
+      "start": 483.96,
+      "end": 485.2,
+      "text": "Now I want to write something here."
+    },
+    {
+      "start": 485.2,
+      "end": 486.96,
+      "text": "So I write 7 words here."
+    },
+    {
+      "start": 486.96,
+      "end": 488.64,
+      "text": "I will give the lawm 7 letter to the center."
+    },
+    {
+      "start": 488.64,
+      "end": 490.0,
+      "text": "Then I will give OEO to them,"
+    },
+    {
+      "start": 490.0,
+      "end": 491.2,
+      "text": "they will write it."
+    },
+    {
+      "start": 491.2,
+      "end": 494.56,
+      "text": "So you can use it in filling the placeholder."
+    },
+    {
+      "start": 494.56,
+      "end": 496.8,
+      "text": "My plan is that we will also make popular websites,"
+    },
+    {
+      "start": 496.8,
+      "end": 499.96,
+      "text": "so that you know what to do."
+    },
+    {
+      "start": 499.96,
+      "end": 501.36,
+      "text": "This is also a popular website."
+    },
+    {
+      "start": 501.36,
+      "end": 503.0,
+      "text": "If you are interested in the services,"
+    },
+    {
+      "start": 503.0,
+      "end": 504.88,
+      "text": "then you must write in the comment section."
+    },
+    {
+      "start": 504.88,
+      "end": 507.36,
+      "text": "Now we will see more things,"
+    },
+    {
+      "start": 507.36,
+      "end": 509.36,
+      "text": "like you have a paragraph,"
+    },
+    {
+      "start": 509.36,
+      "end": 511.36,
+      "text": "you have to style it like this."
+    },
+    {
+      "start": 511.36,
+      "end": 514.36,
+      "text": "And all these things are made through CSS."
+    },
+    {
+      "start": 514.36,
+      "end": 515.36,
+      "text": "Now in paragraph,"
+    },
+    {
+      "start": 515.36,
+      "end": 516.36,
+      "text": "you can see here,"
+    },
+    {
+      "start": 516.36,
+      "end": 517.36,
+      "text": "when I wrote the lawm 20,"
+    },
+    {
+      "start": 517.36,
+      "end": 518.36,
+      "text": "I will write this text here."
+    },
+    {
+      "start": 518.36,
+      "end": 519.36,
+      "text": "Now I will enter P,"
+    },
+    {
+      "start": 519.36,
+      "end": 520.36,
+      "text": "if I know,"
+    },
+    {
+      "start": 520.36,
+      "end": 521.36,
+      "text": "I will write the lawm 10,"
+    },
+    {
+      "start": 521.36,
+      "end": 522.36,
+      "text": "then I will write 10 words."
+    },
+    {
+      "start": 522.36,
+      "end": 523.36,
+      "text": "Okay."
+    },
+    {
+      "start": 523.36,
+      "end": 524.36,
+      "text": "And if I write the lawm 100,"
+    },
+    {
+      "start": 524.36,
+      "end": 525.36,
+      "text": "I will write it very much,"
+    },
+    {
+      "start": 525.36,
+      "end": 526.36,
+      "text": "I will fill my page."
+    },
+    {
+      "start": 526.36,
+      "end": 528.36,
+      "text": "So I can do that too."
+    },
+    {
+      "start": 528.36,
+      "end": 530.36,
+      "text": "This lawm value tray is very big."
+    },
+    {
+      "start": 530.36,
+      "end": 531.36,
+      "text": "You will enjoy it."
+    },
+    {
+      "start": 531.36,
+      "end": 533.36,
+      "text": "And whenever we will make popular websites,"
+    },
+    {
+      "start": 533.36,
+      "end": 535.36,
+      "text": "I will make Amazon.in."
+    },
+    {
+      "start": 535.36,
+      "end": 536.36,
+      "text": "Okay."
+    },
+    {
+      "start": 536.36,
+      "end": 537.36,
+      "text": "I will make Amazon.in."
+    },
+    {
+      "start": 537.36,
+      "end": 539.36,
+      "text": "So I have to write something here."
+    },
+    {
+      "start": 539.36,
+      "end": 540.36,
+      "text": "Okay."
+    },
+    {
+      "start": 540.36,
+      "end": 542.36,
+      "text": "Now I will write 3 words here."
+    },
+    {
+      "start": 542.36,
+      "end": 544.36,
+      "text": "So I will write the lawm 3."
+    },
+    {
+      "start": 544.36,
+      "end": 545.36,
+      "text": "I will not think about the makeup products."
+    },
+    {
+      "start": 545.36,
+      "end": 547.36,
+      "text": "I will write the lawm 4."
+    },
+    {
+      "start": 547.36,
+      "end": 548.36,
+      "text": "I will write the lawm 3."
+    },
+    {
+      "start": 548.36,
+      "end": 549.36,
+      "text": "I will write the lawm 2."
+    },
+    {
+      "start": 549.36,
+      "end": 550.36,
+      "text": "And I will make it ready."
+    },
+    {
+      "start": 550.36,
+      "end": 552.36,
+      "text": "And then everything will be in my database."
+    },
+    {
+      "start": 552.36,
+      "end": 555.36,
+      "text": "And I can bring it from different ways."
+    },
+    {
+      "start": 555.36,
+      "end": 557.36,
+      "text": "I can bring it from my index time."
+    },
+    {
+      "start": 557.36,
+      "end": 558.36,
+      "text": "Many people asked"
+    },
+    {
+      "start": 558.36,
+      "end": 559.36,
+      "text": "What is this course?"
+    },
+    {
+      "start": 559.36,
+      "end": 560.36,
+      "text": "It will be a job ready."
+    },
+    {
+      "start": 560.36,
+      "end": 561.36,
+      "text": "The answer is yes."
+    },
+    {
+      "start": 561.36,
+      "end": 562.36,
+      "text": "This course is going to be a job ready."
+    },
+    {
+      "start": 562.36,
+      "end": 563.36,
+      "text": "Absolutely."
+    },
+    {
+      "start": 563.36,
+      "end": 564.36,
+      "text": "I will make it like this."
+    },
+    {
+      "start": 564.36,
+      "end": 566.36,
+      "text": "You will see that you will get the job in the actual industry level."
+    },
+    {
+      "start": 566.36,
+      "end": 568.36,
+      "text": "You will get the job in the learning of this course."
+    },
+    {
+      "start": 568.36,
+      "end": 570.36,
+      "text": "Now let's talk about what are the attributes in HTML."
+    },
+    {
+      "start": 570.36,
+      "end": 572.36,
+      "text": "These attributes are in HTML."
+    },
+    {
+      "start": 572.36,
+      "end": 574.36,
+      "text": "As I used HTML tag."
+    },
+    {
+      "start": 574.36,
+      "end": 576.36,
+      "text": "The language is equal to the attribute in the language."
+    },
+    {
+      "start": 576.36,
+      "end": 578.36,
+      "text": "In the body, we did not use any attribute."
+    },
+    {
+      "start": 578.36,
+      "end": 580.36,
+      "text": "In H1, we did not use any attribute."
+    },
+    {
+      "start": 580.36,
+      "end": 582.36,
+      "text": "In P, we did not use any attribute."
+    },
+    {
+      "start": 582.36,
+      "end": 584.36,
+      "text": "But I can use a P-MAKE style attribute."
+    },
+    {
+      "start": 584.36,
+      "end": 587.36,
+      "text": "The one that tells the online CSS is"
+    },
+    {
+      "start": 587.36,
+      "end": 589.36,
+      "text": "I will red it with the background color."
+    },
+    {
+      "start": 589.36,
+      "end": 591.36,
+      "text": "It is something like this."
+    },
+    {
+      "start": 591.36,
+      "end": 593.36,
+      "text": "The background color is red."
+    },
+    {
+      "start": 593.36,
+      "end": 595.36,
+      "text": "It also says the online CSS."
+    },
+    {
+      "start": 595.36,
+      "end": 597.36,
+      "text": "So if you add CSS to the style attribute."
+    },
+    {
+      "start": 597.36,
+      "end": 599.36,
+      "text": "First, we will add CSS here."
+    },
+    {
+      "start": 599.36,
+      "end": 601.36,
+      "text": "But if you add the style to the attribute."
+    },
+    {
+      "start": 601.36,
+      "end": 604.36,
+      "text": "Then you will get the background red here."
+    },
+    {
+      "start": 604.36,
+      "end": 605.36,
+      "text": "I will show you."
+    },
+    {
+      "start": 605.36,
+      "end": 606.36,
+      "text": "You have red red red background."
+    },
+    {
+      "start": 606.36,
+      "end": 608.36,
+      "text": "I will tell you that I will do this."
+    },
+    {
+      "start": 608.36,
+      "end": 609.36,
+      "text": "I will do this."
+    },
+    {
+      "start": 609.36,
+      "end": 611.36,
+      "text": "This color is already looking good."
+    },
+    {
+      "start": 611.36,
+      "end": 613.36,
+      "text": "So I can also add the style in line."
+    },
+    {
+      "start": 613.36,
+      "end": 615.36,
+      "text": "But when you create the website of the industry."
+    },
+    {
+      "start": 615.36,
+      "end": 616.36,
+      "text": "We use the online styles."
+    },
+    {
+      "start": 616.36,
+      "end": 617.36,
+      "text": "We do not use them very much."
+    },
+    {
+      "start": 617.36,
+      "end": 618.36,
+      "text": "Because the maintainability becomes less."
+    },
+    {
+      "start": 618.36,
+      "end": 620.36,
+      "text": "Reusability becomes less."
+    },
+    {
+      "start": 620.36,
+      "end": 623.36,
+      "text": "So we want to shift the bundle from a small browser."
+    },
+    {
+      "start": 623.36,
+      "end": 626.36,
+      "text": "And the website is more optimized."
+    },
+    {
+      "start": 626.36,
+      "end": 627.36,
+      "text": "So we avoid all these things."
+    },
+    {
+      "start": 627.36,
+      "end": 629.36,
+      "text": "But in the online CSS, the style is a tag."
+    },
+    {
+      "start": 629.36,
+      "end": 632.36,
+      "text": "But here, the style is a attribute."
+    },
+    {
+      "start": 632.36,
+      "end": 633.36,
+      "text": "It is a tag."
+    },
+    {
+      "start": 633.36,
+      "end": 634.36,
+      "text": "It is a P-Tag type attribute."
+    },
+    {
+      "start": 634.36,
+      "end": 637.36,
+      "text": "The style that we can style through this element."
+    },
+    {
+      "start": 637.36,
+      "end": 639.36,
+      "text": "We will read about the attributes."
+    },
+    {
+      "start": 639.36,
+      "end": 643.36,
+      "text": "We will give an enhanced functionality to the attribute."
+    },
+    {
+      "start": 643.36,
+      "end": 646.36,
+      "text": "This is the paragraph we gave to a style."
+    },
+    {
+      "start": 646.36,
+      "end": 648.36,
+      "text": "The background color was the same."
+    },
+    {
+      "start": 648.36,
+      "end": 652.36,
+      "text": "We used this background color to attribute the style."
+    },
+    {
+      "start": 652.36,
+      "end": 654.36,
+      "text": "Similarly, to give properties,"
+    },
+    {
+      "start": 654.36,
+      "end": 659.36,
+      "text": "we used this type of attribute to give a tag."
+    },
+    {
+      "start": 659.36,
+      "end": 661.36,
+      "text": "As if we talked about the link."
+    },
+    {
+      "start": 661.36,
+      "end": 663.36,
+      "text": "We talked about the link of the link."
+    },
+    {
+      "start": 663.36,
+      "end": 665.36,
+      "text": "The link is a relic attribute."
+    },
+    {
+      "start": 665.36,
+      "end": 666.36,
+      "text": "It is an HRF attribute."
+    },
+    {
+      "start": 666.36,
+      "end": 668.36,
+      "text": "So what can we do with this attribute?"
+    },
+    {
+      "start": 668.36,
+      "end": 675.36,
+      "text": "We can use CSS style sheet to add background color to the background."
+    },
+    {
+      "start": 675.36,
+      "end": 679.36,
+      "text": "We have to add background color to the background."
+    },
+    {
+      "start": 679.36,
+      "end": 681.36,
+      "text": "And don't take too much tension."
+    },
+    {
+      "start": 681.36,
+      "end": 684.36,
+      "text": "We will tell you about the content."
+    },
+    {
+      "start": 684.36,
+      "end": 687.36,
+      "text": "But I will tell you that I am using hot pink."
+    },
+    {
+      "start": 687.36,
+      "end": 690.36,
+      "text": "Let's listen to the VSCode functionality."
+    },
+    {
+      "start": 690.36,
+      "end": 691.36,
+      "text": "This is an Inja tag."
+    },
+    {
+      "start": 691.36,
+      "end": 692.36,
+      "text": "It is very low."
+    },
+    {
+      "start": 692.36,
+      "end": 693.36,
+      "text": "Over-Grow mouse."
+    },
+    {
+      "start": 693.36,
+      "end": 696.36,
+      "text": "You can choose the color of the object."
+    },
+    {
+      "start": 696.36,
+      "end": 698.36,
+      "text": "You can choose the color of the object."
+    },
+    {
+      "start": 698.36,
+      "end": 700.36,
+      "text": "I will leave it like this."
+    },
+    {
+      "start": 700.36,
+      "end": 703.36,
+      "text": "You can see the background color of the body."
+    },
+    {
+      "start": 703.36,
+      "end": 706.36,
+      "text": "We can write the name in the comment section."
+    },
+    {
+      "start": 706.36,
+      "end": 710.36,
+      "text": "Now we have come back to the index.html."
+    },
+    {
+      "start": 710.36,
+      "end": 712.36,
+      "text": "I can open it."
+    },
+    {
+      "start": 712.36,
+      "end": 714.36,
+      "text": "I will comment on this style sheet."
+    },
+    {
+      "start": 714.36,
+      "end": 718.36,
+      "text": "The background color was removed from the style sheet."
+    },
+    {
+      "start": 718.36,
+      "end": 720.36,
+      "text": "This background color was removed from the line CSS."
+    },
+    {
+      "start": 720.36,
+      "end": 722.36,
+      "text": "This is very natural."
+    },
+    {
+      "start": 722.36,
+      "end": 726.36,
+      "text": "I have made this style sheet with background color."
+    },
+    {
+      "start": 726.36,
+      "end": 728.36,
+      "text": "I have made this style sheet with background color."
+    },
+    {
+      "start": 728.36,
+      "end": 732.36,
+      "text": "Now we are going to make a bookmark manager."
+    },
+    {
+      "start": 732.36,
+      "end": 734.36,
+      "text": "BookmarkManager.html."
+    },
+    {
+      "start": 734.36,
+      "end": 736.36,
+      "text": "I am making a different file."
+    },
+    {
+      "start": 736.36,
+      "end": 739.36,
+      "text": "I have told you about the different settings."
+    },
+    {
+      "start": 739.36,
+      "end": 742.36,
+      "text": "I am going to make a useful bookmark manager."
+    },
+    {
+      "start": 742.36,
+      "end": 743.36,
+      "text": "I will show you."
+    },
+    {
+      "start": 743.36,
+      "end": 746.36,
+      "text": "BookmarkManager."
+    },
+    {
+      "start": 746.36,
+      "end": 749.36,
+      "text": "Now you guys know why this bookmark manager is making this in Chrome."
+    },
+    {
+      "start": 749.36,
+      "end": 751.36,
+      "text": "This is our hand."
+    },
+    {
+      "start": 751.36,
+      "end": 755.36,
+      "text": "We made this picture near the destination of Chrome with Burmese Ventress."
+    },
+    {
+      "start": 755.36,
+      "end": 757.36,
+      "text": "Brother, this clean hätteco fan has made."
+    },
+    {
+      "start": 757.36,
+      "end": 778.12,
+      "text": "You can see theBlue"
+    },
+    {
+      "start": 778.12,
+      "end": 779.44,
+      "text": "Hemant curl."
+    },
+    {
+      "start": 779.44,
+      "end": 783.44,
+      "text": "In fact, I will show you all the shift buttons here"
+    },
+    {
+      "start": 783.44,
+      "end": 785.44,
+      "text": "Secondary bookmarks"
+    },
+    {
+      "start": 785.44,
+      "end": 787.44,
+      "text": "What will happen? I can write in the second bookmarks here"
+    },
+    {
+      "start": 787.44,
+      "end": 789.44,
+      "text": "Now I will write in paragraph 1"
+    },
+    {
+      "start": 789.44,
+      "end": 791.44,
+      "text": "Google"
+    },
+    {
+      "start": 791.44,
+      "end": 793.44,
+      "text": "I will write like this"
+    },
+    {
+      "start": 793.44,
+      "end": 795.44,
+      "text": "I will write it like this"
+    },
+    {
+      "start": 795.44,
+      "end": 797.44,
+      "text": "But in the next video, I will tell you how to use this list"
+    },
+    {
+      "start": 797.44,
+      "end": 801.44,
+      "text": "Google, I will write this in google"
+    },
+    {
+      "start": 801.44,
+      "end": 803.44,
+      "text": "Open google"
+    },
+    {
+      "start": 803.44,
+      "end": 807.44,
+      "text": "And I will use anchor to use this"
+    },
+    {
+      "start": 807.44,
+      "end": 809.44,
+      "text": "I will enter in the same way"
+    },
+    {
+      "start": 809.44,
+      "end": 811.44,
+      "text": "It is an mandatory attribute"
+    },
+    {
+      "start": 811.44,
+      "end": 813.44,
+      "text": "I will write it in the link"
+    },
+    {
+      "start": 813.44,
+      "end": 815.44,
+      "text": "I will write it in hrefisicald.com"
+    },
+    {
+      "start": 815.44,
+      "end": 817.44,
+      "text": "STTPS colon double slash www.google.com"
+    },
+    {
+      "start": 817.44,
+      "end": 819.44,
+      "text": "I will write it in this address"
+    },
+    {
+      "start": 819.44,
+      "end": 821.44,
+      "text": "When I will click on open google"
+    },
+    {
+      "start": 821.44,
+      "end": 823.44,
+      "text": "I will cut this open google"
+    },
+    {
+      "start": 823.44,
+      "end": 825.44,
+      "text": "And put it here"
+    },
+    {
+      "start": 825.44,
+      "end": 827.44,
+      "text": "Because the content stack will be like this"
+    },
+    {
+      "start": 827.44,
+      "end": 829.44,
+      "text": "And you can see here"
+    },
+    {
+      "start": 829.44,
+      "end": 831.44,
+      "text": "This is hrefisicald.google"
+    },
+    {
+      "start": 831.44,
+      "end": 833.44,
+      "text": "We will make links in anchor tag"
+    },
+    {
+      "start": 833.44,
+      "end": 835.44,
+      "text": "You will see many links in this way"
+    },
+    {
+      "start": 835.44,
+      "end": 837.44,
+      "text": "You can see here"
+    },
+    {
+      "start": 837.44,
+      "end": 839.44,
+      "text": "As I am"
+    },
+    {
+      "start": 839.44,
+      "end": 841.44,
+      "text": "I will go to bookmarkmanager.html"
+    },
+    {
+      "start": 841.44,
+      "end": 843.44,
+      "text": "You can see here"
+    },
+    {
+      "start": 843.44,
+      "end": 845.44,
+      "text": "You can see all the books"
+    },
+    {
+      "start": 845.44,
+      "end": 847.44,
+      "text": "I will click on google"
+    },
+    {
+      "start": 847.44,
+      "end": 849.44,
+      "text": "You can see"
+    },
+    {
+      "start": 849.44,
+      "end": 851.44,
+      "text": "When I clicked on it, it was blue"
+    },
+    {
+      "start": 851.44,
+      "end": 853.44,
+      "text": "I have visited it"
+    },
+    {
+      "start": 853.44,
+      "end": 855.44,
+      "text": "So it changed"
+    },
+    {
+      "start": 855.44,
+      "end": 857.44,
+      "text": "When you visit it, it is a visited link"
+    },
+    {
+      "start": 857.44,
+      "end": 859.44,
+      "text": "I know that I have visited it"
+    },
+    {
+      "start": 859.44,
+      "end": 861.44,
+      "text": "I will tell you one more"
+    },
+    {
+      "start": 861.44,
+      "end": 865.44,
+      "text": "If you want to open this new tab"
+    },
+    {
+      "start": 865.44,
+      "end": 867.44,
+      "text": "I am clicking it on it"
+    },
+    {
+      "start": 867.44,
+      "end": 869.44,
+      "text": "If you want to open it"
+    },
+    {
+      "start": 869.44,
+      "end": 871.44,
+      "text": "You can choose the mouse"
+    },
+    {
+      "start": 871.44,
+      "end": 873.44,
+      "text": "This mouse can be clicked"
+    },
+    {
+      "start": 873.44,
+      "end": 875.44,
+      "text": "I will tell you"
+    },
+    {
+      "start": 875.44,
+      "end": 877.44,
+      "text": "If you want to use a click"
+    },
+    {
+      "start": 877.44,
+      "end": 879.44,
+      "text": "You can use it"
+    },
+    {
+      "start": 879.44,
+      "end": 881.44,
+      "text": "You can use it"
+    },
+    {
+      "start": 881.44,
+      "end": 883.44,
+      "text": "You can write"
+    },
+    {
+      "start": 883.44,
+      "end": 887.44,
+      "text": "Target is equal to underscore blank"
+    },
+    {
+      "start": 887.44,
+      "end": 889.44,
+      "text": "I have written two enter marks"
+    },
+    {
+      "start": 889.44,
+      "end": 891.44,
+      "text": "I have written two notes"
+    },
+    {
+      "start": 891.44,
+      "end": 893.44,
+      "text": "I have written a notes note"
+    },
+    {
+      "start": 893.44,
+      "end": 895.44,
+      "text": "What was the quality of this?"
+    },
+    {
+      "start": 895.44,
+      "end": 897.44,
+      "text": "Free is equal to VSC"
+    },
+    {
+      "start": 897.44,
+      "end": 899.44,
+      "text": "But if you use the quality of this"
+    },
+    {
+      "start": 899.44,
+      "end": 901.44,
+      "text": "Target is equal to underscore"
+    },
+    {
+      "start": 901.44,
+      "end": 903.44,
+      "text": "You have to type the blank"
+    },
+    {
+      "start": 903.44,
+      "end": 905.44,
+      "text": "You can write it on it"
+    },
+    {
+      "start": 905.44,
+      "end": 907.44,
+      "text": "I will click on mouse"
+    },
+    {
+      "start": 907.44,
+      "end": 909.44,
+      "text": "I am clicking it"
+    },
+    {
+      "start": 909.44,
+      "end": 911.44,
+      "text": "I will click on mouse"
+    },
+    {
+      "start": 911.44,
+      "end": 913.44,
+      "text": "I will open it"
+    },
+    {
+      "start": 913.44,
+      "end": 915.44,
+      "text": "I can open it"
+    },
+    {
+      "start": 915.44,
+      "end": 917.44,
+      "text": "I have written an open google"
+    },
+    {
+      "start": 917.44,
+      "end": 919.44,
+      "text": "You can use it as a website"
+    },
+    {
+      "start": 919.44,
+      "end": 921.44,
+      "text": "You can use it as a website"
+    },
+    {
+      "start": 921.44,
+      "end": 923.44,
+      "text": "You can use it as a website"
+    },
+    {
+      "start": 923.44,
+      "end": 925.44,
+      "text": "Okay"
+    },
+    {
+      "start": 925.44,
+      "end": 927.44,
+      "text": "I will open the website"
+    },
+    {
+      "start": 927.44,
+      "end": 929.44,
+      "text": "You can see it on facebook"
+    },
+    {
+      "start": 929.44,
+      "end": 931.44,
+      "text": "I will write it on facebook"
+    },
+    {
+      "start": 931.44,
+      "end": 933.44,
+      "text": "I will write it on facebook"
+    },
+    {
+      "start": 933.44,
+      "end": 935.44,
+      "text": "I will write it on facebook"
+    },
+    {
+      "start": 935.44,
+      "end": 937.44,
+      "text": "Let us start from here"
+    },
+    {
+      "start": 937.44,
+      "end": 941.44,
+      "text": "YouTube.com"
+    },
+    {
+      "start": 941.44,
+      "end": 943.44,
+      "text": "Let us see"
+    },
+    {
+      "start": 943.44,
+      "end": 945.44,
+      "text": "I am coming in one line"
+    },
+    {
+      "start": 945.44,
+      "end": 947.44,
+      "text": "If you want"
+    },
+    {
+      "start": 947.44,
+      "end": 949.44,
+      "text": "You can use it as a website"
+    },
+    {
+      "start": 949.44,
+      "end": 951.44,
+      "text": "You can use it as a website"
+    },
+    {
+      "start": 951.44,
+      "end": 953.44,
+      "text": "I am telling you"
+    },
+    {
+      "start": 953.44,
+      "end": 955.44,
+      "text": "I will tell you"
+    },
+    {
+      "start": 955.44,
+      "end": 957.44,
+      "text": "I will close this paragraph"
+    },
+    {
+      "start": 957.44,
+      "end": 959.44,
+      "text": "If you want"
+    },
+    {
+      "start": 959.44,
+      "end": 961.44,
+      "text": "I will shift the right arrow"
+    },
+    {
+      "start": 961.44,
+      "end": 963.44,
+      "text": "I will X"
+    },
+    {
+      "start": 963.44,
+      "end": 965.44,
+      "text": "I will end"
+    },
+    {
+      "start": 965.44,
+      "end": 967.44,
+      "text": "I will go in all the cutters"
+    },
+    {
+      "start": 967.44,
+      "end": 969.44,
+      "text": "I will go in the end"
+    },
+    {
+      "start": 969.44,
+      "end": 971.44,
+      "text": "I will control this"
+    },
+    {
+      "start": 971.44,
+      "end": 973.44,
+      "text": "I will use it as a tool"
+    },
+    {
+      "start": 973.44,
+      "end": 975.44,
+      "text": "You will get a lot of people"
+    },
+    {
+      "start": 975.44,
+      "end": 977.44,
+      "text": "If you are not sure"
+    },
+    {
+      "start": 977.44,
+      "end": 979.44,
+      "text": "I have used a VSCode functionality"
+    },
+    {
+      "start": 979.44,
+      "end": 981.44,
+      "text": "I have used multiple cutters"
+    },
+    {
+      "start": 981.44,
+      "end": 983.44,
+      "text": "I have used multiple cutters"
+    },
+    {
+      "start": 983.44,
+      "end": 985.44,
+      "text": "I have used it as a tool"
+    },
+    {
+      "start": 985.44,
+      "end": 987.44,
+      "text": "This is not a good idea"
+    },
+    {
+      "start": 987.44,
+      "end": 989.44,
+      "text": "We can not use the paragraph"
+    },
+    {
+      "start": 989.44,
+      "end": 991.44,
+      "text": "But we will not use the paragraph"
+    },
+    {
+      "start": 991.44,
+      "end": 993.44,
+      "text": "We will use it"
+    },
+    {
+      "start": 993.44,
+      "end": 995.44,
+      "text": "This is our work"
+    },
+    {
+      "start": 995.44,
+      "end": 997.44,
+      "text": "We have not done a visit"
+    },
+    {
+      "start": 997.44,
+      "end": 999.44,
+      "text": "We have done a visit on facebook"
+    },
+    {
+      "start": 999.44,
+      "end": 1001.44,
+      "text": "We have done a visit on this color"
+    },
+    {
+      "start": 1001.44,
+      "end": 1003.44,
+      "text": "Now we will talk about the primary bookmarks"
+    },
+    {
+      "start": 1003.44,
+      "end": 1005.44,
+      "text": "Which of your second bookmarks are you?"
+    },
+    {
+      "start": 1005.44,
+      "end": 1007.44,
+      "text": "We are two second bookmarks"
+    },
+    {
+      "start": 1007.44,
+      "end": 1009.44,
+      "text": "Second bookmarks are the same"
+    },
+    {
+      "start": 1009.44,
+      "end": 1011.44,
+      "text": "Follow VKPD.com"
+    },
+    {
+      "start": 1011.44,
+      "end": 1013.44,
+      "text": "We have come to VKPD.com"
+    },
+    {
+      "start": 1013.44,
+      "end": 1015.44,
+      "text": "And we will talk about the stack overflow"
+    },
+    {
+      "start": 1015.44,
+      "end": 1019.44,
+      "text": "We will talk about the stack overflow"
+    },
+    {
+      "start": 1019.44,
+      "end": 1021.44,
+      "text": "We will talk about the stack overflow"
+    },
+    {
+      "start": 1021.44,
+      "end": 1023.44,
+      "text": "You will see the second bookmarks"
+    },
+    {
+      "start": 1023.44,
+      "end": 1025.44,
+      "text": "Your VKPD and stack overflow"
+    },
+    {
+      "start": 1025.44,
+      "end": 1027.44,
+      "text": "This is the bookmark manager"
+    },
+    {
+      "start": 1027.44,
+      "end": 1029.44,
+      "text": "We will talk about the stack overflow"
+    },
+    {
+      "start": 1029.44,
+      "end": 1031.44,
+      "text": "If you are learning the following"
+    },
+    {
+      "start": 1031.44,
+      "end": 1033.44,
+      "text": "Don't worry"
+    },
+    {
+      "start": 1033.44,
+      "end": 1035.44,
+      "text": "It is a very important thing"
+    },
+    {
+      "start": 1035.44,
+      "end": 1037.44,
+      "text": "Don't worry"
+    },
+    {
+      "start": 1037.44,
+      "end": 1039.44,
+      "text": "We will talk about the time"
+    },
+    {
+      "start": 1039.44,
+      "end": 1041.44,
+      "text": "We will talk about the time"
+    },
+    {
+      "start": 1041.44,
+      "end": 1043.44,
+      "text": "You will see the bookmark"
+    },
+    {
+      "start": 1043.44,
+      "end": 1045.44,
+      "text": "You will see the title of the bookmark manager"
+    },
+    {
+      "start": 1045.44,
+      "end": 1047.44,
+      "text": "I will also write it in H1"
+    },
+    {
+      "start": 1047.44,
+      "end": 1049.44,
+      "text": "We will also write the title of the bookmark"
+    },
+    {
+      "start": 1049.44,
+      "end": 1051.44,
+      "text": "This is the same"
+    },
+    {
+      "start": 1051.44,
+      "end": 1053.44,
+      "text": "You can also write the bookmark manager"
+    },
+    {
+      "start": 1053.44,
+      "end": 1055.44,
+      "text": "You can use it in actual use"
+    },
+    {
+      "start": 1055.44,
+      "end": 1059.44,
+      "text": "If you are saving something"
+    },
+    {
+      "start": 1059.44,
+      "end": 1061.44,
+      "text": "I have got a bookmark manager"
+    },
+    {
+      "start": 1061.44,
+      "end": 1063.44,
+      "text": "You can also put it on your desktop"
+    },
+    {
+      "start": 1063.44,
+      "end": 1065.44,
+      "text": "Whenever you open any website"
+    },
+    {
+      "start": 1065.44,
+      "end": 1067.44,
+      "text": "You will just double click"
+    },
+    {
+      "start": 1067.44,
+      "end": 1069.44,
+      "text": "If you double click"
+    },
+    {
+      "start": 1069.44,
+      "end": 1071.44,
+      "text": "If you want to open it"
+    },
+    {
+      "start": 1071.44,
+      "end": 1073.44,
+      "text": "You have to open it"
+    },
+    {
+      "start": 1073.44,
+      "end": 1075.44,
+      "text": "You have to tap choose"
+    },
+    {
+      "start": 1075.44,
+      "end": 1077.44,
+      "text": "And then you will have to choose a google chrome"
+    },
+    {
+      "start": 1077.44,
+      "end": 1079.44,
+      "text": "And then you have to choose a google chrome"
+    },
+    {
+      "start": 1079.44,
+      "end": 1081.44,
+      "text": "And then you will have to choose a google chrome"
+    },
+    {
+      "start": 1081.44,
+      "end": 1083.44,
+      "text": "You will have to choose a google chrome"
+    },
+    {
+      "start": 1083.44,
+      "end": 1087.44,
+      "text": "So this is our bookmark. I hope you liked it."
+    },
+    {
+      "start": 1087.44,
+      "end": 1094.44,
+      "text": "I request you to complete 4 videos today. If you like any of the codes, share it with your friends."
+    },
+    {
+      "start": 1094.44,
+      "end": 1098.44,
+      "text": "I know you will share them, but if you will, don't give me strength."
+    },
+    {
+      "start": 1098.44,
+      "end": 1101.44,
+      "text": "I will try to get more codes."
+    },
+    {
+      "start": 1101.44,
+      "end": 1105.44,
+      "text": "Many people are saying that how are you going to make a code free?"
+    },
+    {
+      "start": 1105.44,
+      "end": 1108.44,
+      "text": "I will find the ways to make more money."
+    },
+    {
+      "start": 1108.44,
+      "end": 1112.44,
+      "text": "I am going to mark this code with my biggest code."
+    },
+    {
+      "start": 1112.44,
+      "end": 1114.44,
+      "text": "I will add everything with my web development."
+    },
+    {
+      "start": 1114.44,
+      "end": 1116.44,
+      "text": "I will add everything with my web development."
+    },
+    {
+      "start": 1116.44,
+      "end": 1118.44,
+      "text": "I will learn more from you."
+    },
+    {
+      "start": 1118.44,
+      "end": 1120.44,
+      "text": "I have been very late to get a lot of new codes."
+    },
+    {
+      "start": 1120.44,
+      "end": 1122.44,
+      "text": "I had told all the companies to launch this code."
+    },
+    {
+      "start": 1122.44,
+      "end": 1125.44,
+      "text": "I will not be able to get a lot of new codes."
+    },
+    {
+      "start": 1125.44,
+      "end": 1128.44,
+      "text": "I told them to launch this code."
+    },
+    {
+      "start": 1128.44,
+      "end": 1130.44,
+      "text": "You will regret your decision."
+    },
+    {
+      "start": 1130.44,
+      "end": 1132.44,
+      "text": "Hopefully I will not regret my decision."
+    },
+    {
+      "start": 1132.44,
+      "end": 1134.44,
+      "text": "I will make a free code."
+    },
+    {
+      "start": 1134.44,
+      "end": 1136.44,
+      "text": "I will learn more ways to make money."
+    },
+    {
+      "start": 1136.44,
+      "end": 1138.44,
+      "text": "I will learn more from you."
+    },
+    {
+      "start": 1138.44,
+      "end": 1140.44,
+      "text": "How can you earn more money?"
+    },
+    {
+      "start": 1140.44,
+      "end": 1144.44,
+      "text": "With that said, I will add the code in the description."
+    },
+    {
+      "start": 1144.44,
+      "end": 1146.44,
+      "text": "You can take it from your repository."
+    },
+    {
+      "start": 1146.44,
+      "end": 1150.44,
+      "text": "Thank you so much for watching this video."
+    },
+    {
+      "start": 1150.44,
+      "end": 1152.44,
+      "text": "I will see you next time."
+    },
+    {
+      "start": 1166.44,
+      "end": 1168.44,
+      "text": "Bye."
+    }
+  ]
+}
